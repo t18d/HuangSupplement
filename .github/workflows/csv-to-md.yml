@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - '*.csv'
-      - 'csv-to-md.yml'
+      - '.github/workflows/csv-to-md.yml'
 jobs:
   Run-CSV-To-MD_PY:
     runs-on: ubuntu-latest
