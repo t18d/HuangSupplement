@@ -31,17 +31,6 @@ last_modified_at: 2024-08-19T04:59:03+00:00
 <br>
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
-L|e|m|m|a
----|---|---|---|---
-S|e|n|s|e
-W|o|r|d| |C|l|a|s|s
-Y|e|a|r
-Q|u|o|t|a|t|i|o|n
-S|o|u|r|c|e
-R|e|m|.
-1
-v|e|r|b
-1|8|5|1
-琥|珀|用|燥|羊|毛|摩|擦|一|辺|、|此|摩|擦|処|便|能|拾|芥|、|就|是|電|気|発|出|、|似|磁|石|噏|鉄|一|般|。
-D|a|n|i|e|l| |J|e|r|o|m|e| |M|a|c|g|o|w|a|n|（|瑪|高|温|）|訳|『|博|物|通|書|』|第|一|章
-
+Lemma|Sense|Word Class|Year|Quotation|Source|Rem.
+---|---|---|---|---|---|---
+摩擦|1|verb|1851|琥珀用燥羊毛摩擦一辺、此摩擦処便能拾芥、就是電気発出、似磁石噏鉄一般。|Daniel Jerome Macgowan（瑪高温）訳『博物通書』第一章|
