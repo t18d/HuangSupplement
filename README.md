@@ -13,7 +13,7 @@ last_modified_at: 2024-08-19T07:07:28+00:00
 <br>
 <br>
 <br>
-<p>This database is searchable as a <a href="https://github.com/t18d/HuangSupplement/blob/main/supplement.csv">CSV file</a>. The quickest way to get an addition or correction merged is to fork the repo, edit the CSV file and send in a pull request. The assignment to word classes follows the scheme of Huang and Shi (2016).</p>
+<p>This database is searchable as a <a href="https://github.com/t18d/HuangSupplement/blob/main/supplement.csv">CSV file</a>. The quickest way to get an addition or correction merged is to fork the repo, edit the CSV file and send in a pull request. Assignment to word classes follows the scheme of Huang and Shi (2016).</p>
 &nbsp;  
 <details>
     <summary>Bibliography</summary>
