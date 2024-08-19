@@ -9,7 +9,7 @@ on:
       - '**.md'
       - '.github/workflows/jekyll-gh-pages.yml'
   workflow_run:
-    workflows: [csv-to-md]
+    workflows: ["csv-to-md"]
     types: [completed]
 
   # Allows you to run this workflow manually from the Actions tab
