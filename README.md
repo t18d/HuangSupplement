@@ -29,6 +29,7 @@ last_modified_at: 2024-08-19T04:59:03+00:00
 </details>
 
 <br>
+<br>
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
 Lemma|Sense|Word Class|Year|Quotation|Source|Rem.
