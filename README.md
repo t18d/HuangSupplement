@@ -22,7 +22,7 @@ last_modified_at: 2024-08-19T04:56:29+00:00
         <li>Huang, Chu-Ren, and Dingxu Shi (eds), <em>A Reference Grammar of Chinese</em>  (Cambridge, 2016).</li>
     </ul>
     <h3>Sources</h3>
-    <p class="text-gray">* A copy of each source is archived in the <a href="https://github.com/t18d/HuangSupplement/tree/main/assets">repo</a>.</p>
+    <p class="text-gray">(A copy of each source is archived in the <a href="https://github.com/t18d/HuangSupplement/tree/main/assets">repo</a>.)</p>
     <ul>
         <li>崔蕭寒, '「摩擦」の語史： 日中両語の相互影響', master's thesis, Osaka University, 2021.</li>
     </ul>
