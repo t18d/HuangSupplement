@@ -1,0 +1,17 @@
+title: Open Source by Tonkünstler-on-the-Bund
+author:
+  type: Organization
+  name: TKB
+  url: https://www.tonkunstler-on-the-bund.com
+locale: en_GB
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+incremental: true
+exclude: [supplement.csv, csv-to-md.py, csv_tools.py, LICENSE]
+defaults:
+  -
+    scope:
+      path:            "assets/*.pdf"
+    values:
+      sitemap:         false
