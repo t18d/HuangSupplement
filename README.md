@@ -19,13 +19,14 @@ last_modified_at: 2024-08-19T07:56:13+00:00
     <summary>Bibliography</summary>
     <h3>Theory</h3>
     <ul>
-        <li>Huang, Chu-Ren, and Dingxu Shi (eds), <em>A Reference Grammar of Chinese</em>  (Cambridge, 2016).</li>
+      <li>Huang, Chu-Ren, and Dingxu Shi (eds), <em>A Reference Grammar of Chinese</em>  (Cambridge, 2016).</li>
     </ul>
     <h3>Sources</h3>
     <p class="text-gray">(A copy of each source is archived in the <a href="https://github.com/t18d/HuangSupplement/tree/main/assets">repo</a>.)</p>
     <ul>
-        <li>崔蕭寒, '「摩擦」の語史： 日中両語の相互影響', master's thesis, Osaka University, 2021.</li>
-        <li>Todani, Masayoshi, '中国語における日本語の借用と意味変化：“赤字”を例として', 《日中語彙研究》, 10 (2020), 149–70.</li>    
+      <li>崔蕭寒, '「摩擦」の語史：日中両語の相互影響', master's thesis, Osaka University, 2021.</li>
+      <li>Tanomura, Tadaharu, 'カレーを表す中国語名称の変遷',『或問』, 15/38 (2020), 15–25.</li>
+      <li>Todani, Masayoshi, '中国語における日本語の借用と意味変化：“赤字”を例として',『日中語彙研究』, 10 (2020), 149–70.</li>   
     </ul>
 </details>
 
