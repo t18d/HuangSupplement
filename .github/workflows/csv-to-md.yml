@@ -3,7 +3,8 @@ run-name: csv-to-md
 on: 
   push:
     paths:
-      - "*.csv"
+      - '*.csv'
+      - 'csv-to-md.yml'
 jobs:
   Run-CSV-To-MD_PY:
     runs-on: ubuntu-latest
