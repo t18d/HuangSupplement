@@ -18,7 +18,7 @@ with open("supplement.csv", "r", encoding="utf8") as supplement_csv:
             #first line is headers
             first_first_row = True
             first_row = True
-                for row in supplement_reader:
+            for row in supplement_reader:
                     if first_row and not first_first_row:
                         first_row = False
                         continue
