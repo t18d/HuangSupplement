@@ -7,7 +7,7 @@ on:
     branches: ["main"]
     paths:
       - '**.md'
-      - 'jekyll-gh-pages.yml'
+      - '.github/workflows/jekyll-gh-pages.yml'
   workflow_run:
     workflows: [csv-to-md]
     types: [completed]
