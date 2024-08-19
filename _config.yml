@@ -14,4 +14,4 @@ defaults:
     scope:
       path:            "assets/*.pdf"
     values:
-      sitemap:         false
+      sitemap:         true
