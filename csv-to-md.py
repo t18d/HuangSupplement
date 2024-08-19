@@ -17,9 +17,8 @@ with open("supplement.csv", "r", encoding="utf8") as supplement_csv:
             conj_md.write("\n")
             #first line is headers
             first_first_row = True
-            for reader in (supplement_reader):
                 first_row = True
-                for row in reader:
+                for row in supplement_reader:
                     if first_row and not first_first_row:
                         first_row = False
                         continue
