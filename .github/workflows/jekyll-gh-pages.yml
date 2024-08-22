@@ -7,7 +7,7 @@ on:
     branches: ["main"]
     paths:
       - '**.md'
-      - '.github/workflows/jekyll-gh-pages.yml'
+
   workflow_run:
     workflows: ["Run csv-to-md.py"]
     types: [completed]
@@ -53,7 +53,7 @@ jobs:
       - name: Lint Markdown
         if: ${{ steps.filter.outputs.markdown == 'true' }}
         run: |
-          sed -i "0,/last_modified_at.*/s//last_modified_at: $(date +'%Y-%m-%dT%H:%M:%S%:z')/" ${{ steps.filter.outputs.markdown_files }}
+          sed -i "0,/last_modified_at.*/s//last_modified_at: $(date -I)/" ${{ steps.filter.outputs.markdown_files }}
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
     # Optional. Commit message for the created commit.
