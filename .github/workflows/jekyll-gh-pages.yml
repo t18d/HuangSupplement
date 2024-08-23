@@ -53,7 +53,7 @@ jobs:
       - name: Lint Markdown
         if: ${{ steps.filter.outputs.markdown == 'true' }}
         run: |
-          sed -i "0,/last_modified_at.*/s//last_modified_at: $(date -I)/" ${{ steps.filter.outputs.markdown_files }}
+          sed -i "0,/last_modified_at.*/s//last_modified_at: $(date -Iseconds)/" ${{ steps.filter.outputs.markdown_files }}
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
     # Optional. Commit message for the created commit.
