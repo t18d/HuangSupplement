@@ -7,6 +7,7 @@ on:
     branches: ["main"]
     paths:
       - '**.md'
+      - '**.html'
 
   workflow_run:
     workflows: ["Run csv-to-md.py"]
