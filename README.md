@@ -51,7 +51,7 @@ last_modified_at: 2024-08-26T12:29:49+00:00
       <li>A blank for <strong>Quotation</strong> means the scholar who antedated the word didn't supply the evidence in their writings.</li>
       <li><strong>Source</strong>
         <ul>
-          <li>A <strong>plus sign</strong> ('+') following a source means the word is also attested in other sources dating from the same year.</li>
+          <li>A <strong>plus sign</strong> ('+') following a source means the word is also attested in one or more other sources dating from the same year.</li>
           <li>A <strong>question mark</strong> ('?') means the scholar who antedated the word didn't supply the source in their writings.</li>
           <li>A <strong>question mark</strong> ('?') following a source means the scholar who antedated the word didn't clearly specify the source in their writings and that the one given here was inferred from their bibliography.</li>
         </ul>
