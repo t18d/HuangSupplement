@@ -8,4 +8,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 incremental: true
-exclude: [assets/**.pdf, , supplement.csv, csv-to-md.py, csv_tools.py, LICENSE]
+exclude: [assets/**.pdf, supplement.csv, csv-to-md.py, csv_tools.py, LICENSE]
