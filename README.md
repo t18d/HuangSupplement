@@ -31,6 +31,7 @@ last_modified_at: 2024-08-26T03:33:19+00:00
       <li>Todani, Masayoshi, '中国語における日本語の借用と意味変化：“赤字”を例として',『日中語彙研究』, 10 (2020), 149–70.</li>   
     </ul>
 </details>
+    &nbsp;  
 <details>
     <summary>Can't edit?</summary>
     &nbsp;  
