@@ -36,11 +36,34 @@ last_modified_at: 2024-08-26T11:39:10+00:00
 </details>
     &nbsp;  
 <details>
+    <summary>Conventions</summary>
+    &nbsp;  
+    <ul>
+      <li><strong>Sense</strong> 
+        <ul>
+          <li><strong>Numerals</strong> refer to senses in the 1st edition.</li>
+          <li>A <strong>solidus</strong> ('/') signifies that only one sense is given in the 1st edition or that a new lemma has only one common meaning.</li>
+          <li>Glosses serve to disambiguate and are set in <strong>roman type</strong>.</li>
+          <li>Domain classification is set in <strong>italic type</strong>.</li>
+        </ul>
+      </li>
+      <li><strong>Year</strong> is that of first attestation.</li>
+      <li>A blank for <strong>Quotation</strong> means the scholar who antedated the word didn't supply the evidence in their writings.</li>
+      <li><strong>Source</strong>
+        <ul>
+          <li>A <strong>plus sign</strong> ('+') following a source means the word is also attested in other sources dating from the same year.</li>
+          <li>A <strong>question mark</strong> ('?') means the scholar who antedated the word didn't supply the source in their writings.</li>
+          <li>A <strong>question mark</strong> ('?') following a source means the scholar who antedated the word didn't clearly specify the source in their writings and that the one given here was inferred from their bibliography.</li>
+        </ul>
+      </li>
+    </ul>
+</details>
+    &nbsp;  
+<details>
     <summary>Can't edit?</summary>
     &nbsp;  
     <ul>
-      <li>If you are in a place with internet restrictions, contact your local authorities and ask them to unblock the site for you. In the meantime, you can send the contributions to <span class="email">67616464787179717a6054607b7a7f617a6760787166397b7a39607c713976617a703a777b79</span>.
-      </li>
+      <li>If you are in a place with internet restrictions, contact your local authorities and ask them to unblock the site for you. In the meantime, you can send the contributions to <span class="email">67616464787179717a6054607b7a7f617a6760787166397b7a39607c713976617a703a777b79</span>.</li>
     </ul>
 </details>
 
