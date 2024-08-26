@@ -29,9 +29,9 @@ last_modified_at: 2024-08-26T08:56:23+00:00
       <li>缪蓬, '晚清民国“病毒”知识的翻译与引介：知识翻译学视角', 『当代外语研究』, 4 (2022), 22–32.</li>
       <li>牛振, '近代日语译词对汉语地理学译词的影响探析', 『汉字汉语研究』, 24 (2023), 109–24.</li>
       <li>沙広聡, '接尾辞「性」の歴史：日中両語間の相互影響', master's thesis, Osaka University, 2020.</li>
-      <li>袁書予, '「分析」の成立と変化', master's thesis, Osaka University, 2022.</li>
       <li>Tanomura, Tadaharu, 'カレーを表す中国語名称の変遷',『或問』, 38 (2020), 15–25.</li>
-      <li>Todani, Masayoshi, '中国語における日本語の借用と意味変化：“赤字”を例として',『日中語彙研究』, 10 (2020), 149–70.</li>   
+      <li>Todani, Masayoshi, '中国語における日本語の借用と意味変化：“赤字”を例として',『日中語彙研究』, 10 (2020), 149–70.</li>
+      <li>袁書予, '「分析」の成立と変化', master's thesis, Osaka University, 2022.</li>
     </ul>
 </details>
     &nbsp;  
