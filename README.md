@@ -55,6 +55,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 地球仪|/|noun|1886||Edkins（艾约瑟）译『地理质学启蒙』|
 地下水|/|noun|1903||?|牛振(2023)
 分析|_Chemistry_|verb|1883|化分者、将各雑質分析而得原質。化合者、将各原質合併而成雑質。|Fryer（傅蘭雅）『化学考質』巻一+|
+分析|analysis|noun|1908|analysis 還原、返素、分析、剖解、推解|『英華大辞典』|as free morpheme
+分析|analyse|verb|1911|analyse、analysis 分析、推解、分解|『徳英華文科学字典』|
 咖喱|/|noun|1874|整啲咖喱魚|Dennys『初学階』|
 海拔|/|noun|1904||『中等地文学教科书』?|牛振(2023)
 海洋性气候|/|noun|1931||王益崖『地理学』?|牛振(2023)
