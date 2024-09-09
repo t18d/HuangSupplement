@@ -88,7 +88,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 分析|analysis|noun|1908|analysis 還原、返素、分析、剖解、推解|『英華大辞典』|as free morpheme
 分析|analyse|verb|1911|analyse、analysis 分析、推解、分解|『徳英華文科学字典』|
 咖喱|/|noun|1874|整啲咖喱魚|Dennys『初学階』|
-功率|/noun|1889|Duty of engine 汽機功率|Fryer『汽機中西名目表』17|
+功率|/|noun|1889|Duty of engine 汽機功率|Fryer『汽機中西名目表』17|
 果汁|/|nominal bound root|1887|Colocynth pulp 𠹭囉噺果汁|Fryer『西藥大成藥品中西名目表』17+|
 海拔|/|noun|1904||『中等地文学教科书』?|牛振(2023)
 海洋性气候|/|noun|1931||王益崖『地理学』?|牛振(2023)
