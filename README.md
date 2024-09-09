@@ -22,7 +22,7 @@ last_modified_at: 2024-09-09T04:27:21+00:00
       <li>Huang, Chu-Ren, and Dingxu Shi (eds), <em>A Reference Grammar of Chinese</em>  (Cambridge, 2016).</li>
     </ul>
     <h3>Sources</h3>
-    <p class="text-gray">(A copy of each source is archived in the <a href="https://github.com/t18d/HuangSupplement/tree/main/assets">repo</a>.)</p>
+    <p class="text-gray">(A copy of each article is archived in the <a href="https://github.com/t18d/HuangSupplement/tree/main/assets">repo</a>.)</p>
     <ul>
       <li>崔蕭寒, '「摩擦」の語史：日中両語の相互影響', master's thesis, Osaka University, 2021.</li>
       <li>馮玥, '「反応」の語誌', master's thesis, Osaka University, 2022.</li>
@@ -31,6 +31,7 @@ last_modified_at: 2024-09-09T04:27:21+00:00
       <li>沙広聡, '接尾辞「性」の歴史：日中両語間の相互影響', master's thesis, Osaka University, 2020.</li>
       <li>Tanomura, Tadaharu, 'カレーを表す中国語名称の変遷',『或問』, 38 (2020), 15–25.</li>
       <li>Todani, Masayoshi, '中国語における日本語の借用と意味変化：“赤字”を例として',『日中語彙研究』, 10 (2020), 149–70.</li>
+      <li>Tola, Gabriele, <em>John Fryer and </em>The Translator’s Vade-mecum (Leiden, 2021), 237–79.</li>
       <li>袁書予, '「分析」の成立と変化', master's thesis, Osaka University, 2022.</li>
     </ul>
 </details>
