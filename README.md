@@ -9,12 +9,11 @@ last_modified_at: 2024-09-10T13:54:24+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
-<preface> <!-- for sake of completeness -->
 <br>
 <br>
 <br>
 <p>This database is searchable as a <a href="https://github.com/t18d/HuangSupplement/blob/main/supplement.csv">CSV file</a>. The quickest way to get an addition or correction merged is to fork the repo or <a href="https://github.com/t18d/HuangSupplement/wiki/Clone-the-repo">clone locally</a>, edit the CSV file and send in a pull request. Assignment to word classes follows the scheme of Huang and Shi (2016). Script is not regularised except where it may cause confusion. The intention is to focus on words and forms which are still current in everyday usage, although antedatings of obsolete forms are welcome.</p>
-&nbsp;  
+<br>
 <details>
     <summary>Bibliography</summary>
     <h3>Theory</h3>
@@ -35,10 +34,10 @@ last_modified_at: 2024-09-10T13:54:24+00:00
       <li>袁書予, '「分析」の成立と変化', master's thesis, Osaka University, 2022.</li>
     </ul>
 </details>
-    &nbsp;  
+<br>
 <details>
     <summary>Conventions</summary>
-    &nbsp;  
+    <br>
     <ul>
       <li><strong>Sense</strong> 
         <ul>
@@ -59,10 +58,10 @@ last_modified_at: 2024-09-10T13:54:24+00:00
       </li>
     </ul>
 </details>
-    &nbsp;  
+    <br>
 <details>
     <summary>Can't edit?</summary>
-    &nbsp;  
+    <br>
     <ul>
       <li>If you are in a place with internet restrictions, contact your local authorities and ask them to unblock the site for you. In the meantime, you can send the contributions to <span class="email">67616464787179717a6054607b7a7f617a6760787166397b7a39607c713976617a703a777b79</span>.</li>
     </ul>
@@ -70,7 +69,7 @@ last_modified_at: 2024-09-10T13:54:24+00:00
 
 <br>
 <br>
-</preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
+<!-- Anything not in the table must be before this comment. -->
 
 Lemma|Sense|Word Class|Year|Quotation|Source|Note
 ---|---|---|---|---|---|---
