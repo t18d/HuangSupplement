@@ -58,7 +58,7 @@ last_modified_at: 2024-09-10T23:43:24+00:00
       </li>
     </ul>
 </details>
-    <br>
+<br>
 <details>
     <summary>Can't edit?</summary>
     <br>
