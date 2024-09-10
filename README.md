@@ -58,7 +58,7 @@ last_modified_at: 2024-09-10T23:47:32+00:00
       </li>
     </ul>
 </details>
-&nbsp;  
+<br>
 <details>
     <summary>Can't edit?</summary>
     <br>
@@ -66,7 +66,6 @@ last_modified_at: 2024-09-10T23:47:32+00:00
       <li>If you are in a place with internet restrictions, contact your local authorities and ask them to unblock the site for you. In the meantime, you can send the contributions to <span class="email">67616464787179717a6054607b7a7f617a6760787166397b7a39607c713976617a703a777b79</span>.</li>
     </ul>
 </details>
-
 <br>
 <br>
 <!-- Anything not in the table must be before this comment. -->
