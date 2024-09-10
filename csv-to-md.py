@@ -6,7 +6,7 @@ preface_lines = []
 with open("README.md", "r", encoding="utf8") as readme:
     for line in readme.readlines():
         preface_lines.append(line)
-        if "</preface>" in line:  # 2nd line because we need to keep the line with </preface> in
+        if "<!-- Anything" in line:  # 2nd line because we need to keep the line with comment in
             break
 
 # open files to create new readers
