@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - '*.csv'
+      - '*.py'
 
 jobs:
   Run-CSV-To-MD_PY:
