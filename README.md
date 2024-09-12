@@ -35,7 +35,7 @@ This database is searchable as a [CSV file](https://github.com/t18d/HuangSupplem
 - 袁書予, '「分析」の成立と変化', master's thesis, Osaka University, 2022.
 
 </details>
-
+<br>
 <details>
     <summary>Conventions</summary>
     <br>
@@ -53,7 +53,7 @@ This database is searchable as a [CSV file](https://github.com/t18d/HuangSupplem
   - A **question mark** ('?') following a source means the scholar who antedated the word didn't clearly specify the source in their writings and that the one given here was inferred from their bibliography.
 
 </details>
-
+<br>
 <details>
     <summary>Can't edit?</summary>
     <br>
