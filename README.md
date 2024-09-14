@@ -8,7 +8,7 @@ seo:
 last_modified_at: 2024-09-13T09:09:25+00:00
 ---
 # A Supplement to 近現代漢語辭源
-<p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
+<p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
 <br>
 <br>
 <br>
