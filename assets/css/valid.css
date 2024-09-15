@@ -6184,7 +6184,7 @@ pre {
 }
 
 .markdown-body li {
-    word-break:break-all
+    word-break:auto-phrase
 }
 
 .markdown-body li > p {
