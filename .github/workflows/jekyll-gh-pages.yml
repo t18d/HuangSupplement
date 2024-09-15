@@ -73,6 +73,7 @@ jobs:
         uses: docker://devatherock/minify-js:3.1.0
         with:
           directory: './_site'
+          add_suffix: false
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
