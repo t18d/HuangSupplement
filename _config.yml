@@ -4,8 +4,17 @@ author:
   name: TKB
   url: https://www.tonkunstler-on-the-bund.com
 locale: en_GB
+repository: t18d/HuangSupplement
+remote_theme: pages-themes/primer
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-github-metadata
+  - kramdown-parser-gfm
+  - jekyll-coffeescript                
+  - jekyll-relative-links                
+  - jekyll-readme-index                
+  - jekyll-default-layout
 incremental: true
 exclude: [assets/**.pdf, supplement.csv, csv-to-md.py, csv_tools.py, LICENSE]
