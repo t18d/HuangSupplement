@@ -92,7 +92,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 咖喱|/|noun|1874|整啲咖喱魚|Dennys『初学階』|
 功率|/|noun|1889|Duty of engine 汽機功率|Fryer『汽機中西名目表』17|
 果汁|/|nominal bound root|1887|Colocynth pulp 𠹭囉噺果汁|Fryer『西藥大成藥品中西名目表』17+|
-海拔|/|noun|1904||?|牛振 (2023)
+海拔|/|noun|1904|山南低、有海拔一萬六千尺|『中等地文學教科書』166|
 海洋性气候|/|noun|1931|A、海洋性氣候 Oceanic climate|王益崖『地理学』296|
 焊錫|/|noun|1889|Solder 銲錫|Fryer『汽機中西名目表』47|
 花邊|/|noun|1889|Moulding 花邊|Fryer『汽機中西名目表』34|
