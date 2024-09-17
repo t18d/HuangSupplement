@@ -5,9 +5,7 @@ author:
   url: https://www.tonkunstler-on-the-bund.com
 locale: en_GB
 repository: t18d/HuangSupplement
-remote_theme: pages-themes/primer
 plugins:
-  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-github-metadata
