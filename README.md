@@ -48,7 +48,7 @@ last_modified_at: 2024-09-16T13:14:41+00:00
         </ul>
       </li>
       <li><strong>Year</strong> is that of first attestation.</li>
-      <li>A blank for <strong>Quotation</strong> means the scholar who antedated the word didn't supply the evidence in their writings.</li>
+      <li>A blank for <strong>Quotation</strong> means the scholar who antedated the word didn't supply the evidence in their writings. For traditional critical symbols, see <a href="https://archive.org/details/textualcriticismandeditorialtechniquemartinwestl./">West (1973)</a>.</li>
       <li><strong>Source</strong>
         <ul>
           <li>A <strong>plus sign</strong> ('+') following a source means the word is also attested in one or more other sources dating from the same year.</li>
