@@ -27,6 +27,7 @@ last_modified_at: 2024-09-30T03:43:50+00:00
       <li>馮玥, '「反応」の語誌', master's thesis, Osaka University, 2022.</li>
       <li>缪蓬, '晚清民国“病毒”知识的翻译与引介：知识翻译学视角', 『当代外语研究』, 4 (2022), 22–32.</li>
       <li>牛振, '近代日语译词对汉语地理学译词的影响探析', 『汉字汉语研究』, 24 (2023), 109–24.</li>
+      <li>Schmidt, Christian, et al. (eds), 『<a href="https://mhdb.mh.sinica.edu.tw/vocabulary/search.php">漢語新詞資料庫</a>』, accessed 30 Sept. 2024.</li> 
       <li>沙広聡, '接尾辞「性」の歴史：日中両語間の相互影響', master's thesis, Osaka University, 2020.</li>
       <li>Tanomura, Tadaharu, 'カレーを表す中国語名称の変遷',『或問』, 38 (2020), 15–25.</li>
       <li>Todani, Masayoshi, '中国語における日本語の借用と意味変化：“赤字”を例として',『日中語彙研究』, 10 (2020), 149–70.</li>
