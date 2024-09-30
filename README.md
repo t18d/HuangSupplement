@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-09-17T14:21:14+00:00
+last_modified_at: 2024-09-30T03:43:50+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -73,8 +73,8 @@ last_modified_at: 2024-09-17T14:21:14+00:00
 Lemma|Sense|Word Class|Year|Quotation|Source|Note
 ---|---|---|---|---|---|---
 暗生植物|/|noun|1887|Cryptogam{e}æ 暗生植物|Fryer『西藥大成藥品中西名目表』18|dog-Latin
-病毒|/|noun|1908|疮疹之毒水、传染病毒、病毒、脓浆毒（痘毒、痘浆）|『英华大辞典』s.v. 'virus'|postdating
-草原|/|noun|1913|林木稀少而雜草繁茂之地曰草原|『新體中國地理』第一編, 21+|
+病毒|/|noun|1908|疮疹之毒水、传染病毒、病毒、脓浆毒（痘毒、痘浆）|『英華大辭典』s.v. Virus|postdating
+草原|/|noun|1908|歐洲東南與亞洲西北之草原|『英華大辭典』s.v. Steppe+|
 秤桿|/|noun|1889|Weigh levers 秤桿|Fryer『汽機中西名目表』56|
 赤字|/|noun|1931|日本歳入預定過大 赤字問題引起各方非難|『大公報』天津版1931年4月4日4版|
 打胎|/|deverbal noun|1887|Ergotætia a{r}bortifaciens 打胎耳臥達以希阿|Fryer『西藥大成藥品中西名目表』22|⓵ The misprint was Fryer's.<br>⓶ An earlier example for the verb is a desideratum.
@@ -87,26 +87,26 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 反応|4|noun|1913|反応 感情や行動の問題における態度|Mateer, _New Terms for New Ideas_|
 廢水|/|noun|1889|Waste tank 廢水箱|Fryer『汽機中西名目表』56+|
 分析|_Chemistry_|verb|1883|化分者、将各雑質分析而得原質。化合者、将各原質合併而成雑質。|Fryer『化学考質』巻一+|
-分析|analysis|noun|1908|analysis 還原、返素、分析、剖解、推解|『英華大辞典』|as free morpheme
-分析|analyse|verb|1911|analyse、analysis 分析、推解、分解|『徳英華文科学字典』|
+分析|analysis|noun|1908|還原, 返素, 分析, 剖解, 推解|『英華大辞典』s.v. Analysis|as free morpheme
+分析|analyse|verb|1908|to explain, 剖明, 解明, 分析|『英華大辭典』s.v. Enucleate|
 咖喱|/|noun|1874|整啲咖喱魚|Dennys『初学階』|
 功率|/|noun|1889|Duty of engine 汽機功率|Fryer『汽機中西名目表』17|
 果汁|/|nominal bound root|1887|Colocynth pulp 𠹭囉噺果汁|Fryer『西藥大成藥品中西名目表』17+|
-海拔|/|noun|1904|山南低、有海拔一萬六千尺|『中等地文學教科書』166|
+海拔|/|noun|1901|此次爆發噴煙高出海拔一萬二千米|『清議報』八十六冊「支那現勢論」|
 海洋性气候|/|noun|1931|A、海洋性氣候 Oceanic climate|王益崖『地理学』296|
 焊錫|/|noun|1889|Solder 銲錫|Fryer『汽機中西名目表』47|
-花邊|/|noun|1889|Moulding 花邊|Fryer『汽機中西名目表』34|
+花邊|/|noun|1866|an embroidered border, 花邊|Lobscheid『英華字典』s.v. Border|
 花梗|/|noun|1887|Myrospermum pedicellatum 小花梗米羅司卑麻|Fryer『西藥大成藥品中西名目表』41|
 环礁|/|noun|1903|自其形狀言之。則曰⋯環礁（Atoll）|『中學地文教科書』96|
 減速|/|verb|1889|Ease 減速|Fryer『汽機中西名目表』17|
 烙鐵|/|noun|1889|Soldering iron 嵌錫烙鐵|Fryer『汽機中西名目表』47|
 硫酸|/|noun|1883|Sulphuric acid 硫酸|Fryer『金石中西名目表』32|
-漏斗|/|noun|1889|Funnel 漏斗|Fryer『汽機中西名目表』24|
+漏斗|/|noun|1857|譬如水洩於漏斗|A. Williamson in『六合叢談』1/3, 7|
 摩擦|1|verb|1851|琥珀用燥羊毛摩擦一辺、此摩擦処便能拾芥、就是電気発出、似磁石噏鉄一般。|Macgowan『博物通書』第一章|
-泥土|/|noun|1887|Terra japonica 日本泥土|Fryer『西藥大成藥品中西名目表』61|as opposed to the two-word nominal phrase
-鉗子|/|noun|1889|Tongs 鉗子|Fryer『汽機中西名目表』52|
+泥土|/|noun|1858|衝激泥土成新地|W. Muirhead in『六合叢談』1/13, 8|as opposed to the two-word nominal phrase
+鉗子|/|noun|1848|鉗子⋯小鉗子|Medhurst, _English and Chinese Dictionary_, s.v. Pliers|
 臍帶|/|noun|1887|Cotydon umbilicus 有臍帶苦替離屯|Fryer『西藥大成藥品中西名目表』18|
-山脈|/|noun|1903|山脈（Mountain-Range）|『中學地文教科書』40|
+山脈|/|noun|1858|山脈之方向|W. Muirhead in『六合叢談』1/13, 9|
 哨子|/|noun|1889|Steam whistle 汽哨子|Fryer『汽機中西名目表』49|
 石灰水|/|noun|1887|Lime water 石灰水|Fryer『西藥大成藥品中西名目表』35+|
 石墨|/|noun|1883|Plumbago, or Graphite 石墨|Fryer『金石中西名目表』26|
@@ -118,4 +118,4 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 -性|2|nominal suffix|1664|中通曰、水流下而趨中、有剛火性也、火炎上而旋昇、有柔水性也。|方以智『物理小識』|first occurrence in three-morpheme words
 堰塞湖|/|noun|1903|大別之則分凹地湖堰塞湖二種|『中學地文教科書』86|
 蔗糖|/|noun|1885|Cane sugar 蔗糖|Fryer『化學材料中西名目表』8|
-钟乳石|/|noun|1903|鐘乳石（Sta\<l>actite）|『中學地文教科書』75|
+钟乳石|/|noun|1903|鐘乳石（Sta\<l>actite）|『中學地文教科書』75|Doolittle (1872): 石鐘乳
