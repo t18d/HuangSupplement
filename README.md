@@ -30,6 +30,7 @@ last_modified_at: 2024-10-01T03:25:16+00:00
       <li>Schmidt, Christian, et al. (eds), 『<a href="https://mhdb.mh.sinica.edu.tw/vocabulary/search.php">漢語新詞資料庫</a>』, accessed 30 Sept. 2024.</li> 
       <li>沙広聡, '接尾辞「性」の歴史：日中両語間の相互影響', master's thesis, Osaka University, 2020.</li>
       <li>Tanomura, Tadaharu, 'カレーを表す中国語名称の変遷',『或問』, 38 (2020), 15–25.</li>
+      <li>Tanomura, Tadaharu, '「接種」の語史: 種痘関連用語の生成と消長',『阪大日本語研究』, 34 (2022), 27–45.</li>
       <li>Todani, Masayoshi, '中国語における日本語の借用と意味変化：“赤字”を例として',『日中語彙研究』, 10 (2020), 149–70.</li>
       <li>Tola, Gabriele, <em>John Fryer and </em>The Translator’s Vade-mecum (Leiden, 2021), 237–79.</li>
       <li>袁書予, '「分析」の成立と変化', master's thesis, Osaka University, 2022.</li>
