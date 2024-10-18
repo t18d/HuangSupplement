@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-10-18T09:10:48+00:00
+last_modified_at: 2024-10-18T09:16:14+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -76,7 +76,7 @@ last_modified_at: 2024-10-18T09:10:48+00:00
 
 Lemma|Sense|Word Class|Year|Quotation|Source|Note
 ---|---|---|---|---|---|---
-暗生植物|/|noun|1887|Cryptogam{e}æ 暗生植物|Fryer『西藥大成藥品中西名目表』18|dog-Latin
+暗生植物|/|noun|1887|Cryptogam{e}æ 暗生植物|Fryer『西藥大成藥品中西名目表』18|dog-Latin: Kretschmer §31
 病毒|/|noun|1908|疮疹之毒水、传染病毒、病毒、脓浆毒（痘毒、痘浆）|『英華大辭典』s.v. Virus|postdating
 草原|/|noun|1908|歐洲東南與亞洲西北之草原|『英華大辭典』s.v. Steppe+|
 秤桿|/|noun|1889|Weigh levers 秤桿|Fryer『汽機中西名目表』56|
