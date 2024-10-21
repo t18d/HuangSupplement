@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-10-18T09:16:14+00:00
+last_modified_at: 2024-10-21T23:30:37+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -117,6 +117,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 石墨|/|noun|1883|Plumbago, or Graphite 石墨|Fryer『金石中西名目表』26|
 石蕊|/|noun|1885|Litmus 石蕋|Fryer『化學材料中西名目表』21|
 手動|/|adjective|1889|Hand gear 手動器具, 或手動齒輪|Fryer『汽機中西名目表』26|
+手續|/|noun|1901|行政訴訟之手續|『譯書彙編』７, 54|
 水表|/|noun|1889|Water gauge 水表|Fryer『汽機中西名目表』56|
 外徑|/|noun|1889|Outer diameter of tubes 烟管外徑|Fryer『汽機中西名目表』35|
 峡谷|/|noun|1903|其上部陷落時。則成絕壁如削。是謂峽谷。|『中學地文教科書』52|
