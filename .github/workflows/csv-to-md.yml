@@ -2,6 +2,8 @@ name: Run csv-to-md.py
 run-name: csv-to-md
 on: 
   push:
+    branches:
+      - main
     paths:
       - '*.csv'
       - '*.py'
