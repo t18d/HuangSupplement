@@ -4,22 +4,22 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 腦海,/,noun,1913,brains , "A. H. Mateer, _Hand Book of New Terms and Newspaper Chinese_",
 腦子,/,noun,?,腦子像石頭，總是說不通。,魯迅(1881–1936)『書信集‧致孟十還』, publication date absent in Schmidt
 笑劇,/,noun,?,那些官兒，也一定是笑劇中的腳色。,魯迅(1881–1936)『書信集‧致姚克』, publication date absent in Schmidt
-內部,/,noun,1878,,郭嵩燾『倫敦與巴黎日記』卷廿七,
+內部,2,noun,1878,伯理璽天德偕其國相堆茀爾、外部瓦定敦、戶部良曬、工部茀蘭西乃，商部對斯琅、兵部色來、水師部包杜烏、內部瑪爾賽爾、教部巴爾都，次第就見敘談。,郭嵩燾『倫敦與巴黎日記』卷廿七,
 內果皮,/,noun,1858,果皮的最後一層,『植物學』,
-內容,/,noun,1839,,林則徐『嚴禁本地人與外人非法往來交易告示』, not clear if the phrase quoted from this source has the same meaning as '事物內部所含的實質或意義。'
+內容,/,noun,1839,,林則徐『嚴禁本地人與外人非法往來交易告示』, can't find the source; not clear if the phrase quoted from this source has the same meaning as '事物內部所含的實質或意義。'
 內在,/,noun,1916,immanent,赫美玲 『官話』,
 尿道,/,noun,1869,passage(the passage of the urine),羅存德 『英華字典』,
 凝固,/,noun,1848,TO CONDENSE (to harden), 麥都思 『英華字典』,
 濃度,/,noun,1908,intensity 濃度,顏惠慶 『英華大辭典』,
 暖氣,/,noun,1857,,A. Wylie『六合叢談』, publication date was 1857 but not sure whether it is the publication date of the original source or the translated one
 偶像,/,noun,1857,,A. Wylie『六合叢談』,
-排列,/,noun,1839,,林則徐『英國等躉船鴉片盡數呈繳折』,
-排外主義,/,noun,1908,,顏惠慶 『英華大辭典』,
+排列,/,noun,1839,兹躉船二十二隻陸續駛至虎門口外，關天培當即督率將領，分帶提標各營兵船排列彈壓。,林則徐『英國等躉船鴉片盡數呈繳折』, 
+排外主義,/,noun,1908,Exclusivism the act or practice of excluding or being exclusive,顏惠慶 『英華大辭典』,
 牌,/,noun,1822,LICENSE(document giving legal permission),馬禮遜『英華字典』,
 炮灰,/,noun,1934,殺人者在毁壞世界，救人者在修補它，而炮灰 資格的諸公，卻總在恭維殺人者。,魯迅『且介亭雜文‧拿破侖與隋那』,
-朋友,/,noun,1837,,K. F. A. Gützlaff『東西洋考每月統記傳』,
+朋友,/,noun,1837,且說先來有兩涸朋友一涸姓郭一伺姓陳,K. F. A. Gützlaff『東西洋考每月統記傳』,
 批判,/,verb,1927,criticize,豐子愷『豐子愷文集』,I hold the question whether the quotation is reliable here
-披露,/,verb,,用特披露腹心，以今日革命之經綸，暨將來治國之大本。,孫中山(1866-1925)『軍政府宣言』,
+披露,/,verb,1905,用特披露腹心，以今日革命之經綸，暨將來治國之大本。,孫中山(1866-1925)『軍政府宣言』,
 皮包,/,noun,1869,bag(a leather bag),羅存德 『英華字典』,
 皮層,/,noun,1858,生物體組織表面的一層。,『植物學』,
 皮帶,/,noun,1857,,A. Wylie『六合叢談』,
@@ -28,21 +28,20 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 平日,/,noun,1857,,A. Wylie『六合叢談』,
 評論家,/,noun,1908,the writer of a review  品評之人，評論家，新著作評論家,顏惠慶 『英華大辭典』,
 瓶塞,/,noun,1857,,A. Wylie『六合叢談』,
-破產,/,noun,1881,,『日本國志』 刑法志四,
-破裂,/,verb,1881,,『日本國志』 刑法志五,
+破產,/,noun,1881,為破產者之管理人或管理會社，及管理共有財產之權,『日本國志』 刑法志四,
+破裂,/,verb,1881,如火藥、硝石、石油等一切有破裂性者。,『日本國志』 刑法志五,
 破碎,/,verb,1822,TATTERED(TATTERED or torn),馬禮遜 『英華字典』,
 葡萄糖,/,noun,1858,一種有機化合物，無色或白色結晶粉末，有甜顯。,『植物學』,
 七色板,/,noun,1927,現在的小學生就能玩七色板，將七種顏色塗在圓板上，停着的時候，是好看的，一轉，便變成灰色，一一本該是白色的罷，可是塗得不得法，變成灰色了。,魯迅『華蓋集續編‧〈雜論管閑事‧做學問‧灰色等〉』,
-期,/,noun,1898,,嚴復譯『天演論』卷上,
+期,/,noun,1898,十八期民智大进步,嚴復譯『天演論』卷上, not sure about whether the quote has the same meaning as that in Huang
 齊唱,/,noun,1844,CHORUS(CHORUS join),衛三畏 英華韵府歷階,
 歧異,/,noun,1902,戊部第八章：夫人道既當大同，少有歧異，即生畛域。,康有為(1858–1927)『大同書』,
 騎士,/,noun,1857,,A. Wylie『六合叢談』,
 武士,/,noun,1884,日本封建時代大敘主的年事侍從。,姚文棟譯『日本地理兵要』卷一,
 起動,/,verb,1869,Play(to come in play),羅存德 『英華字典』,
-起落架,/,noun,1876-1892,,『格致匯編』,
-起訴,/,verb,1881,,『日本國志』 刑法志一,
-起義,2,verb,1833,,K. F. A. Gützlaff『東西洋考每月統記傳』,
-氣管炎,/,noun,1899,,鄺其照『華英字典集成』,
+起落架,/,noun,1876-1892,,『格致匯編』, haven't found the phrase
+起訴,/,verb,1881,若非檢察官有所起訴,『日本國志』 刑法志一,
+起義,2,verb,1833,,K. F. A. Gützlaff『東西洋考每月統記傳』, can't get access to the source
 氣孔,/,noun,1903,,汪榮寶等『新爾雅‧釋植物』,
 棄權,/,verb,1881,,『日本國志』 刑法志一,
 汽車,2,noun,1855,,B. Hobson『博物新編』,
@@ -68,8 +67,8 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 強奸,/,verb,1857,,A. Wylie『六合叢談』,
 強硬,2,adj.,1844,STIFF,衛三畏 『英華韵府歷階』,
 牆腳,/,noun,1891,foundation,湛約翰 『英粵字典』,
-侵入,/,verb,1869,Invade(ditto,as a disease a system),羅存德『英華字典』,
-侵襲,/,verb,1848,TO COME(to come upon, to attack), 麥都思 『英華字典』,
+侵入,/,verb,1869,Invade(ditto as a disease a system),羅存德『英華字典』,
+侵襲,/,verb,1848,TO COME(to come upon to attack), 麥都思 『英華字典』,
 逆流,/,noun,1869,Counter-current,羅存德 英華字典,ealier in date but not the same meaning as '反動的潮流'
 排球,/,noun,1913,base-ball,"A. H. Mateer, _Hand Book of New Terms and Newspaper Chinese_", it is given as the source of '排球' I'm not sure if the quotation 'baseball' is a mistake
 旗幟,/,noun,1857,,A. Wylie『六合叢談』, might not be the same meaning given in Huang
