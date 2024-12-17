@@ -10,6 +10,8 @@ last_modified_at: 2024-12-17T03:14:57+00:00
 <p class="text-right">Gleanings from HuangSupplement</p>
 
 &nbsp;  
+&nbsp;  
+&nbsp;  
 ## IC analysis
 
 > 忠厚老成者擯之為無能，俠少儇辨者取之為可用，守道愛國者謂之為流俗，敗常害民者謂之為通變。
