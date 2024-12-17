@@ -14,6 +14,7 @@ on:
       - '**.md'
       - '**.html'
       - '**.css'
+      - '**.webp'
 
   workflow_run:
     workflows: ["Run csv-to-md.py"]
