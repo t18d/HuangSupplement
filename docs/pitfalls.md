@@ -4,6 +4,7 @@ permalink: pitfalls/
 seo:
   type: Collection
 last_modified_at: 2024-12-17T03:16:33+00:00
+layout: anchor
 ---
 # Pitfalls in Historical Lexicography
 
