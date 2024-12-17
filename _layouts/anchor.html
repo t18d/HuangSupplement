@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU='; script-src 'sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=' 'sha256-GdIzKo/NV6BPEkcVDNQ8jQX31kYa64WfnNwqnInJLyg='; font-src data:">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/valid.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      <nav class="text-right text-gray">
+        {% if page.title == "A Supplement to 近現代漢語辭源" %}Database | {% else %}<a href="/HuangSupplement/">Database</a> | {% endif %}<a href="https://github.com/t18d/HuangSupplement/wiki">Docs</a>
+      </nav>
+
+      {{ content }}
+
+      {% if site.github.private != true and site.github.license %}
+      <footer class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+        This site is open source. {% github_edit_link "Improve this page" %}.
+      </footer>
+      {% endif %}
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
