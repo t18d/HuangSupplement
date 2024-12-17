@@ -38,7 +38,7 @@ What gets changed may be a punctuation mark, but it could just as likely be a wo
 
 > 安樂椅子 not found in New Terms for New Ideas (1913) or Hand Book of New Terms and Newspaper Chinese (1917)
 
-<img src="https://github.com/user-attachments/assets/314e2bb1-129d-4710-9524-35158a6788e1" width="50%">
+<img src="/HuangSupplement/assets/椅子.webp" width="50%">
 
 Characters can easily get dropped so you just have to search for all the substrings as well before you can say for sure that it’s not there.
 
