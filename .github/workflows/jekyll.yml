@@ -56,7 +56,7 @@ jobs:
     # Therefore we specify we are only interested in added or modified files.
           filters: |
             markdown:
-              - added|modified: '*.md'
+              - added|modified: '**.md'
       - name: Lint Markdown
         if: ${{ steps.filter.outputs.markdown == 'true' }}
         run: |
