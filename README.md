@@ -13,6 +13,13 @@ last_modified_at: 2024-12-18T02:35:43+00:00
 <br>
 <br>
 <p>This database is searchable as a <a href="https://github.com/t18d/HuangSupplement/blob/main/supplement.csv">CSV file</a>. The quickest way to get an addition or correction merged is to fork the repo or <a href="https://github.com/t18d/HuangSupplement/wiki/Clone-the-repo">clone locally</a>, edit the CSV file and send in a pull request. Assignment to word classes follows the scheme of Huang and Shi (2016). Script is not regularised except where it may cause confusion. The intention is to focus on words and forms which are still current in everyday usage, although antedatings of obsolete forms are welcome.</p>
+
+<div align="center">
+
+[Notes to Contributors](https://github.com/t18d/HuangSupplement/wiki/Notes-to-Contributors) •
+[Pitfalls in Historical Lexicography](https://t18d.github.io/HuangSupplement/pitfalls/)
+
+</div>
 <br>
 <details>
     <summary>Bibliography</summary>
@@ -39,7 +46,7 @@ last_modified_at: 2024-12-18T02:35:43+00:00
       <li>袁書予, '「分析」の成立と変化', master's thesis, Osaka University, 2022.</li>
     </ul>
 </details>
-<br>
+
 <details>
     <summary>Conventions</summary>
     <br>
@@ -63,7 +70,7 @@ last_modified_at: 2024-12-18T02:35:43+00:00
       </li>
     </ul>
 </details>
-<br>
+
 <details>
     <summary>Can't edit?</summary>
     <br>
