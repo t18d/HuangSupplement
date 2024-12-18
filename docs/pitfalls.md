@@ -39,7 +39,7 @@ What gets changed may be a punctuation mark, but it could just as likely be a wo
 
 ## same year, whose priority?
 
-```Diff
+```diff
 - 兵工廠,/,noun,1917,"Arsenal 軍械局, 兵工廠","A. H. Mateer, _Hand Book of New Terms and Newspaper Chinese_",
 ```
 
