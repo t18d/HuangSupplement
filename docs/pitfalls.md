@@ -37,11 +37,23 @@ What gets changed may be a punctuation mark, but it could just as likely be a wo
 
 [pull/2#discussion_r1883680686](https://github.com/t18d/HuangSupplement/pull/2#discussion_r1883680686)
 
+## same year, whose priority?
+
+```Diff
+- 兵工廠,/,noun,1917,"Arsenal 軍械局, 兵工廠","A. H. Mateer, _Hand Book of New Terms and Newspaper Chinese_",
+```
+
+> Antedating fails. Huang cites 朱執信 1917 中國存亡問題 as a source.
+
+Mateer’s cut-off date was mid-1916 according to herself, and Chu is known to be penning his in 1917. We do want to establish the exact priority here.
+
+[pull/2#discussion_r1886144398](https://github.com/t18d/HuangSupplement/pull/2#discussion_r1886144398)
+
 ## searching OCR layer
 
 > 安樂椅子 not found in New Terms for New Ideas (1913) or Hand Book of New Terms and Newspaper Chinese (1917)
 
-<img src="/HuangSupplement/assets/椅子.webp" width="50%">
+<img src="https://t18d.github.io/HuangSupplement/assets/椅子.webp" width="50%">
 
 Characters can easily get dropped so you just have to search for all the substrings as well before you can say for sure that it’s not there.
 
