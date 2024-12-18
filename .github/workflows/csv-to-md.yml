@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - '*.csv'
+      - supplement.csv
       - '*.py'
 
 jobs:
