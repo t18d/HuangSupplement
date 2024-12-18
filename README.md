@@ -13,14 +13,12 @@ last_modified_at: 2024-12-18T03:38:27+00:00
 <br>
 <br>
 <p>This database is searchable as a <a href="https://github.com/t18d/HuangSupplement/blob/main/supplement.csv">CSV file</a>. The quickest way to get an addition or correction merged is to fork the repo or <a href="https://github.com/t18d/HuangSupplement/wiki/Clone-the-repo">clone locally</a>, edit the CSV file and send in a pull request. Assignment to word classes follows the scheme of Huang and Shi (2016). Script is not regularised except where it may cause confusion. The intention is to focus on words and forms which are still current in everyday usage, although antedatings of obsolete forms are welcome.</p>
-&nbsp;  
-<p>
-<div align="center">
-<a href="https://github.com/t18d/HuangSupplement/wiki/Notes-to-Contributors">Notes to Contributors</a> •
-<a href="https://t18d.github.io/HuangSupplement/pitfalls/">Pitfalls in Historical Lexicography</a>
-</div>
+
+<p class="text-center">
+  <a href="https://github.com/t18d/HuangSupplement/wiki/Notes-to-Contributors">Notes to Contributors</a> •
+  <a href="https://t18d.github.io/HuangSupplement/pitfalls/">Pitfalls in Historical Lexicography</a>
 </p>
-&nbsp;  
+
 <p><details>
     <summary>Bibliography</summary>
     <h3>Theory</h3>
