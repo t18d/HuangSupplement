@@ -16,11 +16,11 @@ last_modified_at: 2024-12-18T03:23:49+00:00
 
 <div align="center">
 
-[Notes to Contributors](https://github.com/t18d/HuangSupplement/wiki/Notes-to-Contributors) •
-[Pitfalls in Historical Lexicography](https://t18d.github.io/HuangSupplement/pitfalls/)
+<a href="https://github.com/t18d/HuangSupplement/wiki/Notes-to-Contributors">Notes to Contributors</a> •
+<a href="https://t18d.github.io/HuangSupplement/pitfalls/">Pitfalls in Historical Lexicography</a>
 
 </div>
-<br>
+&nbsp;  
 <details>
     <summary>Bibliography</summary>
     <h3>Theory</h3>
@@ -46,7 +46,7 @@ last_modified_at: 2024-12-18T03:23:49+00:00
       <li>袁書予, '「分析」の成立と変化', master's thesis, Osaka University, 2022.</li>
     </ul>
 </details>
-
+&nbsp;  
 <details>
     <summary>Conventions</summary>
     <br>
@@ -70,7 +70,7 @@ last_modified_at: 2024-12-18T03:23:49+00:00
       </li>
     </ul>
 </details>
-
+&nbsp;  
 <details>
     <summary>Can't edit?</summary>
     <br>
