@@ -57,7 +57,7 @@ last_modified_at: 2024-12-20T12:41:23+00:00
     <br>
     <ul>
       <li>A Grammatical Appendix (<a href="https://github.com/t18d/HuangSupplement/issues/5">#5</a>)</li>
-      <li>The Chinese Sexual Vocabulary</li>
+      <li>Sexual Vocabulary</li>
       <li>Loanwords</li>
     </ul>
   </details>
