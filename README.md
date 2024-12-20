@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-20T07:10:33+00:00
+last_modified_at: 2024-12-20T08:04:46+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -83,42 +83,42 @@ last_modified_at: 2024-12-20T07:10:33+00:00
 Lemma|Sense|Word Class|Year|Quotation|Source|Note
 ---|---|---|---|---|---|---
 愛國者|/|noun|1899|有憂國者。有愛國者。愛國者語憂國者曰。|梁啓超『自由書·憂國與愛國』+|
-愛情|/|noun|1584|司愛欲者，愛一物，必生一愛情而内含存之。|M. Ruggieri『天主聖教實錄』|
+愛情|/|noun|1584|司愛欲者，愛一物，必生一愛情而内含存之。|Ruggieri『天主聖教實錄』|
 愛人|2|noun|1908|One in love, 愛人, 相好, 情人|顏惠慶『英華大辭典』s.v. Lover+|
 安樂椅|/|noun|1908|A soft arm-chair, 偃息椅, 安樂椅, 軟熟圈手椅, 休息椅|顏惠慶『英華大辭典』s.v. Easy chair|
-安樂椅子|/|noun|1917|Easy chair 安樂椅子|A. H. Mateer, _Hand Book of New Terms and Newspaper Chinese_|
+安樂椅子|/|noun|1917|Easy chair 安樂椅子|Mateer, _Hand Book of New Terms and Newspaper Chinese_|
 暗生植物|/|noun|1887|Cryptogam{e}æ 暗生植物|Fryer『西藥大成藥品中西名目表』18|dog-Latin: Kretschmer §31
 暗室|/|noun|1664|故山市海市暗室一隙皆得轉吸而見之|方以智『物理小識』|
-罷工|2|verb|1865|罷工 … in the ordinary sense, to strike work for a rise of wages, as is often done by the Canton weavers|R. Morrison『五車韻府』|
-罷免|/|verb|1913|裁撤 罷免 … to remove from office; to cashier|A. H. Mateer, _New terms for new ideas: A study of the Chinese newspaper_|
-白帶|/|noun|1848|LEUCORRHŒA, 白帶, 帶下, 帶濁|麥都思『英華字典』s.v. Leucorrhœa|
+罷工|2|verb|1865|罷工 … in the ordinary sense, to strike work for a rise of wages, as is often done by the Canton weavers|Morrison『五車韻府』|
+罷免|/|verb|1913|裁撤 罷免 … to remove from office; to cashier|Mateer, _New terms for new ideas: A study of the Chinese newspaper_|
+白帶|/|noun|1848|LEUCORRHŒA, 白帶, 帶下, 帶濁|Medhurst『英華字典』s.v. Leucorrhœa|
 白粉|2|noun|1857|此時草木暢茂、成煤層、其上為新紅沙石、黃灰石、石膏、石鹽、蛋粉石、白粉、火石|W. Muirhead in『六合叢談』1/2, 2|
-白金|/|noun|1848||麥都思『英華字典』s.v. Platina+|
+白金|/|noun|1848||Medhurst『英華字典』s.v. Platina+|
 白内障|/|noun|1908|Cataract, (醫)瞕, 白內障, 內障眼, 眼珠變質|顏惠慶『英華大辭典』s.v. Pearl-eye|
 白熱|1|adjective|1869|White heat, 白熱|羅存德『英華字典』s.v. Heat|
 擺|1|noun|1869|Of o'clock, 擺|羅存德『英華字典』s.v. Pendulum+|
-拜金主義|/|noun|1917|Mammon worship 拜金主義|A. H. Mateer, _Hand Book of New Terms and Newspaper Chinese_|
+拜金主義|/|noun|1917|Mammon worship 拜金主義|Mateer, _Hand Book of New Terms and Newspaper Chinese_|
 扳手|2|noun|1893|其彈子均由後膛旁孔納入，膛下設木把手，用右手把住扳手，再用左手推挽活木把手向前，則彈子從鎗口而出。|鄭觀應『盛世危言‧火器』|
 斑馬|/|noun|1899||鄺其照『華英字典集成』s.v. Zebra|
 版畫|/|noun|1908|An impression from an engraved plate, block of wood, or other material, 刻版印刷物, 版畫, 印畫|顏惠慶『英華大辭典』s.v. Engraving+|
 版權|/|noun|1887|凡以著作及翻译之图书刻版者，许于三十年间他人不得盗卖，名为版权。|黃遵憲『日本國志』卷十六|Huang dates this source to 1890 but in the database 『日本國志』 is dated to 1887. Schmidt also cites 『日本國志』學術志一
 半旗|/|noun|1911|At half-mast, 半旗, 半桿旗|衛禮賢『德英華文科學字典』s.v. Halbmast|
-伴侶|/|noun|1848|COMPANION, 伴侶, 匹耦, 匹配, 儔侶, 羣朋, 伙伴, 伙計, 夥計, 交遊, 同僚|麥都思『英華字典』s.v. Companion+|
+伴侶|/|noun|1848|COMPANION, 伴侶, 匹耦, 匹配, 儔侶, 羣朋, 伙伴, 伙計, 夥計, 交遊, 同僚|Medhurst『英華字典』s.v. Companion+|
 幫|/|noun|1872|Party or company, 羣黨, 朋黨, 班, 幫|盧公明『英華萃林韻府』s.v. Party|
-綁票|/|verb|1917|Kidnap 綁票, 請財神|A. H. Mateer, _Hand Book of New Terms and Newspaper Chinese_|
+綁票|/|verb|1917|Kidnap 綁票, 請財神|Mateer, _Hand Book of New Terms and Newspaper Chinese_|
 保留|1|verb|1908|To hold or retain, 保有, 保留|顏惠慶『英華大辭典』s.v. Keep+|
 保險公司|/|noun|1869|Insurance company, 保險會, 燕梳會, 擔保會, 保險公司|羅存德『英華字典』s.v. Insurance+|
 保證書|/|noun|1881|?|黃遵憲『日本國志』刑法志二|
 報告|?|noun|1881|?|黃遵憲『日本國志』刑法志一|
-暴風|/|noun|1822|TEMPEST of wind, 暴風|R. Morrison『英華字典』s.v. Tempest+|
+暴風|/|noun|1822|TEMPEST of wind, 暴風|Morrison『英華字典』s.v. Tempest+|
 暴力|/|noun|1908|Power exerted against will or consent, 抗願之力, 逼迫之力, 壓力, 暴力, 暴行|顏惠慶『英華大辭典』s.v. Force+|
 暴雨|/|noun|1857|有燥土而時有暴雨、成大水不能潤土者|W. Muirhead in『六合叢談』1/13, 10|
-北極星|1|proper noun|1815|A constellation, 北極星|R. Morrison, _A Dictionary of the Chinese Language in three parts_|
-備考|/|verb|1865|備考, to retain for future investigation,—said of literary subjects|R. Morrison『五車韻府』s.v. 𤰇/備/僃/偹|
-背景|1+2|noun|1917|背景 … background in theatricals, also used figuratively, a sequel|A. H. Mateer, _Hand Book of New Terms and Newspaper Chinese_|
-背面|/|noun|1822|Inside or back surface, 背面|R. Morrison『英華字典』s.v. Outside|
+北極星|1|proper noun|1815|A constellation, 北極星|Morrison, _A Dictionary of the Chinese Language in three parts_|
+備考|/|verb|1865|備考, to retain for future investigation,—said of literary subjects|Morrison『五車韻府』s.v. 𤰇/備/僃/偹|
+背景|1+2|noun|1917|背景 … background in theatricals, also used figuratively, a sequel|Mateer, _Hand Book of New Terms and Newspaper Chinese_|
+背面|/|noun|1822|Inside or back surface, 背面|Morrison『英華字典』s.v. Outside|
 被告|/|noun|1703|?|F. Varo, _Arte de la lengua Mandarina_|Lemma not found using OCR
-被面|/|noun|1848|COVERLET, 被窩, 被面, 被禪, 裨臂, 蓋被, 衾裯, 紟, 袣, 芾, 幭, 披單, 單紟|麥都思『英華字典』s.v. Coverlet|
+被面|/|noun|1848|COVERLET, 被窩, 被面, 被禪, 裨臂, 蓋被, 衾裯, 紟, 袣, 芾, 幭, 披單, 單紟|Medhurst『英華字典』s.v. Coverlet|
 被殺|/|preposition + verb|1857|又辨金色之吏、曰穵林敦、亦被殺|『六合叢談』1/4, 15+|
 本體|/|noun|1844|Essence, 精, 本體, 精氣|衛三畏『英華韵府歷階』s.v. Essence|
 本文|original text|noun|1857|合衆領事、及日本官、於兩國方言文字、均不能互相明曉、故於合約中准用荷蘭字為本文|『六合叢談』1/12, 11|
@@ -138,11 +138,11 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 表情|/|noun|1908|Expression of the passions, 表情, 情徵|顏惠慶『英華大辭典』s.v. Pathognomy|
 冰山|/|noun|1602|?|利瑪竇『坤輿萬國全圖』|
 冰箱|1|noun|1869|Refrigerator, 涼箱, 冰箱|羅存德『英華字典』s.v. Refrigerator|
-兵工廠|/|noun|1917 (mid-1916)|Arsenal 軍械局, 兵工廠|A. H. Mateer, _Hand Book of New Terms and Newspaper Chinese_|
-兵營|/|noun|1922|CAMP, 營, 兵營, 營寨|R. Morrison『英華字典』s.v. Camp+|
-並列|/|verb|1948|COEQUAL, 並列, 並等|麥都思『英華字典』s.v. Coequal+|
+兵工廠|/|noun|1917 (mid-1916)|Arsenal 軍械局, 兵工廠|Mateer, _Hand Book of New Terms and Newspaper Chinese_|
+兵營|/|noun|1922|CAMP, 營, 兵營, 營寨|Morrison『英華字典』s.v. Camp+|
+並列|/|verb|1948|COEQUAL, 並列, 並等|Medhurst『英華字典』s.v. Coequal+|
 並行|2|verb|1869|Concurrent, acting in conjunction, 同致, 同行, 協行, 合行, 並行|羅存德『英華字典』s.v. Concurrent+|
-病|/|noun|1848|a fault, 病|麥都思『英華字典』s.v. Blemish+|
+病|/|noun|1848|a fault, 病|Medhurst『英華字典』s.v. Blemish+|
 病毒|/|noun|1908|疮疹之毒水、传染病毒、病毒、脓浆毒（痘毒、痘浆）|顏惠慶『英華大辭典』s.v. Virus|postdating
 病變|/|noun|1908|The transformation of a disease into another, (醫)病症, 病變| 顏惠慶『英華大辭典』s.v. Diadexis|
 病重|/|verb|1857|無何病重、船副謀為船主|『六合叢談』1/8, 9|
@@ -153,10 +153,10 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 勃起|/|verb|1908|The state of a part which, from having been soft, has become hard and swollen, (生理)豎立, 舉, 硬舉, 起立, 勃起|顏惠慶『英華大辭典』s.v. Erection|
 補助金|/|noun|1908|A pecuniary grant from government, 政府之津貼, 補助金, 保護金|顏惠慶『英華大辭典』s.v. Subvention|
 不法行爲|/|noun|1903|對被治者之不法行爲。科以一定之惡報者。謂之刑法|汪榮寶/葉瀾『新爾雅·釋法』p. 33|
-不合理|/|adjective|1822|It does not comport with right reason, 不合理; 與理不相符|R. Morrison『英華字典』s.v. Comport|
+不合理|/|adjective|1822|It does not comport with right reason, 不合理; 與理不相符|Morrison『英華字典』s.v. Comport|
 不景氣|/|adjective|1900|?|梁啟超/羅普『和文漢讀法』|
 不全|/|adjective|1857|又常有官骸不全之人、而心之未嘗不全、靈魂與身體不同也|A. Williamson in 『六合叢談』1/11, 8+|
-不許|/|?|1822|DISALLOW, 不許, 不准| R. Morrison『英華字典』s.v. Disallow+|
+不許|/|?|1822|DISALLOW, 不許, 不准| Morrison『英華字典』s.v. Disallow+|
 不振|/|adjective|1857|迨後衰微不振、風流歇絕、今復勃興、或能媲美古昔之盛已|『六合叢談』1/2, 12|
 布丁|/|noun|1908|?|『匯報·書大木齋主新名詞評議後』|
 布告|/|noun|1908|The notice given, 布告, 告示, 廣告, 告白|顏惠慶『英華大辭典』s.v. Notification+|
