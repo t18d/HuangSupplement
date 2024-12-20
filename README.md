@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-20T05:34:03+00:00
+last_modified_at: 2024-12-20T06:54:18+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -88,7 +88,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 安樂椅|/|noun|1908|A soft arm-chair, 偃息椅, 安樂椅, 軟熟圈手椅, 休息椅|顏惠慶『英華大辭典』s.v. Easy chair|
 安樂椅子|/|noun|1917|Easy chair 安樂椅子|A. H. Mateer, _Hand Book of New Terms and Newspaper Chinese_|
 暗生植物|/|noun|1887|Cryptogam{e}æ 暗生植物|Fryer『西藥大成藥品中西名目表』18|dog-Latin: Kretschmer §31
-暗室|/|noun|1664|故山市海市、暗室一隙、皆得転吸面見之、大鏡之中|方以智『物理小識』|
+暗室|/|noun|1664|故山市海市暗室一隙皆得轉吸而見之|方以智『物理小識』|
 罷工|2|verb|1865|罷工 ... in the ordinary sense, to strike work for a rise of wages, as is often done by the Canton weavers|R. Morrison『五車韻府』|
 罷免|/|verb|1913|罷免, to remove from office; to cashier|A. H. Mateer, _New terms for new ideas: A study of the Chinese newspaper_|
 白帶|/|noun|1848|LEUCORRHŒA, 白帶, 帶下, 帶濁|麥都思『英華字典』s.v. Leucorrhœa|
