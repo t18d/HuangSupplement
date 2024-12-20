@@ -75,7 +75,6 @@ last_modified_at: 2024-12-20T14:57:02+00:00
     <h3>Sources</h3>
     <p class="text-gray">(A copy of each article is archived in the <a href="https://github.com/t18d/HuangSupplement/tree/main/assets">repo</a>.)</p>
     <ul>
-      <li>Canaris, Daniel et al. (eds), <em>Michele Ruggieri’s </em>Tianzhu shilu (Leiden, 2023), 280.</li>
       <li>崔蕭寒, '「摩擦」の語史：日中両語の相互影響', master's thesis, Osaka University, 2021.</li>
       <li>馮玥, '「反応」の語誌', master's thesis, Osaka University, 2022.</li>
       <li>缪蓬, '晚清民国“病毒”知识的翻译与引介：知识翻译学视角', 『当代外语研究』, 4 (2022), 22–32.</li>
