@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-20T09:31:32+00:00
+last_modified_at: 2024-12-20T09:37:46+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -94,7 +94,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 白帶|/|noun|1842|fluor albus|Medhurst, _Chinese and English Dictionary_, s.v. 白|
 白粉|2|noun|1857|此時草木暢茂、成煤層、其上為新紅沙石、黃灰石、石膏、石鹽、蛋粉石、白粉、火石|W. Muirhead in『六合叢談』1/2, 2|
 白金|/|noun|1848|Platina, 白金|Medhurst, _English and Chinese Dictionary_, s.v. Platina|
-白内障|/|noun|1908|Cataract, (醫)瞕, 白內障, 內障眼, 眼珠變質|顏惠慶『英華大辭典』s.v. Pearl-eye|
+白内障|/|noun|1908|Cataract, (醫) 瞕, 白內障, 內障眼, 眼珠變質|顏惠慶『英華大辭典』s.v. Pearl-eye|
 白熱|1|adjective|1869|White heat, 白熱|羅存德『英華字典』s.v. Heat|
 擺|1|noun|1869|Of o'clock, 擺|羅存德『英華字典』s.v. Pendulum+|
 拜金主義|/|noun|1917|Mammon worship 拜金主義|Mateer, _Hand Book of New Terms and Newspaper Chinese_|
@@ -142,14 +142,14 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 兵營|/|noun|1922|CAMP, 營, 兵營, 營寨|Morrison『英華字典』s.v. Camp+|
 並列|/|verb|1947|Collateral, running parallel, 並列|Medhurst, _English and Chinese Dictionary_, s.v. Collateral+|
 並行|2|verb|1869|Concurrent, acting in conjunction, 同致, 同行, 協行, 合行, 並行|羅存德『英華字典』s.v. Concurrent+|
-病毒|/|noun|1908|疮疹之毒水、传染病毒、病毒、脓浆毒（痘毒、痘浆）|顏惠慶『英華大辭典』s.v. Virus|postdating
-病變|/|noun|1908|The transformation of a disease into another, (醫)病症, 病變| 顏惠慶『英華大辭典』s.v. Diadexis|
+病毒|/|noun|1908|疮疹之毒水、传染病毒、病毒、脓浆毒 (痘毒、痘浆)|顏惠慶『英華大辭典』s.v. Virus|postdating
+病變|/|noun|1908|The transformation of a disease into another, (醫) 病症, 病變| 顏惠慶『英華大辭典』s.v. Diadexis|
 病重|/|verb|1857|無何病重、船副謀為船主|『六合叢談』1/8, 9|
-波動|2|verb|1908|(Physics) Motion in a fluid substance like that of a wave in which one set of particles acts on the adjoining set with little or no permanent displacement, (物理)浪, 波動, 浪動|顏惠慶『英華大辭典』s.v. Wave+|
+波動|2|verb|1908|(Physics) Motion in a fluid substance like that of a wave in which one set of particles acts on the adjoining set with little or no permanent displacement, (物理) 浪, 波動, 浪動|顏惠慶『英華大辭典』s.v. Wave+|
 波形|/|noun|1908|A wavy appearance, 波形, 起伏, 波浪之形|顏惠慶『英華大辭典』s.v. Undulation|
 伯爵|/|noun|1844||W. Williams『英華韵府歷階』s.v. Earl|
 泊船|/|verb|1857|令毋許泊船瓦巴勒索、慮此船一泊彼處、水手逃亡、船貨遺失|『六合叢談』1/8, 9|
-勃起|/|verb|1908|The state of a part which, from having been soft, has become hard and swollen, (生理)豎立, 舉, 硬舉, 起立, 勃起|顏惠慶『英華大辭典』s.v. Erection|
+勃起|/|verb|1908|The state of a part which, from having been soft, has become hard and swollen, (生理) 豎立, 舉, 硬舉, 起立, 勃起|顏惠慶『英華大辭典』s.v. Erection|
 補助金|/|noun|1908|A pecuniary grant from government, 政府之津貼, 補助金, 保護金|顏惠慶『英華大辭典』s.v. Subvention|
 不法行爲|/|noun|1903|對被治者之不法行爲。科以一定之惡報者。謂之刑法|汪榮寶/葉瀾『新爾雅·釋法』p. 33|
 不合理|/|adjective|1822|It does not comport with right reason, 不合理; 與理不相符|Morrison『英華字典』s.v. Comport|
@@ -186,7 +186,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 焊錫|/|noun|1889|Solder 銲錫|Fryer『汽機中西名目表』47|
 花邊|/|noun|1866|an embroidered border, 花邊|Lobscheid『英華字典』s.v. Border|
 花梗|/|noun|1887|Myrospermum pedicellatum 小花梗米羅司卑麻|Fryer『西藥大成藥品中西名目表』41|
-环礁|/|noun|1903|自其形狀言之。則曰⋯環礁（Atoll）|『中學地文教科書』96|
+环礁|/|noun|1903|自其形狀言之。則曰⋯環礁 (Atoll)|『中學地文教科書』96|
 減速|/|verb|1889|Ease 減速|Fryer『汽機中西名目表』17|
 接種|/|verb|1898|伝至日本。互相接種其効昭然。|『申報』7月11日「予防痘症篇」|
 烙鐵|/|noun|1889|Soldering iron 嵌錫烙鐵|Fryer『汽機中西名目表』47|
@@ -209,4 +209,4 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 -性|2|nominal suffix|1664|中通曰、水流下而趨中、有剛火性也、火炎上而旋昇、有柔水性也。|方以智『物理小識』|first occurrence in three-morpheme words
 堰塞湖|/|noun|1903|大別之則分凹地湖堰塞湖二種|『中學地文教科書』86|
 蔗糖|/|noun|1885|Cane sugar 蔗糖|Fryer『化學材料中西名目表』8|
-钟乳石|/|noun|1903|鐘乳石（Sta\<l>actite）|『中學地文教科書』75|Doolittle (1872): 石鐘乳
+钟乳石|/|noun|1903|鐘乳石 (Sta\<l>actite)|『中學地文教科書』75|Doolittle (1872): 石鐘乳
