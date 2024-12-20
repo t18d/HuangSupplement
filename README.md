@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-20T22:43:49+00:00
+last_modified_at: 2024-12-20T22:51:01+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -152,7 +152,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 鼻音|/|noun|1869|Twang, a, … or nasal sound, 鼻音 … 鼻聲|Lobscheid『英華字典』s.v. Twang+|
 比重|1|noun|1867|specific gravity, 比重|Lobscheid『英華字典』s.v. Gravity+|
 筆名|/|noun|1908|A false name, 偽名, 冒名, 假名, 別名, 筆名|顏惠慶『英華大辭典』s.v. Pseudonym|
-必然|/|adverb|1703|Forçosam<sup>te</sup> piě̇ tińg. piě̇ kińg. piě̇ jên.|Varo, _Arte de la lengua mandarina_, 65|
+必然|/|adverb|1703|Forçosam<sup>te</sup> piĕ̇ tińg. piĕ̇ kińg. piĕ̇ jên.|Varo, _Arte de la lengua mandarina_, 65|
 變態|1|noun|1885|常恐後人體，變態猶未盡|黃遵憲『雜感·其三』|
 便秘|/|noun|1844|CONSTIPATION, 大便秘, 閉恭|W. Williams『英華韵府歷階』s.v. Constipation|
 標本|/|noun|1902|?|梁啓超『飲冰室合集』|
