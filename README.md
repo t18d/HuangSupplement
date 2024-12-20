@@ -45,7 +45,7 @@ last_modified_at: 2024-12-20T12:28:22+00:00
         </ul>
       </li>
     </ul>
-</details></p>
+   </details></p>
 
 <p><details>
     <summary>Appendices</summary>
@@ -55,7 +55,7 @@ last_modified_at: 2024-12-20T12:28:22+00:00
       <li>The Chinese Sexual Vocabulary</li>
       <li>Loanwords</li>
     </ul>
-</details></p>
+   </details></p>
 
 <p><details>
     <summary>Bibliography</summary>
@@ -81,7 +81,7 @@ last_modified_at: 2024-12-20T12:28:22+00:00
       <li>Tola, Gabriele, <em>John Fryer and </em>The Translator’s Vade-mecum (Leiden, 2021), 237–79.</li>
       <li>袁書予, '「分析」の成立と変化', master's thesis, Osaka University, 2022.</li>
     </ul>
-</details></p>
+   </details></p>
 
 <p><details>
     <summary>Can't edit?</summary>
@@ -89,7 +89,7 @@ last_modified_at: 2024-12-20T12:28:22+00:00
     <ul>
       <li>If you are in a place with internet restrictions, contact your local authorities and ask them to unblock the site for you. In the meantime, you can send the contributions to <span class="email">67616464787179717a6054607b7a7f617a6760787166397b7a39607c713976617a703a777b79</span>.</li>
     </ul>
-</details></p>
+   </details></p>
 <br>
 <br>
 <!-- Anything not in the table must be before this comment. -->
