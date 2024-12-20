@@ -38,6 +38,8 @@ last_modified_at: 2024-12-20T12:35:55+00:00
           <li>A <strong>solidus</strong> ('/') stands for Huang's original quotation.</li>
           <li>A <strong>blank</strong> means the scholar who antedated the word didn't supply the evidence in their writings.</li>
           <li>For traditional <strong>critical symbols</strong>, see <a href="https://archive.org/details/textualcriticismandeditorialtechniquemartinwestl./">West (1973)</a>.</li>
+        </ul>
+      </li>
       <li><strong>Source</strong>
         <ul>
           <li>A <strong>plus sign</strong> ('+') following a source means the word occurs more than once in that source, or is attested in one or more other sources dating from the same year.</li>
