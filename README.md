@@ -19,8 +19,6 @@ last_modified_at: 2024-12-20T12:25:26+00:00
 <a href="https://t18d.github.io/HuangSupplement/pitfalls/">Pitfalls in Historical Lexicography</a>
 </div>
 <br>
-
-
 <p><details>
     <summary>Conventions</summary>
     <br>
