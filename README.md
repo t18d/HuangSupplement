@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-20T13:36:12+00:00
+last_modified_at: 2024-12-20T14:43:49+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -113,7 +113,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 安樂椅子|/|noun|1917|Easy chair 安樂椅子|Mateer, _Hand Book of New Terms and Newspaper Chinese_|
 暗生植物|/|noun|1887|Cryptogam{e}æ 暗生植物|Fryer『西藥大成藥品中西名目表』18|dog-Latin: Kretschmer §31
 暗室|/|noun|1664|故山市海市暗室一隙皆得轉吸而見之|方以智『物理小識』|
-罷工|2|verb|1865|罷工 … in the ordinary sense, to strike work for a rise of wages, as is often done by the Canton weavers|Morrison『五車韻府』|
+罷工|2|verb|1819|罷 … 工 … in the ordinary sense, to strike work for a rise of wages, as is often done by the Canton weavers|Morrison, _A Dictionary of the Chinese Language_, ii/i, s.v. 罷|
 罷免|/|verb|1913|裁撤 罷免 … to remove from office; to cashier|Mateer, _New terms for new ideas: A study of the Chinese newspaper_|
 白帶|/|noun|1842|fluor albus|Medhurst, _Chinese and English Dictionary_, s.v. 白|
 白粉|2|noun|1857|此時草木暢茂、成煤層、其上為新紅沙石、黃灰石、石膏、石鹽、蛋粉石、白粉、火石|W. Muirhead in『六合叢談』1/2, 2|
@@ -134,13 +134,13 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 保險公司|/|noun|1868|insurance company, 保險會 … 保險公司|Lobscheid『英華字典』s.v. Insurance+|
 保證書|/|noun|1887|又住在裁判所管內饒有貲產者亦可代納應充金額之保證書|黃遵憲『日本國志·刑法志二』|
 報告|1|noun|1887|若更命留禁要將其事由報告裁判長|黃遵憲『日本國志·刑法志一』|
-暴風|/|noun|1822|TEMPEST of wind, 暴風|Morrison『英華字典』s.v. Tempest+|
+暴風|/|noun|1822|TEMPEST of wind, 暴風 … or reversed|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. TEMPEST+|
 暴力|/|noun|1908|Power exerted against will or consent, 抗願之力, 逼迫之力, 壓力, 暴力, 暴行|顏惠慶『英華大辭典』s.v. Force+|
 暴雨|/|noun|1857|有燥土而時有暴雨、成大水不能潤土者|W. Muirhead in『六合叢談』1/13, 10|
-北極星|1|proper noun|1815|A constellation, 北極星|Morrison, _A Dictionary of the Chinese Language in three parts_|
-備考|/|verb|1865|備考, to retain for future investigation,—said of literary subjects|Morrison『五車韻府』s.v. 𤰇/備/僃/偹|
+北極星|1|proper noun|1822|A constellation, 北斗星 … 北極星|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. BEAR|
+備考|/|verb|明|/|/|
 背景|1+2|noun|1917|背景 … background in theatricals, also used figuratively, a sequel|Mateer, _Hand Book of New Terms and Newspaper Chinese_|
-背面|/|noun|1822|Inside or back surface, 背面|Morrison『英華字典』s.v. Outside|
+背面|/|noun|1822|inside or back surface, 背面|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. OUTSIDE+|
 被告|/|noun|1703|?|F. Varo, _Arte de la lengua Mandarina_|Lemma not found using OCR
 被面|/|noun|1847|Coverlet, 被窩 … 被面|Medhurst, _English and Chinese Dictionary_, s.v. Coverlet|
 被殺|/|preposition + verb|1857|又辨金色之吏、曰穵林敦、亦被殺|『六合叢談』1/4, 15+|
@@ -163,7 +163,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 冰山|/|noun|1602|?|利瑪竇『坤輿萬國全圖』|
 冰箱|1|noun|1869|Refrigerator 涼箱 … 冰箱|Lobscheid『英華字典』s.v. Refrigerator|
 兵工廠|/|noun|1917 (mid-1916)|Arsenal 軍械局, 兵工廠|Mateer, _Hand Book of New Terms and Newspaper Chinese_|
-兵營|/|noun|1922|CAMP, 營, 兵營, 營寨|Morrison『英華字典』s.v. Camp+|
+兵營|/|noun|1822|CAMP, 營 … 兵營 … 營寨|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. CAMP+|
 並列|/|verb|1947|Collateral, running parallel, 並列|Medhurst, _English and Chinese Dictionary_, s.v. Collateral+|
 並行|2|verb|1869|Concurrent, acting in conjunction … 同行 … 並行|Lobscheid『英華字典』s.v. Concurrent+|
 病毒|/|noun|1908|疮疹之毒水、传染病毒、病毒、脓浆毒 (痘毒、痘浆)|顏惠慶『英華大辭典』s.v. Virus|postdating
@@ -176,10 +176,10 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 勃起|/|verb|1908|The state of a part which, from having been soft, has become hard and swollen, (生理) 豎立, 舉, 硬舉, 起立, 勃起|顏惠慶『英華大辭典』s.v. Erection|
 補助金|/|noun|1908|A pecuniary grant from government, 政府之津貼, 補助金, 保護金|顏惠慶『英華大辭典』s.v. Subvention|
 不法行爲|/|noun|1903|對被治者之不法行爲。科以一定之惡報者。謂之刑法|汪榮寶/葉瀾『新爾雅·釋法』p. 33|
-不合理|/|adjective|1822|It does not comport with right reason, 不合理; 與理不相符|Morrison『英華字典』s.v. Comport|
+不合理|/|adjective|1822|It does not comport with right reason, 不合理 … 與理不相符|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. COMPORT|
 不景氣|/|adjective|1900|?|梁啟超/羅普『和文漢讀法』|
 不全|/|adjective|1857|又常有官骸不全之人、而心之未嘗不全、靈魂與身體不同也|A. Williamson in 『六合叢談』1/11, 8+|
-不許|/|?|1822|DISALLOW, 不許, 不准| Morrison『英華字典』s.v. Disallow+|
+不許|/|verb|1815|書上有講不明白的義旨就來細問不許含混|Morrison, _A Dictionary of the Chinese Language_, i/i, 750|
 不振|/|adjective|1857|迨後衰微不振、風流歇絕、今復勃興、或能媲美古昔之盛已|『六合叢談』1/2, 12|
 布丁|/|noun|1908|?|『匯報·書大木齋主新名詞評議後』|
 布告|/|noun|1908|The notice given, 布告, 告示, 廣告, 告白|顏惠慶『英華大辭典』s.v. Notification+|
