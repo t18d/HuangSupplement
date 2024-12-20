@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-20T08:57:51+00:00
+last_modified_at: 2024-12-20T09:14:45+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -142,7 +142,6 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 兵營|/|noun|1922|CAMP, 營, 兵營, 營寨|Morrison『英華字典』s.v. Camp+|
 並列|/|verb|1947|Collateral, running parallel, 並列|Medhurst, _English and Chinese Dictionary_, s.v. Collateral+|
 並行|2|verb|1869|Concurrent, acting in conjunction, 同致, 同行, 協行, 合行, 並行|羅存德『英華字典』s.v. Concurrent+|
-病|/|noun|1848|a fault, 病|Medhurst『英華字典』s.v. Blemish+|
 病毒|/|noun|1908|疮疹之毒水、传染病毒、病毒、脓浆毒（痘毒、痘浆）|顏惠慶『英華大辭典』s.v. Virus|postdating
 病變|/|noun|1908|The transformation of a disease into another, (醫)病症, 病變| 顏惠慶『英華大辭典』s.v. Diadexis|
 病重|/|verb|1857|無何病重、船副謀為船主|『六合叢談』1/8, 9|
