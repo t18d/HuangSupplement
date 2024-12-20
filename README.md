@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-20T22:51:01+00:00
+last_modified_at: 2024-12-20T23:55:41+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -144,8 +144,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 被告|/|noun|1703|acusado, o reo, pí káo|Varo, _Arte de la lengua mandarina_, 56|
 被面|/|noun|1847|Coverlet, 被窩 … 被面|Medhurst, _English and Chinese Dictionary_, s.v. Coverlet|
 被殺|/|preposition + verb|1857|又辨金色之吏、曰穵林敦、亦被殺|『六合叢談』1/4, 15+|
-本體|/|noun|1844|Essence, 精, 本體, 精氣|衛三畏『英華韵府歷階』s.v. Essence|
-本文|original text|noun|1857|合衆領事、及日本官、於兩國方言文字、均不能互相明曉、故於合約中准用荷蘭字為本文|『六合叢談』1/12, 11|
+本體|/|noun|1844|Essence, 精 … 本體 … 精氣|Williams『英華韵府歷階』s.v. Essence|
 本土|local|noun|1857|有本土邏卒四人、為華民所殺|『六合叢談』1/4, 15+|
 本義|/|noun|1868|the proper sense of a word, 本意 … 本義|Lobscheid『英華字典』s.v. Proper|
 本質|/|noun|1672|夫風之本質乃地所発乾熱之気有多端可証一試|南懐仁『坤輿圖説』|
@@ -154,7 +153,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 筆名|/|noun|1908|A false name, 偽名, 冒名, 假名, 別名, 筆名|顏惠慶『英華大辭典』s.v. Pseudonym|
 必然|/|adverb|1703|Forçosam<sup>te</sup> piĕ̇ tińg. piĕ̇ kińg. piĕ̇ jên.|Varo, _Arte de la lengua mandarina_, 65|
 變態|1|noun|1885|常恐後人體，變態猶未盡|黃遵憲『雜感·其三』|
-便秘|/|noun|1844|CONSTIPATION, 大便秘, 閉恭|W. Williams『英華韵府歷階』s.v. Constipation|
+便秘|/|noun|1844|CONSTIPATION, 大便秘, 閉恭|Williams『英華韵府歷階』s.v. Constipation|
 標本|/|noun|1902|?|梁啓超『飲冰室合集』|
 標記|/|noun|1858|朔望上下弦表、歷年測量寒熱表、行進江海標記、潮汐表、中外寄書表|『六合叢談』2/1, 15|?
 標準語|/|noun|1916|~ language, 標準語|赫美玲『官話』s.v. Standard|
@@ -171,7 +170,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 病重|/|verb|1857|無何病重、船副謀為船主|『六合叢談』1/8, 9|
 波動|2|verb|1908|(Physics) Motion in a fluid substance like that of a wave in which one set of particles acts on the adjoining set with little or no permanent displacement, (物理) 浪, 波動, 浪動|顏惠慶『英華大辭典』s.v. Wave+|
 波形|/|noun|1908|A wavy appearance, 波形, 起伏, 波浪之形|顏惠慶『英華大辭典』s.v. Undulation|
-伯爵|/|noun|1844||W. Williams『英華韵府歷階』s.v. Earl|
+伯爵|/|noun|1844||Williams『英華韵府歷階』s.v. Earl|
 泊船|/|verb|1857|令毋許泊船瓦巴勒索、慮此船一泊彼處、水手逃亡、船貨遺失|『六合叢談』1/8, 9|
 勃起|/|verb|1908|The state of a part which, from having been soft, has become hard and swollen, (生理) 豎立, 舉, 硬舉, 起立, 勃起|顏惠慶『英華大辭典』s.v. Erection|
 補助金|/|noun|1908|A pecuniary grant from government, 政府之津貼, 補助金, 保護金|顏惠慶『英華大辭典』s.v. Subvention|
@@ -186,7 +185,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 材質|/|noun|1833|?|K. F. A. Gützlaff『東西洋考每月統記傳』|lemma not found using OCR calligraphy not OCR-friendly
 裁員|/|verb|1923|此次教部裁员，他司不知，若在社会司，则办事员之凡日日真来办事者皆去矣。|魯迅『書信集‧致許壽裳』|
 采掘|/|verb|1904|?|梁啓超『新釋名』|
-菜單|/|noun|1844|bill of fare, 菜單|W. Williams『英華韵府歷階』s.v. Tavern|
+菜單|/|noun|1844|bill of fare, 菜單|Williams『英華韵府歷階』s.v. Tavern|
 草原|/|noun|1908|歐洲東南與亞洲西北之草原|顏惠慶『英華大辭典』s.v. Steppe+|
 秤桿|/|noun|1889|Weigh levers 秤桿|Fryer『汽機中西名目表』56|
 赤字|/|noun|1931|日本歳入預定過大 赤字問題引起各方非難|『大公報』天津版1931年4月4日4版|
