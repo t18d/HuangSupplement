@@ -19,6 +19,46 @@ last_modified_at: 2024-12-20T11:59:21+00:00
 <a href="https://t18d.github.io/HuangSupplement/pitfalls/">Pitfalls in Historical Lexicography</a>
 </div>
 <br>
+
+
+<p><details>
+    <summary>Conventions</summary>
+    <br>
+    <ul>
+      <li><strong>Sense</strong> 
+        <ul>
+          <li><strong>Numerals</strong> refer to senses in the 1st edition.</li>
+          <li>A <strong>solidus</strong> ('/') signifies that only one sense is given in the 1st edition or that a new lemma has only one common meaning.</li>
+          <li>Glosses serve to disambiguate and are set in <strong>roman type</strong>.</li>
+          <li>Domain classification is set in <strong>italic type</strong>.</li>
+        </ul>
+      </li>
+      <li><strong>Year</strong> is that of first attestation.</li>
+      <li><strong>Quotation</strong>
+        <ul>
+          <li>A <strong>solidus</strong> ('/') stands for Huang's original quotation.</li>
+          <li>A <strong>blank</strong> means the scholar who antedated the word didn't supply the evidence in their writings.</li>
+          <li>For traditional <strong>critical symbols</strong>, see <a href="https://archive.org/details/textualcriticismandeditorialtechniquemartinwestl./">West (1973)</a>.</li>
+      <li><strong>Source</strong>
+        <ul>
+          <li>A <strong>plus sign</strong> ('+') following a source means the word occurs more than once in that source, or is attested in one or more other sources dating from the same year.</li>
+          <li>A <strong>question mark</strong> ('?') means the scholar who antedated the word didn't supply the source in their writings.</li>
+          <li>A <strong>question mark</strong> ('?') following a source means the scholar who antedated the word didn't clearly specify the source in their writings and that the one given here was inferred from their bibliography.</li>
+        </ul>
+      </li>
+    </ul>
+</details></p>
+
+<p><details>
+    <summary>Appendices</summary>
+    <br>
+    <ul>
+      <li>A Grammatical Appendix (<a href="https://github.com/t18d/HuangSupplement/issues/5">#5</a>)</li>
+      <li>The Chinese Sexual Vocabulary</li>
+      <li>Loanwords</li>
+    </ul>
+</details></p>
+
 <p><details>
     <summary>Bibliography</summary>
     <h3>Theory</h3>
@@ -42,30 +82,6 @@ last_modified_at: 2024-12-20T11:59:21+00:00
       <li>Todani, Masayoshi, '中国語における日本語「手続」の借用過程',『日中語彙研究』, 11 (2021), 143–163.</li>
       <li>Tola, Gabriele, <em>John Fryer and </em>The Translator’s Vade-mecum (Leiden, 2021), 237–79.</li>
       <li>袁書予, '「分析」の成立と変化', master's thesis, Osaka University, 2022.</li>
-    </ul>
-</details></p>
-
-<p><details>
-    <summary>Conventions</summary>
-    <br>
-    <ul>
-      <li><strong>Sense</strong> 
-        <ul>
-          <li><strong>Numerals</strong> refer to senses in the 1st edition.</li>
-          <li>A <strong>solidus</strong> ('/') signifies that only one sense is given in the 1st edition or that a new lemma has only one common meaning.</li>
-          <li>Glosses serve to disambiguate and are set in <strong>roman type</strong>.</li>
-          <li>Domain classification is set in <strong>italic type</strong>.</li>
-        </ul>
-      </li>
-      <li><strong>Year</strong> is that of first attestation.</li>
-      <li>A blank for <strong>Quotation</strong> means the scholar who antedated the word didn't supply the evidence in their writings. For traditional critical symbols, see <a href="https://archive.org/details/textualcriticismandeditorialtechniquemartinwestl./">West (1973)</a>.</li>
-      <li><strong>Source</strong>
-        <ul>
-          <li>A <strong>plus sign</strong> ('+') following a source means the word is also attested in one or more other sources dating from the same year.</li>
-          <li>A <strong>question mark</strong> ('?') means the scholar who antedated the word didn't supply the source in their writings.</li>
-          <li>A <strong>question mark</strong> ('?') following a source means the scholar who antedated the word didn't clearly specify the source in their writings and that the one given here was inferred from their bibliography.</li>
-        </ul>
-      </li>
     </ul>
 </details></p>
 
