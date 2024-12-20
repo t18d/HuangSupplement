@@ -75,11 +75,12 @@ last_modified_at: 2024-12-20T14:43:49+00:00
     <h3>Sources</h3>
     <p class="text-gray">(A copy of each article is archived in the <a href="https://github.com/t18d/HuangSupplement/tree/main/assets">repo</a>.)</p>
     <ul>
+      <li>Canaris, Daniel et al. (eds), <em>Michele Ruggieri’s </em>Tianzhu shilu (Leiden, 2023), 280.</li>
       <li>崔蕭寒, '「摩擦」の語史：日中両語の相互影響', master's thesis, Osaka University, 2021.</li>
       <li>馮玥, '「反応」の語誌', master's thesis, Osaka University, 2022.</li>
       <li>缪蓬, '晚清民国“病毒”知识的翻译与引介：知识翻译学视角', 『当代外语研究』, 4 (2022), 22–32.</li>
       <li>牛振, '近代日语译词对汉语地理学译词的影响探析', 『汉字汉语研究』, 24 (2023), 109–24.</li>
-      <li>Schmidt, Christian, et al. (eds), <a href="https://mhdb.mh.sinica.edu.tw/vocabulary/search.php">漢語新詞資料庫</a>, accessed 30 Sept. 2024.</li> 
+      <li>Schmidt, Christian et al. (eds), <a href="https://mhdb.mh.sinica.edu.tw/vocabulary/search.php">漢語新詞資料庫</a>, accessed 30 Sept. 2024.</li> 
       <li>沙広聡, '接尾辞「性」の歴史：日中両語間の相互影響', master's thesis, Osaka University, 2020.</li>
       <li>Tanomura, Tadaharu, 'カレーを表す中国語名称の変遷',『或問』, 38 (2020), 15–25.</li>
       <li>Tanomura, Tadaharu, '「接種」の語史: 種痘関連用語の生成と消長',『阪大日本語研究』, 34 (2022), 27–45.</li>
