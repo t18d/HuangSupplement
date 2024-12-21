@@ -48,7 +48,7 @@ What gets changed may be a punctuation mark, but it could just as likely be a wo
 [f4e8297](https://github.com/t18d/HuangSupplement/commit/f4e8297a1459d10285015b5d3b30ff885771578d)
 
 ```diff
-- 本土,local,noun,1857,有本土邏卒四人、為華民所殺,"『六合叢談』1/4, 15+",
+- 本土,local,adjective,1857,有本土邏卒四人、為華民所殺,"『六合叢談』1/4, 15+",
 ```
 
 This sense of 本土 dates back to 11th century
