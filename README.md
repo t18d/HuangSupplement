@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-20T23:55:41+00:00
+last_modified_at: 2024-12-21T02:27:22+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -145,7 +145,6 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 被面|/|noun|1847|Coverlet, 被窩 … 被面|Medhurst, _English and Chinese Dictionary_, s.v. Coverlet|
 被殺|/|preposition + verb|1857|又辨金色之吏、曰穵林敦、亦被殺|『六合叢談』1/4, 15+|
 本體|/|noun|1844|Essence, 精 … 本體 … 精氣|Williams『英華韵府歷階』s.v. Essence|
-本土|local|noun|1857|有本土邏卒四人、為華民所殺|『六合叢談』1/4, 15+|
 本義|/|noun|1868|the proper sense of a word, 本意 … 本義|Lobscheid『英華字典』s.v. Proper|
 本質|/|noun|1672|夫風之本質乃地所発乾熱之気有多端可証一試|南懐仁『坤輿圖説』|
 鼻音|/|noun|1869|Twang, a, … or nasal sound, 鼻音 … 鼻聲|Lobscheid『英華字典』s.v. Twang+|
