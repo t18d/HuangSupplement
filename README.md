@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-21T03:27:59+00:00
+last_modified_at: 2024-12-21T03:40:27+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -152,7 +152,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 筆名|/|noun|1908|A false name, 偽名, 冒名, 假名, 別名, 筆名.|顏惠慶『英華大辭典』s.v. Pseudonym|
 必然|/|adverb|1703|Forçosam<sup>te</sup> piĕ̇ tińg. piĕ̇ kińg. piĕ̇ jên.|Varo, _Arte de la lengua mandarina_, 65|
 標本|/|noun|1902|始作動物標本室。|梁啓超「格致學沿革考略」in『新民叢刊』14, 12|
-標記|/|noun|1858|朔望上下弦表、歷年測量寒熱表、行進江海標記、潮汐表、中外寄書表|『六合叢談』2/1, 15|?
+標記|/|noun|1858|朔望上下弦表、歷年測量寒熱表、行進江海標記、潮汐表、中外寄書表|『六合叢談』2/1, 15|earliest use as noun
 標準語|/|noun|1916|~ language, 標準語|赫美玲『官話』s.v. Standard|
 表面張力|/|noun|1911|surface tension 表面張力.|Wilhelm『德英華文科學字典』s.v. Oberflächenspannung|
 表情|/|noun|1908|Expression of the passions, 表情, 情徵|顏惠慶『英華大辭典』s.v. Pathognomy|
