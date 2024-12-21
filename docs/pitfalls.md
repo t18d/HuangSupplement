@@ -37,6 +37,24 @@ What gets changed may be a punctuation mark, but it could just as likely be a wo
 
 [pull/2#discussion_r1883680686](https://github.com/t18d/HuangSupplement/pull/2#discussion_r1883680686)
 
+## reinventing the wheel
+
+```diff
+- 本文,the original (text),noun,1857,合衆領事、及日本官、於兩國方言文字、均不能互相明曉、故於合約中准用荷蘭字為本文,"『六合叢談』1/12, 11",
+```
+
+本文 in this sense dates back to 3rd century
+
+[f4e8297](https://github.com/t18d/HuangSupplement/commit/f4e8297a1459d10285015b5d3b30ff885771578d)
+
+```diff
+- 本土,local,noun,1857,有本土邏卒四人、為華民所殺,"『六合叢談』1/4, 15+",
+```
+
+This sense of 本土 dates back to 11th century
+
+[10200d6](https://github.com/t18d/HuangSupplement/commit/10200d667f8782e6f418bd58cd5d2e449b073a36)
+
 ## same year, whose priority?
 
 ```diff
