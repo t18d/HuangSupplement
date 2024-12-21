@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-21T12:03:31+00:00
+last_modified_at: 2024-12-21T12:27:27+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -173,7 +173,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 補助金|/|noun|1908|A pecuniary grant from government, 政府之津貼, 補助金, 保護金|顏惠慶『英華大辭典』s.v. Subvention|
 不法行爲|/|noun|1903|對被治者之不法行爲。科以一定之惡報者。謂之刑法|汪榮寶–葉瀾『新爾雅·釋法』33|
 不合理|/|adjective|1822|It does not comport with right reason, 不合理 … 與理不相符|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. COMPORT|
-不全|/|adjective|1857|又常有官骸不全之人、而心之未嘗不全、靈魂與身體不同也|A. Williamson in 『六合叢談』1/11, 8+|
+不全|/|adjective|戰國|/|/|
 不許|/|verb|1815|書上有講不明白的義旨就來細問不許含混|Morrison, _A Dictionary of the Chinese Language_, i/i, 750|
 布丁|/|noun|1908|?|『匯報·書大木齋主新名詞評議後』|
 布告|/|noun|1908|The notice given, 布告, 告示, 廣告, 告白|顏惠慶『英華大辭典』s.v. Notification+|
