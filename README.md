@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-21T08:31:14+00:00
+last_modified_at: 2024-12-21T12:03:31+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -157,7 +157,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 標準語|/|noun|1916|~ language, 標準語|Hemeling『官話』s.v. Standard|
 表面張力|/|noun|1911|surface tension 表面張力.|Wilhelm『德英華文科學字典』s.v. Oberflächenspannung|
 表情|/|noun|1908|Expression of the passions, 表情, 情徵|顏惠慶『英華大辭典』s.v. Pathognomy|
-冰山|/|noun|1602|?|利瑪竇『坤輿萬國全圖』|
+冰山|/|noun|1602|?|Ricci in『坤輿萬國全圖』|趙明 (2016)
 冰箱|1|noun|1869|Refrigerator 涼箱 … 冰箱|Lobscheid『英華字典』s.v. Refrigerator|
 兵工廠|/|noun|1917 (mid-1916)|Arsenal 軍械局, 兵工廠|Mateer, _Hand Book of New Terms and Newspaper Chinese_|
 兵營|/|noun|1822|CAMP, 營 … 兵營 … 營寨|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. CAMP+|
