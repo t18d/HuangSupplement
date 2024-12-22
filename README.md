@@ -57,8 +57,8 @@ last_modified_at: 2024-12-22T07:46:44+00:00
     <br>
     <ul>
       <li>A Grammatical Appendix (<a href="https://github.com/t18d/HuangSupplement/issues/5">#5</a>)</li>
-      <li>Sexual Vocabulary</li>
-      <li>Loanwords</li>
+      <li><a href="https://github.com/t18d/HuangSupplement/blob/main/anatomy.csv">Anatomical Terms</a></li>
+      <li><a href="https://github.com/t18d/HuangSupplement/blob/main/loanwords.csv">Loanwords</a></li>
     </ul>
   </details>
 </p>
