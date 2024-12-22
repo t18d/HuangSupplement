@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-22T02:50:14+00:00
+last_modified_at: 2024-12-22T03:05:27+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -217,6 +217,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 破碎|/|verb|1844|Shatter, 破碎|Williams『英華韵府歷階』s.v. Shatter|
 齊唱|/|verb|1844|Chorus, join 齊唱|Williams『英華韵府歷階』s.v. Chorus|
 臍帶|/|noun|1887|Cotydon umbilicus 有臍帶苦替離屯|Fryer『西藥大成藥品中西名目表』18|
+汽油|/|noun|1917|汽油 benzine, naphtha|Mateer, _Hand Book of New Terms and Newspaper Chinese_, 161|
 鉗子|/|noun|1848|鉗子⋯小鉗子|Medhurst, _English and Chinese Dictionary_, s.v. Pliers|
 山脈|/|noun|1858|山脈之方向|W. Muirhead in『六合叢談』1/13, 9|
 哨子|/|noun|1889|Steam whistle 汽哨子|Fryer『汽機中西名目表』49|
