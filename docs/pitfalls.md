@@ -55,6 +55,16 @@ This sense of 本土 dates back to 11th century
 
 [10200d6](https://github.com/t18d/HuangSupplement/commit/10200d667f8782e6f418bd58cd5d2e449b073a36)
 
+## same word, different orthography
+
+```diff
++ 偶像,/,noun,1927,我好像也已經成了偶象了,魯迅『兩地書·一〇五』,metaphorical
+```
+
+A word is a word whatever its surface orthography. The phenomenon, of course, is a very old one in Chinese.
+
+[2247d61](https://github.com/t18d/HuangSupplement/commit/2247d61a7a29015fe309c1d910501e839677ada1)
+
 ## same year, whose priority?
 
 ```diff
