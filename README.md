@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-22T13:41:30+00:00
+last_modified_at: 2024-12-22T13:56:27+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -219,7 +219,6 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 偶像|/|noun|1927|我好像也已經成了偶象了|魯迅『兩地書·一〇五』|metaphorical
 排外主義|/|noun|1908|the act or practice of excluding or being exclusive, 拒絕主義, 排外主義|顏惠慶 『英華大辭典』s.v. Exclusivism|
 炮灰|/|noun|1934|殺人者在毁壞世界，救人者在修補它，而炮灰資格的諸公，卻總在恭維殺人者。|魯迅『且介亭雜文‧拿破侖與隋那』|
-披露|/|verb|1906|用特披露腹心，以今日革命之經綸，暨將來治國之大本，布告天下。|『同盟會革命方略·軍政府宣言』|
 批判|/|verb|1916|批判<sup>新</sup> … 評騭|Hemeling『官話』s.v. Criticize|
 皮包|/|noun|1866|a leather bag, 皮包|Lobscheid『英華字典』s.v. Bag|
 破碎|/|verb|1844|Shatter, 破碎|Williams『英華韵府歷階』s.v. Shatter|
