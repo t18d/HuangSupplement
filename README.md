@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-22T11:44:54+00:00
+last_modified_at: 2024-12-22T12:45:12+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -217,6 +217,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 濃度|/|noun|1908|the strength of spirits, 酒之濃度|顏惠慶『英華大辭典』s.v. Strength|
 暖氣|/|noun|1866|Caliduct … 熱氣筒 … 暖氣筒|Lobscheid『英華字典』s.v. Caliduct|
 偶像|/|noun|1927|我好像也已經成了偶象了|魯迅『兩地書·一〇五』|metaphorical
+排外主義|/|noun|1908|the act or practice of excluding or being exclusive, 拒絕主義, 排外主義|顏惠慶 『英華大辭典』s.v. Exclusivism|
+炮灰|/|noun|1934|殺人者在毁壞世界，救人者在修補它，而炮灰資格的諸公，卻總在恭維殺人者。|魯迅『且介亭雜文‧拿破侖與隋那』|
 批判|/|verb|1916|批判<sup>新</sup> … 評騭|Hemeling『官話』s.v. Criticize|
 皮包|/|noun|1866|a leather bag, 皮包|Lobscheid『英華字典』s.v. Bag|
 破碎|/|verb|1844|Shatter, 破碎|Williams『英華韵府歷階』s.v. Shatter|
