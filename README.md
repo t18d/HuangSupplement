@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-22T14:02:41+00:00
+last_modified_at: 2024-12-23T03:20:28+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -222,6 +222,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 披露|/|verb|1913|披露 … Announcement as of publication of book.|Mateer, _New Terms for New Ideas_, 123|public as opposed to private discourse
 批判|/|verb|1916|批判<sup>新</sup> … 評騭|Hemeling『官話』s.v. Criticize|
 皮包|/|noun|1866|a leather bag, 皮包|Lobscheid『英華字典』s.v. Bag|
+評論家|/|noun|1908|the writer of a review, 品評之人, 評論家, 新著作評論家|顏惠慶 『英華大辭典』s.v. Reviewer|
 破碎|/|verb|1844|Shatter, 破碎|Williams『英華韵府歷階』s.v. Shatter|
 齊唱|/|verb|1844|Chorus, join 齊唱|Williams『英華韵府歷階』s.v. Chorus|
 汽油|/|noun|1917|汽油 benzine, naphtha|Mateer, _Hand Book of New Terms and Newspaper Chinese_, 161|
