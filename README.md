@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-23T13:19:40+00:00
+last_modified_at: 2024-12-23T13:23:26+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -241,7 +241,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 鉗子|/|noun|1848|鉗子⋯小鉗子|Medhurst, _English and Chinese Dictionary_, s.v. Pliers|
 槍刺|/|noun|1913|刺刀 … 槍刺 … Bayonet.|Mateer, _New Terms for New Ideas_, 16|
 強加|/|noun|1857|能強加力於他物者、謂重學之力|『六合叢談』1/11, 12|
-牆腳|/|noun|Foundation, 基址 … 墻腳|Williams『英華韵府歷階』s.v. Foundation|
+牆腳|/|noun|1844|Foundation, 基址 … 墻腳|Williams『英華韵府歷階』s.v. Foundation|
 侵入|/|verb|1868|to invade … as a disease a system, 侵入 … 侵害|Lobscheid『英華字典』s.v. Invade+|metaphorical
 侵襲|/|verb|1847|to come upon, to attack, 侵襲|Medhurst, _English and Chinese Dictionary_, s.v. To come|
 山脈|/|noun|1858|山脈之方向|W. Muirhead in『六合叢談』1/13, 9|
