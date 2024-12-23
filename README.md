@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-23T06:47:49+00:00
+last_modified_at: 2024-12-23T06:56:08+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -125,15 +125,15 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 扳手|2|noun|1893|其彈子均由後膛旁孔納入，膛下設木把手，用右手把住扳手 …|鄭觀應『盛世危言‧火器』|
 斑馬|/|noun|1887|Zebra 斑馬|鄺其照『華英字典集成』s.v. Zebra|
 版畫|/|noun|1908|An impression from an engraved plate, block of wood, or other material, 刻版印刷物, 版畫, 印畫|顏惠慶『英華大辭典』s.v. Engraving+|
-版權|/|noun|1887|/|黃遵憲『日本國志·食貨志二』|
+版權|/|noun|1895 (1887)|/|黃遵憲『日本國志·食貨志二』|
 半旗|/|noun|1911|at half-mast 半旗, 半桿旗.|Wilhelm『德英華文科學字典』s.v. Halbmast+|
 伴侶|/|noun|1842|伴侶 … an associate|Medhurst, _Chinese and English Dictionary_, s.v. 侶|
 幫|/|noun|1872|Party _or company,_ 羣黨 … 朋黨 … 班 … 幫|Doolittle『英華萃林韻府』s.v. Party|
 綁票|/|verb|1917|Kidnap 綁票, 請財神|Mateer, _Hand Book of New Terms and Newspaper Chinese_|
 保留|1|verb|1908|To hold or retain, 保有, 保留|顏惠慶『英華大辭典』s.v. Keep+|
 保險公司|/|noun|1868|insurance company, 保險會 … 保險公司|Lobscheid『英華字典』s.v. Insurance+|
-保證書|/|noun|1887|又住在裁判所管內饒有貲產者亦可代納應充金額之保證書|黃遵憲『日本國志·刑法志二』|
-報告|1|noun|1887|若更命留禁要將其事由報告裁判長|黃遵憲『日本國志·刑法志一』|
+保證書|/|noun|1895 (1887)|又住在裁判所管內饒有貲產者亦可代納應充金額之保證書|黃遵憲『日本國志·刑法志二』|
+報告|1|noun|1895 (1887)|若更命留禁要將其事由報告裁判長|黃遵憲『日本國志·刑法志一』|
 暴風|/|noun|1822|TEMPEST of wind, 暴風 … or reversed|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. TEMPEST+|
 暴力|/|noun|1908|Power exerted against will or consent, 抗願之力, 逼迫之力, 壓力, 暴力, 暴行|顏惠慶『英華大辭典』s.v. Force+|
 暴雨|/|noun|1857|有燥土而時有暴雨、成大水不能潤土者|W. Muirhead in『六合叢談』1/13, 10|
@@ -228,6 +228,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 齊唱|/|verb|1844|Chorus, join 齊唱|Williams『英華韵府歷階』s.v. Chorus|
 騎士|/|noun|1908|In feudal times, one admitted by peculiar ceremonies to a certain military rank, 武士, 騎士|顏惠慶『英華大辭典』s.v. Knight|
 歧義|/|adjective|1916|Equivocal … term, 歧義之名<sup>部定</sup>|Hemeling『官話』s.v. Equivocal|
+起訴|/|verb|1895 (1887)|/|黃遵憲『日本國志·刑法志一』|
 汽油|/|noun|1917|汽油 benzine, naphtha|Mateer, _Hand Book of New Terms and Newspaper Chinese_, 161|
 牽引力|/|noun|1916|Traction … (force), 牽引力<sup>部定</sup>|Hemeling 『官話』s.v. Traction|
 前景|/|noun|1867|Foreground 前地 … 前景|Lobscheid『英華字典』s.v. Foreground|
