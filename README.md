@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-23T13:23:26+00:00
+last_modified_at: 2024-12-23T13:27:06+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -230,7 +230,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 歧義|/|adjective|1916|Equivocal … term, 歧義之名<sup>部定</sup>|Hemeling『官話』s.v. Equivocal|
 起訴|/|verb|1895 (1887)|/|黃遵憲『日本國志·刑法志一』|
 起義|2|verb|1833|亦有人起義以應其隆奈者也。|Gützlaff『東西洋考每月統記傳』癸巳十二月, 79|
-契據|/|noun|1872|(document) 契 … 契|Doolittle『英華萃林韻府』s.v. Deed|
+契據|/|noun|1872|(document) 契 … 契據|Doolittle『英華萃林韻府』s.v. Deed|
 棄權|/|verb|1895 (1887)|/|黃遵憲『日本國志·刑法志一』|
 汽油|/|noun|1917|汽油 benzine, naphtha|Mateer, _Hand Book of New Terms and Newspaper Chinese_, 161|
 鉛筆|/|noun|1822|Blacklead pencil, 鉛筆|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. BLACKLEAD|
