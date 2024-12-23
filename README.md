@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-23T06:56:08+00:00
+last_modified_at: 2024-12-23T09:27:38+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -229,7 +229,9 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 騎士|/|noun|1908|In feudal times, one admitted by peculiar ceremonies to a certain military rank, 武士, 騎士|顏惠慶『英華大辭典』s.v. Knight|
 歧義|/|adjective|1916|Equivocal … term, 歧義之名<sup>部定</sup>|Hemeling『官話』s.v. Equivocal|
 起訴|/|verb|1895 (1887)|/|黃遵憲『日本國志·刑法志一』|
+起義|2|verb|1833|亦有人起義以應其隆奈者也。|Gützlaff『東西洋考每月統記傳』癸巳十二月, 79|
 汽油|/|noun|1917|汽油 benzine, naphtha|Mateer, _Hand Book of New Terms and Newspaper Chinese_, 161|
+棄權|/|verb|1895 (1887)|/|黃遵憲『日本國志·刑法志一』|
 牽引力|/|noun|1916|Traction … (force), 牽引力<sup>部定</sup>|Hemeling 『官話』s.v. Traction|
 前景|/|noun|1867|Foreground 前地 … 前景|Lobscheid『英華字典』s.v. Foreground|
 鉗子|/|noun|1848|鉗子⋯小鉗子|Medhurst, _English and Chinese Dictionary_, s.v. Pliers|
