@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-23T12:24:27+00:00
+last_modified_at: 2024-12-23T12:38:44+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -236,8 +236,10 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 鉛筆|/|noun|1822|Blacklead pencil, 鉛筆|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. BLACKLEAD|
 牽引力|/|noun|1916|Traction … (force), 牽引力<sup>部定</sup>|Hemeling 『官話』s.v. Traction|
 前部|/|noun|1908|the fore end of a wagon, 車首, 車之前部|顏惠慶 『英華大辭典』s.v. Fore+|This is where Huang corrects 漢語大詞典: 前部 was always military before 1900s.
+潛伏期|1|noun|1908|病之隱匿期，潛伏期|顏惠慶『英華大辭典』s.v. Latent|
 前景|/|noun|1867|Foreground 前地 … 前景|Lobscheid『英華字典』s.v. Foreground|
 鉗子|/|noun|1848|鉗子⋯小鉗子|Medhurst, _English and Chinese Dictionary_, s.v. Pliers|
+槍刺|/|noun|1913|刺刀 … 槍刺 … Bayonet.|Mateer, _New Terms for New Ideas_, 16|
 侵入|/|verb|1868|to invade … as a disease a system, 侵入 … 侵害|Lobscheid『英華字典』s.v. Invade+|metaphorical
 侵襲|/|verb|1847|to come upon, to attack, 侵襲|Medhurst, _English and Chinese Dictionary_, s.v. To come|
 山脈|/|noun|1858|山脈之方向|W. Muirhead in『六合叢談』1/13, 9|
