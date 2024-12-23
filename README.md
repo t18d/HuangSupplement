@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-23T03:55:51+00:00
+last_modified_at: 2024-12-23T04:10:09+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -226,6 +226,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 破碎|/|verb|1844|Shatter, 破碎|Williams『英華韵府歷階』s.v. Shatter|
 七色板|/|noun|1926|現在的小學生就能玩七色板⋯收羅許多著名學者的大著作的大報，自然是光怪陸離，但也是轉不得|魯迅「雜論管閑事，做學問，灰色等」in『語絲』|
 齊唱|/|verb|1844|Chorus, join 齊唱|Williams『英華韵府歷階』s.v. Chorus|
+歧義|/|adjective|1916|Equivocal … term, 歧義之名力<sup>部定</sup>|Hemeling『官話』s.v. Equivocal|
 汽油|/|noun|1917|汽油 benzine, naphtha|Mateer, _Hand Book of New Terms and Newspaper Chinese_, 161|
 牽引力|/|noun|1916|Traction … (force), 牽引力<sup>部定</sup>|Hemeling 『官話』s.v. Traction|
 前景|/|noun|1867|Foreground 前地 … 前景|Lobscheid『英華字典』s.v. Foreground|
