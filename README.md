@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-23T04:26:21+00:00
+last_modified_at: 2024-12-23T06:47:49+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -224,7 +224,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 皮包|/|noun|1866|a leather bag, 皮包|Lobscheid『英華字典』s.v. Bag|
 評論家|/|noun|1908|the writer of a review, 品評之人, 評論家, 新著作評論家|顏惠慶 『英華大辭典』s.v. Reviewer|
 破碎|/|verb|1844|Shatter, 破碎|Williams『英華韵府歷階』s.v. Shatter|
-七色板|/|noun|1926|現在的小學生就能玩七色板⋯收羅許多著名學者的大著作的大報，自然是光怪陸離，但也是轉不得|魯迅「雜論管閑事，做學問，灰色等」in『語絲』|
+七色板|/|noun|1926|現在的小學生就能玩七色板⋯收羅許多著名學者的大著作的大報，自然是光怪陸離，但也是轉不得|魯迅「雜論管閑事，做學問，灰色等」in『語絲』62, 3|
 齊唱|/|verb|1844|Chorus, join 齊唱|Williams『英華韵府歷階』s.v. Chorus|
 騎士|/|noun|1908|In feudal times, one admitted by peculiar ceremonies to a certain military rank, 武士, 騎士|顏惠慶『英華大辭典』s.v. Knight|
 歧義|/|adjective|1916|Equivocal … term, 歧義之名<sup>部定</sup>|Hemeling『官話』s.v. Equivocal|
