@@ -26,13 +26,13 @@ last_modified_at: 2024-12-24T02:55:57+00:00
     <ul>
       <li><strong>Lemma</strong>
         <ul>
-          <li>To facilitate cross-checking, the arrangement of entries is that of Mair et al. (2003) with the following exceptions:
+          <li>To facilitate cross-checking, the arrangement of lemmata is that of Mair et al. (2003) with the following exceptions:
             <ul>
-              <li>Entries whose <strong>head characters</strong> share the same sequence of letters and tone are sorted by subsequent characters;</li>
-              <li>In case that fails, entries are sorted by the number of <strong>strokes</strong> of the characters concerned.</li>
+              <li>Words whose <strong>head characters</strong> share the same sequence of letters and tone are sorted by subsequent characters;</li>
+              <li>In case that fails, they are sorted by the number of <strong>strokes</strong> of the characters concerned.</li>
             </ul>
           </li>
-          <li><strong>Script</strong> is not regularised. A lemma can take the form of any commonly used orthography.</li>
+          <li><strong>Script</strong> is not regularised. A word can take the form of any commonly used orthography.</li>
           <li>Phonetic <strong>loanwords</strong> and anatomical terms are collected in separate appendices.</li>
         </ul>
       </li>
@@ -45,10 +45,10 @@ last_modified_at: 2024-12-24T02:55:57+00:00
         </ul>
       </li>
       <li>Assignment to <strong>Word Class</strong> follows the scheme of Huang and Shi (2016), but freely departs from it where their analysis is considered inadequate. A grammatical appendix will present the linguistic argumentation in favour of the alternative view.</li>
-      <li><strong>Year</strong> is that of first attestation.</li>
+      <li><strong>Year</strong> is that of first attestation. For words coined by native writers flourishing before Ch'ing, only the period is given.</li>
       <li><strong>Quotation</strong>
         <ul>
-          <li>A <strong>solidus</strong> ('/') stands for Huang's original quotation.</li>
+          <li>A <strong>solidus</strong> ('/') stands for Huang's original quotation or when the word was coined by pre-Ch'ing native writers.</li>
           <li>A <strong>blank</strong> means the scholar who antedated the word didn't supply the evidence in their writings.</li>
           <li>For traditional <strong>critical symbols</strong>, see <a href="https://archive.org/details/textualcriticismandeditorialtechniquemartinwestl./">West (1973)</a>.</li>
         </ul>
