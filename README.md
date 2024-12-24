@@ -24,7 +24,13 @@ last_modified_at: 2024-12-23T14:16:05+00:00
     <summary>Conventions</summary>
     <br>
     <ul>
-      <li><strong>Sense</strong> 
+      <li>To facilitate cross-checking, the arrangement of <strong>Lemma</strong> is that of Mair et al. (2003) with the following exceptions:
+        <ul>
+          <li>Entries whose <strong>head characters</strong> share the same sequence of letters and tone are sorted by subsequent characters;</li>
+          <li>In case that fails, entries are sorted by the number of <strong>strokes</strong> of the characters concerned.</li>
+        </ul> 
+      </li>
+      <li><strong>Sense</strong>
         <ul>
           <li><strong>Numerals</strong> refer to senses in the 1st edition.</li>
           <li>A <strong>solidus</strong> ('/') signifies that only one sense is given in the 1st edition or that a new lemma has only one common meaning.</li>
@@ -71,6 +77,7 @@ last_modified_at: 2024-12-23T14:16:05+00:00
       <li>Huang, Chu-Ren, and Dingxu Shi (eds), <em>A Reference Grammar of Chinese</em> (Cambridge, 2016).</li>
       <li>Kretschmer, Paul, <em>Sprachregeln für die Bildung und Betonung zoologischer und botanischer Namen</em> (Berlin, 1899).</li>
       <li>Kühner, Raphael, and Friedrich Blass, <em>Ausfürliche Grammatik der Griechischen Sprache: I. Elementar- und Formenlehre</em>, ii (Hanover, 1892).</li>
+      <li>Mair, Victor H. et al. (eds),『漢語大詞典詞目音序索引』(Shanghai, 2003).</li>
     </ul>
     <h3>Sources</h3>
     <p class="text-gray">(A copy of each article is archived in the <a href="https://github.com/t18d/HuangSupplement/tree/main/assets">repo</a>.)</p>
