@@ -12,7 +12,7 @@ last_modified_at: 2024-12-24T00:51:21+00:00
 <br>
 <br>
 <br>
-<p>This database is searchable as a <a href="https://github.com/t18d/HuangSupplement/blob/main/supplement.csv">CSV file</a>. The quickest way to get an addition or correction merged is to fork the repo or <a href="https://github.com/t18d/HuangSupplement/wiki/Clone-the-repo">clone locally</a>, edit the CSV file and send in a pull request. Assignment to word classes follows the scheme of Huang and Shi (2016). Script is not regularised except where it may cause confusion. The intention is to focus on words and forms which are still current in everyday usage, although antedatings of obsolete forms are welcome.</p>
+<p>This database is searchable as a <a href="https://github.com/t18d/HuangSupplement/blob/main/supplement.csv">CSV file</a>. The quickest way to get an addition or correction merged is to fork the repo or <a href="https://github.com/t18d/HuangSupplement/wiki/Clone-the-repo">clone locally</a>, edit the CSV file and send in a pull request. The intention is to focus on antedating and correcting entries in Huang where the lemma is still current in everyday usage.</p>
 
 <div align="center">
 <a href="https://github.com/t18d/HuangSupplement/wiki/Notes-to-Contributors">Notes to Contributors</a> •
@@ -24,11 +24,17 @@ last_modified_at: 2024-12-24T00:51:21+00:00
     <summary>Conventions</summary>
     <br>
     <ul>
-      <li>To facilitate cross-checking, the arrangement of <strong>Lemma</strong> is that of Mair et al. (2003) with the following exceptions:
+      <li><strong>Lemma</strong>
         <ul>
-          <li>Entries whose <strong>head characters</strong> share the same sequence of letters and tone are sorted by subsequent characters;</li>
-          <li>In case that fails, entries are sorted by the number of <strong>strokes</strong> of the characters concerned.</li>
-        </ul> 
+          <li>To facilitate cross-checking, the arrangement of entries is that of Mair et al. (2003) with the following exceptions:
+            <ul>
+              <li>Entries whose <strong>head characters</strong> share the same sequence of letters and tone are sorted by subsequent characters;</li>
+              <li>In case that fails, entries are sorted by the number of <strong>strokes</strong> of the characters concerned.</li>
+            </ul>
+          </li>
+          <li><strong>Script</strong> is not regularised. A lemma can take the form of any commonly used orthography.</li>
+          <li>Phonetic <strong>loanwords</strong> and anatomical terms are collected in separate appendices.</li>
+        </ul>
       </li>
       <li><strong>Sense</strong>
         <ul>
@@ -38,6 +44,7 @@ last_modified_at: 2024-12-24T00:51:21+00:00
           <li>Domain classification is set in <strong>italic type</strong>.</li>
         </ul>
       </li>
+      <li>Assignment to <strong>Word Class</strong> follows the scheme of Huang and Shi (2016), but freely departs from it where their analysis is considered inadequate. A grammatical appendix will present the linguistic argumentation in favour of the alternative view.</li>
       <li><strong>Year</strong> is that of first attestation.</li>
       <li><strong>Quotation</strong>
         <ul>
