@@ -12,7 +12,7 @@ last_modified_at: 2024-12-24T03:35:36+00:00
 <br>
 <br>
 <br>
-<p>This database is searchable as a <a href="https://github.com/t18d/HuangSupplement/blob/main/supplement.csv">CSV file</a>. The quickest way to get an addition or correction merged is to fork the repo or <a href="https://github.com/t18d/HuangSupplement/wiki/Clone-the-repo">clone locally</a>, edit the CSV file and send in a pull request. The intention is to focus on antedating and correcting entries in Huang where the lemma is still current in everyday usage.</p>
+<p>This database is searchable as a <a href="https://github.com/t18d/HuangSupplement/blob/main/supplement.csv">CSV file</a>. The quickest way to get an addition or correction merged is to fork the repo or <a href="https://github.com/t18d/HuangSupplement/wiki/Clone-the-repo">clone locally</a>, edit the CSV file and send in a pull request. The focus is on antedating and amending the entries in Huang where the lemma is still current in everyday usage.</p>
 
 <div align="center">
 <a href="https://github.com/t18d/HuangSupplement/wiki/Notes-to-Contributors">Notes to Contributors</a> •
@@ -28,18 +28,18 @@ last_modified_at: 2024-12-24T03:35:36+00:00
         <ul>
           <li>To facilitate cross-checking, the arrangement of lemmata is that of Mair et al. (2003) with the following exceptions:
             <ul>
-              <li>Words whose <strong>head characters</strong> share the same sequence of letters and tone are sorted by subsequent characters;</li>
-              <li>In case that fails, they are sorted by the number of <strong>strokes</strong> of the characters concerned.</li>
+              <li>words whose <strong>head characters</strong> share the same sequence of letters and tone are sorted by subsequent characters;</li>
+              <li>in case that fails, they are sorted by the number of <strong>strokes</strong> of the characters concerned.</li>
             </ul>
           </li>
-          <li><strong>Script</strong> is not regularised. A word can take the form of any commonly used orthography.</li>
+          <li><strong>Script</strong> is not regularised. A lemma can take the form of any commonly used orthography.</li>
           <li>Phonetic <strong>loanwords</strong> and anatomical terms are collected in separate appendices.</li>
         </ul>
       </li>
       <li><strong>Sense</strong>
         <ul>
-          <li><strong>Numerals</strong> refer to senses in the 1st edition.</li>
-          <li>A <strong>solidus</strong> ('/') signifies that only one sense is given in the 1st edition or that a new lemma has only one common meaning.</li>
+          <li><strong>Numerals</strong> refer to the senses in Huang.</li>
+          <li>A <strong>solidus</strong> ('/') signifies that only one sense is given in Huang or that a new lemma has only one common meaning.</li>
           <li>Glosses serve to disambiguate and are set in <strong>roman type</strong>.</li>
           <li>Domain classification is set in <strong>italic type</strong>.</li>
         </ul>
@@ -48,8 +48,10 @@ last_modified_at: 2024-12-24T03:35:36+00:00
       <li><strong>Year</strong> is that of first attestation. For words coined by native writers flourishing before Ch'ing, only the period is given.</li>
       <li><strong>Quotation</strong>
         <ul>
+          <li>Original orthography is preserved so far as it can be ascertained.</li>
           <li>A <strong>solidus</strong> ('/') stands for Huang's original quotation or when the word was coined by pre-Ch'ing native writers.</li>
           <li>A <strong>blank</strong> means the scholar who antedated the word didn't supply the evidence in their writings.</li>
+          <li>A <strong>question mark</strong> ('?') means the word has not been found in the source cited by the scholar who antedated the word.</li>
           <li>For traditional <strong>critical symbols</strong>, see <a href="https://archive.org/details/textualcriticismandeditorialtechniquemartinwestl./">West (1973)</a>.</li>
         </ul>
       </li>
