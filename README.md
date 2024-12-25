@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-25T03:01:25+00:00
+last_modified_at: 2024-12-25T03:23:40+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -272,5 +272,5 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 峡谷|/|noun|1903|其上部陷落時。則成絕壁如削。是謂峽谷。|『中學地文教科書』52|
 -性|2|nominal suffix|1664|中通曰、水流下而趨中、有剛火性也、火炎上而旋昇、有柔水性也。|方以智『物理小識』|first occurrence in three-morpheme words
 堰塞湖|/|noun|1903|大別之則分凹地湖堰塞湖二種|『中學地文教科書』86|
-蔗糖|/|noun|1885|Cane sugar 蔗糖|Fryer『化學材料中西名目表』8|
+蔗糖|/|noun|1874|說畢卽將瓶中葡萄酒倒入玻璃盞又加蔗糖少許|『瀛寰瑣記』20, 7|
 钟乳石|/|noun|1903|鐘乳石 (Sta\<l>actite)|『中學地文教科書』75|Doolittle (1872): 石鐘乳
