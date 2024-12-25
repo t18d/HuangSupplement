@@ -12,7 +12,19 @@ layout: anchor
 
 &nbsp;  
 &nbsp;  
-&nbsp;  
+&nbsp;
+## diachronic semantics
+
+```diff
+- 汽車,2,noun,1855,,B. Hobson『博物新編』,
+```
+
+汽車 always meant train in the 19th century. All exx. in Chao (2016), p. 232, actually refer to trains.
+
+That's Chu Chün-sheng's 望文生訓.
+
+[184802e](https://github.com/t18d/HuangSupplement/commit/184802ea9877186b40b7e33c3b3a4d7926029dfb)
+
 ## IC analysis
 
 > 忠厚老成者擯之為無能，俠少儇辨者取之為可用，守道愛國者謂之為流俗，敗常害民者謂之為通變。
