@@ -67,6 +67,18 @@ This sense of 本土 dates back to 11th century
 
 [10200d6](https://github.com/t18d/HuangSupplement/commit/10200d667f8782e6f418bd58cd5d2e449b073a36)
 
+## reverse translation
+
+```diff
+- 內容,/,noun,1839,,林則徐『嚴禁本地民人與外人非法往來交易告示』,
+```
+
+Even the very title of this proclamation came from a translation by the editors of Lin. See https://books.google.com/books?id=ngMMAAAAYAAJ&pg=PA212.
+
+> 為迄今中外資料中未見原文者，現按英文譯回來。
+
+[1574258](https://github.com/t18d/HuangSupplement/commit/157425807f2b66ec69fc56cbe6804d77362298cc)
+
 ## same word, different orthography
 
 ```diff
