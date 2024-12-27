@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-25T03:34:32+00:00
+last_modified_at: 2024-12-27T11:39:38+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -227,7 +227,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 難產|/|noun|1815|坼副難產也|Morrison, _A Dictionary of the Chinese Language_, i/i, 494|
 腦海|/|noun|1913|Brains, as the organ of the mind|Mateer, _New Terms for New Ideas_, 43|'An up-to-date man would no longer aspire to have it said of him, 滿肚子裡有學問.'
 內在|/|adjective|1916|Immanent … 內在|Hemeling『官話』s.v. Immanent|
-泥土|/|noun|1858|衝激泥土成新地|W. Muirhead in『六合叢談』1/13, 8|as opposed to the two-word nominal phrase
+泥土|/|noun|1858|衝激泥土成新地|W. Muirhead in『六合叢談』1/13, 8|as opposed to the two-word NP
 凝固|/|verb|1847|to harden, 凝固|Medhurst, _English and Chinese Dictionary_, s.v. To condense|
 濃度|/|noun|1908|the strength of spirits, 酒之濃度|顏惠慶『英華大辭典』s.v. Strength|
 暖氣|/|noun|1866|Caliduct … 熱氣筒 … 暖氣筒|Lobscheid『英華字典』s.v. Caliduct|
