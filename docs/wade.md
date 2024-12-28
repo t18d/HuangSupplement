@@ -1,6 +1,6 @@
 ---
 title: The One True Wade @ HuangSupplement
-description: Thomas Wade's romanisation system
+description: Thomas Wade's romanisation system for Mandarin Chinese
 permalink: wade/
 seo:
   type: Dataset
