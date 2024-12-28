@@ -12,7 +12,7 @@ layout: anchor
 
 &nbsp;  
 &nbsp;  
-&nbsp;
+&nbsp;  
 ## diachronic semantics
 
 ```diff
