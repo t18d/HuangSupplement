@@ -3,8 +3,10 @@ title: Pitfalls in Historical Lexicography @ HuangSupplement
 permalink: pitfalls/
 seo:
   type: Collection
+  name: Pitfalls in Historical Lexicography
 last_modified_at: 2024-12-28T11:56:58+00:00
 layout: anchor
+description: Gleanings from HuangSupplement
 ---
 # Pitfalls in Historical Lexicography
 
