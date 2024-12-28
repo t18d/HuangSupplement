@@ -4,7 +4,7 @@ permalink: wade/
 seo:
   type: Dataset
   name: Thomas Wade's Romanisation of Mandarin Chinese
-last_modified_at: 2024-12-26T15:04:12+00:00
+last_modified_at: 2024-12-28T11:52:50+00:00
 layout: no-anchor
 ---
 # The One True Wade
