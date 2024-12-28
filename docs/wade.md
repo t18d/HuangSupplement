@@ -22,7 +22,7 @@ In the following listing, only `shei` and `tên` are extrapolated to reflect rec
     <summary>Bibliography</summary>
     <h3>Sources</h3>
     <ul>
-      <li>Giles, Herbert A. (ed.), <em>A Chinese-English dictionary,</em> 3 vols (2nd edn, Shanghai, 1912).</li>
+      <li>Giles, Herbert A. (ed.), <em>A Chinese-English Dictionary,</em> 3 vols (2nd edn, Shanghai, 1912).</li>
       <li>Wade, Thomas Francis,『語言自邇集』(London, 1867).</li>
     </ul>
     <h3>As seen in …</h3>
