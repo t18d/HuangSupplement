@@ -1,10 +1,10 @@
 ---
 title: The One True Wade @ HuangSupplement
+description: Thomas Wade's Romanisation of Mandarin Chinese
 permalink: wade/
 seo:
   type: Dataset
   name: The One True Wade
-  description: Thomas Wade's Romanisation of Mandarin Chinese
 last_modified_at: 2024-12-28T13:58:14+00:00
 layout: no-anchor
 ---
