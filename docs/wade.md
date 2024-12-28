@@ -16,17 +16,8 @@ Wade-Giles is a misnomer.
 
 Everything was already present in Wade (1867), so it’s not true that ‘Giles’ Romanization was only very slightly modified from Wade’s’ (Chung 2016).
 
-In the following listing, only `shei` and `tên` are extrapolated to reflect recent phonology; neither is to be found in Wade or Giles (1912).
+In the following listing, only `shei` and `tên` are extrapolated to reflect recent phonology; neither is to be found in Wade or Giles (1912). The rough breathing mark is replaced by an apostrophe to facilitate everyday use.
 &nbsp;  
-<p>
-  <details>
-    <summary>Note</summary>
-    <br>
-    <ul>
-      <li>The rough breathing mark is replaced by an apostrophe to facilitate everyday use.</li>
-    </ul>
-  </details>
-</p>
 
 <p><details>
     <summary>Bibliography</summary>
