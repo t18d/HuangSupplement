@@ -17,7 +17,6 @@ Wade-Giles is a misnomer.
 Everything was already present in Wade (1867), so it’s not true that ‘Giles’ Romanization was only very slightly modified from Wade’s’ (Chung 2016).
 
 In the following listing, only `shei` and `tên` are extrapolated to reflect recent phonology; neither is to be found in Wade or Giles (1912).
-
 &nbsp;  
 <p>
   <details>
@@ -38,11 +37,12 @@ In the following listing, only `shei` and `tên` are extrapolated to reflect rec
     </ul>
     <h3>As seen in …</h3>
     <ul>
-      <li>Chung, Karen Steffen, 'Wade-Giles Romanization System', in Chan, Sin-wai (ed.), <em>The Routledge Encyclopedia of the Chinese Language</em> (London, 2016), 756–76.</li>
+      <li>Chung, Karen Steffen, 'Wade-Giles Romanization System', in Chan Sin-wai (ed.), <em>The Routledge Encyclopedia of the Chinese Language</em> (London, 2016), 756–76.</li>
       <li>Shibles, Warren A., 'Chinese Romanization Systems: IPA Transliteration', <em>Sino-Platonic Papers</em>, 52 (1994), 1–17.</li>
     </ul>
   </details>
 </p>
+&nbsp;  
 
 - a
 - ai
