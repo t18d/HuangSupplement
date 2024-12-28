@@ -8,17 +8,22 @@ last_modified_at: 2024-12-28T11:52:50+00:00
 layout: no-anchor
 ---
 # The One True Wade
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 Wade-Giles is a misnomer.
 
-<p>Everything was already present in Wade (1867), so it’s not true that ‘Giles’ Romanization was only very slightly modified from Wade’s’ (Chung 2016).</p>
+Everything was already present in Wade (1867), so it’s not true that ‘Giles’ Romanization was only very slightly modified from Wade’s’ (Chung 2016).
 
+In the following listing, only `shei` and `tên` are extrapolated to reflect recent phonology; neither is to be found in Wade or Giles (1912).
+
+&nbsp;  
 <p>
   <details>
     <summary>Note</summary>
     <br>
     <ul>
-      <li>`shei` and `tên` are extrapolated to reflect recent phonology. Neither is to be found in Wade or Giles (1912).</li>
       <li>The rough breathing mark is replaced by an apostrophe to facilitate everyday use.</li>
     </ul>
   </details>
@@ -38,7 +43,6 @@ Wade-Giles is a misnomer.
     </ul>
   </details>
 </p>
-&nbsp;  
 
 - a
 - ai
