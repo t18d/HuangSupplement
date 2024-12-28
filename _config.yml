@@ -5,6 +5,7 @@ author:
   url: https://www.tonkunstler-on-the-bund.com
 locale: en_GB
 repository: t18d/HuangSupplement
+url: "https://t18d.github.io"
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
