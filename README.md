@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-27T11:39:38+00:00
+last_modified_at: 2024-12-30T05:39:51+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p class="text-right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -209,6 +209,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 分析|analysis|noun|1899|q.v. 定量分析, 定性分析|/|
 分析|analyse|verb|1908|to explain, 剖明, 解明, 分析|顏惠慶『英華大辭典』s.v. Enucleate|
 咖喱|/|noun|1874|整啲咖喱魚|Dennys『初学階』|
+干貝|/|/|/|/|/|from 干し貝; カンぺイ is Mandarin loanword
 功率|/|noun|1889|Duty of engine 汽機功率|Fryer『汽機中西名目表』17|
 果汁|/|nominal bound root|1887|Colocynth pulp 𠹭囉噺果汁|Fryer『西藥大成藥品中西名目表』17+|
 海拔|/|noun|1901|此次爆發噴煙高出海拔一萬二千米|『清議報』八十六冊「支那現勢論」|
