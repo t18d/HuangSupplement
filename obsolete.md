@@ -1,6 +1,6 @@
 ---
 title: "Appendix: Obsolete Words"
-permalink: /
+permalink: obsolete/
 seo:
   type: Dataset
   name: "Appendix: Obsolete Words"
