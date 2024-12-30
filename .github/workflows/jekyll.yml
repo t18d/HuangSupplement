@@ -16,7 +16,9 @@ on:
       - '**.webp'
 
   workflow_run:
-    workflows: ["Run csv-to-md.py"]
+    workflows:
+      - "Run csv-to-md.py"
+      - "Run csv-to-ob.py"
     types: [completed]
 
   # Allows you to run this workflow manually from the Actions tab
