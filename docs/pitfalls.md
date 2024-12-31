@@ -10,7 +10,7 @@ description: Gleanings from HuangSupplement
 ---
 # Pitfalls in Historical Lexicography
 
-<p class="text-right">Gleanings from HuangSupplement</p>
+<p align="right">Gleanings from HuangSupplement</p>
 
 &nbsp;  
 &nbsp;  
