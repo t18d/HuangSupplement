@@ -71,6 +71,7 @@ last_modified_at: 2025-01-01T07:38:39+00:00
     <summary>Appendices</summary>
     <br>
     <ul>
+      <li><a href="https://t18d.github.io/HuangSupplement/style/">A Stylistic Appendix</a></li>
       <li>A Grammatical Appendix (<a href="https://github.com/t18d/HuangSupplement/issues/5">#5</a>)</li>
       <li><a href="https://t18d.github.io/HuangSupplement/obsolete/">Obsolete Words</a></li>
       <li><a href="https://github.com/t18d/HuangSupplement/blob/main/anatomy.csv">Anatomical Terms</a></li>
