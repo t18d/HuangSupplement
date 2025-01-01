@@ -39,7 +39,7 @@ Usage statements made by lexicographers, on the other hand, are subject to the s
     <summary>Bibliography</summary>
     <h3>Pace …</h3>
     <ul>
-      <li>Hawke, Andrew, 'Quotation Evidence and Definitions', in Philip Durkin (ed.), <em>The Oxford Handbook of Lexicography</em> (Oxford, 2016), 192–3.</li>
+      <li>Hawke, Andrew, '11.11.2 Dictionary Evidence', in Philip Durkin (ed.), <em>The Oxford Handbook of Lexicography</em> (Oxford, 2016), 192–3.</li>
       <li>Osselton, N.&VeryThinSpace;E., 'Secondary Documentation in Historical Lexicography', in <em>Chosen Words: Past and Present Problems for Dictionary Makers</em> (Exeter, 1995), 137–47.</li>
     </ul>
 </details>
