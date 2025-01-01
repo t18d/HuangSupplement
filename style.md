@@ -4,7 +4,7 @@ permalink: style/
 seo:
   type: Guide
   name: A Stylistic Appendix
-last_modified_at: 2025-01-01T06:02:48+00:00
+last_modified_at: 2025-01-01T07:36:09+00:00
 description: The stylistic appendix to HuangSupplement
 ---
 # A Supplement to 近現代漢語辭源
