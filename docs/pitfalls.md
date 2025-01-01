@@ -27,6 +27,23 @@ That's Chu Chün-sheng's 望文生訓.
 
 [184802e](https://github.com/t18d/HuangSupplement/commit/184802ea9877186b40b7e33c3b3a4d7926029dfb)
 
+## dictionary evidence
+
+Dictionary evidence is used liberally in HuangSupplement and treated as _first class_.
+
+A nonce word attested in a dictionary is just that, a hapax legomenon. A word first found in a dictionary is just a word – to be adopted, ignored or reinvented, as the case may be. It doesn't matter how it got there.
+
+Usage statements made by lexicographers, on the other hand, are subject to the same caveats that apply to reports of fieldwork.
+
+<details>
+    <summary>Bibliography</summary>
+    <h3>Pace …</h3>
+    <ul>
+      <li>Hawke, Andrew, 'Quotation Evidence and Definitions', in Philip Durkin (ed.), <em>The Oxford Handbook of Lexicography</em> (Oxford, 2016), 192–3.</li>
+      <li>Osselton, N.&VeryThinSpace;E., 'Secondary Documentation in Historical Lexicography', in <em>Chosen Words: Past and Present Problems for Dictionary Makers</em> (Exeter, 1995), 137–47.</li>
+    </ul>
+</details>
+
 ## IC analysis
 
 > 忠厚老成者擯之為無能，俠少儇辨者取之為可用，守道愛國者謂之為流俗，敗常害民者謂之為通變。
@@ -59,15 +76,13 @@ What gets changed may be a punctuation mark, but it could just as likely be a wo
 
 本文 in this sense dates back to 3rd century
 
-[f4e8297](https://github.com/t18d/HuangSupplement/commit/f4e8297a1459d10285015b5d3b30ff885771578d)
-
 ```diff
 - 本土,local,adjective,1857,有本土邏卒四人、為華民所殺,"『六合叢談』1/4, 15+",
 ```
 
 This sense of 本土 dates back to 11th century
 
-[10200d6](https://github.com/t18d/HuangSupplement/commit/10200d667f8782e6f418bd58cd5d2e449b073a36)
+[f4e8297](https://github.com/t18d/HuangSupplement/commit/f4e8297a1459d10285015b5d3b30ff885771578d), [10200d6](https://github.com/t18d/HuangSupplement/commit/10200d667f8782e6f418bd58cd5d2e449b073a36)
 
 ## reverse translation
 
