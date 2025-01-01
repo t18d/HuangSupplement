@@ -6,7 +6,6 @@ on:
       - main
     paths:
       - supplement.csv
-      - '*.py'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -31,3 +30,9 @@ jobs:
     # Optional. Commit message for the created commit.
     # Defaults to "Apply automatic changes"
           commit_user_name: git-auto-commit-action
+          # Optional glob pattern of files which should be added to the commit
+          # Defaults to all (.)
+          # See the `pathspec`-documentation for git
+          # - https://git-scm.com/docs/git-add#Documentation/git-add.txt-ltpathspecgt82308203
+          # - https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpathspecapathspec
+          file_pattern: supplement.csv
