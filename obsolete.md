@@ -4,7 +4,7 @@ permalink: obsolete/
 seo:
   type: Dataset
   name: "Appendix: Obsolete Words"
-last_modified_at: 2024-12-30T13:28:04+00:00
+last_modified_at: 2025-01-01T06:02:48+00:00
 description: Antedatings, addenda and errata for obsolete words in Huang He-ch'ing's lexicon
 ---
 # A Supplement to 近現代漢語辭源
@@ -14,5 +14,4 @@ description: Antedatings, addenda and errata for obsolete words in Huang He-ch'i
 
 Lemma|Sense|Word Class|Year|Quotation|Source|Note
 ---|---|---|---|---|---|---
-塵拂|/|/|/|/|/|likely from 塵払 (ちり‐はらい)
 乾濕計|/|/|/|/|/|from 乾湿計 (かんしつ‐けい)
