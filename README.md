@@ -3,7 +3,7 @@ title: A Supplement to 近現代漢語辭源
 description: Antedatings, addenda and errata for Huang He-ch'ing's lexicon
 permalink: /
 seo:
-  type: Dataset
+  type: DefinedTermSet
   name: A Supplement to 近現代漢語辭源
 last_modified_at: 2025-01-01T05:55:52+00:00
 ---
