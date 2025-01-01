@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2024-12-31T10:15:27+00:00
+last_modified_at: 2025-01-01T05:55:52+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -196,6 +196,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 采掘|/|verb|1989|礦山採掘權|『東亞報』3, 31|
 菜單|/|noun|1844|bill of fare, 菜單|Williams『英華韵府歷階』s.v. Tavern|
 草原|/|noun|1908|歐洲東南與亞洲西北之草原|顏惠慶『英華大辭典』s.v. Steppe+|
+塵拂|/|/|/|/|/|likely from 塵払 (ちり‐はらい)
 秤桿|/|noun|1889|Weigh levers 秤桿|Fryer『汽機中西名目表』56|
 赤字|/|noun|1931|日本歳入預定過大 赤字問題引起各方非難|『大公報』天津版1931年4月4日4版|
 打胎|/|deverbal noun|1884|打胎惡報|『述報·近聞卷一』35|
