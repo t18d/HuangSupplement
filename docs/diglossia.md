@@ -1,15 +1,15 @@
 ---
-title: On Diglossia @ HuangSupplement
+title: "Appendix: On Diglossia @ HuangSupplement"
 permalink: diglossia/
 seo:
   type: Guide
-  name: On Diglossia
+  name: "Appendix: On Diglossia"
 last_modified_at: 2025-01-02T14:44:22+00:00
 description: Why HuangSupplement treats loanwords differently
 layout: no-anchor
 ---
 # A Supplement to 近現代漢語辭源
-## On Diglossia
+## Appendix: On Diglossia
 &nbsp;  
 &nbsp;  
 &nbsp;  
