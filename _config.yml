@@ -8,6 +8,7 @@ repository: t18d/HuangSupplement
 url: "https://t18d.github.io"
 plugins:
   - jekyll-seo-tag
+  - jekyll-last-modified-at
   - jekyll-sitemap
   - jekyll-github-metadata
   - kramdown-parser-gfm
