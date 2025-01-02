@@ -35,22 +35,22 @@ A nonce word attested in a dictionary is just that, a hapax legomenon. A word fi
 
 Usage statements made by lexicographers, on the other hand, are subject to the same caveats that apply to reports of fieldwork.
 
-<details>
+<p><details>
     <summary>Bibliography</summary>
     <h3>Pace …</h3>
     <ul>
       <li>Hawke, Andrew, '11.11.2 Dictionary Evidence', in Philip Durkin (ed.), <em>The Oxford Handbook of Lexicography</em> (Oxford, 2016), 192–3.</li>
       <li>Osselton, N.&VeryThinSpace;E., 'Secondary Documentation in Historical Lexicography', in <em>Chosen Words: Past and Present Problems for Dictionary Makers</em> (Exeter, 1995), 137–47.</li>
     </ul>
-</details>
+</details></p>
 
-<details>
+<p><details>
     <summary>Exception</summary>
     <br>
     <ul>
       <li>Gilliver, Peter, 'Dictionary words', in John Considine (ed.), <em>Adventuring in Dictionaries: New Studies in the History of Lexicography</em> (Newcastle upon Tyne, 2010), 216–8.</li>
     </ul>
-</details>
+</details></p>
 
 ## IC analysis
 
