@@ -4,6 +4,7 @@ permalink: pitfalls/
 seo:
   type: Collection
   name: Pitfalls in Historical Lexicography
+last_modified_at:
 layout: anchor
 description: Gleanings from HuangSupplement
 ---
