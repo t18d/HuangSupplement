@@ -1,5 +1,5 @@
 ---
-title: A Stylistic Appendix
+title: A Stylistic Appendix @ HuangSupplement
 permalink: style/
 seo:
   type: Guide
