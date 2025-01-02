@@ -1,5 +1,5 @@
 ---
-title: "Appendix: Obsolete Words"
+title: "Appendix: Obsolete Words @ HuangSupplement"
 permalink: obsolete/
 seo:
   type: Dataset
