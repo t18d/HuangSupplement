@@ -4,7 +4,7 @@ permalink: diglossia/
 seo:
   type: Guide
   name: "Appendix: On Diglossia"
-last_modified_at: 2025-01-02T14:44:22+00:00
+last_modified_at: 2025-01-02T23:41:10+00:00
 description: Why HuangSupplement treats loanwords differently
 layout: no-anchor
 ---
