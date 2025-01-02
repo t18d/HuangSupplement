@@ -4,7 +4,7 @@ permalink: pitfalls/
 seo:
   type: Collection
   name: Pitfalls in Historical Lexicography
-last_modified_at:
+last_modified_at: 2025-01-02T09:37:52+00:00
 layout: anchor
 description: Gleanings from HuangSupplement
 ---
