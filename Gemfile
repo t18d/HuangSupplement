@@ -12,7 +12,8 @@ gem "jekyll", "~> 4.3.3"
 
 # Gems loaded irrespective of site configuration.
 group :jekyll_plugins do
-  gem "jekyll-seo-tag"            
+  gem "jekyll-seo-tag"
+  gem "jekyll-last-modified-at"
   gem "jekyll-sitemap"            
   gem "jekyll-github-metadata"
   gem "kramdown-parser-gfm"
