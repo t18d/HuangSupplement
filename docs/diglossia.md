@@ -16,7 +16,7 @@ layout: no-anchor
 &nbsp;  
 This is a long neglected aspect of the Mandarin lexis.
 
-The naive view holds that Mandarin contains few **lexical gaps**. Any gaps that may have emerged since late Ch'ing are filled by calques and especially phonetic loans.
+The naive view holds that Mandarin contains few **lexical gaps**. Any gaps that may have emerged since late Ch'ing are filled by calques and especially [phonetic loans](https://github.com/t18d/HuangSupplement/blob/main/loanwords.csv).
 
 Nothing could be further from the linguistic reality.
 
