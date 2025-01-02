@@ -44,6 +44,14 @@ Usage statements made by lexicographers, on the other hand, are subject to the s
     </ul>
 </details>
 
+<details>
+    <summary>Exception</summary>
+    <br>
+    <ul>
+      <li>Gilliver, Peter, 'Dictionary words', in John Considine (ed.), <em>Adventuring in Dictionaries: New Studies in the History of Lexicography</em> (Newcastle upon Tyne, 2010), 216–8.</li>
+    </ul>
+</details>
+
 ## IC analysis
 
 > 忠厚老成者擯之為無能，俠少儇辨者取之為可用，守道愛國者謂之為流俗，敗常害民者謂之為通變。
