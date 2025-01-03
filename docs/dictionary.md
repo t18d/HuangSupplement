@@ -58,7 +58,10 @@ Source: [Martin Fowler](https://martinfowler.com/bliki/SemanticDiffusion.html#:~
 
 **Example:** As the core meaning of `induce` is that of 'cause', `deduce` has become the verb for `induction` in the sense of 'inference', in a sort of **suppletion**.
 
-† Those who live in fear of Garner (2022) can still write things like 'whereas in principle historical dictionaries proceed by _induction_ from quotations to definition, this is impracticable in the case of terminology: the changing senses of geek can be _induced_ from quotation evidence'.
+<details>
+    <summary>Those that live in fear of Garner …</summary>
+… can nevertheless still write things like 'whereas in principle historical dictionaries proceed by <em>induction</em> from quotations to definition, this is impracticable in the case of terminology: the changing senses of geek can be <em>induced</em> from quotation evidence'.
+</details>
 
 ## technical terms
 … on historical principles
