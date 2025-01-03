@@ -50,6 +50,16 @@ K'ung Ying-ta of T'ang misunderstood the term **hsün ku** and the error persist
 
 The term **phonemic loan** originated as a mistranslation in the writings of scholars who don't understand English. Loanwords are never created on a phonemic basis.
 
+## semantic inversion
+
+A [little studied](https://traugottpeople.sites.stanford.edu/sites/g/files/sbiybj28616/files/media/file/traugott2017a.pdf) type of semantic change whereby a term ends up meaning the opposite of what it was coined to describe.
+
+Source: [Martin Fowler](https://martinfowler.com/bliki/SemanticDiffusion.html#:~:text=Semantic%20Inversion)
+
+**Example:** Becuase the core meaning of `induce` is that of 'cause', `deduce` has become the verb for `induction` in the sense of 'inference', in a sort of **suppletion**.
+
+† Those who live in fear of Garner (2022) can still write things like 'whereas in principle historical dictionaries proceed by _induction_ from quotations to definition, this is impracticable in the case of terminology: the changing senses of geek can be _induced_ from quotation evidence'.
+
 ## technical terms
 … on historical principles
 
