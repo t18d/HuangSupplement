@@ -34,7 +34,7 @@ As a discipline, **historical lexicology** has Soviet origins.
 
 ## hsün ku
 
-K'ung Ying-ta of T'ang misunderstood the term **hsün ku** and the error persisted in most publications from the last century. Huang (1993), a paragon of independent thinking, corrects him. But Ch'i got it right as early as the 1940s.
+K'ung Ying-ta of T'ang misunderstood the term **ku hsün** and the error persisted in most publications from the last century. Huang (1993), a paragon of independent thinking, corrects him. But Ch'i got it right as early as the 1940s.
 
 <details>
     <summary>Bibliography</summary>
