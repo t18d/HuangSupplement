@@ -39,7 +39,8 @@ Not Murray's first choice.
 - Skeat (1879): _An Etymological Dictionary of the English Language, Arranged on an Historical Basis._
 - Skeat (1882): _An Etymological Dictionary of the English Language._
 
-\***
+<span align="center">***</span>
+
 - Murray (1882): _A New English Dictionary on a Historical Basis; founded chiefly on
 materials collected by The Philological Society_
 - Jowett (1883): _A New English Dictionary showing the History of the Language from the Earliest Times_
