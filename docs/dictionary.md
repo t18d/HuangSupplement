@@ -32,6 +32,22 @@ As a discipline, **historical lexicology** has Soviet origins.
     </ul>
 </details>
 
+## historical principles, _on_
+
+Not Murray's first choice.
+
+- Skeat (1879): _An Etymological Dictionary of the English Language, Arranged on an Historical Basis._
+- Skeat (1882): _An Etymological Dictionary of the English Language._
+
+\***
+- Murray (1882): _A New English Dictionary on a Historical Basis; founded chiefly on
+materials collected by The Philological Society_
+- Jowett (1883): _A New English Dictionary showing the History of the Language from the Earliest Times_
+- Liddell (1883): _A New English Dictionary arranged so as to show the continuous history of the Words_
+- Murray (1883): _A New English Dictionary on Historical Principles_
+
+(props Peter Gilliver)
+
 ## hsün ku
 
 K'ung Ying-ta of T'ang misunderstood the term **ku hsün** and the error persisted in most publications from the last century. Huang (1993), a paragon of independent thinking, corrects him. But Ch'i got it right as early as the 1940s.
