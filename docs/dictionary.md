@@ -56,7 +56,7 @@ A [little studied](https://traugottpeople.sites.stanford.edu/sites/g/files/sbiyb
 
 Source: [Martin Fowler](https://martinfowler.com/bliki/SemanticDiffusion.html#:~:text=Semantic%20Inversion)
 
-**Example:** Becuase the core meaning of `induce` is that of 'cause', `deduce` has become the verb for `induction` in the sense of 'inference', in a sort of **suppletion**.
+**Example:** As the core meaning of `induce` is that of 'cause', `deduce` has become the verb for `induction` in the sense of 'inference', in a sort of **suppletion**.
 
 † Those who live in fear of Garner (2022) can still write things like 'whereas in principle historical dictionaries proceed by _induction_ from quotations to definition, this is impracticable in the case of terminology: the changing senses of geek can be _induced_ from quotation evidence'.
 
