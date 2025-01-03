@@ -6,7 +6,7 @@ seo:
   type: Book
   name: Critical Dictionary of Lexicography and Lexicology
 last_modified_at: 2025-01-03T03:11:55+00:00
-layout: no-anchor
+layout: anchor
 ---
 # Critical Dictionary of Lexicography and Lexicology
 &nbsp;  
