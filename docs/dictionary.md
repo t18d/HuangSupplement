@@ -56,7 +56,7 @@ A [little studied](https://traugottpeople.sites.stanford.edu/sites/g/files/sbiyb
 
 Source: [Martin Fowler](https://martinfowler.com/bliki/SemanticDiffusion.html#:~:text=Semantic%20Inversion)
 
-**Example:** As the core meaning of `induce` is that of 'cause', `deduce` has become the verb for `induction` in the sense of 'inference', in a sort of **suppletion**.
+**Example:** The core meaning of `induce` being that of 'cause', `deduce` has become the verb for `induction` in the sense of 'inference', in a sort of **suppletion**.
 
 <details>
     <summary>Those that live in fear of Garner …</summary>
@@ -66,4 +66,4 @@ Source: [Martin Fowler](https://martinfowler.com/bliki/SemanticDiffusion.html#:~
 ## technical terms
 … on historical principles
 
-Because the meaning of a technical term is usually prescriptive and can't be deduced from context, the correct way to write a dictionary of **technical terms** 'on historical principles' is to write a history of how specialist dictionaries define the terms.
+Because the meaning of a technical term is by necessity prescriptive and can't be deduced from context, the correct way to write a dictionary of **technical terms** 'on historical principles' is to write the history of how specialist dictionaries defined each term.
