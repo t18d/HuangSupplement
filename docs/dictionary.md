@@ -65,7 +65,7 @@ K'ung Ying-ta of T'ang misunderstood the term **ku hsün** and the error persist
 ## phonetic loan
 … _vs_ **phonemic loan**
 
-The term **phonemic loan** originated as a mistranslation in the writings of scholars who don't understand English. Loanwords are never created on a phonemic basis.
+The term **phonemic loan** originated as a mistranslation from Mandarin in the writings of scholars who don't understand English. Loanwords are never created on a phonemic basis.
 
 ## semantic inversion
 
