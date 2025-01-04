@@ -85,4 +85,4 @@ Source: [Martin Fowler](https://martinfowler.com/bliki/SemanticDiffusion.html#:~
 
 Because the meaning of a technical term is by necessity **prescriptive** and can't be deduced from context, the correct way to write a dictionary of **technical terms** 'on historical principles' is to write the history of how each term was defined in **specialist dictionaries** and scholarly writings.
 
-**Example:** R.&hairsp;L. Trask, _A Dictionary of Grammatical Terms in Linguistics_ (London, 1993).
+**Example:** R.&#8202;L. Trask, _A Dictionary of Grammatical Terms in Linguistics_ (London, 1993).
