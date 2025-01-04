@@ -1,6 +1,6 @@
 ---
 title: A Supplement to 近現代漢語辭源
-description: Antedatings, addenda and errata to Huang He-ch'ing's lexicon
+description: Antedatings, errata and addenda to Huang He-ch'ing's lexicon
 permalink: /
 seo:
   type: Dataset
