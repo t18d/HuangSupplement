@@ -33,7 +33,7 @@ last_modified_at: 2025-01-02T14:40:18+00:00
             </ul>
           </li>
           <li><strong>Script</strong> is not regularised. A lemma can take the form of any commonly used orthography.</li>
-          <li>Phonetic <strong>loanwords</strong> and anatomical terms are collected in separate appendices. For loanwords, see <a href="https://t18d.github.io/HuangSupplement/diglossia/">On Diglossia</a>.</li>
+          <li><a href="https://t18d.github.io/HuangSupplement/dictionary/#phonetic-loan">Phonetic</a> <strong>loanwords</strong> and anatomical terms are collected in separate appendices. For loanwords, see <a href="https://t18d.github.io/HuangSupplement/diglossia/">On Diglossia</a>.</li>
           <li>For <strong>obsolete words</strong>, see the <a href="https://t18d.github.io/HuangSupplement/style/">Stylistic Appendix</a>.</li>
         </ul>
       </li>
