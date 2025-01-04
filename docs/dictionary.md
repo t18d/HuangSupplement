@@ -83,6 +83,13 @@ Source: [Martin Fowler](https://martinfowler.com/bliki/SemanticDiffusion.html#:~
 ## technical terms
 … on historical principles
 
-Because the meaning of a technical term is by necessity **prescriptive** and can't be deduced from context, the correct way to write a dictionary of **technical terms** 'on historical principles' is to write the history of how each term was defined in **specialist dictionaries** and scholarly writings.
+Because the meaning of a technical term is by necessity **prescriptive** and can't be deduced from context, the correct way to write a dictionary of **technical terms** 'on historical principles' is to write the history of how each term was defined in **specialist dictionaries** and scholarship.
 
 **Example:** R.&#8202;L. Trask, _A Dictionary of Grammatical Terms in Linguistics_ (London, 1993), superseded by OED3.
+
+## theory
+… in historical dictionaries
+
+Trying to keep **theory** out of a dictionary is fighting a losing battle. The very act of definition writing is already theorising.
+
+**Example:** OED3 keeps relying on the theory of **ablaut** and reconstructed **PIE semantics** in spite of having deleted all the PIE forms from its site.
