@@ -13,6 +13,10 @@ layout: anchor
 &nbsp;  
 &nbsp;  
 &nbsp;  
+## comma, _Oxford_
+
+Using the **Oxford comma** when there is no ambiguity conveys the **implicature** that the writer fears criticism for not using it.
+
 ## historical dictionary
 … _vs_ **historical lexicon**
 
