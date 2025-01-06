@@ -38,10 +38,10 @@ Not Murray's first choice.
 
 - Skeat (1879): _An Etymological Dictionary of the English Language, Arranged on an Historical Basis._
 - Skeat (1882): _An Etymological Dictionary of the English Language._
-<details>
+<p><details>
     <summary>But …</summary>
-… the wording 'arranged on an historical basis' continued to be used at least as late as 1925 (Gilliver spotted it in an advertisement in the Spectator 17 Oct 1925, p. 678).
-</details>
+… the wording 'arranged on an historical basis' continued to be used at least as late as 1925 (Gilliver spotted it in an advertisement in the <em>Spectator</em> 17 Oct 1925, p. 678).
+</details></p>
 
 <span align="center">***</span>
 
