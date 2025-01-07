@@ -75,6 +75,10 @@ K'ung Ying-ta of T'ang misunderstood the term **ku hsün** and the error persist
 
 The term **phonemic loan** originated as a mistranslation from Mandarin in the writings of scholars who don't understand English. Loanwords are never created on a phonemic basis.
 
+## punctuation
+
+Punctuation **indicators** are first-class **lexemes** and should be subjected to the same analysis in a dictionary as other lemmata.
+
 ## semantic inversion
 
 A [little studied](https://traugottpeople.sites.stanford.edu/sites/g/files/sbiybj28616/files/media/file/traugott2017a.pdf) type of semantic change whereby a term ends up meaning the opposite of what it was coined to describe.
@@ -92,9 +96,9 @@ Source: [Martin Fowler](https://martinfowler.com/bliki/SemanticDiffusion.html#:~
 
 The idea of [codifying best practice](https://www.chicagomanualofstyle.org/book/ed18/frontmatter/acknow.html#:~:text=codify%20the%20best%20practices) is an oxymoron.
 
-The best **typographers** pick and choose from the best the history of printing has to offer, whereas **manuals of style** merely codify what each publisher does in-house.
+The best **typographers** pick and choose from the best the history of printing has to offer, whereas a **manual of style** merely codifies what the publisher does in-house.
 
-Using close-set em dash in place of en dash, for instance, conveys the **implicature** that one hasn't studied any early books.
+**Example:** Using close-set em dash in place of en dash conveys the **implicature** that one hasn't studied any early books.
 
 <details>
     <summary>Bibliography</summary>
