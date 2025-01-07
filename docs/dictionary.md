@@ -81,6 +81,7 @@ An **inefficient** prose style can remain **functional** because it serves extra
     <br>
     <ul>
       <li>Biber, Douglas, and Bethany Gray, <em>Grammatical Complexity in Academic English: Linguistic Change in Writing</em> (Cambridge, 2016).</li>
+      <li>Schmidt, Jeff, <em>Disciplined Minds: A Critical Look at Salaried Professionals and the Soul-battering System That Shapes Their Lives</em> (Lanham, 2000).</li>
     </ul>
 </details>
 
