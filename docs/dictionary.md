@@ -88,6 +88,22 @@ Source: [Martin Fowler](https://martinfowler.com/bliki/SemanticDiffusion.html#:~
 … can nevertheless still write things like 'whereas in principle historical dictionaries proceed by <em>induction</em> from quotations to definition, this is impracticable in the case of terminology: the changing senses of geek can be <em>induced</em> from quotation evidence'.
 </details>
 
+## style, _manuals of_
+
+The idea of [codifying best practice](https://www.chicagomanualofstyle.org/book/ed18/frontmatter/acknow.html#:~:text=codify%20the%20best%20practices) is an oxymoron.
+
+The best **typographers** pick and choose from the best the history of printing has to offer, whereas **manuals of style** merely codify what each publisher does in-house.
+
+Using close-set em dash in place of en dash, for instance, conveys the **implicature** that one hasn't studied any early books.
+
+<details>
+    <summary>Bibliography</summary>
+    <br>
+    <ul>
+      <li>The last edition of the <a href="http://ling.ed.ac.uk/~gpullum/LandOfTheFree.pdf">unfortunately</a> titled <em>Elements of Typographic Style</em> is version 4.3 from 2019.</li>
+    </ul>
+</details>
+
 ## technical terms
 … on historical principles
 
