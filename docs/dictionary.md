@@ -128,7 +128,7 @@ The best **typographers** pick and choose from the best the history of printing 
 
 Because the meaning of a technical term is by necessity **prescriptive** and can't be deduced from context, the correct way to write a dictionary of **technical terms** 'on historical principles' is to write the history of how each term was defined in **specialist dictionaries** and scholarship.
 
-**Example:** R.&#8202;L. Trask, _A Dictionary of Grammatical Terms in Linguistics_ (London, 1993), superseded by OED3.
+**Examples:** R.&#8202;L. Trask, _A Dictionary of Grammatical Terms in Linguistics_ (London, 1993), superseded by OED3; Katie Wales, _A Dictionary of Stylistics_ (3rd edn, London, 2011).
 
 ## theory
 … in historical dictionaries
