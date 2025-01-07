@@ -1,14 +1,14 @@
 ---
-title: Critical Dictionary of Lexicography and Lexicology @ HuangSupplement
+title: Critical Dictionary of Lexicography and Linguistics @ HuangSupplement
 description: WIP
 permalink: dictionary/
 seo:
   type: Book
-  name: Critical Dictionary of Lexicography and Lexicology
+  name: Critical Dictionary of Lexicography and Linguistics
 last_modified_at: 2025-01-07T05:14:03+00:00
 layout: anchor
 ---
-# Critical Dictionary of Lexicography and Lexicology
+# Critical Dictionary of Lexicography and Linguistics
 &nbsp;  
 &nbsp;  
 &nbsp;  
@@ -67,6 +67,20 @@ K'ung Ying-ta of T'ang misunderstood the term **ku hsün** and the error persist
     <ul>
       <li>黃懷信, '"Hsün ku" tê yu lai chi han i', <em>Hsi pei ta hsüeh hsüeh pao</em>, 23/4 (1993), 79–81.</li>
       <li>齊佩瑢, <em>Hsün ku hsüeh kai lun</em> (Peking, 1984), 1–12.</li>
+    </ul>
+</details>
+
+## inefficiency, _stylistic_
+
+An **inefficient** prose style can remain **functional** because it serves extralinguistic aims.
+
+**Example:** The inexplicit prose style of **research articles** weeds out doctoral candidates who won't conform.
+
+<details>
+    <summary>Bibliography</summary>
+    <br>
+    <ul>
+      <li>Biber, Douglas, and Bethany Gray, <em>Grammatical Complexity in Academic English: Linguistic Change in Writing</em> (Cambridge, 2016).</li>
     </ul>
 </details>
 
