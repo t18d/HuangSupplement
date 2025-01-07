@@ -5,7 +5,7 @@ permalink: dictionary/
 seo:
   type: Book
   name: Critical Dictionary of Lexicography and Linguistics
-last_modified_at: 2025-01-07T12:32:45+00:00
+last_modified_at: 2025-01-07T13:33:21+00:00
 layout: anchor
 ---
 # Critical Dictionary of Lexicography and Linguistics
@@ -16,6 +16,12 @@ layout: anchor
 ## comma, _Oxford_
 
 Using the **Oxford comma** when there is no ambiguity conveys the **implicature** that the writer fears criticism for failing to use it.
+
+## discourse
+
+As a **modifier**, often pleonastic.
+
+**Example:** discourse style.
 
 ## historical dictionary
 … _vs_ **historical lexicon**
