@@ -30,6 +30,8 @@ Thanks to a prolific series originally published by Scarecrow Press, **historica
 
 **Example:** _Greek Philosophical Terms: A_ Historical Lexicon
 
+See also [lexicon](#lexicon).
+
 ## historical lexicology
 
 As a discipline, **historical lexicology** has Soviet origins.
@@ -90,6 +92,14 @@ An **inefficient** prose style can remain **functional** because it serves extra
       <li>Schmidt, Jeff, <em>Disciplined Minds: A Critical Look at Salaried Professionals and the Soul-battering System That Shapes Their Lives</em> (Lanham, 2000).</li>
     </ul>
 </details>
+
+## lexicon
+
+The curiously precise 'chiefly applied to a dictionary of Greek, Hebrew, Syriac, or Arabic' in OED1, copied by Fowler and now ODE, was an accident of history.
+
+Bartholomew Price had actually proposed 'The Oxford Latin Lexicon' for the Clarendon edition of _Harper’s Latin Dictionary_ in 1878.
+
+(props C. Stray)
 
 ## phonetic loan
 … _vs_ **phonemic loan**
