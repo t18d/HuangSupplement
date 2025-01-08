@@ -49,12 +49,10 @@ jobs:
           # new lines.
           # Default: null
           sparse-checkout: |
-            '/*'
-            '!/.github/'
-            '!/assets/*.pdf'
-            '!*.py'
-            '!*.csv'
-            '!LICENSE'
+            /*
+            /*/
+            !/assets/pdf/
+            !/.github/
       - uses: dorny/paths-filter@v3
         id: filter
         with:
@@ -116,12 +114,10 @@ jobs:
           # new lines.
           # Default: null
           sparse-checkout: |
-            '/*'
-            '!/.github/'
-            '!/assets/*.pdf'
-            '!*.py'
-            '!*.csv'
-            '!LICENSE'
+            /*
+            /*/
+            !/assets/pdf/
+            !/.github/
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
