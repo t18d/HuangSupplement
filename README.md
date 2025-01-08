@@ -93,7 +93,7 @@ last_modified_at: 2025-01-06T14:36:18+00:00
       <li>Mair, Victor H. et al. (eds),『漢語大詞典詞目音序索引』(Shanghai, 2003).</li>
     </ul>
     <h3>Sources</h3>
-    <p class="text-gray">(A copy of each article is archived in the <a href="https://github.com/t18d/HuangSupplement/tree/main/assets">repo</a>.)</p>
+    <p class="text-gray">(A copy of each article is archived in the <a href="https://github.com/t18d/HuangSupplement/tree/main/assets/pdf">repo</a>.)</p>
     <ul>
       <li>崔蕭寒, '「摩擦」の語史：日中両語の相互影響', master's thesis, Osaka University, 2021.</li>
       <li>馮玥, '「反応」の語誌', master's thesis, Osaka University, 2022.</li>
