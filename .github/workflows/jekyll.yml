@@ -49,10 +49,11 @@ jobs:
           # new lines.
           # Default: null
           sparse-checkout: |
-            /*
-            /*/
-            !/assets/pdf/
-            !/.github/
+            _includes/
+            _layouts/
+            docs/
+            assets/css/
+            assets/js/
       - uses: dorny/paths-filter@v3
         id: filter
         with:
@@ -114,10 +115,11 @@ jobs:
           # new lines.
           # Default: null
           sparse-checkout: |
-            /*
-            /*/
-            !/assets/pdf/
-            !/.github/
+            _includes/
+            _layouts/
+            docs/
+            assets/css/
+            assets/js/
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
