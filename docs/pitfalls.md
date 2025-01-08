@@ -136,4 +136,9 @@ Characters can easily get dropped so you just have to search for all the substri
 
 That’s the lexicology counterpart to the phonetician Chao’s 言無難.
 
+<p><details>
+    <summary>Cf.</summary>
+… Edward K. Conklin's antedating of 'Justice delayed is justice denied.' from 1868 to 1646 in <a href="https://t18d.github.io/HuangSupplement/sourcebook/#:~:text=Confessions%20of%20the%20Antedater">Shapiro (2018)</a>.
+</details></p>
+
 [pull/2#issuecomment-2544494345](https://github.com/t18d/HuangSupplement/pull/2#issuecomment-2544494345)
