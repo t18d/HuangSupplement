@@ -44,6 +44,17 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # Do a sparse checkout on given patterns. Each pattern should be separated with
+          # new lines.
+          # Default: null
+          sparse-checkout: |
+            '/*'
+            '!/.github/'
+            '!/assets/*.pdf'
+            '!*.py'
+            '!*.csv'
+            '!LICENSE'
       - uses: dorny/paths-filter@v3
         id: filter
         with:
