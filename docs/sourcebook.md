@@ -34,7 +34,7 @@ that several assistants could each be assigned a letter or letters on this basis
 of making quick inroads on the whole alphabet, and bringing significant gaps to light
 which could then be addressed.
 
-> **Onions**’s approach, by contrast, was to work steadily
+> [**Onions**](https://t18d.github.io/HuangSupplement/dictionary/#onions-ct)’s approach, by contrast, was to work steadily
 through the material, making it as complete as possible – conducting research in the
 Bodleian Library and elsewhere if necessary – before moving on.
 
