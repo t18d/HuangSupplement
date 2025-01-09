@@ -101,6 +101,10 @@ Bartholomew Price had actually proposed 'The Oxford Latin Lexicon' for the Clare
 
 (props C. Stray)
 
+## Onions, _C.&#8202;T._
+
+ˈʌn.jənz
+
 ## phonetic loan
 … _vs_ **phonemic loan**
 
