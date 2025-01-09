@@ -6,7 +6,7 @@ seo:
   type: Book
   name: "Lexicography: A Sourcebook"
 last_modified_at: 2025-01-09T06:33:04+00:00
-layout: no-anchor
+layout: anchor
 ---
 # Lexicography: A Sourcebook
 
