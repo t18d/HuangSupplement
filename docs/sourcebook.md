@@ -23,9 +23,7 @@ layout: anchor
 
 <span align="center">***</span>
 
-## Highlights from _The Making of the Oxford English Dictionary_
-
-### the 'Craigie–Wyllie policy'
+## the 'Craigie–Wyllie policy'
 > For **Craigie** ‘[t]he great question [was] how to make the best of the situation’;
 and this could be done by taking whatever material there was and working it up into
 as complete a form as possible, making notes on what additional information or
