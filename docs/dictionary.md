@@ -30,7 +30,7 @@ Thanks to a prolific series originally published by Scarecrow Press, **historica
 
 **Example:** _Greek Philosophical Terms: A_ Historical Lexicon
 
-See also [lexicon](#lexicon).
+See also [**lexicon**](#lexicon).
 
 ## historical lexicology
 
@@ -93,6 +93,12 @@ An **inefficient** prose style can remain **functional** because it serves extra
     </ul>
 </details>
 
+## kerning
+
+Bad **kerning** in a typeset document conveys the **implicature** that the type was set by a typist, not a typographer. Now largely taken care of by [browsers](https://www.w3.org/TR/css-fonts-4/#font-kerning-prop) if a well-made **kerning table** is included with the font.
+
+**Examples:** _The Chicago Manual of Style_ (17th edn), typeset by Graphic Composition, Inc., relied on a faulty kerning table; _New Hart’s Rules_ (2nd edn), typeset in-house at OUP, used unkerned numerals.
+
 ## lexicon
 
 The curiously precise 'chiefly applied to a dictionary of Greek, Hebrew, Syriac, or Arabic' in OED1, copied by Fowler and now ODE, was an accident of history.
@@ -134,6 +140,8 @@ The idea of [codifying best practice](https://www.chicagomanualofstyle.org/book/
 The best **typographers** pick and choose from the best the history of printing has to offer, whereas a **manual of style** merely codifies what the publisher does in-house.
 
 **Example:** Using close-set em dash in place of en dash conveys the **implicature** that one hasn't studied any early books.
+
+See also [**kerning**](#kerning).
 
 <details>
     <summary>Bibliography</summary>
