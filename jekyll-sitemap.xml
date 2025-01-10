@@ -5,9 +5,9 @@ layout: null
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {% for page in site.pages %}
   <url>
-    <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
-    {% if page.date %}
-      <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
+    <loc>{{ site.github.url }}{{ page.url | remove: "index.html" }}</loc>
+    {% if page.last_modified_at %}
+      <lastmod>{{ page.last_modified_at | date_to_xmlschema }}</lastmod>
     {% else %}
       <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     {% endif %}
