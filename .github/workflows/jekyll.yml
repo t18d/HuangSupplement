@@ -14,6 +14,7 @@ on:
       - '**.md'
       - '**.css'
       - '**.webp'
+      - '*.xml'
 
   workflow_run:
     workflows:
