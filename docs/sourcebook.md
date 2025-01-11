@@ -17,6 +17,8 @@ layout: anchor
 &nbsp;  
 [Canones Lexicographici (May 1860)](https://books.google.com/books?id=LqxUAAAAcAAJ&pg=RA3-PA1#v=onepage&q&f=false)
 
+[The Oxford Quarto Dictionary](https://www.henrysweet.org/bulletin-of-the-henry-sweet-society/blog-post-title-one-wj68m-s8yby)
+
 [Sanford Brown Meech at the _Middle English Dictionary_](https://doi.org/10.1353/dic.1995.0015)
 
 [Confessions of the Antedater](https://doi.org/10.1353/dic.2018.0011)
@@ -24,6 +26,7 @@ layout: anchor
 <span align="center">***</span>
 
 ## the 'Craigie–Wyllie policy'
+
 > For **Craigie** ‘[t]he great question [was] how to make the best of the situation’;
 and this could be done by taking whatever material there was and working it up into
 as complete a form as possible, making notes on what additional information or
@@ -44,3 +47,15 @@ Old Ashmolean.… Sisam had recently drawn
 attention to the effect on progress of Mrs Powell’s ‘drifting more & more into the Bodleian’.
 
 (props Peter Gilliver)
+
+## Fowler's stylistic labels
+
+OUPA/ODME/11/61 (Chapman):
+
+> The discrimination of words and <ins>senses</ins>, devised by H.&#8202;W.&#8202;F. for this
+dictionary, is a new thing in lexicography. <ins>O.&#8202;E.&#8202;D.</ins> and other dictionaries
+have, of course, distinguished uses as obsolete, or as low (Johnson's
+word), or as slang. But this is the first systematic attempt to distinguish
+between, e.g., general, literary, and technical uses.
+
+(props Charlotte Brewer)
