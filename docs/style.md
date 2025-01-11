@@ -14,7 +14,7 @@ layout: no-anchor
 &nbsp;  
 &nbsp;  
 &nbsp;  
-Registers are a blind spot of traditional Mandarin lexicography.
+Registers are a blind spot of traditional [Mandarin lexicography](https://t18d.github.io/HuangSupplement/tally/).
 
 Due to a general unfamiliarity with the literature of the Republican period, for many everyday objects often the only expression known to the lexicographer is a **colloquialism**.
 
