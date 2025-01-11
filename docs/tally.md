@@ -17,12 +17,14 @@ layout: anchor
 
 - 7th edn, 2016
 - ~69,000(?) words
+- No quotation evidence
 - A barometer of economic conditions
 
 ## _Hsien tai han yu kuei fan tz’u tien_
 
 - 4th edn, 2022
 - ~72,000 words
+- No quotation evidence
 - The orthography and pronunciations it recommends do _not_ reflect actual usage
 
 ## _The Oxford Chinese dictionary_
@@ -30,12 +32,14 @@ layout: anchor
 - 1st edn, 2010
 - No accurate word count 
 - No significant improvement in methodology despite use of corpus data
+- No quotation evidence
 
 ## _ABC Chinese–English Comprehensive Dictionary_
 
 - 1st edn, 2003
 - 188,597 words
 - Features the same innovative approach to alphabetisation as Mair et al. (2003)
+- No quotation evidence
 
 ## _Hsien tai han yu ta tz’u tien_
 
