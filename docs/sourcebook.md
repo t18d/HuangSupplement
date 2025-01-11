@@ -10,7 +10,7 @@ layout: anchor
 ---
 # Lexicography: A Sourcebook
 
-<p align="right">Items concerning the history <br> of lexicography are not <br> included unless they bear on <br> the praxis of lexicography</p>
+<p align="right">Items concerning the history <br> of lexicography are not <br> included unless they bear on <br> the <em>praxis</em> of lexicography</p>
 
 &nbsp;  
 &nbsp;  
