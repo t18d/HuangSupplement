@@ -5,7 +5,7 @@ permalink: tally/
 seo:
   type: Guide
   name: A Tally of Dictionaries
-last_modified_at: 2025-01-11T15:16:12+00:00
+last_modified_at: 2025-01-11T15:26:36+00:00
 layout: anchor
 ---
 # A Tally of Dictionaries
