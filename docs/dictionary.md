@@ -5,7 +5,7 @@ permalink: dictionary/
 seo:
   type: Book
   name: Critical Dictionary of Lexicography and Linguistics
-last_modified_at: 2025-01-12T08:44:56+00:00
+last_modified_at: 2025-01-12T11:01:13+00:00
 layout: anchor
 ---
 # Critical Dictionary of Lexicography and Linguistics
@@ -120,6 +120,16 @@ Bartholomew Price had actually proposed 'The Oxford Latin Lexicon' for the Clare
 
 (props C. Stray)
 
+## OED3
+
+With so many entries remaining unrevised after a quarter of a century's work, OED3 should stop competing with dictionaries of **current English** such as ODE and focus on revising existing entries as a **period dictionary**.
+
+New words and new senses can be more easily added in OED4 drawing on the material accumulated in successive editions of the **corpus-based** ODE.
+
+The ideal roadmap for the OED is thus OED2 (updating) > OED3 (revision) > OED4 (updating) > OED5 (revision) and so forth.
+
+See also [**record, dictionary of**](#record-dictionary-of).
+
 ## Onions, _C.&#8202;T._
 
 ˈʌn.jənz
@@ -132,6 +142,12 @@ The term **phonemic loan** originated as a mistranslation from Mandarin in the w
 ## punctuation
 
 Punctuation **indicators** are first-class **lexemes** and should be subjected to the same analysis in a dictionary as other lemmata.
+
+## record, _dictionary of_
+
+A term coined by John Simpson in 2001 which has delayed the completion of OED3 for twenty years.
+
+See also [**OED3**](#oed3).
 
 ## semantic inversion
 
