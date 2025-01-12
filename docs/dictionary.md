@@ -23,6 +23,19 @@ As a **modifier**, often pleonastic.
 
 **Example:** discourse style.
 
+## 'Great' Vowel-shift, _the_
+
+Jespersen's term for a now-superseded description of the changes undergone by long vowels in the history of **Standard English**.
+
+<details>
+    <summary>Bibliography</summary>
+    <br>
+    <ul>
+      <li>Minkova, Donka, 'The Great/Long/English Vowel Shift', in <em>A Historical Phonology of English</em> (Edinburgh, 2014), 248–70.</li>
+      <li>Watts, Richard J., 'The myth of "greatness"', in <em>Language Myths and the History of English</em> (Oxford, 2011), 139–56.</li>
+    </ul>
+</details>
+
 ## historical dictionary
 … _vs_ **historical lexicon**
 
