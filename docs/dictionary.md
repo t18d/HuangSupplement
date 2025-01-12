@@ -5,7 +5,7 @@ permalink: dictionary/
 seo:
   type: Book
   name: Critical Dictionary of Lexicography and Linguistics
-last_modified_at: 2025-01-12T11:01:13+00:00
+last_modified_at: 2025-01-12T11:04:40+00:00
 layout: anchor
 ---
 # Critical Dictionary of Lexicography and Linguistics
