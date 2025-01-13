@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-10T14:02:04+00:00
+last_modified_at: 2025-01-13T14:01:18+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -143,7 +143,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 擺|1|noun|1868|of o'clock, 擺|Lobscheid『英華字典』s.v. Pendulum+|
 拜金主義|/|noun|1917|Mammon worship 拜金主義|Mateer, _Hand Book of New Terms and Newspaper Chinese_|
 扳手|2|noun|1893|其彈子均由後膛旁孔納入，膛下設木把手，用右手把住扳手 …|鄭觀應『盛世危言‧火器』|
-斑馬|/|noun|1887|Zebra 斑馬|鄺其照『華英字典集成』s.v. Zebra|
+斑馬|/|noun|1868|Zebra 斑馬|鄺其照『字典集成』s.v. Zebra|
 版畫|/|noun|1908|An impression from an engraved plate, block of wood, or other material, 刻版印刷物, 版畫, 印畫|顏惠慶『英華大辭典』s.v. Engraving+|
 版權|/|noun|1895 (1887)|/|黃遵憲『日本國志·食貨志二』|
 半旗|/|noun|1911|at half-mast 半旗, 半桿旗.|Wilhelm『德英華文科學字典』s.v. Halbmast+|
