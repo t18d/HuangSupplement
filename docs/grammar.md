@@ -5,7 +5,7 @@ permalink: grammar/
 seo:
   type: Guide
   name: A Grammatical Appendix
-last_modified_at: 2025-01-08T11:33:01+00:00
+last_modified_at: 2025-01-14T08:00:22+00:00
 layout: anchor
 ---
 # A Supplement to 近現代漢語辭源
