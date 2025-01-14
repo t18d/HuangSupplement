@@ -8,8 +8,7 @@ last_modified_at: 2025-01-02T23:41:10+00:00
 description: Why HuangSupplement treats loanwords differently
 layout: no-anchor
 ---
-# A Supplement to 近現代漢語辭源
-## Appendix: On Diglossia
+# Appendix: On Diglossia
 &nbsp;  
 &nbsp;  
 &nbsp;  
