@@ -7,8 +7,7 @@ seo:
 last_modified_at: 2025-01-04T13:21:24+00:00
 description: Antedatings, errata and addenda to obsolete words in Huang He-ch'ing's lexicon
 ---
-# A Supplement to 近現代漢語辭源
-## Appendix: Obsolete Words
+# Appendix: Obsolete Words
 
 <!-- Anything not in the table must be before this comment. -->
 
