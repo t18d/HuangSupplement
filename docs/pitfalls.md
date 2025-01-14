@@ -29,11 +29,11 @@ That's Chu Chün-sheng's 望文生訓.
 
 ## dictionary evidence
 
-Dictionary evidence is used liberally in HuangSupplement and treated as _first class_.
+**Dictionary evidence** is used liberally in HuangSupplement and treated as _first class_.
 
-A nonce word attested in a dictionary is just that, a hapax legomenon. A word first found in a dictionary is no less a word – to be adopted, ignored or reinvented, as the case may be. It doesn't matter how it got there.
+A **nonce word** attested in a dictionary is just that, a **hapax legomenon**. A word first found in a dictionary is no less a word – to be adopted, ignored or reinvented, as the case may be. It doesn't matter how it got there.
 
-Usage statements made by lexicographers, on the other hand, are subject to the same caveats that apply to reports of fieldwork.
+**Usage statements** made by lexicographers, on the other hand, are subject to the same caveats that apply to reports of **fieldwork**.
 
 <p><details>
     <summary>Bibliography</summary>
