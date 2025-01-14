@@ -8,15 +8,14 @@ seo:
 last_modified_at: 2025-01-14T14:34:01+00:00
 layout: anchor
 ---
-# A Supplement to 近現代漢語辭源
-## A Grammatical Appendix
+# A Grammatical Appendix
 &nbsp;  
 &nbsp;  
 &nbsp;  
 &nbsp;  
-### 2 Syntax
+## 2 Syntax
 
-#### Gaps in terminology
+### Gaps in terminology
 
 |          |        | [Oxford](https://t18d.github.io/HuangSupplement/tally/#the-oxford-chinese-dictionary) | Huang–Shi |
 |----------|--------|:------:|:---------:|
@@ -28,22 +27,22 @@ layout: anchor
 
 See further [On Diglossia](https://t18d.github.io/HuangSupplement/diglossia/).
 
-#### Emic
+### Emic
 
 The consequences of a failure to distinguish between **morphs** and **morphemes** are of two kinds:
 
 1. By using the term _morpheme_ when they really mean a _morph_, one can like Huang–Shi miss a whole phenomenon like [**orthographic alternation**](#orthographic-alternation).
 2. By not grasping the difference between **abstract units** and their physical **realisation**, one can fall prey to irrelevant concepts such as _êrh tzŭ tz'ŭ_ (e.g. Shên 2019) and _spondee_ which describe **orthography** and **prosody** respectively.
 
-### 19 Lexical word-formation
+## 19 Lexical word-formation
 
-#### Orthographic alternation
+### Orthographic alternation
 
 A **lexeme** is often realised by multiple **orthographic variants**, which can be either **stylistic** variants or **free** variants. The **alternation** takes the form of **allomorphy** in one or more of the **morphs**.
 
 **Example:** 通假 (s.xii) _vs_ 通叚 (s.xix)
 
-### 20 Punctuation
+## 20 Punctuation
 
 By abandoning any pretence of being **descriptive** of real-world usage, the appendix on punctuation is probably the weakest chapter in Huang–Shi.
 
