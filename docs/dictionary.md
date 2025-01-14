@@ -162,6 +162,10 @@ Source: [Martin Fowler](https://martinfowler.com/bliki/SemanticDiffusion.html#:~
 … can nevertheless still write things like 'whereas in principle historical dictionaries proceed by <em>induction</em> from quotations to definition, this is impracticable in the case of terminology: the changing senses of geek can be <em>induced</em> from quotation evidence'.
 </details>
 
+## sets, _consistency of_
+
+The principle that all the terms in a set should be defined in a dictionary regardless of **frequency** and consistently.
+
 ## style, _manuals of_
 
 The idea of [codifying best practice](https://www.chicagomanualofstyle.org/book/ed18/frontmatter/acknow.html#:~:text=codify%20the%20best%20practices) is an oxymoron.
