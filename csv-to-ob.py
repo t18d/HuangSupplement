@@ -19,14 +19,14 @@ import operator
 
 # read preface so that we can keep it before the table
 preface_lines = []
-with open("obsolete.md", "r", encoding="utf8") as readme:
+with open("docs/obsolete.md", "r", encoding="utf8") as readme:
     for line in readme.readlines():
         preface_lines.append(line)
         if "<!-- Anything" in line:  # 2nd line because we need to keep the line with comment in
             break
 
 # open files to create new readers
-with open("obsolete.csv", "r", encoding="utf8") as supplement_csv:
+with open("docs/obsolete.csv", "r", encoding="utf8") as supplement_csv:
     supplement_reader = csv.reader(supplement_csv)
     with open("obsolete.md", "w", encoding="utf8") as conj_md:  # WARNING: rewrites the file!
         conj_md.writelines(preface_lines)
