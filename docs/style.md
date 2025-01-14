@@ -8,8 +8,7 @@ last_modified_at: 2025-01-11T15:28:20+00:00
 description: The stylistic appendix to HuangSupplement
 layout: no-anchor
 ---
-# A Supplement to 近現代漢語辭源
-## A Stylistic Appendix
+# A Stylistic Appendix
 &nbsp;  
 &nbsp;  
 &nbsp;  
