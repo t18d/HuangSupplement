@@ -14,6 +14,14 @@ layout: anchor
 &nbsp;  
 &nbsp;  
 &nbsp;  
+### Lexical word-formation
+
+#### Orthographic alternation
+
+A **lexeme** is often realised by multiple **orthographic variants**, which can be either **stylistic** variants or **free** variants. The **alternation** takes the form of **allomorphy** in one or more of the **morphs**.
+
+**Example:** 通假 (s.xvii) _vs_ 通叚 (s.xix)
+
 ### Punctuation
 
 By abandoning any pretence of being **descriptive** of real-world usage, the appendix on punctuation is probably the weakest chapter in Huang–Shi.
