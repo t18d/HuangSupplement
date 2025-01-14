@@ -14,7 +14,7 @@ layout: anchor
 &nbsp;  
 &nbsp;  
 &nbsp;  
-### Syntax
+### 2 Syntax
 
 #### Gaps in terminology
 
@@ -28,7 +28,14 @@ layout: anchor
 
 See further [On Diglossia](https://t18d.github.io/HuangSupplement/diglossia/).
 
-### Lexical word-formation
+#### Emic
+
+The consequences of a failure to distinguish between **morphs** and **morphemes** are of two kinds:
+
+1. By using the term _morpheme_ when they really mean a _morph_, one can like Huang–Shi miss a whole phenomenon like [**orthographic alternation**](#orthographic-alternation).
+2. By not grasping the difference between **abstract units** and their physical **realisation**, one can fall prey to irrelevant concepts such as _êrh tzŭ tz'ŭ_ (e.g. Shên 2019) and _spondee_ which describe **orthography** and **prosody** respectively.
+
+### 19 Lexical word-formation
 
 #### Orthographic alternation
 
@@ -36,7 +43,7 @@ A **lexeme** is often realised by multiple **orthographic variants**, which can 
 
 **Example:** 通假 (s.xii) _vs_ 通叚 (s.xix)
 
-### Punctuation
+### 20 Punctuation
 
 By abandoning any pretence of being **descriptive** of real-world usage, the appendix on punctuation is probably the weakest chapter in Huang–Shi.
 
