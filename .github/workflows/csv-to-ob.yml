@@ -28,7 +28,7 @@ jobs:
           python-version: '3.10'
       - run: |
           python csv-to-ob.py
-          sed -i "0,/last_modified_at.*/s//last_modified_at: $(date -Iseconds)/" obsolete.md
+          sed -i "0,/last_modified_at.*/s//last_modified_at: $(date -Iseconds)/" docs/obsolete.md
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
     # Optional. Commit message for the created commit.
