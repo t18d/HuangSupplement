@@ -112,6 +112,8 @@ Even the very title of this proclamation came from a translation by the editors 
 
 A word is a word whatever its surface orthography. The phenomenon, of course, is a very old one in Chinese.
 
+See further [**Orthographic alternation**](https://t18d.github.io/HuangSupplement/grammar/#orthographic-alternation).
+
 [2247d61](https://github.com/t18d/HuangSupplement/commit/2247d61a7a29015fe309c1d910501e839677ada1)
 
 ## same year, whose priority?
