@@ -15,6 +15,8 @@ on:
       - '**.css'
       - '**.webp'
       - '*.xml'
+      - '**.html'
+      - jekyll.yml
 
   workflow_run:
     workflows:
