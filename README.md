@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-15T07:46:58+00:00
+last_modified_at: 2025-01-15T12:22:06+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -231,6 +231,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 烙鐵|/|noun|1889|Soldering iron 嵌錫烙鐵|Fryer『汽機中西名目表』47|
 硫酸|/|noun|1883|Sulphuric acid 硫酸|Fryer『金石中西名目表』32|
 漏斗|/|noun|1857|譬如水洩於漏斗|A. Williamson in『六合叢談』1/3, 7|
+描述|/|verb|1910|十六日倫敦電云陸軍大將⋯描述大陸著名各戰事|『申報』6月24日「英國陸軍展覽會」+|描述 is unmarked; 描寫 is a literary act
 摩擦|1|verb|1851|琥珀用燥羊毛摩擦一辺、此摩擦処便能拾芥、就是電気発出、似磁石噏鉄一般。|Macgowan『博物通書』第一章|
 奶糖|/|noun|1890|洋梅子 奶糖 羊油|Hunter『萬國藥方』卷一+|
 難產|/|noun|1815|坼副難產也|Morrison, _A Dictionary of the Chinese Language_, i/i, 494|
