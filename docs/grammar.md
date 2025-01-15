@@ -42,6 +42,20 @@ A **lexeme** is often realised by multiple **orthographic variants**, which can 
 
 **Example:** 通假 (s.xii) _vs_ 通叚 (s.xix)
 
+### -等國
+
+Huang–Shi §3.5.1.1:
+
+> 英法等國 … 'countries like England and France.' … a case of conventionalized contextual ellipsis.
+
+Both the gloss and the analysis are wrong. They illustrate some of the commonest pitfalls in **synchronic** analysis:
+
+1. The **elided** part must be unambiguously specified.
+2. No attention is paid to **paradigmatic alternants** like -等地, where a **semantically equivalent** full form is not in use. Cf. 英法等國 _vs_ 英法等國家 with 台北上海等地 _vs_ <sup>#</sup>台北上海等地區 _vs_ <sup>#</sup>台北上海等地方 _vs_ 台北上海等城市.
+3. No attention is paid to more established alternants such as 各國 (1602) and 各地 (1822), from which -等國 and -等地 are created **by analogy**.
+
+英法等國 should be glossed as 'Britain and France' (等 as marker of **asyndetic coordination**) or 'Britain, France and other countries' (等 as **abbreviatory device**).
+
 ## 20 Punctuation
 
 By abandoning any pretence of being **descriptive** of real-world usage, the appendix on punctuation is probably the weakest chapter in Huang–Shi.
