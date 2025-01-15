@@ -87,11 +87,11 @@ last_modified_at: 2025-01-13T14:01:18+00:00
     <summary>Bibliography</summary>
     <h3>Theory</h3>
     <ul>
+      <li>Chang, Pin (ed.), <em>Hsien tai han yü miao hsieh yü fa</em> (Peking, 2010).</li>
       <li>Huang, Chu-Ren, and Dingxu Shi (eds), <em>A Reference Grammar of Chinese</em> (Cambridge, 2016).</li>
       <li>Kretschmer, Paul, <em>Sprachregeln für die Bildung und Betonung zoologischer und botanischer Namen</em> (Berlin, 1899).</li>
       <li>Kühner, Raphael, and Friedrich Blass, <em>Ausfürliche Grammatik der Griechischen Sprache: I. Elementar- und Formenlehre</em>, ii (Hanover, 1892).</li>
       <li>Mair, Victor H. et al. (eds),『漢語大詞典詞目音序索引』(Shanghai, 2003).</li>
-      <li>Chang, Pin (ed.), <em>Hsien tai han yü miao hsieh yü fa</em> (Peking, 2010).</li>
     </ul>
     <h3>Sources</h3>
     <p class="text-gray">(A copy of each article is archived in the <a href="https://github.com/t18d/HuangSupplement/tree/main/assets/pdf">repo</a>.)</p>
