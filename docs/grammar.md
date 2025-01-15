@@ -34,6 +34,14 @@ The consequences of a failure to distinguish between **morphs** and **morphemes*
 1. By using the term _morpheme_ when they really mean a _morph_, one can like Huang–Shi miss a whole phenomenon like [**orthographic alternation**](#orthographic-alternation).
 2. By not grasping the difference between **abstract units** and their physical **realisation**, one can fall prey to irrelevant concepts such as _êrh tzŭ tz'ŭ_ (e.g. Shên 2019) and _spondee_ which describe **orthography** and **prosody** respectively.
 
+## 15 Coordination
+
+### Asyndetic coordination
+
+Dictionaries tend to give the impression that as a marker of **asyndetic coordination** -等 must be followed by a **numeral classifier**. This is _not_ true; other clues, e.g. 都, can also serve to show that it is an exhaustive enumeration.
+
+**Example:** 比如時間、地點、工具<ins>等</ins>短語都有語序變化問題 (2010)
+
 ## 19 Lexical word-formation
 
 ### Orthographic alternation
@@ -54,7 +62,7 @@ Both the gloss and the analysis are wrong. They illustrate some of the commonest
 2. No attention is paid to **paradigmatic alternants** like -等地, where a **semantically equivalent** full form is not in use. Cf. 英法等國 _vs_ 英法等國家 with 台北上海等地 _vs_ <sup>#</sup>台北上海等地區 _vs_ <sup>#</sup>台北上海等地方 _vs_ 台北上海等城市.
 3. No attention is paid to more established alternants such as 各國 (1602) and 各地 (1822), from which -等國 and -等地 are created **by analogy**.
 
-英法等國 should be glossed as 'Britain and France' (等 as marker of **asyndetic coordination**) or 'Britain, France and other countries' (等 as **abbreviatory device**).
+英法等國 should be glossed as 'Britain and France' (等 as marker of [**asyndetic coordination**](#asyndetic-coordination)) or 'Britain, France and other countries' (等 as **abbreviatory device**).
 
 ## 20 Punctuation
 
