@@ -25,7 +25,7 @@ layout: anchor
 | morph    |    /   |    /   |     /     |
 | lexeme   | 語彙素 |    /   |    詞位   |
 
-See further [On Diglossia](https://t18d.github.io/HuangSupplement/diglossia/).
+See further [On Diglossia](https://t18d.github.io/HuangSupplement/diglossia/) and [**consistency of sets**](https://t18d.github.io/HuangSupplement/dictionary/#sets-consistency-of).
 
 ### Emic
 
