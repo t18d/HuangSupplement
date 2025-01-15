@@ -38,7 +38,7 @@ The consequences of a failure to distinguish between **morphs** and **morphemes*
 
 ### Asyndetic coordination
 
-Dictionaries tend to give the impression that as a marker of **asyndetic coordination** -等 must be followed by a **numeral classifier**. This is _not_ true; other clues, e.g. 都, can also serve to show that it is an exhaustive enumeration.
+[Dictionaries](https://t18d.github.io/HuangSupplement/tally/) tend to give the impression that as a marker of **asyndetic coordination** -等 must be followed by a **numeral classifier**. This is _not_ true; other clues, e.g. 都, can also serve to show that it is an exhaustive enumeration.
 
 **Example:** 比如時間、地點、工具<ins>等</ins>短語都有語序變化問題 (2010)
 
