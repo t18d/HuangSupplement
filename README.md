@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-16T06:43:36+00:00
+last_modified_at: 2025-01-16T07:53:03+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -243,14 +243,14 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 暖氣|/|noun|1866|Caliduct … 熱氣筒 … 暖氣筒|Lobscheid『英華字典』s.v. Caliduct|
 偶像|/|noun|1927|我好像也已經成了偶象了|魯迅『兩地書·一〇五』|metaphorical
 排外主義|/|noun|1908|the act or practice of excluding or being exclusive, 拒絕主義, 排外主義|顏惠慶 『英華大辭典』s.v. Exclusivism|
-炮灰|/|noun|1934|殺人者在毁壞世界，救人者在修補它，而炮灰資格的諸公，卻總在恭維殺人者。|魯迅『且介亭雜文‧拿破侖與隋那』|
+炮灰|/|NP|1934|殺人者在毁壞世界，救人者在修補它，而炮灰資格的諸公，卻總在恭維殺人者。|魯迅『且介亭雜文‧拿破侖與隋那』|
 披露|/|verb|1913|披露 … Announcement as of publication of book.|Mateer, _New Terms for New Ideas_, 123|public as opposed to private discourse
 批判|/|verb|1916|批判<sup>新</sup> … 評騭|Hemeling『官話』s.v. Criticize|
 皮包|/|NP|1866|a leather bag, 皮包|Lobscheid『英華字典』s.v. Bag|
 評論家|/|noun|1908|the writer of a review, 品評之人, 評論家, 新著作評論家|顏惠慶 『英華大辭典』s.v. Reviewer|
 破碎|/|verb|1844|Shatter, 破碎|Williams『英華韵府歷階』s.v. Shatter|
 七色板|/|NP|1926|現在的小學生就能玩七色板⋯收羅許多著名學者的大著作的大報，自然是光怪陸離，但也是轉不得|魯迅「雜論管閑事，做學問，灰色等」in『語絲』62, 3|
-齊唱|/|verb|1844|Chorus, join 齊唱|Williams『英華韵府歷階』s.v. Chorus|
+齊唱|/|VP|1844|Chorus, join 齊唱|Williams『英華韵府歷階』s.v. Chorus|
 騎士|/|noun|1908|In feudal times, one admitted by peculiar ceremonies to a certain military rank, 武士, 騎士|顏惠慶『英華大辭典』s.v. Knight|
 歧義|/|adjective|1916|Equivocal … term, 歧義之名<sup>部定</sup>|Hemeling『官話』s.v. Equivocal|
 起訴|/|verb|1895 (1887)|/|黃遵憲『日本國志·刑法志一』|
@@ -266,8 +266,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 鉗子|/|noun|1848|鉗子⋯小鉗子|Medhurst, _English and Chinese Dictionary_, s.v. Pliers|
 槍刺|/|noun|1913|刺刀 … 槍刺 … Bayonet.|Mateer, _New Terms for New Ideas_, 16|
 槍彈|/|noun|1874|大日斯巴尼亞國 定造鎗並鎗彈|『萬國公報』306, 21?|
-強加|/|noun|1857|能強加力於他物者、謂重學之力|『六合叢談』1/11, 12|
-牆腳|/|noun|1844|Foundation, 基址 … 墻腳|Williams『英華韵府歷階』s.v. Foundation|
+強加|/|verb|1857|能強加力於他物者、謂重學之力|『六合叢談』1/11, 12|
+牆腳|/|NP|1844|Foundation, 基址 … 墻腳|Williams『英華韵府歷階』s.v. Foundation|
 侵入|/|verb|1868|to invade … as a disease a system, 侵入 … 侵害|Lobscheid『英華字典』s.v. Invade+|metaphorical
 侵襲|/|verb|1847|to come upon, to attack, 侵襲|Medhurst, _English and Chinese Dictionary_, s.v. To come|
 山脈|/|noun|1858|山脈之方向|W. Muirhead in『六合叢談』1/13, 9|
