@@ -45,7 +45,7 @@ last_modified_at: 2025-01-16T07:53:03+00:00
           <li>Domain classification is set in <strong>italic type</strong>.</li>
         </ul>
       </li>
-      <li>Assignment to <strong>Word Class</strong> follows the scheme of Huang and Shi (2016), but freely departs from it where their analysis is considered inadequate. A grammatical appendix will present the linguistic argumentation in favour of the alternative view.</li>
+      <li>Assignment to <strong>Word Class</strong> follows the analysis of Huang–Shi (2016) as corrected in the <a href="https://t18d.github.io/HuangSupplement/grammar/#defining-word">Grammatical Appendix</a>. For <strong>NP</strong> etc., see <a href="https://archive.org/details/cambridgegrammar0000hudd/">Huddleston–Pullum</a>.</li>
       <li><strong>Year</strong> is that of first attestation. For words coined by native writers flourishing before Ch'ing, only the period is given.</li>
       <li><strong>Quotation</strong>
         <ul>
@@ -89,6 +89,7 @@ last_modified_at: 2025-01-16T07:53:03+00:00
     <ul>
       <li>Chang, Pin (ed.), <em>Hsien tai han yü miao hsieh yü fa</em> (Peking, 2010).</li>
       <li>Huang, Chu-Ren, and Dingxu Shi (eds), <em>A Reference Grammar of Chinese</em> (Cambridge, 2016).</li>
+      <li>Huddleston, Rodney, and Geoffrey K. Pullum (eds), <em>The Cambridge Grammar of the English Language</em> (Cambridge, 2002).</li>
       <li>Kretschmer, Paul, <em>Sprachregeln für die Bildung und Betonung zoologischer und botanischer Namen</em> (Berlin, 1899).</li>
       <li>Kühner, Raphael, and Friedrich Blass, <em>Ausfürliche Grammatik der Griechischen Sprache: I. Elementar- und Formenlehre</em>, ii (Hanover, 1892).</li>
       <li>Mair, Victor H. et al. (eds),『漢語大詞典詞目音序索引』(Shanghai, 2003).</li>
