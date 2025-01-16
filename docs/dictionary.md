@@ -21,7 +21,7 @@ Using the **Oxford comma** when there is no ambiguity conveys the **implicature*
 
 As a **modifier**, often pleonastic.
 
-**Example:** _the compact, inexplicit_ discourse _style of research articles_
+**Example:** _the compact, inexplicit_ discourse _style of research articles_ (2016)
 
 ## 'Great' Vowel-shift, _the_
 
