@@ -87,6 +87,7 @@ last_modified_at: 2025-01-16T08:40:31+00:00
     <summary>Bibliography</summary>
     <h3>Theory</h3>
     <ul>
+      <li>Aikhenvald, Alexandra A., <em>Classifiers: A Typology of Noun Categorization Devices</em> (Oxford, 2000).</li>
       <li>Chang, Pin (ed.), <em>Hsien tai han yü miao hsieh yü fa</em> (Peking, 2010).</li>
       <li>Huang, Chu-Ren, and Dingxu Shi (eds), <em>A Reference Grammar of Chinese</em> (Cambridge, 2016).</li>
       <li>Huddleston, Rodney, and Geoffrey K. Pullum (eds), <em>The Cambridge Grammar of the English Language</em> (Cambridge, 2002).</li>
