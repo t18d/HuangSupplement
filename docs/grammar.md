@@ -44,6 +44,10 @@ The consequences of a failure to distinguish between **morphs** and **morphemes*
 
 ## 19 Lexical word-formation
 
+### Two-character morphs
+
+-主義 (1896) was borrowed from Japanese as a bound root. It constitutes a single morph which cannot be analysed into 主 and 義. Similarly, -製品 (1888).
+
 ### Orthographic alternation
 
 A **lexeme** is often realised by multiple **orthographic variants**, which can be either **stylistic** variants or **free** variants. The **alternation** takes the form of **allomorphy** in one or more of the **morphs**.
