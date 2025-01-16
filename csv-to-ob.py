@@ -26,9 +26,9 @@ with open("docs/obsolete.md", "r", encoding="utf8") as readme:
             break
 
 # open files to create new readers
-with open("docs/obsolete.csv", "r", encoding="utf8") as supplement_csv:
+with open("obsolete.csv", "r", encoding="utf8") as supplement_csv:
     supplement_reader = csv.reader(supplement_csv)
-    with open("obsolete.md", "w", encoding="utf8") as conj_md:  # WARNING: rewrites the file!
+    with open("docs/obsolete.md", "w", encoding="utf8") as conj_md:  # WARNING: rewrites the file!
         conj_md.writelines(preface_lines)
         conj_md.write("\n")
         # first line is headers
