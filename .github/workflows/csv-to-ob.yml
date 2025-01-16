@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - obsolete.csv
+      - csv-to-ob.py
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
