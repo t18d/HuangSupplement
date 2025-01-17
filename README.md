@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-17T12:32:29+00:00
+last_modified_at: 2025-01-17T13:24:12+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -288,4 +288,5 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 蔗糖|/|noun|1874|說畢卽將瓶中葡萄酒倒入玻璃盞又加蔗糖少許|『瀛寰瑣記』20, 7|
 -製品|/|nominal bound root|1880|牛角製品|『申報』12月22日「戲咏煙具十首錄呈諸大吟壇指政」|
 钟乳石|/|noun|1903|鐘乳石 (Sta\<l>actite)|『中學地文教科書』75|Doolittle (1872): 石鐘乳
+種樹|plant trees|verb|Chin|/|/|
 -主義|1|nominal bound root|1883|因係官權主義聞主筆者必將更迭|『申報』3月4日「會黨類誌」|
