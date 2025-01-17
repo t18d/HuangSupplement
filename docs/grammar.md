@@ -111,7 +111,7 @@ Huang–Shi §8.5.1 gives up trying to distinguish between compounds and NPs; Ch
 
 ||自由|體操|
 |:-:|:-:|:-:|
-|Rule 1||free [morph](https://t18d.github.io/HuangSupplement/grammar/#two-character-morphs) (Japanese, 1889)|
+|Rule 1||free [morph](https://t18d.github.io/HuangSupplement/grammar/#two-character-morphs) (Japanese, 1887)|
 ||adjective|noun|
 |fossilised NP|complement|head|
 |Rule 4|||
