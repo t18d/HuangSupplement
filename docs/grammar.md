@@ -18,12 +18,12 @@ layout: anchor
 ### Gaps in terminology
 
 |          |        | [Oxford](https://t18d.github.io/HuangSupplement/tally/#the-oxford-chinese-dictionary) | Huang–Shi | Chang |
-|----------|:------:|:-------:|:---------:|:-----:|
-| phoneme  |  音素  |   音位   |    音位   |   音位  |
-| phone    |  単音  |   音素   |     /     |   /   |
-| morpheme | 形態素 |   詞素   |     /     |  語素 |
-| morph    |    /  |   /    |     /     |   /   |
-| lexeme   | 語彙素 |     /   |    詞位   |   /   |
+|----------|:-----:|:------:|:-----:|:-----:|
+| phoneme  |  音素  |   音位  |  音位  | 音位  |
+| phone    |  単音  |   音素  |   /   |   /   |
+| morpheme | 形態素 |   詞素   |   /   |  語素 |
+| morph    |    /  |    /    |   /   |   /  |
+| lexeme   | 語彙素 |     /   |  詞位  |   /  |
 
 See further [On Diglossia](https://t18d.github.io/HuangSupplement/diglossia/) and [**consistency of sets**](https://t18d.github.io/HuangSupplement/dictionary/#sets-consistency-of).
 
@@ -53,6 +53,68 @@ The consequences of a failure to distinguish between **morphs** and **morphemes*
 ### Two-character morphs
 
 -主義 (1896) was borrowed from Japanese as a bound root. It constitutes a single morph which cannot be analysed into 主 and 義. Similarly, -製品 (1888).
+
+### Defining 'word'
+
+In _Mandarin_ Chinese, a native **word** is a **lexeme** realised by
+
+1. a free **morph** _or_
+2. a compound of two or more **morphs** _or_
+3. a compound of a **bound root** as head and a **word** as dependent _or_
+4. a fossilised NP.
+
+### Words vs phrases
+
+Huang–Shi §8.5.1 gives up trying to distinguish between compounds and NPs; Chang §5.2.1.2 meekly accepts Lü's arbitrary rule. The following analysis implements the [defition](#defining-word) above on Chang's examples:
+
+||人造|絲|
+|:-:|:-:|:-:|
+|Rule 1||free morph|
+||adjective|noun|
+|NP|modifier|head|
+
+||人造|纖維|
+|:-:|:-:|:-:|
+|Rule 1||free [morph](https://t18d.github.io/HuangSupplement/grammar/#two-character-morphs) (Japanese, 1897)|
+||adjective|noun|
+|NP|modifier|head|
+
+||豆|製品|
+|:-:|:-:|:-:|
+|Rule 3|word|bound [morph](https://t18d.github.io/HuangSupplement/grammar/#two-character-morphs) (Japanese, 1888)|
+||noun|nominal bound root|
+|noun|dependent|head|
+
+||生物|製品|
+|:-:|:-:|:-:|
+|Rule 3|word|bound [morph](https://t18d.github.io/HuangSupplement/grammar/#two-character-morphs) (Japanese, 1888)|
+||noun|nominal bound root|
+|noun|dependent|head|
+
+||耐火|磚|
+|:-:|:-:|:-:|
+|Rule 1||free morph|
+||adjective|noun|
+|NP|modifier|head|
+
+||耐火|材料|
+|:-:|:-:|:-:|
+|||word (s.xi)|
+||adjective|noun|
+|NP|modifier|head|
+
+||自由|泳|
+|:-:|:-:|:-:|
+|Rule 3|word|bound morph|
+||adjective|nominal bound root|
+|noun|dependent|head|
+
+||自由|體操|
+|:-:|:-:|:-:|
+|Rule 1||free [morph](https://t18d.github.io/HuangSupplement/grammar/#two-character-morphs) (Japanese, 1889)|
+||adjective|noun|
+|fossilised NP|complement|head|
+|Rule 4|||
 
 ### Orthographic alternation
 
