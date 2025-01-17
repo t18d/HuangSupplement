@@ -63,7 +63,7 @@ In _Mandarin_ Chinese, a native **word** is a **lexeme** realised by
 3. a compound of a **bound root** as head and a **word** as dependent _or_
 4. a fossilised NP.
 
-### Words vs phrases
+### Words _vs_ phrases
 
 Huang–Shi §8.5.1 gives up trying to distinguish between compounds and NPs; Chang §5.2.1.2 meekly accepts Lü's arbitrary rule. The following analysis implements the [defition](#defining-word) above on Chang's examples:
 
