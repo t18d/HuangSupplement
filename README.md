@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-17T12:12:00+00:00
+last_modified_at: 2025-01-17T12:32:29+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -280,6 +280,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 手動|/|adjective|1889|Hand gear 手動器具, 或手動齒輪|Fryer『汽機中西名目表』26|
 手續|/|noun|1901|行政訴訟之手續|『譯書彙編』７, 54|
 水表|/|noun|1889|Water gauge 水表|Fryer『汽機中西名目表』56|
+體操|/|noun|1887|至櫻馬塲體操塲閱看師範學校生徒演習兵法|『申報』1月14日「日報譯略」|
 外徑|/|noun|1889|Outer diameter of tubes 烟管外徑|Fryer『汽機中西名目表』35|
 峡谷|/|noun|1903|其上部陷落時。則成絕壁如削。是謂峽谷。|『中學地文教科書』52|
 -性|2|nominal bound root|1664|中通曰、水流下而趨中、有剛火性也、火炎上而旋昇、有柔水性也。|方以智『物理小識』|first occurrence in three-morpheme words
