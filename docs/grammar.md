@@ -52,7 +52,7 @@ The consequences of a failure to distinguish between **morphs** and **morphemes*
 
 ### Two-character morphs
 
--主義 (1883) was borrowed from Japanese as a bound root. It constitutes a single morph which cannot be analysed into 主 and 義. Similarly, -製品 (1888).
+-主義 (1883) was borrowed from Japanese as a bound root. It constitutes a single morph which cannot be analysed into 主 and 義. Similarly, -製品 (1880).
 
 ### Defining 'word'
 
@@ -81,13 +81,13 @@ Huang–Shi §8.5.1 gives up trying to distinguish between compounds and NPs; Ch
 
 ||豆|製品|
 |:-:|:-:|:-:|
-|Rule 3|word|bound [morph](https://t18d.github.io/HuangSupplement/grammar/#two-character-morphs) (Japanese, 1888)|
+|Rule 3|word|bound [morph](https://t18d.github.io/HuangSupplement/grammar/#two-character-morphs) (Japanese, 1880)|
 ||noun|nominal bound root|
 |noun|dependent|head|
 
 ||生物|製品|
 |:-:|:-:|:-:|
-|Rule 3|word|bound [morph](https://t18d.github.io/HuangSupplement/grammar/#two-character-morphs) (Japanese, 1888)|
+|Rule 3|word|bound [morph](https://t18d.github.io/HuangSupplement/grammar/#two-character-morphs) (Japanese, 1880)|
 ||noun|nominal bound root|
 |noun|dependent|head|
 
