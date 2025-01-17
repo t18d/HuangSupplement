@@ -45,7 +45,7 @@ last_modified_at: 2025-01-16T13:54:21+00:00
           <li>Domain classification is set in <strong>italic type</strong>.</li>
         </ul>
       </li>
-      <li>Assignment to <strong>Word Class</strong> follows the analysis of Huang–Shi (2016) as corrected in the <a href="https://t18d.github.io/HuangSupplement/grammar/#defining-word">Grammatical Appendix</a>. For <strong>NP</strong> etc., see <a href="https://archive.org/details/cambridgegrammar0000hudd/">Huddleston–Pullum</a>.</li>
+      <li>Assignment to <strong>Word Class</strong> follows the analysis of Huang–Shi (2016) as corrected in the <a href="https://t18d.github.io/HuangSupplement/grammar/#defining-word">Grammatical Appendix</a>. For <strong>NP</strong> etc., see <a href="https://archive.org/details/cambridgegrammar0000hudd/">CGEL</a>.</li>
       <li><strong>Year</strong> is that of first attestation. For words coined by native writers flourishing before Ch'ing, only the period is given.</li>
       <li><strong>Quotation</strong>
         <ul>
