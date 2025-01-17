@@ -116,6 +116,18 @@ Huang–Shi §8.5.1 gives up trying to distinguish between compounds and NPs; Ch
 |fossilised NP|complement|head|
 |Rule 4|||
 
+Implementation for examples in Huang–Shi §3.4.2:
+
+||光|線|
+|:-:|:-:|:-:|
+|fossilised NP|complement|head|
+|Rule 4|||
+
+||水|土|
+|:-:|:-:|:-:|
+|Rule 2|morph|morph|
+|noun|||
+
 ### Orthographic alternation
 
 A **lexeme** is often realised by multiple **orthographic variants**, which can be either **stylistic** variants or **free** variants. The **alternation** takes the form of **allomorphy** in one or more of the **morphs**.
