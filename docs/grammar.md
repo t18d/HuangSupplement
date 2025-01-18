@@ -19,11 +19,11 @@ layout: anchor
 
 |          |        | [Oxford](https://t18d.github.io/HuangSupplement/tally/#the-oxford-chinese-dictionary) | Huang–Shi | Chang |
 |----------|:-----:|:------:|:-----:|:-----:|
-| phoneme  |  音素  |   音位  |  音位  | 音位  |
-| phone    |  単音  |   音素  |   /   |   /   |
-| morpheme | 形態素 |   詞素   |   /   |  語素 |
-| morph    |    /  |    /    |   /   |   /  |
-| lexeme   | 語彙素 |     /   |  詞位  |   /  |
+| phoneme  |  音素  |   音位  |  音位  | 音位 |
+| phone    |  単音  |   音素  |   /   |  /  |
+| morpheme | 形態素 |   詞素  |   /   |  語素 |
+| morph    |    /  |    /   |   /   |   /  |
+| lexeme   | 語彙素 |    /   |  詞位  |   /  |
 
 See further [On Diglossia](https://t18d.github.io/HuangSupplement/diglossia/) and [**consistency of sets**](https://t18d.github.io/HuangSupplement/dictionary/#sets-consistency-of).
 
@@ -59,7 +59,7 @@ The consequences of a failure to distinguish between **morphs** and **morphemes*
 In _Mandarin_ Chinese, a native **word** is a **lexeme** realised by
 
 1. a free **morph** _or_
-2. a compound of two or more **morphs** _or_
+2. a fossilised compound of two or more **morphs** _or_
 3. a compound of a **bound root** as head and a **word** as dependent _or_
 4. a fossilised NP.
 
@@ -113,20 +113,21 @@ Huang–Shi §8.5.1 gives up trying to distinguish between compounds and NPs; Ch
 |:-:|:-:|:-:|
 |Rule 1||free [morph](https://t18d.github.io/HuangSupplement/grammar/#two-character-morphs) (Japanese, 1887)|
 ||adjective|noun|
-|fossilised NP|complement|head|
+|fossilised NP (1958)|complement|head|
 |Rule 4|||
 
 Implementation for examples in Huang–Shi §3.4.2:
 
 ||光|線|
 |:-:|:-:|:-:|
-|fossilised NP|complement|head|
+|Rule 1||free morph|
+|fossilised NP (1761)|complement|head|
 |Rule 4|||
 
 ||水|土|
 |:-:|:-:|:-:|
-|Rule 2|morph|morph|
-|noun|||
+|fossilised (OC)|morph|morph|
+|Rule 2|||
 
 ### Orthographic alternation
 
