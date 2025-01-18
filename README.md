@@ -24,6 +24,13 @@ last_modified_at: 2025-01-17T13:24:12+00:00
     <summary>Conventions</summary>
     <br>
     <ul>
+      <li><strong>Abbreviations</strong>
+        <ul>
+          <li>NP – noun phrase</li>
+          <li>OC – Old Chinese (c.1000–200BC)</li>
+          <li>VP – verb phrase</li>
+        </ul>
+      </li>
       <li><strong>Lemma</strong>
         <ul>
           <li>To facilitate cross-checking, the arrangement of lemmata is that of Mair et al. (2003) with the following exceptions:
@@ -45,7 +52,7 @@ last_modified_at: 2025-01-17T13:24:12+00:00
           <li>Domain classification is set in <strong>italic type</strong>.</li>
         </ul>
       </li>
-      <li>Assignment to <strong>Word Class</strong> follows the analysis of Huang–Shi (2016) as corrected in the <a href="https://t18d.github.io/HuangSupplement/grammar/#defining-word">Grammatical Appendix</a>. For <strong>NP</strong> etc., see <a href="https://archive.org/details/cambridgegrammar0000hudd/">CGEL</a>.</li>
+      <li>Assignment to <strong>Word Class</strong> follows the analysis of Huang–Shi (2016) as corrected in the <a href="https://t18d.github.io/HuangSupplement/grammar/#defining-word">Grammatical Appendix</a>.</li>
       <li><strong>Year</strong> is that of first attestation. For words coined by native writers flourishing before Ch'ing, only the period is given.</li>
       <li><strong>Quotation</strong>
         <ul>
