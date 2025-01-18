@@ -34,6 +34,22 @@ The consequences of a failure to distinguish between **morphs** and **morphemes*
 1. By using the term _morpheme_ when they really mean a _morph_, one can like Huang–Shi miss a whole phenomenon like [**orthographic alternation**](#orthographic-alternation).
 2. By not grasping the difference between **abstract units** and their physical **realisation**, one can fall prey to irrelevant concepts such as _êrh tzŭ tz'ŭ_ (e.g. Shên 2019) and _spondee_ which describe **orthography** and **prosody** respectively.
 
+## 6 Adjectives and adverbs
+
+### [顯然][是]__
+
+Without testing this collocation with **paradigmatic alternants** of different **word classes** in the slot, Huang–Shi §12.2 jump to the conclusion that 顯然是 is an **adverb**. Compare, however:
+
+||with 是 as|
+|:-:|:-:|
+|選舉有必要||
+|選舉顯然有必要||
+|選舉'是有必要|adverb|
+|*選舉顯然是有必要|copula|
+|選舉是有必要的|copula|
+|選舉顯然是有必要的|copula|
+
+
 ## 15 Coordination
 
 ### Asyndetic coordination
