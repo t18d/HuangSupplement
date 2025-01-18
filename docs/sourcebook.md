@@ -21,6 +21,8 @@ layout: anchor
 
 [Sanford Brown Meech at the _Middle English Dictionary_](https://doi.org/10.1353/dic.1995.0015)
 
+[Dictionaries: The Art and Craft of Lexicography](https://archive.org/details/dictionariesartc0000land_02ed)
+
 [Confessions of the Antedater](https://doi.org/10.1353/dic.2018.0011)
 
 <span align="center">***</span>
