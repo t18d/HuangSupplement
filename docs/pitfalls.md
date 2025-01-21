@@ -104,6 +104,21 @@ Even the very title of this proclamation came from a translation by the editors 
 
 [1574258](https://github.com/t18d/HuangSupplement/commit/157425807f2b66ec69fc56cbe6804d77362298cc)
 
+## same set, same period
+
+```diff
+- 槍彈,/,noun,1874,大日斯巴尼亞國 定造鎗並鎗彈,"『萬國公報』306, 21?",
+- 槍械,/,noun,1872,…,志剛『初使泰西記』,
++ 槍彈,/,noun,s.xvii,受數百槍彈從脅穿透,『行在陽秋·下』,
++ 槍械,/,noun,1600,疏火器鳥銃長短槍械法,『譚襄敏奏議·序』,
+```
+
+槍彈 & 槍械 are in a set with 槍砲 (1643) and should date from the same period.
+
+Cf. [**consistency of sets**](https://t18d.github.io/HuangSupplement/dictionary/#sets-consistency-of).
+
+[cd7b712](https://github.com/t18d/HuangSupplement/commit/cd7b712d8378c9eb0b41a2770c824320036b336a)
+
 ## same word, different orthography
 
 ```diff
