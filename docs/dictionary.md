@@ -141,8 +141,8 @@ A genre of scholarly **peer review** which takes the form of a private **letter*
 Reasons for using the genre include:
 
 1. disciplinary tradition;
-2. language that deviates from the norms of social behaviour;
-3. a scholarly opinion the writer fears to be associated with.
+2. language that deviates from the norms of collegial behaviour;
+3. scholarly opinions the writer fears to be associated with publicly.
 
 <details>
     <summary>Examples</summary>
