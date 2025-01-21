@@ -134,6 +134,24 @@ See also [**record, dictionary of**](#record-dictionary-of).
 
 ˈʌn.jənz
 
+## peer review, _unsigned_
+
+A genre of scholarly **peer review** which takes the form of a private **letter** addressed to the editor of a learned journal; the opposite of **open peer review**.
+
+Reasons for using the genre include:
+
+1. disciplinary tradition;
+2. language that deviates from the norms of social behaviour;
+3. a scholarly opinion the writer fears to be associated with.
+
+<details>
+    <summary>Examples</summary>
+    <br>
+    <ul>
+      <li><a href="https://cr.yp.to/talks/2016.03.09/slides-djb-20160309-a4.pdf">Reviews</a> of djb's 'Curve25519: new Diffie-Hellman speed records'.</li>
+    </ul>
+</details>
+
 ## phonetic loan
 … _vs_ **phonemic loan**
 
