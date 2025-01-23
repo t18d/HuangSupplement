@@ -15,13 +15,13 @@ layout: anchor
 &nbsp;  
 &nbsp;  
 &nbsp;  
-[Canones Lexicographici (May 1860)](https://books.google.com/books?id=LqxUAAAAcAAJ&pg=RA3-PA1#v=onepage&q&f=false)
+[_Canones Lexicographici_ (May 1860)](https://books.google.com/books?id=LqxUAAAAcAAJ&pg=RA3-PA1#v=onepage&q&f=false)
 
 [The Oxford Quarto Dictionary](https://www.henrysweet.org/bulletin-of-the-henry-sweet-society/blog-post-title-one-wj68m-s8yby)
 
 [Sanford Brown Meech at the _Middle English Dictionary_](https://doi.org/10.1353/dic.1995.0015)
 
-[Dictionaries: The Art and Craft of Lexicography](https://archive.org/details/dictionariesartc0000land_02ed)
+[_Dictionaries: The Art and Craft of Lexicography_](https://archive.org/details/dictionariesartc0000land_02ed)
 
 [Confessions of the Antedater](https://doi.org/10.1353/dic.2018.0011)
 
