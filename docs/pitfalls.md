@@ -19,13 +19,14 @@ description: Gleanings from HuangSupplement
 
 ```diff
 - 汽車,2,noun,1855,,B. Hobson『博物新編』,
++ 汽車,2,noun,1903,近有法人与英人及他国人合擬賭賽。汽車由法京巴黎斯至日斯巴尼亜京城馬得利脱。,『申報』5月27日「賽車肇事」,
 ```
 
 汽車 always meant train in the 19th century. All exx. in Chao (2016), p. 232, actually refer to trains.
 
 That's Chu Chün-sheng's 望文生訓.
 
-[184802e](https://github.com/t18d/HuangSupplement/commit/184802ea9877186b40b7e33c3b3a4d7926029dfb)
+[184802e](https://github.com/t18d/HuangSupplement/commit/184802ea9877186b40b7e33c3b3a4d7926029dfb), [f7352a1](https://github.com/t18d/HuangSupplement/commit/f7352a1d426877852ee4ceca7a91740278a6612e)
 
 ## dictionary evidence
 
