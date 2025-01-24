@@ -119,6 +119,7 @@ last_modified_at: 2025-01-24T03:55:12+00:00
       <li>Todani, Masayoshi, '中国語における日本語の借用と意味変化：“赤字”を例として',『日中語彙研究』, 10 (2020), 149–70.</li>
       <li>Todani, Masayoshi, '中国語における日本語「手続」の借用過程',『日中語彙研究』, 11 (2021), 143–163.</li>
       <li>Tola, Gabriele, <em>John Fryer and </em>The Translator’s Vade-mecum (Leiden, 2021), 237–79.</li>
+      <li>佟艺辰, '“分词”考源',『或問』, 46 (2024), 117–28.</li>
       <li>袁書予, '「分析」の成立と変化', master's thesis, Osaka University, 2022.</li>
       <li>趙明,『明清漢語外來詞史研究』(Amoy, 2016), 67–8.</li>
     </ul>
