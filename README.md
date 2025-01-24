@@ -114,6 +114,7 @@ last_modified_at: 2025-01-24T03:24:47+00:00
       <li>沙広聡, '接尾辞「性」の歴史：日中両語間の相互影響', master's thesis, Osaka University, 2020.</li>
       <li>Tanomura, Tadaharu, 'カレーを表す中国語名称の変遷',『或問』, 38 (2020), 15–25.</li>
       <li>Tanomura, Tadaharu, '「接種」の語史: 種痘関連用語の生成と消長',『阪大日本語研究』, 34 (2022), 27–45.</li>
+      <li>Tanomura, Tadaharu, '「卡車」の語史──その起源と展開',『或問』, 46 (2024), 31–45.</li>
       <li>Tanomura, Tadaharu, '学問名「考古学」の成立',『阪大日本語研究』, 37 (2025), forthcoming.</li>
       <li>Todani, Masayoshi, '中国語における日本語の借用と意味変化：“赤字”を例として',『日中語彙研究』, 10 (2020), 149–70.</li>
       <li>Todani, Masayoshi, '中国語における日本語「手続」の借用過程',『日中語彙研究』, 11 (2021), 143–163.</li>
