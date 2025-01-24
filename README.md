@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-24T07:01:43+00:00
+last_modified_at: 2025-01-24T07:25:07+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -289,6 +289,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 侵襲|/|verb|1847|to come upon, to attack, 侵襲|Medhurst, _English and Chinese Dictionary_, s.v. To come|
 山脈|/|noun|1858|山脈之方向|W. Muirhead in『六合叢談』1/13, 9|
 哨子|/|noun|1889|Steam whistle 汽哨子|Fryer『汽機中西名目表』49|
+生態學|/|noun|1904|博物有分類學解剖學生理學生態學進化學有何等分別|『大公報』7月31日「中外近事」|
 石灰水|/|noun|1887|Lime water 石灰水|Fryer『西藥大成藥品中西名目表』35+|
 石墨|/|noun|1883|Plumbago, or Graphite 石墨|Fryer『金石中西名目表』26|
 石蕊|/|noun|1885|Litmus 石蕋|Fryer『化學材料中西名目表』21|
