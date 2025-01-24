@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-24T08:18:00+00:00
+last_modified_at: 2025-01-24T13:25:53+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -224,8 +224,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 電子-|electronic|adjective|1935|電子告警器 Electronic Alarm|『通俗文化』1/4, 26|
 墊圈|/|noun|1889|Washer 墊圈|Fryer『汽機中西名目表』56|
 發動|/|verb|1889|Driving coupling 發動 接盤|Fryer『汽機中西名目表』17|
-反応|2|noun|1902|吾入之意識、不外対於內部之剌戟之反応。|『新民叢報』「訳述三·人格論」|
-反応|4|noun|1913|反応 感情や行動の問題における態度|Mateer, _New Terms for New Ideas_|
+反應|2|noun|1902|吾入之意識、不外対於內部之剌戟之反應。|『新民叢報』「訳述三·人格論」|
 -費|(in two-morpheme words)|nominal bound root|1853|q.v. 船費|/|
 -費|(in three-morpheme words)|nominal bound root|1886|q.v. 保險費|/|
 廢水|/|noun|1889|Waste tank 廢水箱|Fryer『汽機中西名目表』56+|
