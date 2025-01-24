@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-24T03:12:29+00:00
+last_modified_at: 2025-01-24T03:24:47+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -238,7 +238,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 环礁|/|noun|1903|自其形狀言之。則曰⋯環礁 (Atoll)|『中學地文教科書』96|
 減速|/|verb|1889|Ease 減速|Fryer『汽機中西名目表』17|
 接種|/|verb|1898|伝至日本。互相接種其効昭然。|『申報』7月11日「予防痘症篇」|
-考古學|/|noun|1896|Археологія, Као-гу-сі_о_ 考古學|Попов『俄漢合璧増補字彙』|from 考古学 (1877/79)
+考古學|/|noun|1896|Археологія, Као-гу-сі*о* 考古學|Попов『俄漢合璧増補字彙』|from 考古学 (1877/79)
 烙鐵|/|noun|1889|Soldering iron 嵌錫烙鐵|Fryer『汽機中西名目表』47|
 硫酸|/|noun|1883|Sulphuric acid 硫酸|Fryer『金石中西名目表』32|
 漏斗|/|noun|1857|譬如水洩於漏斗|A. Williamson in『六合叢談』1/3, 7|
