@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-24T07:25:07+00:00
+last_modified_at: 2025-01-24T07:54:00+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -220,6 +220,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 地球仪|/|noun|1886|試再取一訓誨生徒之地球儀|Edkins『地理質學啟蒙』三十二節|
 地下水|/|noun|1903|地下水 雨水之一部。|『中學地文教科書』74|
 電鍍|/|noun|1885|Electro-planting 電鍍銀|Fryer『化學材料中西名目表』13|
+電子|/|noun|1905|傳點亦名行點，或稱電子|纪立生–赵齐巽『最新化學詳要』|
+電子-|electronic|adjective|1935|電子告警器 Electronic Alarm|『通俗文化』1/4, 26|
 墊圈|/|noun|1889|Washer 墊圈|Fryer『汽機中西名目表』56|
 發動|/|verb|1889|Driving coupling 發動 接盤|Fryer『汽機中西名目表』17|
 反応|2|noun|1902|吾入之意識、不外対於內部之剌戟之反応。|『新民叢報』「訳述三·人格論」|
