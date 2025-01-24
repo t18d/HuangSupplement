@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-24T03:55:12+00:00
+last_modified_at: 2025-01-24T07:01:43+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -226,6 +226,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 -費|(in two-morpheme words)|nominal bound root|1853|q.v. 船費|/|
 -費|(in three-morpheme words)|nominal bound root|1886|q.v. 保險費|/|
 廢水|/|noun|1889|Waste tank 廢水箱|Fryer『汽機中西名目表』56+|
+分詞|/|noun|1904|分詞語義.取分取動詞及形容詞之兩性質也.|『漢譯法文典』214|
 分析|analysis|deverbal noun|1899|q.v. 定量分析, 定性分析|/|
 分析|analyse|verb|1908|to explain, 剖明, 解明, 分析|顏惠慶『英華大辭典』s.v. Enucleate|
 咖喱|/|noun|1874|整啲咖喱魚|Dennys『初学階』|
