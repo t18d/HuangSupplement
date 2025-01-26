@@ -53,6 +53,29 @@ A **nonce word** attested in a dictionary is just that, a **hapax legomenon**. A
     </ul>
 </details></p>
 
+## etymology _vs_ semantics
+
+```diff
++ 方言,dialect,noun,1906,「統一方言說畧」,"沈敦和 in『寰球中國學生報』1/1, 26",
++ 方言學,dialectology,noun,1920,(表)訓詁{縱方面、—古訓學 橫方面、—現代方言學,沈兼士 in『時事新報』8月31日第七版,
+```
+
+Anyone with a cursory familiarity with the modern **lingua franca** will understand _fang yen_ in the sense of 'dialect'. A word's meaning in current Mandarin has _nothing_ to do with its **etymology** in pre-modern Chinese.
+
+See also [**consistency of sets**](https://t18d.github.io/HuangSupplement/dictionary/#sets-consistency-of).
+
+[5957531](https://github.com/t18d/HuangSupplement/commit/595753162763bfd0187671eda2b6fe3d63396c37)
+
+## general _vs_ technical vocabulary
+
+```diff
++ 方言,dialect,noun,1906,「統一方言說畧」,"沈敦和 in『寰球中國學生報』1/1, 26",
+```
+
+A word's meaning in everyday language is _not_ determined by [how it's defined in specialist textbooks](https://sino-platonic.org/complete/spp029_chinese_dialect.pdf).
+
+[5957531](https://github.com/t18d/HuangSupplement/commit/595753162763bfd0187671eda2b6fe3d63396c37)
+
 ## IC analysis
 
 > 忠厚老成者擯之為無能，俠少儇辨者取之為可用，守道愛國者謂之為流俗，敗常害民者謂之為通變。
