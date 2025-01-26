@@ -215,3 +215,7 @@ Because the meaning of a technical term is by necessity **prescriptive** and can
 Trying to keep **theory** out of a dictionary is fighting a losing battle. The very act of definition writing is already theorising.
 
 **Example:** OED3 keeps relying on the theory of **ablaut** and reconstructed **PIE semantics** in spite of having deleted all the PIE forms from its site.
+
+## topolect
+
+A **calque** coined by Victor Mair to render the pre-modern _fang yen_ into English.
