@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-24T13:36:48+00:00
+last_modified_at: 2025-01-26T13:55:25+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -224,6 +224,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 墊圈|/|noun|1889|Washer 墊圈|Fryer『汽機中西名目表』56|
 發動|/|verb|1889|Driving coupling 發動 接盤|Fryer『汽機中西名目表』17|
 反應|2|noun|1902|吾入之意識、不外対於內部之剌戟之反應。|『新民叢報』「訳述三·人格論」|
+方言|dialect|noun|1906|「統一方言說畧」|沈敦和 in『寰球中國學生報』1/1, 26|cf. [#22](https://github.com/t18d/HuangSupplement/issues/22)
+方言學|dialectology|noun|1920|(表)訓詁{縱方面、—古訓學 橫方面、—現代方言學|沈兼士 in『時事新報』8月31日第七版|
 -費|(in two-morpheme words)|nominal bound root|1853|q.v. 船費|/|
 -費|(in three-morpheme words)|nominal bound root|1886|q.v. 保險費|/|
 廢水|/|noun|1889|Waste tank 廢水箱|Fryer『汽機中西名目表』56+|
