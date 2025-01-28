@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-26T14:00:55+00:00
+last_modified_at: 2025-01-28T08:24:46+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -243,6 +243,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 花梗|/|noun|1887|Myrospermum pedicellatum 小花梗米羅司卑麻|Fryer『西藥大成藥品中西名目表』41|
 环礁|/|noun|1903|自其形狀言之。則曰⋯環礁 (Atoll)|『中學地文教科書』96|
 減速|/|verb|1889|Ease 減速|Fryer『汽機中西名目表』17|
+教育者|/|noun|1866|Educator, 教養者 … 教育者|Lobscheid『英華字典』s.v. Educator|
 接種|/|verb|1898|伝至日本。互相接種其効昭然。|『申報』7月11日「予防痘症篇」|
 卡車|/|noun|1923|曾宣言阻止外来卡車入路線之事、致有引起一般人之誤解、以卡車作乗客之車輛⋯此項卡車係専指運貨笨重之車而言|『申報』7月14日「滬太公司近況」|
 考古學|/|noun|1896|Археологія, Као-гу-сі*о* 考古學|Попов『俄漢合璧増補字彙』|from 考古学 (1877/79)
@@ -299,6 +300,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 手動|/|adjective|1889|Hand gear 手動器具, 或手動齒輪|Fryer『汽機中西名目表』26|
 手續|/|noun|1901|行政訴訟之手續|『譯書彙編』７, 54|
 水表|/|noun|1889|Water gauge 水表|Fryer『汽機中西名目表』56|
+所有者|/|noun|1908|The rightful proprietor, 主, 原主, 主人, 物主, 所有者|顏惠慶 『英華大辭典』s.v. Owner|
 體操|/|noun|1887|至櫻馬塲體操塲閱看師範學校生徒演習兵法|『申報』1月14日「日報譯略」|
 外徑|/|noun|1889|Outer diameter of tubes 烟管外徑|Fryer『汽機中西名目表』35|
 峡谷|/|noun|1903|其上部陷落時。則成絕壁如削。是謂峽谷。|『中學地文教科書』52|
