@@ -13,6 +13,14 @@ layout: anchor
 &nbsp;  
 &nbsp;  
 &nbsp;  
+## Chinese, _Ancient_
+
+Bernhard Karlgren's term for the language around 600AD as codified in the dictionary Ch’ieh yün. A snapshot, not a period.
+
+## Chinese, _Archaic_
+
+Bernhard Karlgren's term for the language of the Hênan region during the first Chou centuries (from 1028BC).
+
 ## comma, _Oxford_
 
 Using the **Oxford comma** when there is no ambiguity conveys the **implicature** that the writer fears criticism for failing to use it.
