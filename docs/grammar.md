@@ -13,6 +13,16 @@ layout: anchor
 &nbsp;  
 &nbsp;  
 &nbsp;  
+## 1 Preliminaries
+
+### Periodisation
+
+Old Chinese and Middle Chinese, like Baroque, are terms that one could wish by now universally discredited. It may be recalled that Karlgren's [**Ancient**](https://t18d.github.io/HuangSupplement/dictionary/#chinese-ancient) and [**Archaic Chinese**](https://t18d.github.io/HuangSupplement/dictionary/#chinese-archaic) were never intended for periodisation.
+
+Use a date, date range or political period.
+
+**Example:** _Early_ Chou _Chinese_
+
 ## 2 Syntax
 
 ### Gaps in terminology
@@ -142,7 +152,7 @@ Implementation for examples in Huang–Shi §3.4.2:
 
 ||水|土|
 |:-:|:-:|:-:|
-|fossilised (OC)|morph|morph|
+|fossilised (Chou)|morph|morph|
 |Rule 2|||
 
 ### Orthographic alternation
