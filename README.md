@@ -27,7 +27,6 @@ last_modified_at: 2025-01-28T11:25:00+00:00
       <li><strong>Abbreviations</strong>
         <ul>
           <li>NP – noun phrase</li>
-          <li>OC – Old Chinese (c.1000–200BC)</li>
           <li>VP – verb phrase</li>
         </ul>
       </li>
