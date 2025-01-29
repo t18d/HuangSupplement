@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-29T02:41:01+00:00
+last_modified_at: 2025-01-29T02:44:49+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -141,7 +141,6 @@ last_modified_at: 2025-01-29T02:41:01+00:00
 
 Lemma|Sense|Word Class|Year|Quotation|Source|Note
 ---|---|---|---|---|---|---
-愛國者|/|noun|1899|有憂國者。有愛國者。愛國者語憂國者曰。|梁啓超『自由書·憂國與愛國』+|
 愛情|/|noun|1584|司愛欲者，愛一物，必生一愛情而内含存之。|Ruggieri『天主聖教實錄』|
 愛人|2|noun|1908|One in love, 愛人, 相好, 情人|顏惠慶『英華大辭典』s.v. Lover+|
 安樂椅|/|noun|1908|A soft arm-chair, 偃息椅, 安樂椅, 軟熟圈手椅, 休息椅|顏惠慶『英華大辭典』s.v. Easy chair|
