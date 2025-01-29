@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-29T03:05:44+00:00
+last_modified_at: 2025-01-29T03:13:20+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -148,7 +148,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 暗生植物|/|NP|1887|Cryptogam{e}æ 暗生植物|Fryer『西藥大成藥品中西名目表』18|dog-Latin: Kretschmer §31
 暗室|/|noun|1664|故山市海市暗室一隙皆得轉吸而見之|方以智『物理小識』|
 罷工|2|verb|1819|罷 … 工 … in the ordinary sense, to strike work for a rise of wages, as is often done by the Canton weavers|Morrison, _A Dictionary of the Chinese Language_, ii/i, s.v. 罷|
-罷免|/|verb|1913|裁撤 罷免 … to remove from office; to cashier|Mateer, _New terms for new ideas: A study of the Chinese newspaper_|
+罷免|/|verb|T'ang|/|/|What changes is the political process (monarchy > dictatorship > democracy), not the semantics
 白粉|2|noun|1857|此時草木暢茂、成煤層、其上為新紅沙石、黃灰石、石膏、石鹽、蛋粉石、白粉、火石|W. Muirhead in『六合叢談』1/2, 2|
 白金|/|noun|1848|Platina, 白金|Medhurst, _English and Chinese Dictionary_, s.v. Platina|
 白内障|/|noun|1908|Cataract, (醫) 瞕, 白內障, 內障眼, 眼珠變質|顏惠慶『英華大辭典』s.v. Pearl-eye|
