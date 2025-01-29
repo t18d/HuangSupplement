@@ -17,7 +17,7 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 斑馬,/,noun,1868,Zebra 斑馬,鄺其照『字典集成』s.v. Zebra,
 版畫,/,noun,1908,"An impression from an engraved plate, block of wood, or other material, 刻版印刷物, 版畫, 印畫",顏惠慶『英華大辭典』s.v. Engraving+,
 版權,/,noun,1895 (1887),/,黃遵憲『日本國志·食貨志二』,
-半旗,/,adverb,1876,「大日本國事 半旗弔慰」,"『萬國公報』396, 23",
+半旗,/,adverb,1876,「大日本國事 半旗弔慰」,"『萬國公報』396, 23",[stylistics](https://github.com/t18d/HuangSupplement/blob/main/style.csv)
 伴侶,/,noun,1842,伴侶 … an associate,"Medhurst, _Chinese and English Dictionary_, s.v. 侶",
 幫,/,nominal bound root,1872,"Party _or company,_ 羣黨 … 朋黨 … 班 … 幫",Doolittle『英華萃林韻府』s.v. Party,
 綁票,/,verb,1917,"Kidnap 綁票, 請財神","Mateer, _Hand Book of New Terms and Newspaper Chinese_",
@@ -68,7 +68,7 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 採掘,mine,verb,1882,又云生野鑛山局自採掘以來日見起色,『申報』9月24日「照譯東洋新聞」,
 菜單,/,noun,1844,"bill of fare, 菜單",Williams『英華韵府歷階』s.v. Tavern,
 草原,/,noun,1908,歐洲東南與亞洲西北之草原,顏惠慶『英華大辭典』s.v. Steppe+,
-塵拂,/,/,/,/,/,likely from 塵払 (ちり‐はらい)
+塵拂,/,/,/,/,/,likely from 塵払 (ちり‐はらい); [stylistics](https://github.com/t18d/HuangSupplement/blob/main/style.csv)
 秤桿,/,noun,1889,Weigh levers 秤桿,Fryer『汽機中西名目表』56,
 赤字,/,noun,1931,日本歳入預定過大 赤字問題引起各方非難,『大公報』天津版1931年4月4日4版,
 打胎,/,deverbal noun,1884,打胎惡報,『述報·近聞卷一』35,
