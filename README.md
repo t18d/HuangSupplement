@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-29T06:00:04+00:00
+last_modified_at: 2025-01-29T06:44:07+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -160,7 +160,6 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 版畫|/|noun|1908|An impression from an engraved plate, block of wood, or other material, 刻版印刷物, 版畫, 印畫|顏惠慶『英華大辭典』s.v. Engraving+|
 版權|/|noun|1895 (1887)|/|黃遵憲『日本國志·食貨志二』|
 半旗|/|adverb|1876|「大日本國事 半旗弔慰」|『萬國公報』396, 23|[stylistics](https://github.com/t18d/HuangSupplement/blob/main/style.csv)
-伴侶|/|noun|1842|伴侶 … an associate|Medhurst, _Chinese and English Dictionary_, s.v. 侶|
 幫|/|nominal bound root|1872|Party _or company,_ 羣黨 … 朋黨 … 班 … 幫|Doolittle『英華萃林韻府』s.v. Party|
 綁票|/|verb|1917|Kidnap 綁票, 請財神|Mateer, _Hand Book of New Terms and Newspaper Chinese_|
 保留|1|verb|1908|To hold or retain, 保有, 保留|顏惠慶『英華大辭典』s.v. Keep+|
