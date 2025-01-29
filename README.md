@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-29T11:27:25+00:00
+last_modified_at: 2025-01-29T12:33:14+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -194,16 +194,16 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 表面張力|/|noun|1911|surface tension 表面張力.|Wilhelm『德英華文科學字典』s.v. Oberflächenspannung|
 表情|/|noun|1908|Expression of the passions, 表情, 情徵|顏惠慶『英華大辭典』s.v. Pathognomy|
 冰箱|1|noun|1869|Refrigerator 涼箱 … 冰箱|Lobscheid『英華字典』s.v. Refrigerator|
-兵工廠|/|noun|1917 (mid-1916)|Arsenal 軍械局, 兵工廠|Mateer, _Hand Book of New Terms and Newspaper Chinese_|
+兵工廠|/|noun|1882|赴大坂兵工廠督造山野砲數十門|『申報』10月6日「彚譯東報」|
 兵營|/|noun|1822|CAMP, 營 … 兵營 … 營寨|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. CAMP+|
-並列|/|verb|1947|Collateral, running parallel, 並列|Medhurst, _English and Chinese Dictionary_, s.v. Collateral+|
+並列|/|verb|1847|Collateral, running parallel, 並列|Medhurst, _English and Chinese Dictionary_, s.v. Collateral+|
 並行|2|verb|1869|Concurrent, acting in conjunction … 同行 … 並行|Lobscheid『英華字典』s.v. Concurrent+|
 病毒|/|noun|1908|疮疹之毒水、传染病毒、病毒、脓浆毒 (痘毒、痘浆)|顏惠慶『英華大辭典』s.v. Virus|postdating
-病變|/|noun|1908|The transformation of a disease into another, (醫) 病症, 病變| 顏惠慶『英華大辭典』s.v. Diadexis|
-波動|2|verb|1908|(Physics) Motion in a fluid substance like that of a wave in which one set of particles acts on the adjoining set with little or no permanent displacement, (物理) 浪, 波動, 浪動|顏惠慶『英華大辭典』s.v. Wave+|
+病變|/|noun|1908|The transformation of a disease into another, (醫) 病症, 病變| 顏惠慶『英華大辭典』s.v. Diadexis+|
+波動|2|verb|1902|譬如音響光溫之波動|廣智書局『心理教育學』72|
 波形|/|noun|1908|A wavy appearance, 波形, 起伏, 波浪之形|顏惠慶『英華大辭典』s.v. Undulation|
 伯爵|/|noun|1844|Earl, 伯爵|Williams『英華韵府歷階』s.v. Earl+|
-補助金|/|noun|1908|A pecuniary grant from government, 政府之津貼, 補助金, 保護金|顏惠慶『英華大辭典』s.v. Subvention|
+補助金|/|noun|1887|只允别賜補助金六萬元|『申報』2月1日「譯東洋朝日報」|
 不法行爲|/|noun|1903|對被治者之不法行爲。科以一定之惡報者。謂之刑法|汪榮寶–葉瀾『新爾雅·釋法』33|不法 is not productive
 不合理|/|adjective|1822|It does not comport with right reason, 不合理 … 與理不相符|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. COMPORT|
 不全|/|adjective|Chan kuo|/|/|
