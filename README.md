@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-29T13:29:04+00:00
+last_modified_at: 2025-01-29T14:35:55+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -208,7 +208,6 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 不合理|/|adjective|1822|It does not comport with right reason, 不合理 … 與理不相符|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. COMPORT|
 不全|/|adjective|Chou|/|/|
 不許|/|verb|1815|書上有講不明白的義旨就來細問不許含混|Morrison, _A Dictionary of the Chinese Language_, i/i, 750|
-布丁|/|noun|1843|土產西洋布丁、香肉、果水|魏源『海國圖志』卷十五|
 布告|/|noun|1908|The notice given, 布告, 告示, 廣告, 告白|顏惠慶『英華大辭典』s.v. Notification+|
 裁員|/|verb|1923|此次教部裁员，他司不知，若在社会司，则办事员之凡日日真来办事者皆去矣。|魯迅『書信集‧致許壽裳』|
 採掘|mine|verb|1882|又云生野鑛山局自採掘以來日見起色|『申報』9月24日「照譯東洋新聞」|
