@@ -52,11 +52,16 @@ last_modified_at: 2025-01-29T06:44:07+00:00
         </ul>
       </li>
       <li>Assignment to <strong>Word Class</strong> follows the analysis of Huang–Shi (2016) as corrected in the <a href="https://t18d.github.io/HuangSupplement/grammar/#defining-word">Grammatical Appendix</a>.</li>
-      <li><strong>Year</strong> is that of first attestation. For words coined by native writers flourishing before Ch'ing, only the period is given.</li>
+      <li><strong>Year</strong> is that of first attestation. For words or senses first used by a native writer flourishing before Ch'ing, only the <strong>political period</strong> is given unless a quotation is missing from <em>Han yü ta tz'u tien</em>.</li>
       <li><strong>Quotation</strong>
         <ul>
           <li>Original orthography is preserved so far as it can be ascertained.</li>
-          <li>A <strong>solidus</strong> ('/') stands for Huang's original quotation or when the word was coined by pre-Ch'ing native writers.</li>
+          <li>A <strong>solidus</strong> ('/') is used when:
+            <ul>
+              <li>Huang's quotation remains the earliest attestation; or</li>
+              <li>no precise date is given for <strong>Year</strong>.</li>
+            </ul>
+          </li>
           <li>A <strong>blank</strong> means the scholar who antedated the word didn't supply the evidence in their writings.</li>
           <li>A <strong>question mark</strong> ('?') means the word has not been found in the source cited by the scholar who antedated the word.</li>
           <li>For traditional <strong>critical symbols</strong>, see <a href="https://archive.org/details/textualcriticismandeditorialtechniquemartinwestl./">West (1973)</a>.</li>
