@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-29T08:27:46+00:00
+last_modified_at: 2025-01-29T11:27:25+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -189,9 +189,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 比重|1|noun|1867|specific gravity, 比重|Lobscheid『英華字典』s.v. Gravity+|
 筆名|/|noun|1908|A false name, 偽名, 冒名, 假名, 別名, 筆名.|顏惠慶『英華大辭典』s.v. Pseudonym|名 is free only when the sense is 'given name'
 必然|/|adverb|1703|Forçosam<sup>te</sup> piĕ̇ tińg. piĕ̇ kińg. piĕ̇ jên.|Varo, _Arte de la lengua mandarina_, 65|
-標本|/|noun|1902|始作動物標本室。|梁啓超「格致學沿革考略」in『新民叢報』14, 12|
+標本|/|noun|1900|「製介類標本法」|『農學報』九十八|
 標記|/|noun|1858|朔望上下弦表、歷年測量寒熱表、行進江海標記、潮汐表、中外寄書表|『六合叢談』2/1, 15|earliest use as noun
-標準語|/|noun|1916|~ language, 標準語|Hemeling『官話』s.v. Standard|
 表面張力|/|noun|1911|surface tension 表面張力.|Wilhelm『德英華文科學字典』s.v. Oberflächenspannung|
 表情|/|noun|1908|Expression of the passions, 表情, 情徵|顏惠慶『英華大辭典』s.v. Pathognomy|
 冰箱|1|noun|1869|Refrigerator 涼箱 … 冰箱|Lobscheid『英華字典』s.v. Refrigerator|
