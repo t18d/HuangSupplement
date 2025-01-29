@@ -90,7 +90,17 @@ Schmidt mistakenly dated _Hand Book of New Terms and Newspaper Chinese_ to 1913,
 
 [pull/2#issuecomment-2541665188](https://github.com/t18d/HuangSupplement/pull/2#issuecomment-2541665188)
 
-## original punctuations
+## no punctuation
+
+```diff
+- 布丁,/,noun,1843,土產西洋布丁、香肉、果水、安息、蘇合油之屬,魏源『海國圖志』卷十五,
+```
+
+The correct reading is 西洋布、丁香、肉果、水安息、蘇合油.
+
+[0706edd](https://github.com/t18d/HuangSupplement/commit/0706eddd804034ab08d4366b3c148215a354cb1c)
+
+## original punctuation
 
 > It was a 。 in the 1934 edition of [飲冰室全集](https://commons.wikimedia.org/wiki/File:SSID-13347803_%E9%A3%B2%E5%86%B0%E5%AE%A4%E5%85%A8%E9%9B%86_%E4%B8%8A.pdf). 自由書 was originally written in 1899.
 
