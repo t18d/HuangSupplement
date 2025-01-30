@@ -20,3 +20,5 @@ Due to a general unfamiliarity with the literature of the Republican period, for
 In HuangSupplement, a lemma is considered [obsolete](https://t18d.github.io/HuangSupplement/obsolete/) only when another word **of the same register** is preferred in current usage. Such is case with 乾濕計, in place of which we tend to use 濕度計 on the analogy of 溫度計.
 
 The same, however, couldn't be said for 塵拂. It's the only word suited to **literary usage** for what one might call 撣子 in vulgar speech.
+
+<!-- Anything not in the table must be before this comment. -->
