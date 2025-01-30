@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-30T12:10:34+00:00
+last_modified_at: 2025-01-30T12:43:36+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -283,11 +283,11 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 汽油|/|noun|1904|有汽油六百八十罐又煤三百噸以供俄軍之用|『大公報』1月28日「時事要聞」|
 鉛筆|/|noun|1822|Blacklead pencil, 鉛筆|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. BLACKLEAD|
 牽引力|/|noun|1908|其牽引力甚大且較牛皮橡皮各帶更為耐久堅韌|『申報』2月23日「專製布質引擎帶」|
-前部|/|noun|1908|the fore end of a wagon, 車首, 車之前部|顏惠慶 『英華大辭典』s.v. Fore+|This is where Huang corrects 漢語大詞典: 前部 was always military before 1900s.
-潛伏期|1|noun|1908|病之隱匿期，潛伏期|顏惠慶『英華大辭典』s.v. Latent|
+前部|/|noun|1907|巨物射以火劍雷兒艦之前部遂炸裂|『神州日報』9月13日「理想小說 火星與地球之戰爭」|This is where Huang corrects _Han yü ta tz'u tien_: 前部 was always military before 1900s.
+潛伏期|1|noun|1907|經數小時間或三四日間而不發病者此時稱爲潛伏期|『申報』9月11日「霍亂説」|
 前景|/|noun|1867|Foreground 前地 … 前景|Lobscheid『英華字典』s.v. Foreground|
 鉗子|/|noun|1848|鉗子⋯小鉗子|Medhurst, _English and Chinese Dictionary_, s.v. Pliers|
-槍刺|/|noun|1913|刺刀 … 槍刺 … Bayonet.|Mateer, _New Terms for New Ideas_, 16|
+槍刺|/|noun|1903|「趕造槍刺」|『北洋官報』148|
 槍彈|/|noun|s.xvii|受數百槍彈從脅穿透|『行在陽秋·下』|
 槍械|/|noun|1600|疏火器鳥銃長短槍械法|『譚襄敏奏議·序』|
 強加|/|verb|1857|能強加力於他物者、謂重學之力|『六合叢談』1/11, 12|
