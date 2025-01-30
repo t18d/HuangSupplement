@@ -4,7 +4,7 @@ permalink: style/
 seo:
   type: Guide
   name: A Stylistic Appendix
-last_modified_at: 2025-01-14T14:42:55+00:00
+last_modified_at: 2025-01-30T03:02:10+00:00
 description: The stylistic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -22,3 +22,10 @@ In HuangSupplement, a lemma is considered [obsolete](https://t18d.github.io/Huan
 The same, however, couldn't be said for 塵拂. It's the only word suited to **literary usage** for what one might call 撣子 in vulgar speech.
 
 <!-- Anything not in the table must be before this comment. -->
+
+Literary|Word Class|Colloquial|Euphemism|Note
+---|---|---|---|---
+半旗|adverb|降半旗 etc.||
+塵拂|noun|撣子 etc.||
+墮胎|verb (non-U)|打胎|人工流產|
+潤筆|noun (non-U)|潤筆費||
