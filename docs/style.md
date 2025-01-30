@@ -21,6 +21,7 @@ In HuangSupplement, a lemma is considered [obsolete](https://t18d.github.io/Huan
 
 The same, however, couldn't be said for 塵拂. It's the only word suited to **literary usage** for what one might call 撣子 in vulgar speech.
 
+&nbsp;  
 <!-- Anything not in the table must be before this comment. -->
 
 Literary|Word Class|Colloquial|Euphemism|Note
