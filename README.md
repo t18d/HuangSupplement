@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-30T06:50:00+00:00
+last_modified_at: 2025-01-30T07:29:11+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -253,17 +253,18 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 漏斗|/|noun|1857|譬如水洩於漏斗|A. Williamson in『六合叢談』1/3, 7|
 描述|/|verb|1909|其惶急尤難描述|『申報』8月2日「奇情小說 美人虹」+|描述 is unmarked; 描寫 is a literary act. See also [#16](https://github.com/t18d/HuangSupplement/issues/16).
 摩擦|1|verb|1851|琥珀用燥羊毛摩擦一辺、此摩擦処便能拾芥、就是電気発出、似磁石噏鉄一般。|Macgowan『博物通書』第一章|
-奶糖|/|noun|1890|洋梅子 奶糖 羊油|Hunter『萬國藥方』卷一+|
+奶糖|/|noun|1889|竊取主人奶糖|『申報』5月24日「英界公堂瑣案」|
 難產|/|noun|1815|坼副難產也|Morrison, _A Dictionary of the Chinese Language_, i/i, 494|
-腦海|/|noun|1913|Brains, as the organ of the mind|Mateer, _New Terms for New Ideas_, 43|'An up-to-date man would no longer aspire to have it said of him, 滿肚子裡有學問.'
+腦海|/|noun|1905|開設國會之思想。咸深印入國民腦海之中。|『津報』12月31日「論國民不可無政治思想 (續前稿)」|'An up-to-date man would no longer aspire to have it said of him, 滿肚子裡有學問.' (Mateer)
 內在|/|adjective|1916|Immanent … 內在|Hemeling『官話』s.v. Immanent|
-泥土|/|noun|1858|衝激泥土成新地|W. Muirhead in『六合叢談』1/13, 8|as opposed to the two-word NP
+泥土|/|noun|1858|衝激泥土成新地|W. Muirhead in『六合叢談』1/13, 8|one word instead of two
 凝固|/|verb|1847|to harden, 凝固|Medhurst, _English and Chinese Dictionary_, s.v. To condense|
-濃度|/|noun|1908|the strength of spirits, 酒之濃度|顏惠慶『英華大辭典』s.v. Strength|
+濃度|/|noun|1908|the strength of spirits, 酒之濃度|顏惠慶『英華大辭典』s.v. Strength+|
 暖氣|/|noun|1866|Caliduct … 熱氣筒 … 暖氣筒|Lobscheid『英華字典』s.v. Caliduct|
 偶像|/|noun|1927|我好像也已經成了偶象了|魯迅『兩地書·一〇五』|metaphorical
-排外主義|/|noun|1908|the act or practice of excluding or being exclusive, 拒絕主義, 排外主義|顏惠慶 『英華大辭典』s.v. Exclusivism|
-炮灰|/|noun|1934|殺人者在毁壞世界，救人者在修補它，而炮灰資格的諸公，卻總在恭維殺人者。|魯迅『且介亭雜文‧拿破侖與隋那』|
+排外主義|/|noun|1906|防止排外主義之傳播|『時報』12月26日|
+炮灰|/|noun|1894|非砲灰卽刀頭之鬼耳|『申報』9月6日「論倭人窘况」|
+|/|/|1934|殺人者在毁壞世界，救人者在修補它，而炮灰資格的諸公，卻總在恭維殺人者。|魯迅『且介亭雜文‧拿破侖與隋那』|
 披露|/|verb|1913|披露 … Announcement as of publication of book.|Mateer, _New Terms for New Ideas_, 123|public as opposed to private discourse
 批判|/|verb|1916|批判<sup>新</sup> … 評騭|Hemeling『官話』s.v. Criticize|
 皮包|/|noun|1866|a leather bag, 皮包|Lobscheid『英華字典』s.v. Bag|
