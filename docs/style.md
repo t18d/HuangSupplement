@@ -4,7 +4,7 @@ permalink: style/
 seo:
   type: Guide
   name: A Stylistic Appendix
-last_modified_at: 2025-01-30T03:34:29+00:00
+last_modified_at: 2025-01-30T03:35:02+00:00
 description: The stylistic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -24,7 +24,7 @@ The same, however, couldn't be said for 塵拂. It's the only word suited to **l
 &nbsp;  
 <!-- Anything not in the table must be before this comment. -->
 
-Literary|Word Class|non-U|Colloquial|Note
+Literary|Word Class|Non-U|Colloquial|Note
 ---|---|---|---|---
 半旗|adverb||降半旗 etc.|
 塵拂|noun||撣子 etc.|
