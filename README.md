@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-30T07:54:32+00:00
+last_modified_at: 2025-01-30T09:30:27+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -266,11 +266,12 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 砲灰|/|noun|1894|非砲灰卽刀頭之鬼耳|『申報』9月6日「論倭人窘况」|
 |/|/|1934|殺人者在毁壞世界，救人者在修補它，而炮灰資格的諸公，卻總在恭維殺人者。|魯迅『且介亭雜文‧拿破侖與隋那』|
 披露|/|verb|1889|本社著作無論社內社外⋯當逐期披露|『新社』第三期|
-批判|/|verb|1916|批判<sup>新</sup> … 評騭|Hemeling『官話』s.v. Criticize|
+批判|/|verb|1905|徒大聲疾呼慷慨悲憤以批判當局之失策者|『津報』11月7日「論戰後經營之第一著手」|
 皮包|/|noun|1866|a leather bag, 皮包|Lobscheid『英華字典』s.v. Bag|
-評論家|/|noun|1908|the writer of a review, 品評之人, 評論家, 新著作評論家|顏惠慶 『英華大辭典』s.v. Reviewer|
+評論家|/|noun|1903|此評論家當然之天職|『國民日日報』9月20日「論辜鴻銘之無恥」|
 破碎|/|verb|1844|Shatter, 破碎|Williams『英華韵府歷階』s.v. Shatter|
-七色板|/|noun|1926|現在的小學生就能玩七色板⋯收羅許多著名學者的大著作的大報，自然是光怪陸離，但也是轉不得|魯迅「雜論管閑事，做學問，灰色等」in『語絲』62, 3|
+七色板|/|noun|1922|把七色板旋轉起來固然可以成白|『民國日報』10月12日「兒童與色彩 (講演)」|
+|/|/|1926|現在的小學生就能玩七色板⋯收羅許多著名學者的大著作的大報，自然是光怪陸離，但也是轉不得|魯迅「雜論管閑事，做學問，灰色等」in『語絲』62, 3|
 齊唱|/|VP|1844|Chorus, join 齊唱|Williams『英華韵府歷階』s.v. Chorus|
 騎士|/|noun|1908|In feudal times, one admitted by peculiar ceremonies to a certain military rank, 武士, 騎士|顏惠慶『英華大辭典』s.v. Knight|
 歧義|/|adjective|1916|Equivocal … term, 歧義之名<sup>部定</sup>|Hemeling『官話』s.v. Equivocal|
