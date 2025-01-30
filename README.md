@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-30T00:29:32+00:00
+last_modified_at: 2025-01-30T02:53:28+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -214,9 +214,9 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 菜單|/|noun|1844|bill of fare, 菜單|Williams『英華韵府歷階』s.v. Tavern|
 草原|/|noun|1908|歐洲東南與亞洲西北之草原|顏惠慶『英華大辭典』s.v. Steppe+|
 塵拂|/|noun|1916|一蒼頭持長柄塵拂立儿側|『民國日報』7月22日「倪雲林」|likely from 塵払 (ちり‐はらい); [stylistics](https://github.com/t18d/HuangSupplement/blob/main/style.csv)
-秤桿|/|noun|1889|Weigh levers 秤桿|Fryer『汽機中西名目表』56|
-赤字|/|noun|1931|日本歳入預定過大 赤字問題引起各方非難|『大公報』天津版1931年4月4日4版|
-打胎|/|deverbal noun|1884|打胎惡報|『述報·近聞卷一』35|
+秤桿|/|noun|1875|不料中有李秤杆范肉架者竊以爲必係鄕裏來者可以欺侮以顯跋扈之能|『申報』1月9日「記李秤杆等攔毆馮君事」|in nickname
+赤字|/|noun|1931|日本歳入預定過大 赤字問題引起各方非難|『大公報』天津版1931年4月4日4版|cf. '「赤字」二字，是我抄的一個日本新應用的名詞' (『新社會』1931)
+打胎|/|verb|1872|不然何卒以破血打胎終久而不知變計耶|『申報』5月23日「四醫斃一婦」|[stylistics](https://t18d.github.io/HuangSupplement/style/)
 地球仪|/|noun|1886|試再取一訓誨生徒之地球儀|Edkins『地理質學啟蒙』三十二節|
 地下水|/|noun|1903|地下水 雨水之一部。|『中學地文教科書』74|
 電鍍|/|noun|1885|Electro-planting 電鍍銀|Fryer『化學材料中西名目表』13|
