@@ -4,7 +4,7 @@ permalink: style/
 seo:
   type: Guide
   name: A Stylistic Appendix
-last_modified_at: 2025-01-30T03:02:10+00:00
+last_modified_at: 2025-01-30T03:32:04+00:00
 description: The stylistic appendix to HuangSupplement
 layout: no-anchor
 ---
