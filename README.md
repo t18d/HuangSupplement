@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-31T00:40:01+00:00
+last_modified_at: 2025-01-31T01:09:46+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -148,8 +148,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 ---|---|---|---|---|---|---
 愛情|/|noun|1584|司愛欲者，愛一物，必生一愛情而内含存之。|Ruggieri『天主聖教實錄』|
 愛人|2|noun|1908|One in love, 愛人, 相好, 情人|顏惠慶『英華大辭典』s.v. Lover+|
-安樂椅|/|noun|1907|仰坐安樂椅上狀甚暇豫|『申報』5月28日「偵探小說 殺婦奇冤」|
-安樂椅子|/|noun|1917|Easy chair 安樂椅子|Mateer, _Hand Book of New Terms and Newspaper Chinese_|
+安樂椅|/|noun|1905|安樂椅鐵床。安置得齊整。|『閨秀救國小說 女媧石』乙卷, 8|
+安樂椅子|/|noun|1910|at the foot of your easy chair … 於安樂椅子之下|『英文書翰鑰』208|date of preface; signed in Tokyo, published in Shanghai
 暗生植物|/|NP|1887|Cryptogam{e}æ 暗生植物|Fryer『西藥大成藥品中西名目表』18|dog-Latin: Kretschmer §31
 暗室|/|noun|1664|故山市海市暗室一隙皆得轉吸而見之|方以智『物理小識』|
 罷工|2|verb|1819|罷 … 工 … in the ordinary sense, to strike work for a rise of wages, as is often done by the Canton weavers|Morrison, _A Dictionary of the Chinese Language_, ii/i, s.v. 罷|
