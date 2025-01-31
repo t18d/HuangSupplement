@@ -9,7 +9,7 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 罷免,/,verb,T'ang,/,/,"What changes is the political process (monarchy > dictatorship > democracy), not the semantics"
 白粉,2,noun,1857,此時草木暢茂、成煤層、其上為新紅沙石、黃灰石、石膏、石鹽、蛋粉石、白粉、火石,"W. Muirhead in『六合叢談』1/2, 2",
 白金,/,noun,1848,"Platina, 白金","Medhurst, _English and Chinese Dictionary_, s.v. Platina",
-白内障,/,noun,1908,"Cataract, (醫) 瞕, 白內障, 內障眼, 眼珠變質",顏惠慶『英華大辭典』s.v. Pearl-eye+,白色內障 (1644)
+白内障,/,noun,1906,白內障(白翳)者。因于水晶體之溷濁。,『中學生理衛生教科書』100,白色內障 (1644)
 白熱,1,adjective,1867,"white heat, 白熱",Lobscheid『英華字典』s.v. Heat,
 擺,1,nominal bound root,1868,"of o'clock, 擺",Lobscheid『英華字典』s.v. Pendulum+,
 拜金主義,/,noun,1907,實不外拜金主義也,『申報』4月8日「不允唐侍郞辭職辦路」,
@@ -20,12 +20,12 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 半旗,/,adverb,1876,「大日本國事 半旗弔慰」,"『萬國公報』396, 23",[stylistics](https://t18d.github.io/HuangSupplement/style/)
 幫,/,nominal bound root,1872,"Party _or company,_ 羣黨 … 朋黨 … 班 … 幫",Doolittle『英華萃林韻府』s.v. Party,
 綁票,/,verb,1899,名爲綁票又名請財神,『申報』9月15日,
-保留,1,verb,1908,"To hold or retain, 保有, 保留",顏惠慶『英華大辭典』s.v. Keep+,
+保留,1,verb,1903,締結撤兵條約。其始或以保留權利許還清國為名。,『國民同盟會始末』55,
 保險公司,/,NP,1868,"insurance company, 保險會 … 保險公司",Lobscheid『英華字典』s.v. Insurance+,
 保證書,/,noun,1895 (1887),又住在裁判所管內饒有貲產者亦可代納應充金額之保證書,黃遵憲『日本國志·刑法志二』,
 報告,1,verb,1895 (1887),若更命留禁要將其事由報告裁判長,黃遵憲『日本國志·刑法志一』,
 暴風,/,noun,1822,"TEMPEST of wind, 暴風 … or reversed","Morrison, _A Dictionary of the Chinese Language_, iii, s.v. TEMPEST+",
-暴力,/,noun,1904,有用暴力來迫我的 我自有法子抵制他,『俄事警聞』2月4日「未來日俄戰爭小說」,
+暴力,/,noun,1902,決非以暴力為尚而以自由為尚。人人以自由為尚此平等所由出也。,梁啟超輯譯『近世歐洲四大家政治學說』13,
 暴雨,/,noun,1857,有燥土而時有暴雨、成大水不能潤土者,"W. Muirhead in『六合叢談』1/13, 10",
 北極星,1,noun,Chin,/,/,
 備考,/,verb,Ming,/,/,
@@ -44,7 +44,7 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 必然,/,adverb,1703,Forçosam<sup>te</sup> piĕ̇ tińg. piĕ̇ kińg. piĕ̇ jên.,"Varo, _Arte de la lengua mandarina_, 65",
 標本,/,noun,1900,「製介類標本法」,『農學報』九十八,
 標記,/,noun,1858,朔望上下弦表、歷年測量寒熱表、行進江海標記、潮汐表、中外寄書表,"『六合叢談』2/1, 15",earliest use as noun
-表面張力,/,noun,1911,"surface tension 表面張力.",Wilhelm『德英華文科學字典』s.v. Oberflächenspannung,
+表面張力,/,noun,1905,凡液體之表面因分子力不平均而生之收縮力為表面張力,湖北學務處『物理學』,
 表情,/,noun,1908,"Expression of the passions, 表情, 情徵",顏惠慶『英華大辭典』s.v. Pathognomy,
 冰箱,1,noun,1869,"Refrigerator 涼箱 … 冰箱",Lobscheid『英華字典』s.v. Refrigerator,
 兵工廠,/,noun,1882,赴大坂兵工廠督造山野砲數十門,『申報』10月6日「彚譯東報」,
@@ -54,7 +54,7 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 病毒,/,noun,1908,疮疹之毒水、传染病毒、病毒、脓浆毒 (痘毒、痘浆),顏惠慶『英華大辭典』s.v. Virus,postdating
 病變,/,noun,1908,"The transformation of a disease into another, (醫) 病症, 病變", 顏惠慶『英華大辭典』s.v. Diadexis+,
 波動,2,verb,1902,譬如音響光溫之波動,廣智書局『心理教育學』72,
-波形,/,noun,1908,"A wavy appearance, 波形, 起伏, 波浪之形",顏惠慶『英華大辭典』s.v. Undulation,
+波形,/,noun,1906 (1904),音色之差異依波形之差異而生,陳文哲『普通應用物理教科書』151,
 伯爵,/,noun,1844,"Earl, 伯爵",Williams『英華韵府歷階』s.v. Earl+,
 補助金,/,noun,1887,只允别賜補助金六萬元,『申報』2月1日「譯東洋朝日報」,
 不法行爲,/,noun,1883,似此種種不法行爲實足爲地方大害,『申報』12月19日「憲示録登」,
@@ -65,8 +65,8 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 裁員,/,verb,1882,「裁員節費」,『益聞錄』第百三十八號,
 採掘,mine,verb,1882,又云生野鑛山局自採掘以來日見起色,『申報』9月24日「照譯東洋新聞」,
 菜單,/,noun,1844,"bill of fare, 菜單",Williams『英華韵府歷階』s.v. Tavern,
-草原,/,noun,1908,歐洲東南與亞洲西北之草原,顏惠慶『英華大辭典』s.v. Steppe+,
-塵拂,/,noun,1916,一蒼頭持長柄塵拂立儿側,『民國日報』7月22日「倪雲林」,likely from 塵払 (ちり‐はらい); [stylistics](https://t18d.github.io/HuangSupplement/style/)
+草原,/,noun,1902,地多草原。故牧<畜>之業最盛。,作新譯書局『世界地理』292,
+塵拂,/,noun,1912,尾端生有長毛。如塵拂。,杜亞泉–杜就田『新理科教授法二』12,likely from 塵払 (ちり‐はらい); [stylistics](https://t18d.github.io/HuangSupplement/style/)
 秤桿,/,noun,1875,不料中有李秤杆范肉架者竊以爲必係鄕裏來者可以欺侮以顯跋扈之能,『申報』1月9日「記李秤杆等攔毆馮君事」,in nickname
 赤字,/,noun,1931,日本歳入預定過大 赤字問題引起各方非難,『大公報』天津版1931年4月4日4版,cf. '「赤字」二字，是我抄的一個日本新應用的名詞' (『新社會』1931)
 打胎,/,verb,1872,不然何卒以破血打胎終久而不知變計耶,『申報』5月23日「四醫斃一婦」,[stylistics](https://t18d.github.io/HuangSupplement/style/)
