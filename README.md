@@ -46,7 +46,7 @@ last_modified_at: 2025-01-31T08:49:41+00:00
       <li><strong>Sense</strong>
         <ul>
           <li><strong>Numerals</strong> refer to the senses in Huang.</li>
-          <li>A <strong>solidus</strong> ('/') signifies that only one sense is given in Huang or that a new lemma has only one common meaning.</li>
+          <li>A <strong>solidus</strong> ('/') signifies that only one sense is given in Huang or that a new lemma only has one common meaning.</li>
           <li>Glosses serve to disambiguate and are set in <strong>roman type</strong>.</li>
           <li>Domain classification is set in <strong>italic type</strong>.</li>
         </ul>
@@ -69,7 +69,7 @@ last_modified_at: 2025-01-31T08:49:41+00:00
       </li>
       <li><strong>Source</strong>
         <ul>
-          <li>A <strong>plus sign</strong> ('+') following a source means the word occurs more than once in that source, or is attested in one or more other sources dating from the same year.</li>
+          <li>A <strong>plus sign</strong> ('+') following a source means the word is also attested in at least one other source dating from the same year.</li>
           <li>A <strong>question mark</strong> ('?') means the scholar who antedated the word didn't supply the source in their writings.</li>
           <li>A <strong>question mark</strong> ('?') following a source means the scholar who antedated the word didn't clearly specify the source in their writings and that the one given here was inferred from their bibliography.</li>
         </ul>
