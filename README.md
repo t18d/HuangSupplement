@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-01-31T07:32:56+00:00
+last_modified_at: 2025-01-31T08:49:41+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -147,7 +147,7 @@ last_modified_at: 2025-01-31T07:32:56+00:00
 Lemma|Sense|Word Class|Year|Quotation|Source|Note
 ---|---|---|---|---|---|---
 愛情|/|noun|1584|司愛欲者，愛一物，必生一愛情而内含存之。|Ruggieri『天主聖教實錄』|
-愛人|2|noun|1908|One in love, 愛人, 相好, 情人|顏惠慶『英華大辭典』s.v. Lover+|
+愛人|2|noun|1908|One in love, 愛人, 相好, 情人|顏惠慶『英華大辭典』s.v. Lover|
 安樂椅|/|noun|1905|安樂椅鐵床。安置得齊整。|『閨秀救國小說 女媧石』乙卷, 8|
 安樂椅子|/|noun|1910|at the foot of your easy chair … 於安樂椅子之下|『英文書翰鑰』208|date of preface; signed in Tokyo, published in Shanghai
 暗生植物|/|NP|1887|Cryptogam{e}æ 暗生植物|Fryer『西藥大成藥品中西名目表』18|dog-Latin: Kretschmer §31
@@ -158,35 +158,35 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 白金|/|noun|1848|Platina, 白金|Medhurst, _English and Chinese Dictionary_, s.v. Platina|
 白内障|/|noun|1906|白內障(白翳)者。因于水晶體之溷濁。|『中學生理衛生教科書』100|白色內障 (1644)
 白熱|1|adjective|1867|white heat, 白熱|Lobscheid『英華字典』s.v. Heat|
-擺|1|nominal bound root|1868|of o'clock, 擺|Lobscheid『英華字典』s.v. Pendulum+|
+擺|1|nominal bound root|1868|of o'clock, 擺|Lobscheid『英華字典』s.v. Pendulum|
 拜金主義|/|noun|1907|實不外拜金主義也|『申報』4月8日「不允唐侍郞辭職辦路」|
 扳手|2|noun|1893|其彈子均由後膛旁孔納入，膛下設木把手，用右手把住扳手 …|鄭觀應『盛世危言‧火器』|
 斑馬|/|noun|1868|Zebra 斑馬|鄺其照『字典集成』s.v. Zebra|
-版畫|/|noun|1908|An impression from an engraved plate, block of wood, or other material, 刻版印刷物, 版畫, 印畫|顏惠慶『英華大辭典』s.v. Engraving+|
+版畫|/|noun|1908|An impression from an engraved plate, block of wood, or other material, 刻版印刷物, 版畫, 印畫|顏惠慶『英華大辭典』s.v. Engraving|
 版權|/|noun|1895 (1887)|/|黃遵憲『日本國志·食貨志二』|
 半旗|/|adverb|1876|「大日本國事 半旗弔慰」|『萬國公報』396, 23|[stylistics](https://t18d.github.io/HuangSupplement/style/)
 幫|/|nominal bound root|1872|Party _or company,_ 羣黨 … 朋黨 … 班 … 幫|Doolittle『英華萃林韻府』s.v. Party|
 綁票|/|verb|1899|名爲綁票又名請財神|『申報』9月15日|
 保留|1|verb|1903|締結撤兵條約。其始或以保留權利許還清國為名。|『國民同盟會始末』55|
-保險公司|/|NP|1868|insurance company, 保險會 … 保險公司|Lobscheid『英華字典』s.v. Insurance+|
+保險公司|/|NP|1868|insurance company, 保險會 … 保險公司|Lobscheid『英華字典』s.v. Insurance|
 保證書|/|noun|1895 (1887)|又住在裁判所管內饒有貲產者亦可代納應充金額之保證書|黃遵憲『日本國志·刑法志二』|
 報告|1|verb|1895 (1887)|若更命留禁要將其事由報告裁判長|黃遵憲『日本國志·刑法志一』|
-暴風|/|noun|1822|TEMPEST of wind, 暴風 … or reversed|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. TEMPEST+|
+暴風|/|noun|1822|TEMPEST of wind, 暴風 … or reversed|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. TEMPEST|
 暴力|/|noun|1902|決非以暴力為尚而以自由為尚。人人以自由為尚此平等所由出也。|梁啟超輯譯『近世歐洲四大家政治學說』13|
 暴雨|/|noun|1857|有燥土而時有暴雨、成大水不能潤土者|W. Muirhead in『六合叢談』1/13, 10|
 北極星|1|noun|Chin|/|/|
 備考|/|verb|Ming|/|/|
 背景|1|noun|1916|雖成為歷史上主要之背景|『神州日報』3月19日「大亞細亞主義之運命」|
 背景|2|noun|1910|滬上所謂佈景有四大缺點⋯僅用背景一幅|『時報』3月14日「劇談」|cf. s.v. 佈景
-背面|/|noun|1822|inside or back surface, 背面|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. OUTSIDE+|
+背面|/|noun|1822|inside or back surface, 背面|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. OUTSIDE|
 被告|/|noun|1703|acusado, o reo, pí káo|Varo, _Arte de la lengua mandarina_, 56|
 被面|/|noun|1847|Coverlet, 被窩 … 被面|Medhurst, _English and Chinese Dictionary_, s.v. Coverlet|
-被殺|/|preposition + verb|1857|又辨金色之吏、曰穵林敦、亦被殺|『六合叢談』1/4, 15+|
+被殺|/|preposition + verb|1857|又辨金色之吏、曰穵林敦、亦被殺|『六合叢談』1/4, 15|
 本體|/|noun|1844|Essence, 精 … 本體 … 精氣|Williams『英華韵府歷階』s.v. Essence|
 本義|/|noun|1868|the proper sense of a word, 本意 … 本義|Lobscheid『英華字典』s.v. Proper|
 本質|/|noun|1672|夫風之本質乃地所発乾熱之気有多端可証一試|Verbiest『坤輿圖説』|
-鼻音|/|noun|1869|Twang, a, … or nasal sound, 鼻音 … 鼻聲|Lobscheid『英華字典』s.v. Twang+|
-比重|1|noun|1867|specific gravity, 比重|Lobscheid『英華字典』s.v. Gravity+|
+鼻音|/|noun|1869|Twang, a, … or nasal sound, 鼻音 … 鼻聲|Lobscheid『英華字典』s.v. Twang|
+比重|1|noun|1867|specific gravity, 比重|Lobscheid『英華字典』s.v. Gravity|
 筆名|/|noun|1908|A false name, 偽名, 冒名, 假名, 別名, 筆名.|顏惠慶『英華大辭典』s.v. Pseudonym|名 is free only when the sense is 'given name'
 必然|/|adverb|1703|Forçosam<sup>te</sup> piĕ̇ tińg. piĕ̇ kińg. piĕ̇ jên.|Varo, _Arte de la lengua mandarina_, 65|
 標本|/|noun|1900|「製介類標本法」|『農學報』九十八|
@@ -195,14 +195,14 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 表情|/|noun|1908|Expression of the passions, 表情, 情徵|顏惠慶『英華大辭典』s.v. Pathognomy|
 冰箱|1|noun|1869|Refrigerator 涼箱 … 冰箱|Lobscheid『英華字典』s.v. Refrigerator|
 兵工廠|/|noun|1882|赴大坂兵工廠督造山野砲數十門|『申報』10月6日「彚譯東報」|
-兵營|/|noun|1822|CAMP, 營 … 兵營 … 營寨|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. CAMP+|
+兵營|/|noun|1822|CAMP, 營 … 兵營 … 營寨|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. CAMP|
 並列|/|verb|1847|Collateral, running parallel, 並列|Medhurst, _English and Chinese Dictionary_, s.v. Collateral+|
-並行|2|verb|1869|Concurrent, acting in conjunction … 同行 … 並行|Lobscheid『英華字典』s.v. Concurrent+|
+並行|2|verb|1869|Concurrent, acting in conjunction … 同行 … 並行|Lobscheid『英華字典』s.v. Concurrent|
 病毒|/|noun|1908|疮疹之毒水、传染病毒、病毒、脓浆毒 (痘毒、痘浆)|顏惠慶『英華大辭典』s.v. Virus|postdating
-病變|/|noun|1908|The transformation of a disease into another, (醫) 病症, 病變| 顏惠慶『英華大辭典』s.v. Diadexis+|
+病變|/|noun|1908|The transformation of a disease into another, (醫) 病症, 病變| 顏惠慶『英華大辭典』s.v. Diadexis|
 波動|2|verb|1902|譬如音響光溫之波動|廣智書局『心理教育學』72|
 波形|/|noun|1906 (1904)|音色之差異依波形之差異而生|陳文哲『普通應用物理教科書』151|
-伯爵|/|noun|1844|Earl, 伯爵|Williams『英華韵府歷階』s.v. Earl+|
+伯爵|/|noun|1844|Earl, 伯爵|Williams『英華韵府歷階』s.v. Earl|
 補助金|/|noun|1887|只允别賜補助金六萬元|『申報』2月1日「譯東洋朝日報」|
 不法行爲|/|noun|1883|似此種種不法行爲實足爲地方大害|『申報』12月19日「憲示録登」|
 不合理|/|adjective|1822|It does not comport with right reason, 不合理 … 與理不相符|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. COMPORT|
@@ -230,14 +230,14 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 方言學|dialectology|noun|1920|(表) 訓詁 {縱方面、—古訓學 橫方面、—現代方言學|沈兼士 in『時事新報』8月31日第七版|
 -費|(in two-morpheme words)|nominal bound root|1853|q.v. 船費|/|
 -費|(in three-morpheme words)|nominal bound root|1886|q.v. 保險費|/|
-廢水|/|noun|1889|Waste tank 廢水箱|Fryer『汽機中西名目表』56+|
+廢水|/|noun|1889|Waste tank 廢水箱|Fryer『汽機中西名目表』56|
 分詞|/|noun|1904|分詞語義.取分取動詞及形容詞之兩性質也.|『漢譯法文典』214|
 分析|/|noun|1899|q.v. 定量分析, 定性分析|/|
 分析|analyse|verb|1884|然律文雖簡下字極有權衡逐條分析皆以⋯|『申報』2月29日「論捉賭」|as one verb instead of two
 咖喱|/|noun|1874|整啲咖喱魚|Dennys『初学階』|
 干貝|/|/|/|/|/|likely a native word; see [#19](https://github.com/t18d/HuangSupplement/issues/19#issuecomment-2606537981)
 功率|/|noun|1889|Duty of engine 汽機功率|Fryer『汽機中西名目表』17|
-果汁|/|noun|1887|Colocynth pulp 𠹭囉噺果汁|Fryer『西藥大成藥品中西名目表』17+|
+果汁|/|noun|1887|Colocynth pulp 𠹭囉噺果汁|Fryer『西藥大成藥品中西名目表』17|
 海拔|/|noun|1901|此次爆發噴煙高出海拔一萬二千米|『清議報』八十六冊「支那現勢論」|
 海洋性氣候|/|NP|1902|歐羅巴⋯大抵有海洋性氣候|作新譯書局『世界地理』240|
 焊錫|/|noun|1889|Solder 銲錫|Fryer『汽機中西名目表』47|
@@ -281,7 +281,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 歧義|/|noun|1921 (1877)|是以魏晉以還⋯獨於詩未聞歧義|孫詒讓『温州經籍志』卷二 s.v. 夏氏詩經漁樵野說|
 起訴|/|verb|1895 (1887)|/|黃遵憲『日本國志·刑法志一』|
 起義|2|verb|1833|亦有人起義以應其隆奈者也。|Gützlaff『東西洋考每月統記傳』癸巳十二月, 79|
-契據|/|noun|1872|(document) 契 … 契據|Doolittle『英華萃林韻府』s.v. Deed+|
+契據|/|noun|1872|(document) 契 … 契據|Doolittle『英華萃林韻府』s.v. Deed|
 棄權|/|verb|1895 (1887)|/|黃遵憲『日本國志·刑法志一』|
 汽車|2|noun|1903|近有法人与英人及他国人合擬賭賽。汽車由法京巴黎斯至日斯巴尼亜京城馬得利脱。|『申報』5月27日「賽車肇事」|
 汽油|/|noun|1904|有汽油六百八十罐又煤三百噸以供俄軍之用|『大公報』1月28日「時事要聞」|
@@ -296,7 +296,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 槍械|/|noun|1600|疏火器鳥銃長短槍械法|『譚襄敏奏議·序』|
 強加|/|verb|1857|能強加力於他物者、謂重學之力|『六合叢談』1/11, 12|
 牆腳|/|noun|1844|Foundation, 基址 … 墻腳|Williams『英華韵府歷階』s.v. Foundation|
-侵入|/|verb|1868|to invade … as a disease a system, 侵入 … 侵害|Lobscheid『英華字典』s.v. Invade+|metaphorical
+侵入|/|verb|1868|to invade … as a disease a system, 侵入 … 侵害|Lobscheid『英華字典』s.v. Invade|metaphorical
 侵襲|/|verb|1847|to come upon, to attack, 侵襲|Medhurst, _English and Chinese Dictionary_, s.v. To come|
 山脈|/|noun|1858|山脈之方向|W. Muirhead in『六合叢談』1/13, 9|
 哨子|/|noun|1889|Steam whistle 汽哨子|Fryer『汽機中西名目表』49|
