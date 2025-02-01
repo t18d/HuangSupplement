@@ -52,7 +52,14 @@ last_modified_at: 2025-01-31T13:04:58+00:00
         </ul>
       </li>
       <li>Assignment to <strong>Word Class</strong> follows the analysis of Huang–Shi (2016) as corrected in the <a href="https://t18d.github.io/HuangSupplement/grammar/#defining-word">Grammatical Appendix</a>.</li>
-      <li><strong>Year</strong> is that of first attestation. For words or senses first used by a native writer flourishing before Ch'ing, only the <strong>political period</strong> is given unless a quotation is missing from <em>Han yü ta tz'u tien</em>.</li>
+      <li><strong>Year</strong>
+        <ul>
+          <li>The first entry for a lemma represents the first known attestation. When a date is given, it is generally earlier than the earliest quotation in Huang except in the case of <strong>postdating</strong>.</li>
+          <li>When a date is followed by a second, earlier date in <strong>parentheses</strong>, the first refers to the year of publication and the second the year of composition.</li>
+          <li>A <strong>solidus</strong> ('/') signifies that the lemma is not being antedated.</li>
+          <li>For words or senses first used by a native writer flourishing before Ch'ing, only the <strong>political period</strong> is given unless a quotation is missing from <em>Han yü ta tz'u tien</em>.</li>
+        </ul>
+      </li>
       <li><strong>Quotation</strong>
         <ul>
           <li>Original orthography is preserved so far as it can be ascertained.</li>
