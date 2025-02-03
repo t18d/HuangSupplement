@@ -92,6 +92,7 @@ last_modified_at: 2025-02-03T05:32:29+00:00
     <ul>
       <li><a href="https://t18d.github.io/HuangSupplement/style/">A Stylistic Appendix</a></li>
       <li><a href="https://t18d.github.io/HuangSupplement/grammar/">A Grammatical Appendix</a> (WIP)</li>
+      <li><a href="https://t18d.github.io/HuangSupplement/orthography/">An Orthographic Appendix</a> (WIP)</li>
       <li><a href="https://t18d.github.io/HuangSupplement/diglossia/">On Diglossia</a></li>
       <li><a href="https://t18d.github.io/HuangSupplement/obsolete/">Obsolete Words</a></li>
       <li><a href="https://github.com/t18d/HuangSupplement/blob/main/anatomy.csv">Anatomical Terms</a></li>
