@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-03T10:25:10+00:00
+last_modified_at: 2025-02-03T12:05:23+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -24,6 +24,6 @@ Today, the task of the lexicographer is simply to document which style each vari
 &nbsp;  
 <!-- Anything not in the table must be before this comment. -->
 
-K'ai|Hsing–Ts'ao|Kanji|Note
----|---|---|---
-應|应|応|
+K'ai|Hsing|Ts'ao|Kanji|Note
+---|---|---|---|---
+應|應|应|応|
