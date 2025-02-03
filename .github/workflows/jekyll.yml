@@ -23,6 +23,7 @@ on:
       - "Run csv-to-md.py"
       - "Run csv-to-ob.py"
       - "Run csv-to-st.py"
+      - "Run csv-to-or.py"
     types: [completed]
 
   # Allows you to run this workflow manually from the Actions tab
