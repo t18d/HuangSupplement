@@ -21,6 +21,16 @@ Fast forward to present-day Mandarin, it has proven futile to imagine that a sin
 
 Today, the task of the lexicographer is simply to document which style each variant of an ideograph came from.
 
+<p>
+  <details>
+    <summary>Bibliography</summary>
+    <h3>Source</h3>
+    <ul>
+      <li>Wu, Li-yeh, and Ch'en Shuang-hsin, 'Ts'ao shu k'ai hua tzu yen chiu', <em>Chung kuo wen tzu yen chiu</em>, 29 (2019), 159–63.</li>
+    </ul>
+  </details>
+</p>
+
 &nbsp;  
 <!-- Anything not in the table must be before this comment. -->
 
