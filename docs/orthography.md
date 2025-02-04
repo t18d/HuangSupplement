@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-03T12:27:45+00:00
+last_modified_at: 2025-02-04T13:02:54+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -24,6 +24,20 @@ Today, the task of the lexicographer is simply to document which style each vari
 &nbsp;  
 <!-- Anything not in the table must be before this comment. -->
 
-K'ai|Ts'ao|Kanji|Note
+K'ai|Ts'ao|Print|Note
 ---|---|---|---
-應|应|応|
+邊|/|/|
+車|车 (Han)|/|
+過|/|过 (Yüan)|
+會|会 (Han)|会 (Ch'ing)|
+檢|检 (Wu)|/|
+覺|/|觉 (Ch'ing)|
+軍|/|/|
+樂|乐 (Wu)|/|
+壽|/|寿 (Yüan)|
+孫|孙 (Wu)|孙 (Ch'ing)|
+爲 為|为 (Han)|为 (Yüan)|
+韋|/|/|
+學|学 (Wu)|/|
+應|应||応 (kanji)
+鄭|郑 (Yüan)|郑 (Ch'ing)|
