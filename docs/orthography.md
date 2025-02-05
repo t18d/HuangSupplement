@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-04T14:00:58+00:00
+last_modified_at: 2025-02-05T03:27:30+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -49,5 +49,5 @@ K'ai|Ts'ao|Print|Note
 爲 為|为 (Han)|为 (Yüan)|
 韋|/|/|
 學|学 (Wu)|/|
-應|应||応 (kanji)
+應|应|应 (Ch'ing)|応 (kanji)
 鄭|郑 (Yüan)|郑 (Ch'ing)|
