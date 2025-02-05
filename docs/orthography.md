@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-05T07:48:43+00:00
+last_modified_at: 2025-02-05T09:23:29+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -26,6 +26,7 @@ Today, the task of the lexicographer is simply to document which style each vari
     <summary>Bibliography</summary>
     <h3>Source</h3>
     <ul>
+      <li>Liu, Fu, and Li Chia-jui (eds),『宋元以來俗字譜』(Peking, 1930).</li>
       <li>Wu, Li-yeh, and Ch'en Shuang-hsin, 'Ts'ao shu k'ai hua tzu yen chiu', <em>Chung kuo wen tzu yen chiu</em>, 29 (2019), 159–63.</li>
     </ul>
   </details>
