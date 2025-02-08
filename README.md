@@ -134,6 +134,7 @@ last_modified_at: 2025-02-08T06:25:39+00:00
       <li>Tola, Gabriele, <em>John Fryer and </em>The Translator’s Vade-mecum (Leiden, 2021), 237–79.</li>
       <li>佟艺辰, '“分词”考源',『或問』, 46 (2024), 117–28.</li>
       <li>袁書予, '「分析」の成立と変化', master's thesis, Osaka University, 2022.</li>
+      <li>張湧泉, '"別字"正名',『語文建設』, 4 (1989), 56–7.</li>
       <li>趙明,『明清漢語外來詞史研究』(Amoy, 2016), 67–8.</li>
     </ul>
   </details>
