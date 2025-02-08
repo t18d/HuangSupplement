@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-02-08T14:19:28+00:00
+last_modified_at: 2025-02-08T14:24:56+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -206,7 +206,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 別字(1)|variant ideograph|noun|Northern Ch'i|/|『顏氏家訓』|
 |/|/|1930|中國的俗字或別字，在十年之內，總可以研究完備了。|劉復『宋元以來俗字譜·序』5|
 |/|/|2016|『碑別字新編 (修訂本)』|/|
-別字(2)|misused ideograph|noun|Ch'ing|/|『日知錄』|
+別字(2)|misused ideograph|noun|Ch'ing|/|『日知錄』|postdating
 冰箱(1)|/|noun|1869|Refrigerator 涼箱 … 冰箱|Lobscheid『英華字典』s.v. Refrigerator|
 兵工廠|/|noun|1882|赴大坂兵工廠督造山野砲數十門|『申報』10月6日「彚譯東報」|
 兵營|/|noun|1822|CAMP, 營 … 兵營 … 營寨|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. CAMP|
