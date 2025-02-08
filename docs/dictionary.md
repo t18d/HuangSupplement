@@ -165,6 +165,10 @@ Reasons for using the genre include:
 
 The term **phonemic loan** originated as a mistranslation from Mandarin in the writings of scholars who don't understand English. Loanwords are never created on a phonemic basis.
 
+## pieh tzu
+
+An older term for the orthographic variant of an **ideograph**. See HuangSupplement s.v. [別字(1)](https://t18d.github.io/HuangSupplement/#:~:text=%E5%88%A5%E5%AD%97(1)).
+
 ## punctuation
 
 Punctuation **indicators** are first-class **lexemes** and should be subjected to the same analysis in a dictionary as other lemmata.
