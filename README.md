@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-02-08T00:07:35+00:00
+last_modified_at: 2025-02-08T06:25:39+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -201,6 +201,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 標記|/|noun|1858|朔望上下弦表、歷年測量寒熱表、行進江海標記、潮汐表、中外寄書表|『六合叢談』2/1, 15|earliest use as noun
 表面張力|/|noun|1905|凡液體之表面因分子力不平均而生之收縮力為表面張力|湖北學務處『物理學』|
 表情|/|noun|1908|Expression of the passions, 表情, 情徵|顏惠慶『英華大辭典』s.v. Pathognomy|
+別字|variant ideograph|noun|Northern Ch'i|/|『顏氏家訓』|
+別字|misused ideograph|noun|Ch'ing|/|『日知錄』|
 冰箱|1|noun|1869|Refrigerator 涼箱 … 冰箱|Lobscheid『英華字典』s.v. Refrigerator|
 兵工廠|/|noun|1882|赴大坂兵工廠督造山野砲數十門|『申報』10月6日「彚譯東報」|
 兵營|/|noun|1822|CAMP, 營 … 兵營 … 營寨|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. CAMP|
