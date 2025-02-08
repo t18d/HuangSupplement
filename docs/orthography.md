@@ -27,6 +27,7 @@ Today, the task of the lexicographer is simply to document which style each vari
     <h3>Source</h3>
     <ul>
       <li>Liu, Fu, and Li Chia-jui (eds),『宋元以來俗字譜』(Peking, 1930).</li>
+      <li>National Academy for Educational Research, <a href="https://dict.variants.moe.edu.tw">異體字字典</a> (14th edn, 2024).</li>
       <li>Tseng, Liang, and Ch'en Min (eds),『明清小說俗字典』(Yangchow, 2018).</li>
       <li>Wu, Li-yeh, and Ch'en Shuang-hsin, 'Ts'ao shu k'ai hua tzu yen chiu', <em>Chung kuo wen tzu yen chiu</em>, 29 (2019), 159–63.</li>
     </ul>
