@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-02-08T08:23:51+00:00
+last_modified_at: 2025-02-08T14:19:28+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -204,6 +204,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 表面張力|/|noun|1905|凡液體之表面因分子力不平均而生之收縮力為表面張力|湖北學務處『物理學』|
 表情|/|noun|1908|Expression of the passions, 表情, 情徵|顏惠慶『英華大辭典』s.v. Pathognomy|
 別字(1)|variant ideograph|noun|Northern Ch'i|/|『顏氏家訓』|
+|/|/|1930|中國的俗字或別字，在十年之內，總可以研究完備了。|劉復『宋元以來俗字譜·序』5|
 |/|/|2016|『碑別字新編 (修訂本)』|/|
 別字(2)|misused ideograph|noun|Ch'ing|/|『日知錄』|
 冰箱(1)|/|noun|1869|Refrigerator 涼箱 … 冰箱|Lobscheid『英華字典』s.v. Refrigerator|
