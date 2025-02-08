@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-08T03:18:22+00:00
+last_modified_at: 2025-02-08T03:32:03+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -39,7 +39,7 @@ Today, the task of the lexicographer is simply to document which style each vari
 
 K'ai|Ts'ao|Print|Note
 ---|---|---|---
-邊|/|/|
+邊|/|边 (Yüan)|
 車|车 (Han)|/|
 國|/|国 (Ch'ing)|国 (kanji); 囯 (Sung print)
 過|/|过 (Yüan)|
