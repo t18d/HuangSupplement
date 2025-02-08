@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-08T03:39:13+00:00
+last_modified_at: 2025-02-08T12:22:43+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -50,7 +50,7 @@ K'ai|Ts'ao|Print|Note
 樂|乐 (Wu)|/|
 壽|/|寿 (Yüan)|
 孫|孙 (Wu)|孙 (Ch'ing)|
-爲 為|为 (Han)|为 (Yüan)|
+為 爲|为 (Han)|为 (Yüan)|
 韋|/|/|
 學|学 (Wu)|/|
 應|应 (T'ang)|应 (Ch'ing)|応 (kanji)
