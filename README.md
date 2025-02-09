@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-02-08T14:24:56+00:00
+last_modified_at: 2025-02-09T03:34:24+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -331,6 +331,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 致哀|/|verb|488|公事畢即往致哀|沈約『宋書·何尚之傳』|
 誌哀|/|verb|1878|舉國臣民遵制縞素成服以誌哀也|『申報』7月20日|
 -製品|/|nominal bound root|1880|牛角製品|『申報』12月22日「戲咏煙具十首錄呈諸大吟壇指政」|
+中國|(in treaties)|noun|1731 (1690)|河之南岸、属于中国。河之北岸、属于鄂罗斯。|『聖祖仁皇帝實錄·卷一四三』|
 中文|/|noun|1873|「英京設教習中文書院」|『申報』3月24日|
 钟乳石|/|noun|1903|鐘乳石 (Sta\<l>actite)|『中學地文教科書』75|Doolittle (1872): 石鐘乳
 種樹|plant trees|verb|Chin|/|「閒居賦」|
