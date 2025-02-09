@@ -38,7 +38,7 @@ last_modified_at: 2025-02-09T03:42:28+00:00
               <li>in case that fails, they are sorted by the number of <strong>strokes</strong> of the characters concerned.</li>
             </ul>
           </li>
-          <li>The <strong>ideographs</strong> used are their common form as contained in the character set of the system font on modern computers that is coded as TC, which tends to be the only form attested throughout the period covered here.</li>
+          <li>The <a href="https://t18d.github.io/HuangSupplement/dictionary/#ideograph"><strong>ideographs</strong></a> used are their common form as contained in the character set of the system font on modern computers that is coded as TC, which tends to be the only form attested throughout the period covered here.</li>
           <li><strong>Numerals</strong> following a lemma refer to the different senses of a homonymous word. They form a superset of the senses defined in Huang.</li>
           <li><a href="https://t18d.github.io/HuangSupplement/dictionary/#phonetic-loan">Phonetic</a> <strong>loanwords</strong> and anatomical terms are collected in separate appendices. For loanwords, see <a href="https://t18d.github.io/HuangSupplement/diglossia/">On Diglossia</a>.</li>
           <li>For <strong>obsolete words</strong>, see the <a href="https://t18d.github.io/HuangSupplement/style/">Stylistic Appendix</a>.</li>
@@ -62,7 +62,7 @@ last_modified_at: 2025-02-09T03:42:28+00:00
       </li>
       <li><strong>Quotation</strong>
         <ul>
-          <li>To make full-text search possible, the <strong>ideographs</strong> used are those contained in the character set of the system font on modern computers that are closest to a diplomatic transcription of the source.</li>
+          <li>To make full-text search possible, the <a href="https://t18d.github.io/HuangSupplement/dictionary/#ideograph"><strong>ideographs</strong></a> used are those contained in the character set of the system font on modern computers that are closest to a diplomatic transcription of the source.</li>
           <li>The <strong>typography</strong> of the source is reproduced to the extent that the resources of HTML allow.</li>
           <li>A <strong>solidus</strong> ('/') is used when:
             <ul>
