@@ -99,6 +99,11 @@ K'ung Ying-ta of T'ang misunderstood the term **ku hsün** and the error persist
     </ul>
 </details>
 
+## ideograph
+… _vs_ **logograph**
+
+When applied to the **Chinese** language, **logograph** describes only a subset of ideographs – unless _logo-_ is coerced into covering **bound morphemes**, at which point the term becomes redundant.
+
 ## inefficiency, _stylistic_
 
 An **inefficient** prose style can remain **functional** because it serves extralinguistic aims.
