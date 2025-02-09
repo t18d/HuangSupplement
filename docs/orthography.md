@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-08T12:48:55+00:00
+last_modified_at: 2025-02-09T03:58:17+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -49,6 +49,9 @@ K'ai|Ts'ao|Print|Note
 軍|/|/|
 来 來|/|来 (Sung)|來 is later & archaising
 樂|乐 (Wu)|/|
+聶|/|/|q.v. 攝 躡
+躡|/|蹑 (Ming)|
+攝|/|摄 (Ming)|
 壽|/|寿 (Yüan)|
 孫|孙 (Wu)|孙 (Ch'ing)|
 為 爲|为 (Han)|为 (Yüan)|爲 is later & archaising
