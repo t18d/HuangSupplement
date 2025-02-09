@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-09T03:58:17+00:00
+last_modified_at: 2025-02-09T14:43:57+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -41,7 +41,7 @@ K'ai|Ts'ao|Print|Note
 ---|---|---|---
 邊|/|边 (Yüan)|
 車|车 (Han)|/|
-國|/|国 (Ch'ing)|国 (kanji); 囯 (Sung print)
+國|/|国 (Ch'ing)|国 (shinjitai); 囯 (Sung print)
 過|/|过 (Yüan)|
 會|会 (Han)|会 (Ch'ing)|
 檢|检 (Wu)|/|
@@ -57,5 +57,5 @@ K'ai|Ts'ao|Print|Note
 為 爲|为 (Han)|为 (Yüan)|爲 is later & archaising
 韋|/|/|
 學|学 (Wu)|/|
-應|应 (T'ang)|应 (Ch'ing)|応 (kanji)
+應|应 (T'ang)|应 (Ch'ing)|応 (shinjitai)
 鄭|郑 (Yüan)|郑 (Ch'ing)|
