@@ -26,6 +26,7 @@ Today, the task of the lexicographer is simply to document which style each vari
     <summary>Bibliography</summary>
     <h3>Source</h3>
     <ul>
+      <li>Hagihara, Yoshio, '「国」と「囯」の文字を考える',『駒澤短大國文』, 33 (2003), 132.</li>
       <li>Liu, Fu, and Li Chia-jui (eds),『宋元以來俗字譜』(Peking, 1930).</li>
       <li>National Academy for Educational Research, <a href="https://dict.variants.moe.edu.tw">異體字字典</a> (14th edn, 2024).</li>
       <li>Tseng, Liang, and Ch'en Min (eds),『明清小說俗字典』(Yangchow, 2018).</li>
