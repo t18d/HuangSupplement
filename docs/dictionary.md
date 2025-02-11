@@ -165,6 +165,10 @@ Reasons for using the genre include:
     </ul>
 </details>
 
+## periodisation, _linguistic_
+
+One or more **political periods** rounded off to the nearest century to hide the fact that they are political periods.
+
 ## phonetic loan
 … _vs_ **phonemic loan**
 
