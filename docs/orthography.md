@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-11T06:46:51+00:00
+last_modified_at: 2025-02-11T06:50:03+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -39,7 +39,7 @@ Today, the task of the lexicographer is simply to document which style each vari
 &nbsp;  
 <!-- Anything not in the table must be before this comment. -->
 
-K'ai|Ts'ao/Hsing-ts'ao|Print|Note
+K'ai|Ts'ao|Print|Note
 ---|---|---|---
 貝|/|/|贝 in Huang Hsiang & imitators & once in Ch'ing print
 邊|/|边 (Yüan)|
