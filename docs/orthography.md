@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-11T06:07:52+00:00
+last_modified_at: 2025-02-11T06:44:55+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -39,7 +39,7 @@ Today, the task of the lexicographer is simply to document which style each vari
 &nbsp;  
 <!-- Anything not in the table must be before this comment. -->
 
-K'ai|Ts'ao|Print|Note
+K'ai|Ts'ao/Hsing-ts'ao|Print|Note
 ---|---|---|---
 貝|/|/|贝 in Huang Hsiang & imitators & once in Ch'ing print
 邊|/|边 (Yüan)|
@@ -65,4 +65,4 @@ K'ai|Ts'ao|Print|Note
 違|违 (Chin)|违 (Ch'ing)|
 學|学 (Wu)|/|
 應|应 (T'ang)|应 (Ch'ing)|応 (shinjitai); Wang Hsi-chih's 应 in Li is fake
-鄭|郑 (Yüan)|郑 (Ch'ing)|
+鄭|郑 (T'ang)|郑 (Ch'ing)|
