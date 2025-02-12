@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-02-12T07:52:15+00:00
+last_modified_at: 2025-02-12T09:54:39+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -228,6 +228,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 裁員|/|verb|1882|「裁員節費」|『益聞錄』第百三十八號|
 採掘|mine|verb|1882|又云生野鑛山局自採掘以來日見起色|『申報』9月24日「照譯東洋新聞」|
 菜單|/|noun|1844|bill of fare, 菜單|Williams『英華韵府歷階』s.v. Tavern|
+草書|/|noun|Han|睦善草書臨病明帝驛馬令作草書尺牘十首焉|劉珍『東觀漢記·卷七列傳二·北海敬王睦』|
 草原|/|noun|1902|地多草原。故牧<畜>之業最盛。|作新譯書局『世界地理』292|
 塵拂|/|noun|1912|尾端生有長毛。如塵拂。|杜亞泉–杜就田『新理科教授法二』12|likely from 塵払 (ちり‐はらい); [stylistics](https://t18d.github.io/HuangSupplement/style/)
 秤桿|/|noun|1875|不料中有李秤杆范肉架者竊以爲必係鄕裏來者可以欺侮以顯跋扈之能|『申報』1月9日「記李秤杆等攔毆馮君事」|in nickname
