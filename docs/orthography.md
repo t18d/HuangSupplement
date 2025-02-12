@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-12T23:38:19+00:00
+last_modified_at: 2025-02-12T23:46:00+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -52,6 +52,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 筆|/|/|笔 Yüan|集韻 has 笔 as variant
 邊|/|/|边 Yüan|
 標|标 T'ang|/|/|
+別 别|/|/|/|别 is stylistic variant
 車|车 Han|/|/|
 東|东 Han|/|东 Ch'ing|
 飯|/|/|/|飰 Sung print
@@ -61,7 +62,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 檢|检 Wu|/|/|
 覺|/|/|觉 Ch'ing|
 軍|/|/|/|
-刊 刋|/|/|/|
+刊 刋|/|/|/|刋 is stylistic variant
 克 剋|/|/|/|
 来 來|/|/|来 Sung|來 is later & archaising
 樂|乐 Han|/|乐 Ch'ing|
