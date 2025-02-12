@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-12T02:20:09+00:00
+last_modified_at: 2025-02-12T02:34:52+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -60,7 +60,7 @@ K'ai|Ts'ao|Print|Note
 躡|/|蹑 (Ming)|
 攝|/|摄 (Ming)|
 壽|/|寿 (Yüan)|寿 (Sung hsing)?
-孫|孙 (Han)|孙 (Ch'ing)|
+孫|孙 (Han)|孙 (Ming)|
 為 爲|为 (Han)|为 (Yüan)|爲 is later & archaising
 韋|/|/|cf. 違
 違|违 (Chin)|违 (Ch'ing)|
