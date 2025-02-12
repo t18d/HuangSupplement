@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-12T07:50:29+00:00
+last_modified_at: 2025-02-12T09:10:45+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -70,3 +70,4 @@ K'ai|Ts'ao|Print|Note
 學|学 (Wu)|/|
 應|应 (T'ang)|应 (Ch'ing)|応 (shinjitai); Wang Hsi-chih's 应 in Li is fake
 鄭|郑 (T'ang)|郑 (Ch'ing)|
+莊|庄 (T'ang)|庄 (Ming)|
