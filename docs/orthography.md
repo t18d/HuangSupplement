@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-12T12:43:14+00:00
+last_modified_at: 2025-02-12T12:46:46+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -49,7 +49,7 @@ K'ai|Ts'ao|Print|Note
 報|报 (T'ang)|报 (Sung)|
 貝|/|/|贝 in Huang Hsiang & imitators & once in Ch'ing print
 備 俻|/|备 (Ch'ing)|
-筆|/|笔 (Sung)|
+筆|/|笔 (Yüan)|集韻 has 笔 as variant
 邊|/|边 (Yüan)|
 車|车 (Han)|/|
 東|东 (Han)|东 (Ch'ing)|
