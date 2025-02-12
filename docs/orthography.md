@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-12T02:34:52+00:00
+last_modified_at: 2025-02-12T02:51:42+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -42,6 +42,7 @@ Today, the task of the lexicographer is simply to document which style each vari
 K'ai|Ts'ao|Print|Note
 ---|---|---|---
 愛|爱 (Sui)|爱 (Ming)|
+罷|/|罢 (Ch'ing)|
 貝|/|/|贝 in Huang Hsiang & imitators & once in Ch'ing print
 邊|/|边 (Yüan)|
 車|车 (Han)|/|
