@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-12T23:56:34+00:00
+last_modified_at: 2025-02-13T00:07:43+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -54,6 +54,8 @@ K'ai|Ts'ao|Hsing|Print|Note
 標|标 T'ang|/|/|
 別 别|/|/|/|别 is stylistic variant
 并 並 竝|/|/|/|竝 is archaism
+補|/|/|/|
+布|/|佈 Ming|/|廣韻 has 佈
 車|车 Han|/|/|
 東|东 Han|/|东 Ch'ing|
 飯|/|/|/|飰 Sung print
