@@ -24,7 +24,11 @@ Today, the task of the lexicographer is simply to document which style each vari
 <p>
   <details>
     <summary>Bibliography</summary>
-    <h3>Source</h3>
+    <h3>Theory</h3>
+    <ul>
+      <li>Chang, Yung-ch'üan,『敦煌寫本文獻學』(Lanchow, 2013).</li>
+    </ul>
+    <h3>Sources</h3>
     <ul>
       <li>Hagihara, Yoshio, '「国」と「囯」の文字を考える',『駒澤短大國文』, 33 (2003), 132.</li>
       <li>Huang, Cheng et al.,『敦煌俗字典』(2nd edn, Shanghai, 2020).</li>
