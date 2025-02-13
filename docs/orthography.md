@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-13T08:37:51+00:00
+last_modified_at: 2025-02-13T12:57:27+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -71,7 +71,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 過|/|/|过 Yüan|
 會|会 Han|/|会 Ming|
 檢|检 Wu|/|/|
-覺|/|/|觉 Ch'ing|
+覺|觉 T'ang|/|觉 Ch'ing|
 軍|/|/|/|
 刊 刋|/|/|/|刋 is stylistic variant
 克 剋|/|/|/|
