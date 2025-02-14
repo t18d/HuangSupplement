@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-02-13T03:20:43+00:00
+last_modified_at: 2025-02-14T03:20:19+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -176,7 +176,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 斑馬|/|noun|1868|Zebra 斑馬|鄺其照『字典集成』s.v. Zebra|
 版畫|/|noun|1908|An impression from an engraved plate, block of wood, or other material, 刻版印刷物, 版畫, 印畫|顏惠慶『英華大辭典』s.v. Engraving|
 版權|/|noun|1895 (1887)|/|黃遵憲『日本國志·食貨志二』|
-半旗|/|adverb|1876|「大日本國事 半旗弔慰」|『萬國公報』396, 23|[stylistics](https://t18d.github.io/HuangSupplement/style/)
+半旗|/|adverb|1876|「大日本國事 半旗弔慰」|『萬國公報』396, 23|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=半旗)
 幫|/|nominal bound root|1872|Party _or company,_ 羣黨 … 朋黨 … 班 … 幫|Doolittle『英華萃林韻府』s.v. Party|
 綁票|/|verb|1899|名爲綁票又名請財神|『申報』9月15日|
 保留(1)|/|verb|1903|締結撤兵條約。其始或以保留權利許還清國為名。|『國民同盟會始末』55|
@@ -230,10 +230,10 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 菜單|/|noun|1844|bill of fare, 菜單|Williams『英華韵府歷階』s.v. Tavern|
 草書|/|noun|Han|睦善草書臨病明帝驛馬令作草書尺牘十首焉|劉珍『東觀漢記·卷七列傳二·北海敬王睦』|
 草原|/|noun|1902|地多草原。故牧<畜>之業最盛。|作新譯書局『世界地理』292|
-塵拂|/|noun|1912|尾端生有長毛。如塵拂。|杜亞泉–杜就田『新理科教授法二』12|likely from 塵払 (ちり‐はらい); [stylistics](https://t18d.github.io/HuangSupplement/style/)
+塵拂|/|noun|1912|尾端生有長毛。如塵拂。|杜亞泉–杜就田『新理科教授法二』12|likely from 塵払 (ちり‐はらい); [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=塵拂,-noun)
 秤桿|/|noun|1875|不料中有李秤杆范肉架者竊以爲必係鄕裏來者可以欺侮以顯跋扈之能|『申報』1月9日「記李秤杆等攔毆馮君事」|in nickname
 赤字|/|noun|1931|日本歳入預定過大 赤字問題引起各方非難|『大公報』天津版1931年4月4日4版|cf. '「赤字」二字，是我抄的一個日本新應用的名詞' (『新社會』1931)
-打胎|/|verb|1872|不然何卒以破血打胎終久而不知變計耶|『申報』5月23日「四醫斃一婦」|[stylistics](https://t18d.github.io/HuangSupplement/style/)
+打胎|/|verb|1872|不然何卒以破血打胎終久而不知變計耶|『申報』5月23日「四醫斃一婦」|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=打胎)
 地球儀|/|noun|1878|并製有小地球儀|『申報』6月21日「命題甚新」|
 地下水|/|noun|1903|地下水 雨水之一部。|『中學地文教科書』74|
 電鍍|/|noun|1885|Electro-planting 電鍍銀|Fryer『化學材料中西名目表』13|
@@ -264,6 +264,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 減速|/|verb|1889|Ease 減速|Fryer『汽機中西名目表』17|
 教育者|/|noun|1866|Educator, 教養者 … 教育者|Lobscheid『英華字典』s.v. Educator|
 接種|/|verb|1898|傳至日本互相接種其効昭然|『申報』7月11日「豫防痘症篇」|
+精品|/|noun|Sung|/|/|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=精品)
 卡車|/|noun|1923|曾宣言阻止外来卡車入路線之事、致有引起一般人之誤解、以卡車作乗客之車輛⋯此項卡車係専指運貨笨重之車而言|『申報』7月14日「滬太公司近況」|
 考古學|/|noun|1896|Археологія, Као-гу-сі*о* 考古學|Попов『俄漢合璧増補字彙』|from 考古学 (1877/79)
 刻本|/|noun|Sung|近歲均州刻本輒改為仇香|陸遊『老學庵筆記』卷四|
