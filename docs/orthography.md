@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-14T13:31:26+00:00
+last_modified_at: 2025-02-14T13:43:38+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -86,9 +86,11 @@ K'ai|Ts'ao|Hsing|Print|Note
 攝|/|/|摄 Ming|
 壽|/|/|寿 Yüan|寿 Sung hsing?
 孫|孙 Han|/|孙 Ming|
+万 萬|/|/|/|
 為 爲|为 Han|/|为 Yüan|爲 is later archaism
 韋|/|/|/|cf. 違
 違|违 Chin|/|违 Ch'ing|
+無 无|/|/|/|
 學|学 Wu|/|/|
 應|应 T'ang|/|应 Ch'ing|応 shinjitai; Wang Hsi-chih's 应 in Li is fake
 鄭|/|郑 T'ang|郑 Ch'ing|
