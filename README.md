@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-02-14T03:20:19+00:00
+last_modified_at: 2025-02-14T09:17:45+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -272,7 +272,11 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 烙鐵|/|noun|1889|Soldering iron 嵌錫烙鐵|Fryer『汽機中西名目表』47|
 硫酸|/|noun|1883|Sulphuric acid 硫酸|Fryer『金石中西名目表』32|
 漏斗|/|noun|1857|譬如水洩於漏斗|A. Williamson in『六合叢談』1/3, 7|
-描述|/|verb|1909|其惶急尤難描述|『申報』8月2日「奇情小說 美人虹」+|描述 is unmarked; 描寫 is a literary act. See also [#16](https://github.com/t18d/HuangSupplement/issues/16).
+描述|describe|verb|1909|其惶急尤難描述|『申報』8月2日「奇情小說 美人虹」+|not in 王雲五大辭典 & 國語辭典; very slowly took over the sense of 'describe' from [描寫(2)](https://t18d.github.io/HuangSupplement/obsolete/#:~:text=描寫(2))
+|/|/|1958|現代語言學先分兩個大的方面 … 「描述的語言學」(descriptive linguistics) … 「歷史 (或比較的) 語言學」|董同龢「語言的研究」in『現代學術季刊』2/2|
+描述語言學|/|NP|1958|個人覺得能代表近來美國描述語言學家的長處的倒是 Charles Fries 的兩本實用性的書|董同龢「語言的研究」in『現代學術季刊』2/2|
+描寫(1)|depict|verb|Ming|/|/|the word's only current sense
+描寫語言學|/|NP|1950|咱們現在應該嚴格使用描寫語言學的方法來分析現代中國語的結構|羅常培『語言與文化』103|fossilised use of the obsolete sense of 'describe' & no longer an accurate translation of 'descriptive linguistics'; see [描寫(2)](https://t18d.github.io/HuangSupplement/obsolete/#:~:text=描寫(2)) & s.v. 描述語言學
 摩擦(1)|/|verb|1851|琥珀用燥羊毛摩擦一辺、此摩擦処便能拾芥、就是電気発出、似磁石噏鉄一般。|Macgowan『博物通書』第一章|
 奶糖|/|noun|1889|竊取主人奶糖|『申報』5月24日「英界公堂瑣案」|
 難產|/|noun|1815|坼副難產也|Morrison, _A Dictionary of the Chinese Language_, i/i, 494|
