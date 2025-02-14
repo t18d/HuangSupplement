@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-02-14T09:22:53+00:00
+last_modified_at: 2025-02-14T14:45:49+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -186,7 +186,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 暴風|/|noun|1822|TEMPEST of wind, 暴風 … or reversed|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. TEMPEST|
 暴力|/|noun|1902|決非以暴力為尚而以自由為尚。人人以自由為尚此平等所由出也。|梁啟超輯譯『近世歐洲四大家政治學說』13|
 暴雨|/|noun|1857|有燥土而時有暴雨、成大水不能潤土者|W. Muirhead in『六合叢談』1/13, 10|
-北極星(1)|/|noun|Chin|/|/|
+北極星(2)|/|noun|Liang|十月乙丑有流星⋯出紫宮內北極星東南行三丈没空中|蕭子顯『南齊書·卷十三天文下』|
 備考|/|verb|Ming|/|/|
 背景(1)|/|noun|1916|雖成為歷史上主要之背景|『神州日報』3月19日「大亞細亞主義之運命」|
 背景(2)|/|noun|1910|滬上所謂佈景有四大缺點⋯僅用背景一幅|『時報』3月14日「劇談」|cf. s.v. 佈景
@@ -346,5 +346,5 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 中文系|(of a high school)|noun|1923|中文系添古學哲學史學理論心理等類、英文系添有心理學高等幾何化學等課、|『時事新報』7月17日「蘇州桃塢改辦高級中學」|
 |(of a university)|/|1925|「上大中文系戊辰級會大會」|『民國日報』3月23日|中文系 has the same referent as, but is _not_ semantically equivalent to, 中國語言文學系
 钟乳石|/|noun|1903|鐘乳石 (Sta\<l>actite)|『中學地文教科書』75|Doolittle (1872): 石鐘乳
-種樹|plant trees|verb|Chin|/|「閒居賦」|
+種樹|plant trees|verb|Western Chin|/|「閒居賦」|
 -主義(1)|/|nominal bound root|1883|因係官權主義聞主筆者必將更迭|『申報』3月4日「會黨類誌」|
