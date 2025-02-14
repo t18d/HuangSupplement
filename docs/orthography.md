@@ -27,6 +27,7 @@ Today, the task of the lexicographer is simply to document which style each vari
     <h3>Theory</h3>
     <ul>
       <li>Chang, Yung-ch'üan,『敦煌寫本文獻學』(Lanchow, 2013).</li>
+      <li>Huang, Cheng,『敦煌俗字典』(2nd edn, Shanghai, 2020), 2–40.</li>
     </ul>
     <h3>Sources</h3>
     <ul>
