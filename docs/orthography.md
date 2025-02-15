@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-15T14:31:28+00:00
+last_modified_at: 2025-02-15T14:34:37+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -101,5 +101,5 @@ K'ai|Ts'ao|Hsing|Print|Note
 應|应 T'ang|/|应 Ch'ing|応 shinjitai; Wang Hsi-chih's 应 in Li is fake
 云 雲|/|/|/|
 鄭|/|郑 T'ang|郑 Ch'ing|
-眾|/|众 Ming|众 Ch'ing|
+眾|/|众 Ming|众 Ch'ing|龍龕手鏡 has 众 (玉篇 has a different glyph)
 莊|庄 T'ang|/|庄 Ming|
