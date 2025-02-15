@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-14T14:55:42+00:00
+last_modified_at: 2025-02-15T09:21:32+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -66,6 +66,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 采 採|/|/|/|
 車|车 Han|/|/|
 塵|/|/|/|集韻 has 尘 as variant; not found at Tunhuang
+墊|/|/|垫 Ch'ing|
 電|/|/|/|
 東|东 Han|/|东 Ch'ing|
 飯|/|/|/|飰 Sung print
