@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-15T09:21:32+00:00
+last_modified_at: 2025-02-15T10:59:15+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -69,6 +69,8 @@ K'ai|Ts'ao|Hsing|Print|Note
 墊|/|/|垫 Ch'ing|
 電|/|/|/|
 東|东 Han|/|东 Ch'ing|
+發|发 Chin|/|/|
+髮|/|/|/|
 飯|/|/|/|飰 Sung print
 國|/|/|国 Ch'ing|国 1133 kanji; 囯 Sung print
 過|/|/|过 Yüan|
