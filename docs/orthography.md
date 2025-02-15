@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-15T11:15:19+00:00
+last_modified_at: 2025-02-15T12:12:42+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -64,6 +64,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 補|/|/|/|
 布|/|佈 Ming|/|廣韻 has 佈
 采 採|/|/|/|
+抄|/|/|鈔 Ming|廣韻 has 鈔 as variant
 車|车 Han|/|/|
 塵|/|/|/|集韻 has 尘 as variant; not found at Tunhuang
 墊|/|/|垫 Ch'ing|
