@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-16T00:51:45+00:00
+last_modified_at: 2025-02-16T05:21:22+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -20,6 +20,16 @@ Many of the so-called **simplified** ideographs are in fact traditional forms. T
 Fast forward to present-day Mandarin, it has proven futile to imagine that a single **character set** could prevail in any given population. Even within established 'simplified' regions, 'traditional' character sets are freely used in everyday communications as an aesthetic or political choice. With the arrival of personal computing, the ability to **decode** is all it requires to be able to **encode** with ease.
 
 Today, the task of the lexicographer is simply to document which style each variant of an ideograph came from.
+
+<span align="center">***</span>
+
+In the table that follows, **k'ai** forms are those commonly used during the Chin–T'ang period; **ts'ao**, **hsing** and **print** forms are annotated with the period in which they are first attested. Use [git blame](https://github.com/t18d/HuangSupplement/blame/main/orthography.csv) to trace the sources for such attestation.
+
+Only forms that are still current in everyday usage tend to be included.
+
+If all current variants of an ideograph already existed in **k'ai**, no other styles are exemplified. If a variant existed in **ts'ao**, it is not further exemplified from **hsing**. Being the cursive of **k'ai**, **hsing** is in general later than **ts'ao**, which was originally the cursive of **li**.
+
+The etymology of an ideograph is only touched on insofar as such knowledge motivated the use of an archaising glyph in **k'ai**.
 
 <p>
   <details>
