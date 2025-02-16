@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-16T08:57:10+00:00
+last_modified_at: 2025-02-16T10:00:08+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -61,8 +61,8 @@ K'ai|Ts'ao|Hsing|Print|Note
 愛|/|爱 Sui|爱 Ming|
 罷|/|/|罢 Ch'ing|
 擺|/|/|摆 Ch'ing|
-幫|/|/|帮 Ch'ing|
-綁|/|/|绑 Ming|
+幫 Sung|/|/|帮 Ch'ing|
+綁 Ming|/|/|绑 Ming|
 報|/|报 T'ang|报 Sung|
 貝|/|/|/|贝 in Huang Hsiang & imitators & once in Ch'ing print
 備 俻|/|/|备 Ch'ing|
