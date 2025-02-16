@@ -23,13 +23,13 @@ Today, the task of the lexicographer is simply to document which style each vari
 
 <span align="center">***</span>
 
-In the table that follows, **k'ai** forms are those commonly used during the Chin–T'ang period; **ts'ao**, **hsing** and **print** forms are annotated with the period in which they are first attested. Use [git blame](https://github.com/t18d/HuangSupplement/blame/main/orthography.csv) to trace the sources for such attestation.
+In the table that follows, _k'ai_ forms are those commonly used during the Chin–T'ang period; _ts'ao_, _hsing_ and _print_ forms are annotated with the period in which they are first attested. Use [git blame](https://github.com/t18d/HuangSupplement/blame/main/orthography.csv) to trace the sources for such attestation.
 
 Only forms that are still current in everyday usage tend to be included.
 
-If all current variants of an ideograph already existed in **k'ai**, no other styles are exemplified. If a variant existed in **ts'ao**, it is not further exemplified from **hsing**. Being the cursive of **k'ai**, **hsing** is in general later than **ts'ao**, which was originally the cursive of **li**.
+If all current variants of an ideograph already existed in _k'ai_, no other styles are exemplified. If a variant existed in _ts'ao_, it is not further exemplified from _hsing_. Being the cursive of _k'ai_, _hsing_ is in general later than _ts'ao_, which was originally the cursive of _li_.
 
-The etymology of an ideograph is only touched on insofar as such knowledge motivated the use of an archaising glyph in **k'ai**.
+The etymology of an ideograph is only touched on insofar as such knowledge motivated the use of an archaising glyph in _k'ai_.
 
 <p>
   <details>
