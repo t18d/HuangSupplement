@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-16T00:36:52+00:00
+last_modified_at: 2025-02-16T00:44:19+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -89,6 +89,8 @@ K'ai|Ts'ao|Hsing|Print|Note
 樂|乐 Han|/|乐 Ch'ing|
 貿|贸 T'ang|/|/|cf. 貝
 難|/|/|难 Ming|
+惱|/|/|恼 Ch'ing|
+腦|/|/|脑 Ch'ing|
 聶|/|/|/|cf. 攝 躡
 躡|/|/|蹑 Ming|
 繞|/|绕 Ming|/|
