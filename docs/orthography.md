@@ -13,7 +13,7 @@ layout: no-anchor
 &nbsp;  
 &nbsp;  
 &nbsp;  
-The notion that pre-modern Chinese primarily used **traditional** ideographs has no factual basis.
+The notion that pre-modern Chinese primarily used **traditional** [ideographs](https://t18d.github.io/HuangSupplement/dictionary/#ideograph) has no factual basis.
 
 Many of the so-called **simplified** ideographs are in fact traditional forms. They were **stylistic variants** used in informal **registers**. Not infrequently, the simplified variant was the only attested form of an ideograph in the informal genres.
 
