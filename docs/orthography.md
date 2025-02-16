@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-16T06:22:52+00:00
+last_modified_at: 2025-02-16T06:27:40+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -107,6 +107,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 躡|/|/|蹑 Ming|
 評|/|评 Ming|/|
 齊|/|齐 T'ang|齐 Sung|
+騎|/|/|骑 Yüan|
 繞|/|绕 Ming|/|
 攝|/|/|摄 Ming|
 壽|/|/|寿 Yüan|寿 Sung hsing?
