@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-15T14:34:37+00:00
+last_modified_at: 2025-02-16T00:26:38+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -78,6 +78,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 國|/|/|国 Ch'ing|国 1133 kanji; 囯 Sung print
 過|/|/|过 Yüan|
 會|会 Han|/|会 Ming|
+減 减|/|/|/|
 檢|检 Wu|/|/|
 覺|觉 T'ang|/|觉 Ch'ing|
 軍|/|/|/|
@@ -86,6 +87,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 来 來|/|/|来 Sung|來 is later archaism
 樂|乐 Han|/|乐 Ch'ing|
 貿|贸 T'ang|/|/|cf. 貝
+難|/|/|难 Ming|
 聶|/|/|/|cf. 攝 躡
 躡|/|/|蹑 Ming|
 繞|/|绕 Ming|/|
