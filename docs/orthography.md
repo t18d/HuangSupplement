@@ -49,6 +49,7 @@ The etymology of an ideograph is only touched on insofar as such knowledge motiv
       <li>National Academy for Educational Research, <a href="https://dict.variants.moe.edu.tw">異體字字典</a> (14th edn, 2024).</li>
       <li>Tseng, Liang, and Ch'en Min (eds),『明清小說俗字典』(Yangchow, 2018).</li>
       <li>Wu, Li-yeh, and Ch'en Shuang-hsin, 'Ts'ao shu k'ai hua tzu yen chiu', <em>Chung kuo wen tzu yen chiu</em>, 29 (2019), 159–63.</li>
+      <li>Yamashita, Mari, '「広」の字体についてー略字体の出現時期とその要因ー',『漢字文化研究』, 1 (2011), 25–87.</li>
     </ul>
   </details>
 </p>
