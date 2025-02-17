@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-16T14:02:03+00:00
+last_modified_at: 2025-02-17T13:54:57+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -85,6 +85,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 飯|/|/|/|飰 Sung print
 費|费 Han|/|费 Ch'ing|
 廢|废 T'ang|/|/|
+廣|/|/|/|広 1891 kanji
 國|/|/|国 Ch'ing|国 1133 kanji; 囯 Sung print
 過|/|/|过 Yüan|
 會|会 Han|/|会 Ming|
@@ -95,6 +96,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 軍|/|/|/|
 刊 刋|/|/|/|刋 is stylistic variant
 克 剋|/|/|/|
+礦 鑛|/|/|/|鉱 1889 kanji
 来 來|/|/|/|來 is later archaism
 樂|乐 Han|/|乐 Ch'ing|
 馬|/|/|马 Yüan|
