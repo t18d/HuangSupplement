@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-18T11:48:55+00:00
+last_modified_at: 2025-02-18T12:19:53+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -138,4 +138,5 @@ K'ai|Ts'ao|Hsing|Print|Note
 云 雲|/|/|/|
 鄭|/|郑 T'ang|郑 Ch'ing|
 眾|/|众 Ming|众 Ch'ing|众 already in 龍龕手鏡人部 (玉篇 has a different glyph)
+豬 猪|/|/|猪 Ming|
 莊|庄 T'ang|/|庄 Ming|
