@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-18T06:23:31+00:00
+last_modified_at: 2025-02-18T06:33:50+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -62,12 +62,12 @@ K'ai|Ts'ao|Hsing|Print|Note
 愛|/|爱 Sui|爱 Ming|
 罷|/|/|罢 Ch'ing|
 擺|/|/|摆 Ch'ing|
-幫 Sung|/|/|帮 Ch'ing|幫 also in 廣韻
-綁 Ming|/|/|绑 Ming|綁 also in 字彙
+幫 Sung|/|/|帮 Ch'ing|幫 attested in 廣韻
+綁 Ming|/|/|绑 Ming|綁 attested in 字彙
 報|/|报 T'ang|报 Sung|
 貝|/|/|/|贝 in Huang Hsiang & imitators & once in Ch'ing print
 備 俻|/|/|备 Ch'ing|
-筆 笔|/|/|笔 Yüan|笔 already in 集韻 as variant
+筆 笔|/|/|笔 Yüan|笔 also in 集韻 as variant
 邊|/|/|边 Yüan|
 標|标 T'ang|/|/|
 別 别|/|/|/|别 is stylistic variant
@@ -103,8 +103,8 @@ K'ai|Ts'ao|Hsing|Print|Note
 馬|/|/|马 Yüan|
 貿|贸 T'ang|/|/|cf. 貝
 難|/|/|难 Ming|
-惱 Sung|/|/|恼 Ch'ing|惱 also in 廣韻
-腦 Sung|/|/|脑 Ch'ing|腦 also in 廣韻
+惱 Sung|/|/|恼 Ch'ing|惱 attested in 廣韻
+腦 Sung|/|/|脑 Ch'ing|腦 attested in 廣韻
 農|/|/|/|
 濃|/|/|/|
 聶|/|/|/|cf. 攝 躡
