@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-18T03:47:04+00:00
+last_modified_at: 2025-02-18T06:23:31+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -62,22 +62,22 @@ K'ai|Ts'ao|Hsing|Print|Note
 愛|/|爱 Sui|爱 Ming|
 罷|/|/|罢 Ch'ing|
 擺|/|/|摆 Ch'ing|
-幫 Sung|/|/|帮 Ch'ing|廣韻 has 幫
-綁 Ming|/|/|绑 Ming|字彙 has 綁
+幫 Sung|/|/|帮 Ch'ing|幫 also in 廣韻
+綁 Ming|/|/|绑 Ming|綁 also in 字彙
 報|/|报 T'ang|报 Sung|
 貝|/|/|/|贝 in Huang Hsiang & imitators & once in Ch'ing print
 備 俻|/|/|备 Ch'ing|
-筆 笔|/|/|笔 Yüan|集韻 has 笔 as variant
+筆 笔|/|/|笔 Yüan|笔 already in 集韻 as variant
 邊|/|/|边 Yüan|
 標|标 T'ang|/|/|
 別 别|/|/|/|别 is stylistic variant
 并 並 竝|/|/|/|竝 is archaism
 補|/|/|/|
-布|/|佈 Ming|/|廣韻 has 佈
+布|/|佈 Ming|/|佈 already in 廣韻
 采 採|/|/|/|
-抄|/|/|鈔 Ming|廣韻 has 鈔 as variant
+抄|/|/|鈔 Ming|鈔 already in 廣韻 as variant
 車|车 Han|/|/|
-塵|/|/|/|字彙補 has 尘; not found at Tunhuang
+塵|/|/|/|尘 in 字彙補; not found at Tunhuang
 墊|/|/|垫 Ch'ing|
 電|/|/|/|
 東|东 Han|/|东 Ch'ing|
@@ -103,8 +103,8 @@ K'ai|Ts'ao|Hsing|Print|Note
 馬|/|/|马 Yüan|
 貿|贸 T'ang|/|/|cf. 貝
 難|/|/|难 Ming|
-惱 Sung|/|/|恼 Ch'ing|廣韻 has 惱
-腦 Sung|/|/|脑 Ch'ing|廣韻 has 腦
+惱 Sung|/|/|恼 Ch'ing|惱 also in 廣韻
+腦 Sung|/|/|脑 Ch'ing|腦 also in 廣韻
 農|/|/|/|
 濃|/|/|/|
 聶|/|/|/|cf. 攝 躡
@@ -124,6 +124,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 壽|/|/|寿 Yüan|寿 Sung hsing?
 雖|/|/|虽 Yüan|
 孫|孙 Han|/|孙 Ming|
+體|/|/|体 Yüan|体 also in 字鑑
 万 萬|/|/|/|
 為 爲|为 Han|/|为 Yüan|爲 is later archaism
 韋|/|/|/|cf. 違
@@ -133,5 +134,5 @@ K'ai|Ts'ao|Hsing|Print|Note
 應|应 T'ang|/|应 Ch'ing|応 1753 kanji; Wang Hsi-chih's 应 in Li is fake
 云 雲|/|/|/|
 鄭|/|郑 T'ang|郑 Ch'ing|
-眾|/|众 Ming|众 Ch'ing|龍龕手鏡人部 has 众 (玉篇 has a different glyph)
+眾|/|众 Ming|众 Ch'ing|众 already in 龍龕手鏡人部 (玉篇 has a different glyph)
 莊|庄 T'ang|/|庄 Ming|
