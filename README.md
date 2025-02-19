@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-02-19T06:05:59+00:00
+last_modified_at: 2025-02-19T06:28:46+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -269,7 +269,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 接種|/|verb|1898|傳至日本互相接種其効昭然|『申報』7月11日「豫防痘症篇」|
 精品|/|noun|Sung|/|/|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=精品)
 卡車|/|noun|1923|曾宣言阻止外来卡車入路線之事、致有引起一般人之誤解、以卡車作乗客之車輛⋯此項卡車係専指運貨笨重之車而言|『申報』7月14日「滬太公司近況」|
-考古學|/|noun|1896|Археологія, Као-гу-сі*о* 考古學|Попов『俄漢合璧増補字彙』|from 考古学 (1877/79)
+考古學|/|noun|1896|Археологія, Као-гу-сі*о* 考古學|Попов『俄漢合璧増補字彙』|from Japanese 考古学: 1877/79
 刻本|/|noun|Sung|近歲均州刻本輒改為仇香|陸遊『老學庵筆記』卷四|
 |/|/|2001|「再说黄正甫刊本{乃}《三国志传》<乃>今见《三国演义》最早刻本」|『明清小說研究』1, 125|刻本 & 刋本 are stylistic variants
 烙鐵|/|noun|1889|Soldering iron 嵌錫烙鐵|Fryer『汽機中西名目表』47|
@@ -326,6 +326,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 侵入|/|verb|1868|to invade … as a disease a system, 侵入 … 侵害|Lobscheid『英華字典』s.v. Invade|metaphorical
 侵襲|/|verb|1847|to come upon, to attack, 侵襲|Medhurst, _English and Chinese Dictionary_, s.v. To come|
 山脈|/|noun|1858|山脈之方向|W. Muirhead in『六合叢談』1/13, 9|
+上述|/|adjective|1903|以上述之新兵爲自衛軍⋯宜協力迫俄國交還奉天之事|『俄事警聞』12月20日「清國之對俄政策」|from Japanese: 女学雑誌〔1895〕
 哨子|/|noun|1889|Steam whistle 汽哨子|Fryer『汽機中西名目表』49|
 生態學|/|noun|1903|論其習性與其相交之關係者。曰生態學。|作新社『新編動物學』3|
 石灰水|/|noun|1882|將膿泡一一挑破用石灰水洗淨|『申報』5月5日「火焚續述」|
