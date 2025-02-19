@@ -4,7 +4,7 @@ permalink: style/
 seo:
   type: Guide
   name: A Stylistic Appendix
-last_modified_at: 2025-02-14T03:07:14+00:00
+last_modified_at: 2025-02-19T07:05:24+00:00
 description: The stylistic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -30,4 +30,6 @@ Literary|Word Class|Non-U|Colloquial|Note
 塵拂|noun||撣子 etc.|
 墮胎|verb|人工流產|打胎|
 |noun|精品||officialese
+前述|adjective|前揭||faux-classical; from Japanese
 |noun|潤筆|潤筆費|
+上述|adjective|上揭||faux-classical; from Japanese
