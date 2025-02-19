@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-19T13:36:23+00:00
+last_modified_at: 2025-02-19T13:42:23+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -106,6 +106,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 来 來|/|/|/|來 is later archaism
 樂|乐 Han|/|乐 Ch'ing|
 馬|/|/|马 Yüan|
+賣|/|/|/|
 貿|贸 T'ang|/|/|cf. 貝
 難|/|/|难 Ming|
 惱 Sung|/|/|恼 Ch'ing|惱 attested in 廣韻
@@ -139,6 +140,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 違|违 Chin|/|违 Ch'ing|
 無 无|/|/|/|
 峡 峽|/|/|/|cf. 夹
+續|/|/|/|
 學|学 Wu|/|/|
 義|/|/|义 Yüan|
 應|应 T'ang|/|应 Ch'ing|応 1753 kanji; Wang Hsi-chih's 应 in Li is fake
