@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-19T12:52:01+00:00
+last_modified_at: 2025-02-19T13:36:23+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -93,9 +93,11 @@ K'ai|Ts'ao|Hsing|Print|Note
 過|/|/|过 Yüan|
 後|/|后 Chin|后 Yüan|
 會|会 Han|/|会 Ming|
+夹 夾|/|/|/|夾 is later archaism
 艱|/|/|艰 Ming|
 減 减|/|/|/|
 檢|检 Wu|/|/|
+徑|/|/|/|
 覺|觉 T'ang|/|觉 Ch'ing|
 軍|/|/|/|
 刊 刋|/|/|/|刋 is stylistic variant
@@ -136,6 +138,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 韋|/|/|/|cf. 違
 違|违 Chin|/|违 Ch'ing|
 無 无|/|/|/|
+峡 峽|/|/|/|cf. 夹
 學|学 Wu|/|/|
 義|/|/|义 Yüan|
 應|应 T'ang|/|应 Ch'ing|応 1753 kanji; Wang Hsi-chih's 应 in Li is fake
