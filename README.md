@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-02-14T14:45:49+00:00
+last_modified_at: 2025-02-19T06:05:59+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -33,7 +33,7 @@ last_modified_at: 2025-02-14T14:45:49+00:00
       </li>
       <li><strong>Lemma</strong>
         <ul>
-          <li>To facilitate cross-checking, the arrangement of lemmata is that of Mair et al. (2003) with the following exceptions:
+          <li>To facilitate cross-checking, the arrangement of lemmas is that of Mair et al. (2003) with the following exceptions:
             <ul>
               <li>words whose <strong>head characters</strong> share the same sequence of letters and tone are sorted by subsequent characters;</li>
               <li>in case that fails, they are sorted by the number of <strong>strokes</strong> of the characters concerned.</li>
@@ -78,6 +78,8 @@ last_modified_at: 2025-02-14T14:45:49+00:00
       </li>
       <li><strong>Source</strong>
         <ul>
+          <li><a href="https://t18d.github.io/HuangSupplement/dictionary/#evidence-dictionary"><strong>Dictionary evidence</strong></a> is treated as first class.</li>
+          <li>When the earliest source for a lemma is written by a non-native speaker, a <strong>second quotation</strong> from the earliest native source is added if one does not exist in Huang.</li>
           <li>A <strong>plus sign</strong> ('+') following a source means the word is also attested in at least one other source dating from the same year.</li>
           <li>A <strong>question mark</strong> ('?') means the scholar who antedated the word didn't supply the source in their writings.</li>
           <li>A <strong>question mark</strong> ('?') following a source means the scholar who antedated the word didn't clearly specify the source in their writings and that the one given here was inferred from their bibliography.</li>
@@ -115,7 +117,8 @@ last_modified_at: 2025-02-14T14:45:49+00:00
       <li>Kretschmer, Paul, <em>Sprachregeln für die Bildung und Betonung zoologischer und botanischer Namen</em> (Berlin, 1899).</li>
       <li>Kühner, Raphael, and Friedrich Blass, <em>Ausfürliche Grammatik der Griechischen Sprache: I. Elementar- und Formenlehre</em>, ii (Hanover, 1892).</li>
       <li>Mair, Victor H. et al. (eds),『漢語大詞典詞目音序索引』(Shanghai, 2003).</li>
-      <li>Shên, Kuo-wei, <em>Han yü chin tai êrh tzu tz'u yen chiu</em> (Shanghai, 2019).</li>
+      <li>Shen, Kuo-wei, '『中日近代新詞詞源詞典』の編纂について',『或問』, 28 (2015), 225–42.</li>
+      <li>Shen, Kuo-wei, <em>Han yü chin tai erh tzu tz'u yen chiu</em> (Shanghai, 2019).</li>
     </ul>
     <h3>Sources</h3>
     <p class="text-gray">(A copy of each article is archived in the <a href="https://github.com/t18d/HuangSupplement/tree/main/assets/pdf">repo</a>.)</p>

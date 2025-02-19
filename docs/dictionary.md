@@ -5,7 +5,7 @@ permalink: dictionary/
 seo:
   type: Book
   name: Critical Dictionary of Lexicography and Linguistics
-last_modified_at: 2025-02-11T08:16:18+00:00
+last_modified_at: 2025-02-19T05:29:07+00:00
 layout: anchor
 ---
 # Critical Dictionary of Lexicography and Linguistics
@@ -30,6 +30,20 @@ Using the **Oxford comma** when there is no ambiguity conveys the **implicature*
 As a **modifier**, often pleonastic.
 
 **Example:** _the compact, inexplicit_ discourse _style of research articles_ (2016)
+
+## evidence, _dictionary_
+
+The process of compiling a dictionary isn't fundamentally different from writing other kinds of books. The lexicographer selects words he thinks exist in the language as lemmas and uses words he knows (or invents) to explain them. And just like in other types of writings, dictionaries may contain erroneous or **nonce words**.
+
+<p><details>
+    <summary>Exceptions</summary>
+    <br>
+    <p>Sometimes, however, <strong>dictionary evidence</strong> requires careful handling:</p>
+    <ol>
+      <li>For words that are found exclusively in dictionaries, see Peter Gilliver, 'Dictionary words', in John Considine (ed.), <em>Adventuring in Dictionaries: New Studies in the History of Lexicography</em> (Newcastle upon Tyne, 2010), 216–8.</li>
+      <li>Evidence from dictionaries compiled by foreigners for a foreign readership may not reflect the usage of native speakers. For an earlier attempt to control such evidence with quotations from other sources (and the difficulties involved), see the specimens in Shen Kuo-wei, '『中日近代新詞詞源詞典』の編纂について',『或問』, 28 (2015), 225–42.</li>
+    </ol>
+</details></p>
 
 ## 'Great' Vowel-shift, _the_
 
