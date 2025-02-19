@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-02-19T06:49:55+00:00
+last_modified_at: 2025-02-19T07:11:41+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -315,7 +315,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 鉛筆|/|noun|1822|Blacklead pencil, 鉛筆|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. BLACKLEAD|
 牽引力|/|noun|1908|其牽引力甚大且較牛皮橡皮各帶更為耐久堅韌|『申報』2月23日「專製布質引擎帶」|
 前部|/|noun|1902|鞏膜之前部曰角膜|教科書譯輯社『中學生理教科書』166|This is where Huang corrects _Han yü ta tz'u tien_: 前部 was always military before 1900s.
-前述|/|adjective|1880|如前述江西某委員信役濫刑|『申報』4月27日「論惡役殃民」|also in Japanese: Nikkoku 1877
+前述|/|adjective|1880|如前述江西某委員信役濫刑|『申報』4月27日「論惡役殃民」|also in Japanese: Nikkoku 1877; [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=前述)
 潛伏期(1)|/|noun|1905|其初為病之潛伏期|湖北學務處『倫理學·課外餘談』34|
 前景|/|noun|1867|Foreground 前地 … 前景|Lobscheid『英華字典』s.v. Foreground|
 鉗子|/|noun|1848|鉗子⋯小鉗子|Medhurst, _English and Chinese Dictionary_, s.v. Pliers|
@@ -327,7 +327,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 侵入|/|verb|1868|to invade … as a disease a system, 侵入 … 侵害|Lobscheid『英華字典』s.v. Invade|metaphorical
 侵襲|/|verb|1847|to come upon, to attack, 侵襲|Medhurst, _English and Chinese Dictionary_, s.v. To come|
 山脈|/|noun|1858|山脈之方向|W. Muirhead in『六合叢談』1/13, 9|
-上述|/|adjective|1903|以上述之新兵爲自衛軍⋯宜協力迫俄國交還奉天之事|『俄事警聞』12月20日「清國之對俄政策」|from Japanese: 女学雑誌〔1895〕
+上述|/|adjective|1903|以上述之新兵爲自衛軍⋯宜協力迫俄國交還奉天之事|『俄事警聞』12月20日「清國之對俄政策」|from Japanese: 女学雑誌〔1895〕; [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=上述)
 哨子|/|noun|1889|Steam whistle 汽哨子|Fryer『汽機中西名目表』49|
 生態學|/|noun|1903|論其習性與其相交之關係者。曰生態學。|作新社『新編動物學』3|
 石灰水|/|noun|1882|將膿泡一一挑破用石灰水洗淨|『申報』5月5日「火焚續述」|
