@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-18T13:42:07+00:00
+last_modified_at: 2025-02-19T09:09:11+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -128,6 +128,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 壽|/|/|寿 Yüan|寿 Sung hsing?
 雖|/|/|虽 Yüan|
 孫|孙 Han|/|孙 Ming|
+臺|/|/|台 Yüan|
 體|/|/|体 Yüan|体 also in 字鑑
 万 萬|/|/|/|
 為 爲|为 Han|/|为 Yüan|爲 is later archaism
