@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-19T12:21:53+00:00
+last_modified_at: 2025-02-19T12:48:06+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -126,6 +126,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 繞 遶|/|绕 Ming|/|
 攝|/|/|摄 Ming|
 壽|/|/|寿 Yüan|寿 Sung hsing?
+樹|/|/|/|
 雖|/|/|虽 Yüan|
 孫|孙 Han|/|孙 Ming|
 臺|/|/|台 Yüan|
@@ -141,6 +142,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 鄭|/|郑 T'ang|郑 Ch'ing|
 誌 Sung|/|/|/|
 製|/|/|制 Ming|
+種|/|/|/|
 眾|/|众 Ming|众 Ch'ing|众 already in 龍龕手鏡人部 (玉篇 has a different glyph)
 豬 猪|/|/|猪 Ming|
 莊|庄 T'ang|/|庄 Ming|
