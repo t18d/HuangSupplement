@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-20T05:57:34+00:00
+last_modified_at: 2025-02-20T06:16:25+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -107,6 +107,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 樂|乐 Han|/|乐 Ch'ing|
 龍|/|/|/|
 馬|/|/|马 Yüan|
+脉 脈|/|/|/|'脈脉 上說文下經典相承' (五經文字)
 賣|/|/|/|
 貿|贸 T'ang|/|/|cf. 貝
 難|/|/|难 Ming|
