@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-20T09:01:26+00:00
+last_modified_at: 2025-02-20T09:10:17+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -80,6 +80,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 車|车 Han|/|/|
 塵|/|/|/|尘 in 字彙補; not found at Tunhuang
 單|/|/|单 Yüan|
+彈|/|/|/|cf. 彈 (t'an)
 點|/|点 Ming|/|
 墊|/|/|垫 Ch'ing|
 電|/|/|/|
@@ -138,6 +139,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 孫|孙 Han|/|孙 Ming|
 臺|/|/|台 Yüan|
 態|/|/|/|
+彈|/|/|弹 Ming|
 體|/|/|体 Yüan|体 also in 字鑑
 万 萬|/|/|/|
 為 爲|为 Han|/|为 Yüan|爲 is later archaism
