@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-20T11:21:04+00:00
+last_modified_at: 2025-02-20T11:27:40+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -101,6 +101,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 檢|检 Wu|/|/|
 脚 腳|/|/|/|腳 attested in 說文 & rare
 徑|/|/|/|
+據|/|/|据 Ch'ing|
 覺|觉 T'ang|/|觉 Ch'ing|
 軍|/|/|/|
 刊 刋|/|/|/|刋 is stylistic variant
