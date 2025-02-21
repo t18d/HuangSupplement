@@ -15,15 +15,17 @@ layout: anchor
 &nbsp;  
 &nbsp;  
 &nbsp;  
-[_Canones Lexicographici_ (May 1860)](https://books.google.com/books?id=LqxUAAAAcAAJ&pg=RA3-PA1#v=onepage&q&f=false)
+[_Canones Lexicographici_](https://books.google.com/books?id=LqxUAAAAcAAJ&pg=RA3-PA1#v=onepage&q&f=false) (1860)
 
-[The Oxford Quarto Dictionary](https://www.henrysweet.org/bulletin-of-the-henry-sweet-society/blog-post-title-one-wj68m-s8yby)
+[The Oxford Quarto Dictionary](https://www.henrysweet.org/bulletin-of-the-henry-sweet-society/blog-post-title-one-wj68m-s8yby) (2008)
 
-[Sanford Brown Meech at the _Middle English Dictionary_](https://doi.org/10.1353/dic.1995.0015)
+[Sanford Brown Meech at the _Middle English Dictionary_](https://doi.org/10.1353/dic.1995.0015) (1995)
 
-[_Dictionaries: The Art and Craft of Lexicography_](https://archive.org/details/dictionariesartc0000land_02ed)
+[_Dictionaries: The Art and Craft of Lexicography_](https://archive.org/details/dictionariesartc0000land_02ed) (2001)
 
-[Confessions of the Antedater](https://doi.org/10.1353/dic.2018.0011)
+[Confessions of the Antedater](https://doi.org/10.1353/dic.2018.0011) (2018)
+
+[Dating Middle English evidence in the OED](https://www.oed.com/discover/dating-middle-english-evidence-in-the-oed/#dating-styles-in-OED3) (2023)
 
 <span align="center">***</span>
 
