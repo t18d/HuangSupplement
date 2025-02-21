@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-21T08:38:04+00:00
+last_modified_at: 2025-02-21T08:47:19+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -75,6 +75,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 補|/|/|/|
 布|/|佈 Ming|/|佈 already in 廣韻
 采 採|/|/|/|
+產|/|/|/|
 長|长 Han|/|长 Yüan|
 抄|/|/|鈔 Ming|鈔 already in 廣韻 as variant
 車|车 Han|/|/|
@@ -153,6 +154,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 無 无|/|/|/|
 襲|/|/|/|
 峡 峽|/|/|/|cf. 夹
+寫|/|/|/|
 續|/|/|/|
 學|学 Wu|/|/|
 義|/|/|义 Yüan|
