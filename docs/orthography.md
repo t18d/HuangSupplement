@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-20T11:54:54+00:00
+last_modified_at: 2025-02-21T08:38:04+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -99,7 +99,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 艱|/|/|艰 Ming|
 減 减|/|/|/|
 檢|检 Wu|/|/|
-脚 腳|/|/|/|腳 attested in 說文 & rare
+脚 腳|/|/|/|腳 in 說文 & rare
 徑|/|/|/|
 據|/|/|据 Ch'ing|
 覺|觉 T'ang|/|觉 Ch'ing|
@@ -126,6 +126,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 評|/|评 Ming|/|
 齊|/|齐 T'ang|齐 Ming|
 騎|/|/|骑 Yüan|
+氣 气|/|/|/|气 in 說文 & rare
 棄 弃|/|/|/|
 鉛|/|/|/|
 牽|/|/|/|
