@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-22T06:20:24+00:00
+last_modified_at: 2025-02-22T10:08:31+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -149,6 +149,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 態|/|/|/|
 彈|/|/|弹 Ming|
 體|/|/|体 Yüan|体 also in 字鑑
+鐵|/|/|/|鉄 Yüan print & kanji
 万 萬|/|/|/|
 為 爲|为 Han|/|为 Yüan|爲 is later archaism
 韋|/|/|/|cf. 違
