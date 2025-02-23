@@ -25,6 +25,12 @@ Bernhard Karlgren's term for the language of the Hênan region during the first 
 
 Using the **Oxford comma** when there is no ambiguity conveys the **implicature** that the writer fears criticism for failing to use it.
 
+## dictionary of record
+
+A term coined by John Simpson in 2001 which has delayed the completion of OED3 for twenty years.
+
+See also [**OED3**](#oed3).
+
 ## discourse
 
 As a **modifier**, often pleonastic.
@@ -155,7 +161,7 @@ New words and new senses can be more easily added in OED4 drawing on the materia
 
 The ideal roadmap for the OED is thus OED2 (updating) > OED3 (revision) > OED4 (updating) > OED5 (revision) and so forth.
 
-See also [**record, dictionary of**](#record-dictionary-of).
+See also [**dictionary of record**](#dictionary-of-record).
 
 ## Onions, _C.&#8202;T._
 
@@ -195,12 +201,6 @@ An older term for the orthographic variant of an **ideograph**. See HuangSupplem
 ## punctuation
 
 Punctuation **indicators** are first-class **lexemes** and should be subjected to the same analysis in a dictionary as other lemmata.
-
-## record, _dictionary of_
-
-A term coined by John Simpson in 2001 which has delayed the completion of OED3 for twenty years.
-
-See also [**OED3**](#oed3).
 
 ## semantic inversion
 
