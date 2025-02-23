@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-23T12:54:41+00:00
+last_modified_at: 2025-02-23T14:26:50+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -94,6 +94,8 @@ K'ai|Ts'ao|Hsing|Print|Note
 飯|/|/|/|飰 Sung print
 費|费 Han|/|费 Ch'ing|
 廢|废 T'ang|/|/|
+風|/|/|/|cf. 鳳
+鳳|/|/|风 Ming 凤 Ch'ing|风 commonly confused with 風
 杆|/|/|/|桿 in 元刋四聲篇海
 廣|/|/|/|広 1891 kanji
 國|/|/|国 Ch'ing|国 1133 kanji; 囯 Sung print
