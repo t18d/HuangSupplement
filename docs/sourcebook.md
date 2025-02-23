@@ -25,6 +25,8 @@ layout: anchor
 
 [Confessions of the Antedater](https://doi.org/10.1353/dic.2018.0011) (2018)
 
+[Dictionaries and wordbooks used as sources by OED](https://oed.hertford.ox.ac.uk/topics/dictionaries/#main-sources) (2021)
+
 [Dating Middle English evidence in the OED](https://www.oed.com/discover/dating-middle-english-evidence-in-the-oed/#dating-styles-in-OED3) (2023)
 
 <span align="center">***</span>
