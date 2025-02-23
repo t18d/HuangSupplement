@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-23T06:22:53+00:00
+last_modified_at: 2025-02-23T06:47:54+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -77,6 +77,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 采 採|/|/|/|
 產|/|/|/|
 長|长 Han|/|长 Yüan|
+廠 Sung|/|/|/|attested in 廣韻
 抄|/|/|鈔 Ming|鈔 already in 廣韻 as variant
 車|车 Han|/|/|
 塵|/|/|/|尘 in 字彙補; not found at Tunhuang
