@@ -13,14 +13,14 @@ layout: anchor
 &nbsp;  
 &nbsp;  
 &nbsp;  
-## _Hsien tai han yü tz’u tien_
+## _Hsien tai Han yü tz’u tien_
 
 - 7th edn, 2016
 - ~69,000(?) words
 - No quotation evidence
 - A barometer of economic conditions
 
-## _Hsien tai han yü kuei fan tz’u tien_
+## _Hsien tai Han yü kuei fan tz’u tien_
 
 - 4th edn, 2022
 - ~72,000 words
@@ -41,7 +41,7 @@ layout: anchor
 - Features the same innovative approach to alphabetisation as Mair et al. (2003)
 - No quotation evidence
 
-## _Hsien tai han yü ta tz’u tien_
+## _Hsien tai Han yü ta tz’u tien_
 
 - 1st edn, 2000
 - ~100,000 words
