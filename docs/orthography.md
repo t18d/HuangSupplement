@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-24T02:39:23+00:00
+last_modified_at: 2025-02-24T05:30:31+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -101,6 +101,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 國|/|/|国 Ch'ing|国 1133 kanji; 囯 Sung print
 過|/|/|过 Yüan|
 後|/|后 Chin|后 Yüan|
+畫|/|画 Ming|画 Ch'ing|畵 > 画 is late archaism
 迴 廻 回|/|/|/|
 會|会 Han|/|会 Ming|
 極|/|/|/|
