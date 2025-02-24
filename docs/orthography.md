@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-24T05:30:31+00:00
+last_modified_at: 2025-02-24T09:03:14+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -123,7 +123,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 樂|乐 Han|/|乐 Ch'ing|
 龍|/|/|/|
 論|/|/|/|
-馬|/|/|马 Yüan|
+馬|马 Wu|/|马 Yüan|Unicode 马 has wrong stroke order
 脉 脈|/|/|/|'脈脉 上說文下經典相承' (五經文字)
 賣|/|/|/|
 貿|贸 T'ang|/|/|cf. 貝
