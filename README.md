@@ -111,7 +111,7 @@ last_modified_at: 2025-02-20T23:39:17+00:00
     <h3>Theory</h3>
     <ul>
       <li>Aikhenvald, Alexandra A., <em>Classifiers: A Typology of Noun Categorization Devices</em> (Oxford, 2000).</li>
-      <li>Chang, Pin (ed.), <em>Hsien tai han yü miao hsieh yü fa</em> (Peking, 2010).</li>
+      <li>Chang, Pin (ed.), <em>Hsien tai Han yü miao hsieh yü fa</em> (Peking, 2010).</li>
       <li>Huang, Chu-Ren, and Dingxu Shi (eds), <em>A Reference Grammar of Chinese</em> (Cambridge, 2016).</li>
       <li>Huddleston, Rodney, and Geoffrey K. Pullum (eds), <em>The Cambridge Grammar of the English Language</em> (Cambridge, 2002).</li>
       <li>Kretschmer, Paul, <em>Sprachregeln für die Bildung und Betonung zoologischer und botanischer Namen</em> (Berlin, 1899).</li>
