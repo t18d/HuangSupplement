@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-02-24T13:43:03+00:00
+last_modified_at: 2025-02-26T02:38:26+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -343,7 +343,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 -性(2)|/|nominal bound root|1664|中通曰、水流下而趨中、有剛火性也、火炎上而旋昇、有柔水性也。|方以智『物理小識』|first occurrence in three-morpheme words
 堰塞湖|/|noun|1903|大別之則分凹地湖堰塞湖二種|『中學地文教科書』86|
 蔗糖|/|noun|1874|說畢卽將瓶中葡萄酒倒入玻璃盞又加蔗糖少許|『瀛寰瑣記』20, 7|
-致哀|/|verb|488|公事畢即往致哀|沈約『宋書·何尚之傳』|
+致哀|/|verb|c1531 (488)|公事畢即往致哀|沈約『宋書·何尚之傳』|
 誌哀|/|verb|1878|舉國臣民遵制縞素成服以誌哀也|『申報』7月20日|
 -製品|/|nominal bound root|1880|牛角製品|『申報』12月22日「戲咏煙具十首錄呈諸大吟壇指政」|
 中國|(in treaties)|noun|1731 (1690)|河之南岸、属于中国。河之北岸、属于鄂罗斯。|『聖祖仁皇帝實錄·卷一四三』|
@@ -351,5 +351,5 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 中文系|(of a high school)|noun|1923|中文系添古學哲學史學理論心理等類、英文系添有心理學高等幾何化學等課、|『時事新報』7月17日「蘇州桃塢改辦高級中學」|
 |(of a university)|/|1925|「上大中文系戊辰級會大會」|『民國日報』3月23日|中文系 has the same referent as, but is _not_ semantically equivalent to, 中國語言文學系
 钟乳石|/|noun|1903|鐘乳石 (Sta\<l>actite)|『中學地文教科書』75|Doolittle (1872): 石鐘乳
-種樹|plant trees|verb|Western Chin|/|「閒居賦」|
+種樹|plant trees|verb|a1034 (c296)|/|「閒居賦」|
 -主義(1)|/|nominal bound root|1883|因係官權主義聞主筆者必將更迭|『申報』3月4日「會黨類誌」|
