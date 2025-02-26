@@ -27,6 +27,8 @@ last_modified_at: 2025-02-26T02:38:26+00:00
     <ul>
       <li><strong>Abbreviations</strong>
         <ul>
+          <li>aYEAR – ante YEAR</li>
+          <li>cYEAR – circa YEAR</li>
           <li>NP – noun phrase</li>
           <li>VP – verb phrase</li>
         </ul>
@@ -56,9 +58,9 @@ last_modified_at: 2025-02-26T02:38:26+00:00
       <li><strong>Year</strong>
         <ul>
           <li>The first entry for a lemma represents the first known attestation. When a date is given, it is generally earlier than the earliest quotation in Huang except in the case of <strong>postdating</strong>.</li>
-          <li>When a date is followed by a second, earlier date in <strong>parentheses</strong>, the first refers to the year of publication and the second the year of composition.</li>
+          <li>When the <strong>publication date</strong> and <strong>composition date</strong> of a source differ, the dating styles of the Middle English Dictionary and <a href="https://www.oed.com/discover/dating-middle-english-evidence-in-the-oed/">OED3</a> are adopted.</li>
           <li>A <strong>solidus</strong> ('/') signifies that the lemma is not being antedated.</li>
-          <li>For words or senses first used by a native writer flourishing before Ch'ing, only the <strong>political period</strong> is given unless a quotation is missing from <em>Han yü ta tz'u tien</em>.</li>
+          <li>When a source has been added from the documentation of <em>Han yü ta tz'u tien</em>, only the <strong>political period</strong> is available. Such fuzzy dating will gradually be replaced by more precise dates.</li>
         </ul>
       </li>
       <li><strong>Quotation</strong>
@@ -67,8 +69,8 @@ last_modified_at: 2025-02-26T02:38:26+00:00
           <li>The <strong>typography</strong> of the source is reproduced to the extent that the resources of HTML allow.</li>
           <li>A <strong>solidus</strong> ('/') is used when:
             <ul>
-              <li>Huang's quotation remains the earliest attestation; or</li>
-              <li>no precise date is given for <strong>Year</strong>.</li>
+              <li>the quotation is already in Huang and only its dating is being revised; or</li>
+              <li>a source has been added from the documentation of <em>Han yü ta tz'u tien</em>.</li>
             </ul>
           </li>
           <li>A <strong>blank</strong> means the scholar who antedated the word didn't supply the evidence in their writings.</li>
