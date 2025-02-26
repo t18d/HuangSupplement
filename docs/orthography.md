@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-02-24T09:18:53+00:00
+last_modified_at: 2025-02-26T14:17:10+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -83,6 +83,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 塵|/|/|/|尘 in 字彙補; not found at Tunhuang
 單|/|/|单 Yüan|
 彈|/|/|/|cf. 彈 (t'an)
+逓|/|/|/|遞 in 廣韻 is archaism; 递 in 宋本玉篇
 點|/|点 Ming|/|
 墊|/|/|垫 Ch'ing|
 電|/|/|/|
@@ -118,6 +119,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 軍|/|/|/|
 刊 刋|/|/|/|刋 is stylistic variant
 克 剋|/|/|/|
+况 況|/|/|/|況 is archaism
 礦 鑛|/|/|/|鉱 1889 kanji
 来 來|/|/|/|來 is later archaism
 樂|乐 Han|/|乐 Ch'ing|
