@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-02-26T23:43:56+00:00
+last_modified_at: 2025-02-27T12:49:25+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -344,6 +344,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 所有者|/|noun|1903|猶未定議所有者只集股本十萬兩而已|『國民日日報』8月26日「天津經濟問題」+|
 體操|/|noun|1887|至櫻馬塲體操塲閱看師範學校生徒演習兵法|『申報』1月14日「日報譯略」|
 外徑|/|noun|1874|外徑三寸|『申報』11月28日「怪疾二則」|
+西學東漸|/|idiom|1903|歐亞大通西學東漸|「泰西學案序」|signed in Tokyo; from Japanese: 国民之友 (1888)
 峽谷|/|noun|1902|峽谷如壁地勢隆起|『申報』7月15日「詳紀張家口鐵路里程」+|
 -性(2)|/|nominal bound root|1664|中通曰、水流下而趨中、有剛火性也、火炎上而旋昇、有柔水性也。|方以智『物理小識』|first occurrence in three-morpheme words
 堰塞湖|/|noun|1903|大別之則分凹地湖堰塞湖二種|『中學地文教科書』86|
