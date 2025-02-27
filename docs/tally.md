@@ -13,11 +13,18 @@ layout: anchor
 &nbsp;  
 &nbsp;  
 &nbsp;  
+## _Hsien tai Han yü ta tz’u tien_
+
+- 1st edn, forthcoming, Peking
+- 156,000+ words
+- No dating or source for quotations (Chiang 2022)
+
 ## _Hsien tai Han yü tz’u tien_
 
 - 7th edn, 2016
 - ~69,000(?) words
 - No quotation evidence
+- [Early editions](https://github.com/t18d/HuangSupplement/wiki/Checklist-of-Editions#%E7%8F%BE%E4%BB%A3%E6%BC%A2%E8%AA%9E%E8%A9%9E%E5%85%B8) tend to offer better analysis
 - A barometer of economic conditions
 
 ## _Hsien tai Han yü kuei fan tz’u tien_
@@ -43,8 +50,9 @@ layout: anchor
 
 ## _Hsien tai Han yü ta tz’u tien_
 
-- 1st edn, 2000
+- 1st edn, 2000, Shanghai
 - ~100,000 words
+- Draws heavily on _Han yü ta tz'u tien_
 
 ## the rest …
 … deliberately obscure their editorial history and can’t be trusted.
