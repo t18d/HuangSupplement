@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-02-28T13:52:00+00:00
+last_modified_at: 2025-03-01T06:13:29+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -334,6 +334,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 牆腳|/|noun|1844|Foundation, 基址 … 墻腳|Williams『英華韵府歷階』s.v. Foundation|
 侵入|/|verb|1868|to invade … as a disease a system, 侵入 … 侵害|Lobscheid『英華字典』s.v. Invade|metaphorical
 侵襲|/|verb|1847|to come upon, to attack, 侵襲|Medhurst, _English and Chinese Dictionary_, s.v. To come|
+群島|/|noun|1833|五島⋯共稱呂宋羣島|『東西洋考每月統計傳』癸巳年六月「東南州島嶼等形勢綱目」|
 山脈|/|noun|1858|山脈之方向|W. Muirhead in『六合叢談』1/13, 9|
 上述|/|adjective|1903|以上述之新兵爲自衛軍⋯宜協力迫俄國交還奉天之事|『俄事警聞』12月20日「清國之對俄政策」|from Japanese: 女学雑誌 (1895); [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=上述)
 哨子|/|noun|1889|Steam whistle 汽哨子|Fryer『汽機中西名目表』49|
