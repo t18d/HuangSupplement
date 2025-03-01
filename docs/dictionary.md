@@ -254,3 +254,7 @@ Trying to keep **theory** out of a dictionary is fighting a losing battle. The v
 ## topolect
 
 A **calque** coined by Victor Mair to render the pre-modern _fang yen_ into English.
+
+## _Tz'u-yüan_
+
+Originally the title of a [**historical dictionary**](#historical-dictionary) (cf. '然辭有引伸假借有沿革變遷舉甲不能遺乙有委不能無源'); in vulgar usage, a fancy way of saying _tz'u yüan_ ('etymology').
