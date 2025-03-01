@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-01T13:41:46+00:00
+last_modified_at: 2025-03-01T22:49:52+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -263,6 +263,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 咖喱|/|noun|1874|整啲咖喱魚|Dennys『初学階』|
 干貝|/|/|/|/|/|likely a native word; see [#19](https://github.com/t18d/HuangSupplement/issues/19#issuecomment-2606537981)
 功率|/|noun|1889|Duty of engine 汽機功率|Fryer『汽機中西名目表』17|
+構想|/|verb|c1596 (c1616)|此臣早夜之所拮据夙昔之所搆想者也|馮夢禎『快雪堂集·卷二十五·隆儒優士疏』|
 果汁|/|noun|1887|Colocynth pulp 𠹭囉噺果汁|Fryer『西藥大成藥品中西名目表』17|
 海拔|/|noun|1901|此次爆發噴煙高出海拔一萬二千米|『清議報』八十六冊「支那現勢論」|
 海洋性氣候|/|NP|1902|歐羅巴⋯大抵有海洋性氣候|作新譯書局『世界地理』240|
