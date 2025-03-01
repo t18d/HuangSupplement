@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-01T07:02:35+00:00
+last_modified_at: 2025-03-01T13:41:46+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -272,6 +272,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 环礁|/|noun|1903|自其形狀言之。則曰⋯環礁 (Atoll)|『中學地文教科書』96|
 減速|/|verb|1889|Ease 減速|Fryer『汽機中西名目表』17|
 教育者|/|noun|1866|Educator, 教養者 … 教育者|Lobscheid『英華字典』s.v. Educator|
+接辦|/|verb|c1833|而其管理印度等處地方之事、仍容公司接辦、|『東西洋考每月統記傳』癸巳十一月「英國之東地公司」|
 接種|/|verb|1898|傳至日本互相接種其効昭然|『申報』7月11日「豫防痘症篇」|
 精品|/|noun|Sung|/|/|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=精品)
 卡車|/|noun|1923|曾宣言阻止外来卡車入路線之事、致有引起一般人之誤解、以卡車作乗客之車輛⋯此項卡車係専指運貨笨重之車而言|『申報』7月14日「滬太公司近況」|
@@ -315,7 +316,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 騎士|/|noun|1903|田奴騎士及君主之階級|進化譯社『史學通論』105|
 歧義|/|noun|1921 (1877)|是以魏晉以還⋯獨於詩未聞歧義|孫詒讓『温州經籍志』卷二 s.v. 夏氏詩經漁樵野說|
 起訴|/|verb|1895 (1887)|/|黃遵憲『日本國志·刑法志一』|
-起義(2)|/|verb|1833|亦有人起義以應其隆奈者也。|Gützlaff『東西洋考每月統記傳』癸巳十二月, 79|
+起義(2)|/|verb|1833|亦有人起義以應其隆奈者也。|『東西洋考每月統記傳』癸巳十二月, 79|
 契據|/|noun|1872|(document) 契 … 契據|Doolittle『英華萃林韻府』s.v. Deed|
 棄權|/|verb|1895 (1887)|/|黃遵憲『日本國志·刑法志一』|
 汽車(2)|/|noun|1903|近有法人与英人及他国人合擬賭賽。汽車由法京巴黎斯至日斯巴尼亜京城馬得利脱。|『申報』5月27日「賽車肇事」|
