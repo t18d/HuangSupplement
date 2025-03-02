@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-02T02:29:53+00:00
+last_modified_at: 2025-03-02T05:31:40+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -265,7 +265,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 咖喱|/|noun|1874|整啲咖喱魚|Dennys『初学階』|
 干貝|/|/|/|/|/|likely a native word; see [#19](https://github.com/t18d/HuangSupplement/issues/19#issuecomment-2606537981)
 功率|/|noun|1889|Duty of engine 汽機功率|Fryer『汽機中西名目表』17|
-構想|/|verb|c1596 (c1616)|此臣早夜之所拮据夙昔之所搆想者也|馮夢禎『快雪堂集·卷二十五·隆儒優士疏』|
+構想|/|verb|c1616 (c1596)|此臣早夜之所拮据夙昔之所搆想者也|馮夢禎『快雪堂集·卷二十五·隆儒優士疏』(CADAL)|
 果汁|/|noun|1887|Colocynth pulp 𠹭囉噺果汁|Fryer『西藥大成藥品中西名目表』17|
 海拔|/|noun|1901|此次爆發噴煙高出海拔一萬二千米|『清議報』八十六冊「支那現勢論」|
 海洋性氣候|/|NP|1902|歐羅巴⋯大抵有海洋性氣候|作新譯書局『世界地理』240|
@@ -351,6 +351,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 手續|/|noun|1901|行政訴訟之手續|『譯書彙編』７, 54+|
 水表|/|noun|1883|如是則該公司只須每日稽查水表|『申報』8月6日「自來水價宜變通說」|
 所有者|/|noun|1903|猶未定議所有者只集股本十萬兩而已|『國民日日報』8月26日「天津經濟問題」+|
+提神|/|verb|1837|雖鴉片惡毒、然其性能提神|『東西洋考每月統計傳』丁酉年四月「奏爲鴉片」|
 體操|/|noun|1887|至櫻馬塲體操塲閱看師範學校生徒演習兵法|『申報』1月14日「日報譯略」|
 外徑|/|noun|1874|外徑三寸|『申報』11月28日「怪疾二則」|
 西學東漸|/|idiom|1903|歐亞大通西學東漸|「泰西學案序」|signed in Tokyo; from Japanese: 国民之友 (1888)
@@ -369,3 +370,5 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 钟乳石|/|noun|1903|鐘乳石 (Sta\<l>actite)|『中學地文教科書』75|Doolittle (1872): 石鐘乳
 種樹|plant trees|verb|a1034 (c296)|/|『文選·閒居賦』(8575)|
 -主義(1)|/|nominal bound root|1883|因係官權主義聞主筆者必將更迭|『申報』3月4日「會黨類誌」|
+祝福|(intransitive)|verb|1538 (1370)|抑此乃祝福之詩非祭祀之詩|『五經蠡測·卷之四』13 (善000735)|
+|(transitive)|/|1837|故皇上帝祝福是日、以爲聖日也。|『東西洋考每月統記傳』丁酉年六月「以色列遊野」|
