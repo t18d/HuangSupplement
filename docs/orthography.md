@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-03-02T07:46:30+00:00
+last_modified_at: 2025-03-02T13:14:01+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -71,7 +71,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 邊|/|/|边 Yüan|
 標|标 T'ang|/|/|
 別 别|/|/|/|别 is stylistic variant
-并 並 竝|/|/|/|竝 is archaism
+并 並 竝|/|/|/|竝 is archaism; in most Tunhuang sources, 并 is Prep & 並 V/Adv
 補|/|/|/|
 布|/|佈 Ming|/|佈 already in 廣韻
 采 採|/|/|/|
