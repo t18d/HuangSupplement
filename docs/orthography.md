@@ -39,10 +39,12 @@ The etymology of an ideograph is only touched on insofar as such knowledge motiv
       <li>Chang, Yung-ch'üan,『敦煌寫本文獻學』(Lanchow, 2013).</li>
       <li>Huang, Cheng, '漫談古籍整理的規範問題', <em>Tunhuang yen chiu</em>, 162 (2017), 70–7.</li>
       <li>Huang, Cheng,『敦煌俗字典』(2nd edn, Shanghai, 2020), 2–40.</li>
+      <li>Tseng, Liang,『俗字及古籍文字通例研究』(Nanchang, 2006).</li>
     </ul>
     <h3>Sources</h3>
     <ul>
       <li>Hagihara, Yoshio, '「国」と「囯」の文字を考える',『駒澤短大國文』, 33 (2003), 132.</li>
+      <li>Huang, Cheng, '敦煌字詁——並、並、併考辨', <em>Nan-ching shih fan ta hsüeh wen hsüeh yüan hsüeh pao</em>, 4 (2000), 44–51.</li>
       <li>Huang, Cheng et al.,『敦煌俗字典』(2nd edn, Shanghai, 2020).</li>
       <li>Li, Le-i,『簡化字源』(Peking, 1996).</li>
       <li>Liu, Fu, and Li Chia-jui (eds),『宋元以來俗字譜』(Peking, 1930).</li>
