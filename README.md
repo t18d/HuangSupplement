@@ -125,6 +125,7 @@ last_modified_at: 2025-03-02T01:58:49+00:00
     <h3>Sources</h3>
     <p class="text-gray">(A copy of each article is archived in the <a href="https://github.com/t18d/HuangSupplement/tree/main/assets/pdf">repo</a>.)</p>
     <ul>
+      <li>陳戈, '《東西洋考每月統記傳》新詞研究', master's thesis, 浙江財經大學, 2013.</li>
       <li>陳華, '有關《四洲志》的若干问题',『暨南學報』, 15/3 (1993), 80. (英吉利)</li>
       <li>崔蕭寒, '「摩擦」の語史：日中両語の相互影響', master's thesis, Osaka University, 2021.</li>
       <li>馮天瑜–聶長順,『三十個關鍵詞的文化史』(Peking, 2021), 68–9. (中國)</li>
