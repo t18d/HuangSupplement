@@ -27,9 +27,12 @@ last_modified_at: 2025-03-02T12:10:29+00:00
     <ul>
       <li><strong>Abbreviations</strong>
         <ul>
+          <li>Adv – adverb</li>
           <li>aYEAR – ante YEAR</li>
           <li>cYEAR – circa YEAR</li>
           <li>NP – noun phrase</li>
+          <li>Prep – preposition</li>
+          <li>V – verb</li>
           <li>VP – verb phrase</li>
         </ul>
       </li>
