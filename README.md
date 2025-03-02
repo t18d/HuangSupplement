@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-02T05:31:40+00:00
+last_modified_at: 2025-03-02T12:10:29+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -224,6 +224,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 病毒|/|noun|1908|疮疹之毒水、传染病毒、病毒、脓浆毒 (痘毒、痘浆)|顏惠慶『英華大辭典』s.v. Virus|postdating
 病變|/|noun|1908|The transformation of a disease into another, (醫) 病症, 病變| 顏惠慶『英華大辭典』s.v. Diadexis|
 摒絕|/|verb|1835|是以摒絕塑像、真心崇拜萬物之主宰|『東西洋考每月統記傳』乙未年六月「俠膽」|from 屏絕
+摒棄|/|verb|c1715 (c1683)|丹砂白雉總摒棄檳榔萬斛無所須|『百尺梧桐閣集·遺稿詩十卷·送孫編修同周儀部奉使安南』(T5463/3140)|from 屏棄
 波動(2)|/|verb|1902|譬如音響光溫之波動|廣智書局『心理教育學』72|
 波形|/|noun|1906 (1904)|音色之差異依波形之差異而生|陳文哲『普通應用物理教科書』151|
 伯爵|/|noun|1844|Earl, 伯爵|Williams『英華韵府歷階』s.v. Earl|
