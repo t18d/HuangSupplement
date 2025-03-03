@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-03-02T13:26:42+00:00
+last_modified_at: 2025-03-03T12:15:42+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -186,6 +186,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 義|/|/|义 Yüan|
 應|应 T'ang|/|应 Ch'ing|応 1753 kanji; Wang Hsi-chih's 应 in Li is fake
 營|/|/|营 Yüan|
+涌|/|/|/|湧 attested in 集韻
 語|/|语 Chin|语 Ch'ing|
 云 雲|/|/|/|
 張|张 Han|/|/|
