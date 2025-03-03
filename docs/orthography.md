@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-03-03T12:21:17+00:00
+last_modified_at: 2025-03-03T12:33:57+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -197,6 +197,6 @@ K'ai|Ts'ao|Hsing|Print|Note
 製|/|/|制 Ming|
 質|/|/|质 Ch'ing|
 種|/|/|/|
-眾|/|众 Ming|众 Ch'ing|众 already in 龍龕手鏡人部 (玉篇 has a different glyph)
+衆|/|众 Ming|众 Ch'ing|众 already in 龍龕手鏡人部 (玉篇 has a different glyph); 眾 is archaism
 豬 猪|/|/|猪 Ming|
 莊|庄 T'ang|/|庄 Ming|
