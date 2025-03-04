@@ -34,6 +34,10 @@ The etymology of an ideograph is only touched on insofar as such knowledge motiv
 <p>
   <details>
     <summary>Bibliography</summary>
+    <h3>Dataset</h3>
+    <ul>
+      <li>Wang, Ch'üan, <a href="https://github.com/t18d/HuangSupplement/issues/32#issuecomment-2695929143">Actual usage vs prescriptive lexicography from T'ang to Ch'ing</a>, 2013.</li>
+    </ul>
     <h3>Theory</h3>
     <ul>
       <li>Chang, Yung-ch'üan,『敦煌寫本文獻學』(Lanchow, 2013).</li>
@@ -43,11 +47,14 @@ The etymology of an ideograph is only touched on insofar as such knowledge motiv
     </ul>
     <h3>Sources</h3>
     <ul>
+      <li>An, Hui, '宋蜀本《後山居士文集》異體字研究', master's thesis, He-pei Teachers College, 2023.</li>
       <li>Hagihara, Yoshio, '「国」と「囯」の文字を考える',『駒澤短大國文』, 33 (2003), 132.</li>
       <li>Huang, Cheng, '敦煌字詁——並、並、併考辨', <em>Nan-ching shih fan ta hsüeh wen hsüeh yüan hsüeh pao</em>, 4 (2000), 44–51.</li>
       <li>Huang, Cheng et al.,『敦煌俗字典』(2nd edn, Shanghai, 2020).</li>
+      <li>Ke, Hai-nan, '《宋本毛詩詁訓傳》異體字', master's thesis, He-pei Teachers College, 2021.</li>
       <li>Li, Le-i,『簡化字源』(Peking, 1996).</li>
       <li>Liu, Fu, and Li Chia-jui (eds),『宋元以來俗字譜』(Peking, 1930).</li>
+      <li>Liu, Miao-miao, '清刻本《通志堂集》異體字研究', master's thesis, He-pei Teachers College, 2021.</li>
       <li>National Academy for Educational Research, <a href="https://dict.variants.moe.edu.tw">異體字字典</a> (14th edn, 2024).</li>
       <li>Tseng, Liang, and Ch'en Min (eds),『明清小說俗字典』(Yangchow, 2018).</li>
       <li>Wu, Li-yeh, and Ch'en Shuang-hsin, 'Ts'ao shu k'ai hua tzu yen chiu', <em>Chung kuo wen tzu yen chiu</em>, 29 (2019), 159–63.</li>
