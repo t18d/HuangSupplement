@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-03T12:16:54+00:00
+last_modified_at: 2025-03-04T12:51:10+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -376,3 +376,4 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 -主義(1)|/|nominal bound root|1883|因係官權主義聞主筆者必將更迭|『申報』3月4日「會黨類誌」|
 祝福|(intransitive)|verb|1538 (1370)|抑此乃祝福之詩非祭祀之詩|『五經蠡測·卷之四』13 (善000735)|
 |(transitive)|/|1837|故皇上帝祝福是日、以爲聖日也。|『東西洋考每月統記傳』丁酉年六月「以色列遊野」|
+資金(2)|money for a particular purpose|noun|1901|此時.乙不有滙資金.或不爲負擔債務.而拒絕清償.則買受者.對前者請求償還|『湖北商務報』90, 18|from Japanese: Nikkoku (1874); 資金(1) should probably be subsumed
