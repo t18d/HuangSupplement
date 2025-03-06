@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-03-04T03:58:23+00:00
+last_modified_at: 2025-03-06T13:09:55+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -198,6 +198,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 語|/|语 Chin|语 Ch'ing|
 云 雲|/|/|/|
 張|张 Han|/|/|
+真 眞|/|/|/|眞 is archaism
 鄭|/|郑 T'ang|郑 Ch'ing|
 證|/|证 Ch'in|证 Ch'ing|
 誌 Sung|/|/|/|
