@@ -4,7 +4,7 @@ permalink: style/
 seo:
   type: Guide
   name: A Stylistic Appendix
-last_modified_at: 2025-03-06T14:57:01+00:00
+last_modified_at: 2025-03-07T00:56:10+00:00
 description: The stylistic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -35,3 +35,4 @@ Literary|Word Class|Non-U|Colloquial|Note
 前述|adjective|前揭||-揭 faux-classical; from Japanese
 |noun|潤筆|潤筆費|
 上述|adjective|上揭||-揭 faux-classical; from Japanese
+(不)準確|adjective|(不)科學||a loose use of 科學
