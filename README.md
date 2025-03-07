@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-07T01:03:54+00:00
+last_modified_at: 2025-03-07T07:14:40+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -261,6 +261,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 定義(1)|/|verb|1914|例如⋯(Definition)日人譯爲定義⋯定義有兼攝⋯(Define) 動字之功。|胡以魯「論譯名」in『庸言』2月15日|
 |/|/|1917|商業學爲最近採用之新名詞定義最爲困難|『大公報』12月17日「商業教育論 (十續)」|postdating; previously 下定義 & 正名定義
 墊圈|/|noun|1889|Washer 墊圈|Fryer『汽機中西名目表』56|
+二十四史|/|noun|c1796 (c1791)|余在長沙養疾讀史記以下諸史日有恆課摘二十四史同姓名錄|汪輝祖『病榻夢痕錄·卷下』49 (XD104)|與歐陽脩書並列共爲二十有四 (四庫總目卷四十五 c1789)
 發動|/|verb|1872|電機發動卽將其人拋起躍至丈餘|『申報』6月29日「電氣抛人」|
 發售|/|verb|a1792 (a1086)|農翁之善蓄稻也層藏累納有淹二十年不發售者|吕南公『灌園集·與楊次公書』(文淵閣)|
 反應(1)|/|noun|1902|呈酸性之反應|『理化教科書』17|
