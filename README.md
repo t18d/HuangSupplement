@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-06T13:03:28+00:00
+last_modified_at: 2025-03-07T01:03:54+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -252,6 +252,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 |/|/|1918|而况卽以小學之詞源而論。其字之用尚不爲完全正確耶。|(張)東蓀「論譯書」in『時事新報』5月23日|
 辭源|/|noun|1912|聞該館尚編辭源一書亦已脫稿⋯兼望『辭源』之早日惠我也|『民立報』10月24日「惠書誌謝」|cf. 詞源
 打胎|/|verb|1872|不然何卒以破血打胎終久而不知變計耶|『申報』5月23日「四醫斃一婦」|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=打胎)
+擔保|/|verb|c1601|姑饒不殺各苗承認擔保將牛壹拾贰隻以求退兵|『平播全書·卷三』6 (NCL-02251)|here converted to noun
 地球儀|/|noun|1878|并製有小地球儀|『申報』6月21日「命題甚新」|
 地下水|/|noun|1903|地下水 雨水之一部。|『中學地文教科書』74|
 電鍍|/|noun|1885|Electro-planting 電鍍銀|Fryer『化學材料中西名目表』13|
@@ -292,6 +293,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 考古|practise archaeology|verb|1902|瑞國得了這個古迹 考古的人 個個爭先再尋|『大公報』8月2日「新石代」|
 考古學|/|noun|1896|Археологія, Као-гу-сі*о* 考古學|Попов『俄漢合璧増補字彙』|from Japanese 考古学: 1877/79
 考古學家|/|noun|1907|義國夙以文明之淵藪見稱而入其境問十二銅標所在國人概答不知問之考古學家亦答不知|『順天時報』11月9日「客談歐美各國情形」|
+科學|/|adjective|1914|聚百十不科學無條理之人日發生不痛不癢不達時勢之議論|『時事新報』12月4日「清朝復辟案之反響」|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=科學)
 刻本|/|noun|Sung|近歲均州刻本輒改為仇香|陸遊『老學庵筆記』卷四|
 |/|/|2001|「再说黄正甫刊本{乃}《三国志传》<乃>今见《三国演义》最早刻本」|『明清小說研究』1, 125|刻本 & 刋本 are stylistic variants
 烙鐵|/|noun|1889|Soldering iron 嵌錫烙鐵|Fryer『汽機中西名目表』47|
