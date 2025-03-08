@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-03-07T09:00:24+00:00
+last_modified_at: 2025-03-08T02:42:23+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -188,6 +188,8 @@ K'ai|Ts'ao|Hsing|Print|Note
 峡 峽|/|/|/|cf. 夹
 險|/|险 T'ang|/|
 寫|/|/|/|
+脩|/|/|/|e.g. 歐陽脩
+修|/|/|/|cf. 脩
 許|/|许 Chin|/|
 續|/|/|/|
 學|学 Wu|/|/|
