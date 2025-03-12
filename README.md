@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-08T23:35:12+00:00
+last_modified_at: 2025-03-12T04:15:19+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -180,6 +180,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 罷免|/|verb|T'ang|/|/|What changes is the political process (monarchy > dictatorship > democracy), not the semantics
 白粉(2)|/|noun|1857|此時草木暢茂、成煤層、其上為新紅沙石、黃灰石、石膏、石鹽、蛋粉石、白粉、火石|W. Muirhead in『六合叢談』1/2, 2|
 白金|/|noun|1848|Platina, 白金|Medhurst, _English and Chinese Dictionary_, s.v. Platina|
+白開水|/|noun|c1813 (a1811)|右二味⋯每服一二錢。白開水送下。|吳瑭『溫病條辨·卷三下焦篇』55|
 白内障|/|noun|1906|白內障(白翳)者。因于水晶體之溷濁。|『中學生理衛生教科書』100|白色內障 (1644)
 白熱(1)|/|adjective|1867|white heat, 白熱|Lobscheid『英華字典』s.v. Heat|
 擺(1)|/|nominal bound root|1868|of o'clock, 擺|Lobscheid『英華字典』s.v. Pendulum|
