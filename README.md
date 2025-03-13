@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-13T04:50:08+00:00
+last_modified_at: 2025-03-13T11:47:55+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -204,7 +204,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 背景(1)|/|noun|1916|雖成為歷史上主要之背景|『神州日報』3月19日「大亞細亞主義之運命」|
 背景(2)|/|noun|1910|滬上所謂佈景有四大缺點⋯僅用背景一幅|『時報』3月14日「劇談」|cf. s.v. 佈景
 背面|/|noun|1822|inside or back surface, 背面|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. OUTSIDE|
-被告|/|noun|1703|acusado, o reo, pí káo|Varo, _Arte de la lengua mandarina_, 56|
+被告|/|noun|a1368 (c1301)|被告 謂爲人所謡者|徐元瑞『吏學指南·卷六』|
 被面|/|noun|1847|Coverlet, 被窩 … 被面|Medhurst, _English and Chinese Dictionary_, s.v. Coverlet|
 被殺|/|preposition + verb|1857|又辨金色之吏、曰穵林敦、亦被殺|『六合叢談』1/4, 15|
 本體|/|noun|1844|Essence, 精 … 本體 … 精氣|Williams『英華韵府歷階』s.v. Essence|
