@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-12T04:15:19+00:00
+last_modified_at: 2025-03-13T04:50:08+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -293,7 +293,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 精品|/|noun|Sung|/|/|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=精品)
 卡車|/|noun|1923|曾宣言阻止外来卡車入路線之事、致有引起一般人之誤解、以卡車作乗客之車輛⋯此項卡車係専指運貨笨重之車而言|『申報』7月14日「滬太公司近況」|
 考古|practise archaeology|verb|1902|瑞國得了這個古迹 考古的人 個個爭先再尋|『大公報』8月2日「新石代」|
-考古學|/|noun|1896|Археологія, Као-гу-сі*о* 考古學|Попов『俄漢合璧増補字彙』|from Japanese 考古学: 1877/79
+考古學|/|noun|1896|Археологія, Као-гу-сі*о* 考古學|Попов『俄漢合璧増補字彙』|from Japanese 考古学: 1877/79 (Tanomura)
 考古學家|/|noun|1907|義國夙以文明之淵藪見稱而入其境問十二銅標所在國人概答不知問之考古學家亦答不知|『順天時報』11月9日「客談歐美各國情形」|
 科學|/|adjective|1914|聚百十不科學無條理之人日發生不痛不癢不達時勢之議論|『時事新報』12月4日「清朝復辟案之反響」|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=科學)
 刻本|/|noun|Sung|近歲均州刻本輒改為仇香|陸遊『老學庵筆記』卷四|
@@ -341,7 +341,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 鉛筆|/|noun|1822|Blacklead pencil, 鉛筆|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. BLACKLEAD|
 牽引力|/|noun|1908|其牽引力甚大且較牛皮橡皮各帶更為耐久堅韌|『申報』2月23日「專製布質引擎帶」|
 前部|/|noun|1902|鞏膜之前部曰角膜|教科書譯輯社『中學生理教科書』166|This is where Huang corrects _Han yü ta tz'u tien_: 前部 was always military before 1900s.
-前述|/|adjective|1880|如前述江西某委員信役濫刑|『申報』4月27日「論惡役殃民」|also in Japanese: Nikkoku 1877; [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=前述)
+前述|/|adjective|1880|如前述江西某委員信役濫刑|『申報』4月27日「論惡役殃民」|also in Japanese: 1877 (Nikkoku); [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=前述)
 潛伏期(1)|/|noun|1905|其初為病之潛伏期|湖北學務處『倫理學·課外餘談』34|
 前景|/|noun|1867|Foreground 前地 … 前景|Lobscheid『英華字典』s.v. Foreground|
 鉗子|/|noun|1848|鉗子⋯小鉗子|Medhurst, _English and Chinese Dictionary_, s.v. Pliers|
@@ -355,7 +355,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 群島|/|noun|1833|五島⋯共稱呂宋羣島|『東西洋考每月統計傳』癸巳年六月「東南州島嶼等形勢綱目」|
 日全食|/|noun|c1632|舊法於日全食時。測定月之視徑。隨時不等。|Rho『崇禎曆書·月離曆指·月離三』9+|
 山脈|/|noun|1858|山脈之方向|W. Muirhead in『六合叢談』1/13, 9|
-上述|/|adjective|1903|以上述之新兵爲自衛軍⋯宜協力迫俄國交還奉天之事|『俄事警聞』12月20日「清國之對俄政策」|from Japanese: 女学雑誌 (1895); [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=上述)
+上述|/|adjective|1903|以上述之新兵爲自衛軍⋯宜協力迫俄國交還奉天之事|『俄事警聞』12月20日「清國之對俄政策」|from Japanese: 1895 (CHJ); [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=上述)
 哨子|/|noun|1889|Steam whistle 汽哨子|Fryer『汽機中西名目表』49|
 生態學|/|noun|1903|論其習性與其相交之關係者。曰生態學。|作新社『新編動物學』3|
 石灰水|/|noun|1882|將膿泡一一挑破用石灰水洗淨|『申報』5月5日「火焚續述」|
@@ -369,7 +369,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 體操|/|noun|1887|至櫻馬塲體操塲閱看師範學校生徒演習兵法|『申報』1月14日「日報譯略」|
 天主|/|noun|1584|『新編西竺國天主實錄』|Ruggieri|
 外徑|/|noun|1874|外徑三寸|『申報』11月28日「怪疾二則」|
-西學東漸|/|idiom|1903|歐亞大通西學東漸|「泰西學案序」|signed in Tokyo; from Japanese: 国民之友 (1888)
+西學東漸|/|idiom|1903|歐亞大通西學東漸|「泰西學案序」|signed in Tokyo; from Japanese: 1888 (CHJ)
 峽谷|/|noun|1902|峽谷如壁地勢隆起|『申報』7月15日「詳紀張家口鐵路里程」+|
 -性(2)|/|nominal bound root|1664|中通曰、水流下而趨中、有剛火性也、火炎上而旋昇、有柔水性也。|方以智『物理小識』|first occurrence in three-morpheme words
 學理|/|noun|1903|解釋之意義由學者一己之私見者。謂之無權的解釋亦謂之學理解釋|汪–葉『新爾雅·釋法』27|
@@ -390,4 +390,4 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 -主義(1)|/|nominal bound root|1883|因係官權主義聞主筆者必將更迭|『申報』3月4日「會黨類誌」|
 祝福|(intransitive)|verb|1538 (1370)|抑此乃祝福之詩非祭祀之詩|『五經蠡測·卷之四』13 (善000735)|
 |(transitive)|/|1837|故皇上帝祝福是日、以爲聖日也。|『東西洋考每月統記傳』丁酉年六月「以色列遊野」|
-資金(2)|money for a particular purpose|noun|1901|此時.乙不有滙資金.或不爲負擔債務.而拒絕清償.則買受者.對前者請求償還|『湖北商務報』90, 18|from Japanese: Nikkoku (1874); 資金(1) should probably be subsumed
+資金(2)|money for a particular purpose|noun|1901|此時.乙不有滙資金.或不爲負擔債務.而拒絕清償.則買受者.對前者請求償還|『湖北商務報』90, 18|from Japanese: 1874 (Nikkoku); 資金(1) should probably be subsumed
