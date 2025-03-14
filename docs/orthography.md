@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-03-14T06:15:00+00:00
+last_modified_at: 2025-03-14T14:22:03+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -127,6 +127,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 減 减|/|/|/|
 檢|检 Wu|/|/|
 脚 腳|/|/|/|腳 in 說文 & rare
+解|/|觧 Chin|觧 Yüan|
 徑|/|/|/|
 據|/|/|据 Ch'ing|
 雋|/|隽 Chin|/|從人 in MSS
