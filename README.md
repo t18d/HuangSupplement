@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-14T13:14:06+00:00
+last_modified_at: 2025-03-14T13:15:03+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -380,6 +380,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 堰塞湖|/|noun|1903|大別之則分凹地湖堰塞湖二種|『中學地文教科書』86|
 硬傷|(metaphorical)|noun|1928|袁世凱等，不過是個硬傷，忍痛用一次手術，還割得下來；若引用了那些下作小官僚，像微菌進血管，眞成不治之症了。|『民國日報』10月10日「祝政治建設的開始」|The literal sense dates back at least to s.xix med.
 |glaring error|noun|1948|單就我們所說的「硬傷」而論，在這號稱「修訂本」、「標準本」當中就還多得難以計數。|鄧恭三「揭發『國定錯誤』廢除『國定課本』」in『大公報』10月3日|Note the quotes; [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=硬傷)
+原罪|/|noun|c1636|特吾主。及聖母。無染原罪。|Dias『聖經直解·雜事目錄』51 (Jap. Sin. I-70)|
 蔗糖|/|noun|1874|說畢卽將瓶中葡萄酒倒入玻璃盞又加蔗糖少許|『瀛寰瑣記』20, 7|
 政體|/|noun|1834|南亞墨利加列國已良久驅逐西班呀國官員、自操其權、惟政體未尚定着。|『東西洋考每月統記傳』甲午年二月「新聞之撮要」|
 致哀|/|verb|c1531 (488)|公事畢即往致哀|沈約『宋書·何尚之傳』(07347)|
