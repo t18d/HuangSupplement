@@ -31,6 +31,9 @@ last_modified_at: 2025-03-15T06:54:59+00:00
           <li>aYEAR – ante YEAR</li>
           <li>CHJ – 日本語歴史コーパス</li>
           <li>cYEAR – circa YEAR</li>
+          <li>M1 – 官話<sub>1</sub> in Tai (2017)</li>
+          <li>M2 – 官話<sub>2</sub> in Tai (2017)</li>
+          <li>M3 – 官話<sub>3</sub> in Tai (2017)</li>
           <li>NP – noun phrase</li>
           <li>Nikkoku – 日本国語大辞典 (2nd edn)</li>
           <li>Prep – preposition</li>
@@ -123,9 +126,10 @@ last_modified_at: 2025-03-15T06:54:59+00:00
       <li>Huddleston, Rodney, and Geoffrey K. Pullum (eds), <em>The Cambridge Grammar of the English Language</em> (Cambridge, 2002).</li>
       <li>Kretschmer, Paul, <em>Sprachregeln für die Bildung und Betonung zoologischer und botanischer Namen</em> (Berlin, 1899).</li>
       <li>Kühner, Raphael, and Friedrich Blass, <em>Ausfürliche Grammatik der Griechischen Sprache: I. Elementar- und Formenlehre</em>, ii (Hanover, 1892).</li>
-      <li>Mair, Victor H. et al. (eds),『漢語大詞典詞目音序索引』(Shanghai, 2003).</li>
+      <li>Mair, Victor H. et al. (eds), <em>Han yü ta tz'u tien tz'u mu yin hsü so yin</em> (Shanghai, 2003).</li>
       <li>Shen, Kuo-wei, '『中日近代新詞詞源詞典』の編纂について',『或問』, 28 (2015), 225–42.</li>
       <li>Shen, Kuo-wei, <em>Han yü chin tai erh tzu tz'u yen chiu</em> (Shanghai, 2019).</li>
+      <li>Tai, Li-kang, '晚清的官話音系及其性質',『古漢語研究』, 117 (2017), 28–41.</li>
     </ul>
     <h3>Sources</h3>
     <p class="text-gray">(A copy of each article is archived in the <a href="https://github.com/t18d/HuangSupplement/tree/main/assets/pdf">repo</a>.)</p>
