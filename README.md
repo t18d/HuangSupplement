@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-14T14:29:18+00:00
+last_modified_at: 2025-03-15T00:10:26+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -253,6 +253,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 辭源|/|noun|1912|聞該館尚編辭源一書亦已脫稿⋯兼望『辭源』之早日惠我也|『民立報』10月24日「惠書誌謝」|cf. 詞源
 打胎|/|verb|1872|不然何卒以破血打胎終久而不知變計耶|『申報』5月23日「四醫斃一婦」|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=打胎)
 擔保|/|verb|c1601|姑饒不殺各苗承認擔保將牛壹拾贰隻以求退兵|『平播全書·卷三』6 (NCL-02251)|here converted to noun
+地基|/|noun|1583||_Dicionário Português-Chinês_|
 地球儀|/|noun|1878|并製有小地球儀|『申報』6月21日「命題甚新」|
 地下水|/|noun|1903|地下水 雨水之一部。|『中學地文教科書』74|
 電鍍|/|noun|1885|Electro-planting 電鍍銀|Fryer『化學材料中西名目表』13|
@@ -301,6 +302,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 禮拜|/|verb|c1584 (1583)|三當禮拜之日禁止工夫謁寺誦經禮拜天主|Ruggieri『祖傳天主十誡』(Jap. Sin. I-189)|
 硫酸|/|noun|1883|Sulphuric acid 硫酸|Fryer『金石中西名目表』32|
 漏斗|/|noun|1857|譬如水洩於漏斗|A. Williamson in『六合叢談』1/3, 7|
+麵包|/|noun|1583||_Dicionário Português-Chinês_|
+麵粉|/|noun|1583||_Dicionário Português-Chinês_|
 描述|describe|verb|1909|其惶急尤難描述|『申報』8月2日「奇情小說 美人虹」+|not in 王雲五大辭典 & 國語辭典; very slowly took over the sense of 'describe' from [描寫(2)](https://t18d.github.io/HuangSupplement/obsolete/#:~:text=描寫(2))
 |/|/|1958|現代語言學先分兩個大的方面 … 「描述的語言學」(descriptive linguistics) … 「歷史 (或比較的) 語言學」|董同龢「語言的研究」in『現代學術季刊』2/2|
 描述語言學|/|NP|1958|個人覺得能代表近來美國描述語言學家的長處的倒是 Charles Fries 的兩本實用性的書|董同龢「語言的研究」in『現代學術季刊』2/2|the accurate translation of 'descriptive linguistics'
