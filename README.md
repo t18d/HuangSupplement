@@ -29,8 +29,10 @@ last_modified_at: 2025-03-15T00:20:21+00:00
         <ul>
           <li>Adv – adverb</li>
           <li>aYEAR – ante YEAR</li>
+          <li>CHJ – 日本語歴史コーパス</li>
           <li>cYEAR – circa YEAR</li>
           <li>NP – noun phrase</li>
+          <li>Nikkoku – 日本国語大辞典 (2nd edn)</li>
           <li>Prep – preposition</li>
           <li>V – verb</li>
           <li>VP – verb phrase</li>
