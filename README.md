@@ -148,6 +148,7 @@ last_modified_at: 2025-03-15T00:10:26+00:00
       <li>Tola, Gabriele, <em>John Fryer and </em>The Translator’s Vade-mecum (Leiden, 2021), 237–79.</li>
       <li>佟藝辰, '"分詞"考源',『或問』, 46 (2024), 117–28.</li>
       <li>王銘宇, '明末天主教文獻所見漢語基督教詞彙考述',『漢語學報』, 44 (2013), 60.</li>
+      <li>王銘宇, '羅明堅、利瑪竇《葡漢辭典》詞彙問題舉隅',『勵耘語言學刊』, 19 (2014), 148.</li>
       <li>袁書予, '「分析」の成立と変化', master's thesis, Osaka University, 2022.</li>
       <li>張涌泉, '"別字"正名',『語文建設』, 4 (1989), 56–7.</li>
     </ul>
