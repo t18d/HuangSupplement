@@ -156,7 +156,7 @@ See further [**Orthographic alternation**](https://t18d.github.io/HuangSupplemen
 
 >> 安樂椅子 not found in New Terms for New Ideas (1913) or Hand Book of New Terms and Newspaper Chinese (1917)
 
-<img src="https://t18d.github.io/HuangSupplement/assets/椅子.webp" width="50%">
+<img src="https://t18d.github.io/HuangSupplement/assets/webp/椅子.webp" width="50%">
 
 > Characters can easily get dropped so you just have to search for all the substrings as well before you can say for sure that it’s not there.
 >
