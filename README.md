@@ -132,7 +132,6 @@ last_modified_at: 2025-03-15T09:39:02+00:00
       <li>Tai, Li-kang, '晚清的官話音系及其性質',『古漢語研究』, 117 (2017), 28–41.</li>
     </ul>
     <h3>Sources</h3>
-    <p class="text-gray">(A copy of each article is archived in the <a href="https://github.com/t18d/HuangSupplement/tree/main/assets/pdf">repo</a>.)</p>
     <ul>
       <li>陳戈, '《東西洋考每月統記傳》新詞研究', master's thesis, 浙江財經大學, 2013.</li>
       <li>陳華, '有關《四洲志》的若干问题',『暨南學報』, 15/3 (1993), 80. (英吉利)</li>
