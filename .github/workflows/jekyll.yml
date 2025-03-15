@@ -59,6 +59,7 @@ jobs:
             docs/
             assets/css/
             assets/js/
+            assets/webp/
       - uses: dorny/paths-filter@v3
         id: filter
         with:
@@ -125,6 +126,7 @@ jobs:
             docs/
             assets/css/
             assets/js/
+            assets/webp/
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
