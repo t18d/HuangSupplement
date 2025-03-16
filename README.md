@@ -130,6 +130,7 @@ last_modified_at: 2025-03-15T12:33:22+00:00
       <li>Shen, Kuo-wei, '『中日近代新詞詞源詞典』の編纂について',『或問』, 28 (2015), 225–42.</li>
       <li>Shen, Kuo-wei, <em>Han yü chin tai erh tzu tz'u yen chiu</em> (Shanghai, 2019).</li>
       <li>Tai, Li-kang, '晚清的官話音系及其性質',『古漢語研究』, 117 (2017), 28–41.</li>
+      <li>Yeh, Pao-k'uei, '民初國音的回顧與反思',『廈門大學學報』, 183 (2007), 44–50.</li>
     </ul>
     <h3>Sources</h3>
     <ul>
