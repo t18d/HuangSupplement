@@ -126,9 +126,8 @@ last_modified_at: 2025-03-16T07:11:01+00:00
       <li>Huddleston, Rodney, and Geoffrey K. Pullum (eds), <em>The Cambridge Grammar of the English Language</em> (Cambridge, 2002).</li>
       <li>Kretschmer, Paul, <em>Sprachregeln für die Bildung und Betonung zoologischer und botanischer Namen</em> (Berlin, 1899).</li>
       <li>Kühner, Raphael, and Friedrich Blass, <em>Ausfürliche Grammatik der Griechischen Sprache: I. Elementar- und Formenlehre</em>, ii (Hanover, 1892).</li>
-      <li>Mair, Victor H. et al. (eds), <em>Han yü ta tz'u tien tz'u mu yin hsü so yin</em> (Shanghai, 2003).</li>
+      <li>Mair, Victor H. et al. (eds), Han yü ta tz'u tien<em> tz'u mu yin hsü so yin</em> (Shanghai, 2003).</li>
       <li>Shen, Kuo-wei, '『中日近代新詞詞源詞典』の編纂について',『或問』, 28 (2015), 225–42.</li>
-      <li>Shen, Kuo-wei, <em>Han yü chin tai erh tzu tz'u yen chiu</em> (Shanghai, 2019).</li>
       <li>Tai, Li-kang, '晚清的官話音系及其性質',『古漢語研究』, 117 (2017), 28–41.</li>
       <li>Yeh, Pao-k'uei, '民初國音的回顧與反思',『廈門大學學報』, 183 (2007), 44–50.</li>
     </ul>
