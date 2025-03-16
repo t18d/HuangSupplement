@@ -42,7 +42,7 @@ See further [On Diglossia](https://t18d.github.io/HuangSupplement/diglossia/) an
 The consequences of a failure to distinguish between **morphs** and **morphemes** are of two kinds:
 
 1. By using the term _morpheme_ when they really mean a _morph_, one can like Huang–Shi miss a whole phenomenon like [**orthographic alternation**](#orthographic-alternation).
-2. By not grasping the difference between **abstract units** and their physical **realisation**, one can fall prey to irrelevant concepts such as _êrh tzŭ tz'ŭ_ (e.g. Shên 2019) and _spondee_ which describe **orthography** and **prosody** respectively.
+2. By not grasping the difference between **abstract units** and their physical **realisation**, one can fall prey to irrelevant concepts such as _erh tzu tz'u_ and _shuang yin chieh tz'u_ which describe **orthography** and **pronunciation** respectively.
 
 ## 6 Adjectives and adverbs
 
