@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-16T08:09:13+00:00
+last_modified_at: 2025-03-16T12:46:01+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -285,6 +285,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 干貝|/|/|/|/|/|likely a native word; see [#19](https://github.com/t18d/HuangSupplement/issues/19#issuecomment-2606537981)
 功率|/|noun|1889|Duty of engine 汽機功率|Fryer『汽機中西名目表』17|
 構想|/|verb|c1616 (c1596)|此臣早夜之所拮据夙昔之所搆想者也|馮夢禎『快雪堂集·卷二十五·隆儒優士疏』(CADAL)|
+古文運動|/|noun|1927|我族之古文運動，非狹義之好古也。|『藝術界週刊』第十五期「雜記 (十四)」|
 果汁|/|noun|1887|Colocynth pulp 𠹭囉噺果汁|Fryer『西藥大成藥品中西名目表』17|
 海拔|/|noun|1901|此次爆發噴煙高出海拔一萬二千米|『清議報』八十六冊「支那現勢論」|
 海洋性氣候|/|NP|1902|歐羅巴⋯大抵有海洋性氣候|作新譯書局『世界地理』240|
@@ -391,6 +392,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 硬傷|(metaphorical)|noun|1928|袁世凱等，不過是個硬傷，忍痛用一次手術，還割得下來；若引用了那些下作小官僚，像微菌進血管，眞成不治之症了。|『民國日報』10月10日「祝政治建設的開始」|The literal sense dates back at least to s.xix med.
 |glaring error|noun|1948|單就我們所說的「硬傷」而論，在這號稱「修訂本」、「標準本」當中就還多得難以計數。|鄧恭三「揭發『國定錯誤』廢除『國定課本』」in『大公報』10月3日|Note the quotes; [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=硬傷)
 原罪|/|noun|c1636|特吾主。及聖母。無染原罪。|Dias『聖經直解·雜事目錄』51 (Jap. Sin. I-70)|
+-運動(1)|/|nominal bound root|1900|這運動兩字。不是講身體的運動。是講去運動別人。要他相信。|『紹興白話報』第九十六號「說運動」|here converted to verb; 運動(1) as a noun is obsolete
 蔗糖|/|noun|1874|說畢卽將瓶中葡萄酒倒入玻璃盞又加蔗糖少許|『瀛寰瑣記』20, 7|
 政體|/|noun|1834|南亞墨利加列國已良久驅逐西班呀國官員、自操其權、惟政體未尚定着。|『東西洋考每月統記傳』甲午年二月「新聞之撮要」|
 致哀|/|verb|c1531 (488)|公事畢即往致哀|沈約『宋書·何尚之傳』(07347)|
