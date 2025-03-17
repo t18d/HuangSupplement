@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-03-14T14:22:03+00:00
+last_modified_at: 2025-03-17T06:21:38+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -118,6 +118,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 畫|/|画 Ming|画 Ch'ing|畵 > 画 is late archaism
 迴 廻 回|/|/|/|
 會|会 Han|/|会 Ming|
+匯 彙|/|/|/|
 即|/|/|/|卽 in 廣韻 is archaism
 極|/|/|/|
 記|记 Han|/|记 Ch'ing|
