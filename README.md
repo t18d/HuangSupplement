@@ -84,7 +84,7 @@ last_modified_at: 2025-03-20T13:35:13+00:00
       </li>
       <li><strong>Source</strong>
         <ul>
-          <li><a href="https://t18d.github.io/HuangSupplement/dictionary/#evidence-dictionary"><strong>Dictionary evidence</strong></a> is treated as first class.</li>
+          <li><a href="https://t18d.github.io/HuangSupplement/dictionary/#evidence-dictionary"><strong>Dictionary evidence</strong></a> is treated as a primary rather than secondary source, and represents one single attestation instead of a statement about contemporary usage.</li>
           <li>When the earliest source for a lemma is written by a non-native speaker, a <strong>second quotation</strong> from the earliest native source is added if one does not exist in Huang.</li>
           <li>A <strong>plus sign</strong> ('+') following a source means the word is also attested in at least one other source dating from the same year.</li>
           <li>A <strong>question mark</strong> ('?') means the scholar who antedated the word didn't supply the source in their writings.</li>
