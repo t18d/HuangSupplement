@@ -41,6 +41,10 @@ last_modified_at: 2025-03-16T12:46:01+00:00
           <li>VP – verb phrase</li>
         </ul>
       </li>
+      <li><strong>Solidus</strong>
+        <ul>
+          <li>This database is designed to be consulted alongside Huang and <em>Han yü ta tz'u tien</em>. A <strong>solidus</strong> ('/') indicates that the infomation is the same as in (1) the previous entry, (2) Huang or (3) <em>Han yü ta tz'u tien</em>.</li>
+        </ul>
       <li><strong>Lemma</strong>
         <ul>
           <li>To facilitate cross-checking, the arrangement of lemmas is that of Mair et al. (2003) with the following exceptions:
@@ -57,7 +61,6 @@ last_modified_at: 2025-03-16T12:46:01+00:00
       </li>
       <li><strong>Sense</strong>
         <ul>
-          <li>A <strong>solidus</strong> ('/') signifies that a lemma only has one common meaning.</li>
           <li>Glosses serve to disambiguate and are set in <strong>roman type</strong>.</li>
           <li>Domain classification is set in <strong>italic type</strong>.</li>
         </ul>
@@ -67,7 +70,6 @@ last_modified_at: 2025-03-16T12:46:01+00:00
         <ul>
           <li>The first entry for a lemma represents the first known attestation. When a date is given, it is generally earlier than the earliest quotation in Huang except in the case of <strong>postdating</strong>.</li>
           <li>When the <strong>publication date</strong> and <strong>composition date</strong> of a source differ, the dating styles of the Middle English Dictionary and <a href="https://www.oed.com/discover/dating-middle-english-evidence-in-the-oed/">OED3</a> are adopted.</li>
-          <li>A <strong>solidus</strong> ('/') signifies that the lemma is not being antedated.</li>
           <li>When a source has been added from the documentation of <em>Han yü ta tz'u tien</em>, only the <strong>political period</strong> is available. Such fuzzy dating will gradually be replaced by more precise dates.</li>
         </ul>
       </li>
@@ -75,12 +77,6 @@ last_modified_at: 2025-03-16T12:46:01+00:00
         <ul>
           <li>To make full-text search possible, the <a href="https://t18d.github.io/HuangSupplement/dictionary/#ideograph"><strong>ideographs</strong></a> used are those contained in the character set of the system font on modern computers that are closest to a diplomatic transcription of the source.</li>
           <li>The <strong>typography</strong> of the source is reproduced to the extent that the resources of HTML allow.</li>
-          <li>A <strong>solidus</strong> ('/') is used when:
-            <ul>
-              <li>the quotation is already in Huang and only its dating is being revised; or</li>
-              <li>a source has been added from the documentation of <em>Han yü ta tz'u tien</em>.</li>
-            </ul>
-          </li>
           <li>A <strong>blank</strong> means the scholar who antedated the word didn't supply the evidence in their writings.</li>
           <li>A <strong>question mark</strong> ('?') means the word has not been found in the source cited by the scholar who antedated the word.</li>
           <li>For traditional <strong>critical symbols</strong>, see <a href="https://archive.org/details/textualcriticismandeditorialtechniquemartinwestl./">West (1973)</a>.</li>
@@ -126,8 +122,8 @@ last_modified_at: 2025-03-16T12:46:01+00:00
       <li>Huddleston, Rodney, and Geoffrey K. Pullum (eds), <em>The Cambridge Grammar of the English Language</em> (Cambridge, 2002).</li>
       <li>Kretschmer, Paul, <em>Sprachregeln für die Bildung und Betonung zoologischer und botanischer Namen</em> (Berlin, 1899).</li>
       <li>Kühner, Raphael, and Friedrich Blass, <em>Ausfürliche Grammatik der Griechischen Sprache: I. Elementar- und Formenlehre</em>, ii (Hanover, 1892).</li>
+      <li>Liu, Ch'uan-hung, and Hsiung Jun-chu, '試論古籍整理中他校的操作原則',『古籍整理研究學刊』, 3 (2018), 37–46.</li>
       <li>Mair, Victor H. et al. (eds), Han yü ta tz'u tien<em> tz'u mu yin hsü so yin</em> (Shanghai, 2003).</li>
-      <li>Shen, Kuo-wei, '『中日近代新詞詞源詞典』の編纂について',『或問』, 28 (2015), 225–42.</li>
       <li>Tai, Li-kang, '晚清的官話音系及其性質',『古漢語研究』, 117 (2017), 28–41.</li>
       <li>Yeh, Pao-k'uei, '民初國音的回顧與反思',『廈門大學學報』, 183 (2007), 44–50.</li>
     </ul>
