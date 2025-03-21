@@ -45,6 +45,7 @@ last_modified_at: 2025-03-20T14:19:59+00:00
         <ul>
           <li>This database is designed to be consulted alongside Huang and <em>Han yü ta tz'u tien</em>. A <strong>solidus</strong> ('/') indicates that the infomation is the same as in (1) the previous entry, (2) Huang or (3) <em>Han yü ta tz'u tien</em>.</li>
         </ul>
+      </li>
       <li><strong>Lemma</strong>
         <ul>
           <li>To facilitate cross-checking, the arrangement of lemmas is that of Mair et al. (2003) with the following exceptions:
