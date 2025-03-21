@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-21T23:45:35+00:00
+last_modified_at: 2025-03-21T23:54:30+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -393,10 +393,31 @@ X光線|/|/|1903|/|/|from Japanese: 1896 (Nikkoku); X光 is a [Chinese developme
 描寫(1)|depict|verb|Ming|/|/|the word's only current sense
 描寫語言學|/|NP|1950|咱們現在應該嚴格使用描寫語言學的方法來分析現代中國語的結構|羅常培『語言與文化』103|fossilised use of the obsolete [描寫(2)](https://t18d.github.io/HuangSupplement/obsolete/#:~:text=描寫(2)) & no longer an accurate translation of 'descriptive linguistics'; cf. s.v. 描述語言學
 摩擦(1)|/|verb|1851|琥珀用燥羊毛摩擦一辺、此摩擦処便能拾芥、就是電気発出、似磁石噏鉄一般。|Macgowan『博物通書』第一章|
+納税人|/|/|1959|/|/|from Japanese: 1897 (Nikkoku)
 奶糖|/|noun|1889|竊取主人奶糖|『申報』5月24日「英界公堂瑣案」|
+耐火|/|/|1873/|/|/|from Japanese: 1867 (NDL)
+耐熱|/|/|1892/|/|/|from Japanese: 1877 (Yomidasu)
+耐酸|/|/|1965/|/|/|from Japanese: 1867 (NDL)
+耐用|/|/|1873/|/|/|from Japanese: 1873 (NDL)
+男女平等|/|/|1903/|/|/|from Japanese: 1880 (NDL)
+男生|/|/|1903/|/|/|from Japanese: 1873 (NDL)
+男聲|/|/|1920/|/|/|from Japanese 男声: 1873 (NDL)
+男性|/|/|1902/|/|/|from Japanese: 1870 (NDL)
+南北戦争|/|/|1900/|/|/|from Japanese: 1869 (NDL)
+南回帰線|/|/|1903/|/|/|from Japanese: 1874 (NDL)
+南歐|/|/|1899/|/|/|from Japanese 南欧: 1872 (NDL)
+南温帶|/|/|1903/|/|/|from Japanese 南温帯: 1873 (NDL)
 難產|/|noun|1815|坼副難產也|Morrison, _A Dictionary of the Chinese Language_, i/i, 494|
+嚢腫|/|/|1919/|/|/|from Japanese: 1871 (NDL)
+蟯蟲|/|/|1909/|/|/|from Japanese 蟯虫: 1566頃 (Nikkoku)
+腦充血|/|/|1909/|/|/|from Japanese 脳充血: 1873 (NDL)
 腦海|/|noun|1904|把一切事情在腦海掃除乾淨|『美人妝』29|'An up-to-date man would no longer aspire to have it said of him, 滿肚子裡有學問.' (Mateer)
 |/|/|1905|開設國會之思想。咸深印入國民腦海之中。|『津報』12月31日「論國民不可無政治思想 (續前稿)」|
+腦力|/|/|1899/|/|/|from Japanese 脳力: 1872 (NDL)
+腦膜炎|/|/|1906/|/|/|from Japanese 脳膜炎: 1868 (NDL)
+腦貧血|/|/|1915/|/|/|from Japanese 脳貧血: 1873 (NDL)
+腦橋|/|/|1898/|/|/|from Japanese 脳橋: 1873 (NDL)
+腦神經|/|/|1903/|/|/|from Japanese 脳神経: 1822 (Hathi)
 內在|/|adjective|1916|Immanent … 內在|Hemeling『官話』s.v. Immanent|
 泥土|/|noun|1858|衝激泥土成新地|W. Muirhead in『六合叢談』1/13, 8|one word instead of two
 凝固|/|verb|1847|to harden, 凝固|Medhurst, _English and Chinese Dictionary_, s.v. To condense|
@@ -486,3 +507,5 @@ X光線|/|/|1903|/|/|from Japanese: 1896 (Nikkoku); X光 is a [Chinese developme
 祝福|(intransitive)|verb|1538 (1370)|抑此乃祝福之詩非祭祀之詩|『五經蠡測·卷之四』13 (善000735)|
 |(transitive)|/|1837|故皇上帝祝福是日、以爲聖日也。|『東西洋考每月統記傳』丁酉年六月「以色列遊野」|
 資金(2)|money for a particular purpose|noun|1901|此時.乙不有滙資金.或不爲負擔債務.而拒絕清償.則買受者.對前者請求償還|『湖北商務報』90, 18|from Japanese: 1874 (Nikkoku); 資金(1) should probably be subsumed
+
+
