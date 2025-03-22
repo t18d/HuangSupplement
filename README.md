@@ -30,17 +30,22 @@ last_modified_at: 2025-03-22T06:39:23+00:00
       <li><strong>Abbreviations</strong>
         <ul>
           <li>Adv – adverb</li>
+          <li>Asahi – Asahi Shimbun Cross-Search</li>
           <li>aYEAR – ante YEAR</li>
           <li>CHJ – 日本語歴史コーパス</li>
           <li>cYEAR – circa YEAR</li>
+          <li>Hathi – HathiTrust</li>
+          <li>Koten – 古典ライブラリー</li>
           <li>M1 – 官話<sub>1</sub> in Tai (2017)</li>
           <li>M2 – 官話<sub>2</sub> in Tai (2017)</li>
           <li>M3 – 官話<sub>3</sub> in Tai (2017)</li>
+          <li>NDL – 国立国会図書館デジタルコレクション</li>
           <li>NP – noun phrase</li>
           <li>Nikkoku – 日本国語大辞典 (2nd edn)</li>
           <li>Prep – preposition</li>
           <li>V – verb</li>
           <li>VP – verb phrase</li>
+          <li>Yomidasu – Yomiuri Database Service</li>
         </ul>
       </li>
       <li><strong>Solidus</strong>
