@@ -4,7 +4,7 @@ permalink: obsolete/
 seo:
   type: Dataset
   name: "Appendix: Obsolete Words"
-last_modified_at: 2025-03-22T13:39:37+00:00
+last_modified_at: 2025-03-22T13:43:45+00:00
 description: Antedatings, errata and addenda to obsolete words in Huang He-ch'ing's lexicon
 ---
 # Appendix: Obsolete Words
@@ -17,7 +17,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 愛好家|/|/|1930|/|/|from Japanese: 1877 (Yomidasu)
 X線|/|/|1906|/|/|from Japanese: 1896 (NDL)
 愛他|/|/|1899|/|/|from Japanese: 1878 (NDL)
-安息年|/|/|1915|/|/|from Japanese: 1885 (NDL); Kana reading is incorrect -- should be あんそくねん
+安息年|/|/|1915|/|/|from Japanese: 1885 (NDL)
 按手|/|/|1915|/|/|from Japanese: 1880 (Nikkoku)
 暗黙|/|/|1906|/|/|from Japanese: 1886 (Nikkoku)
 奥付|/|/|1915|/|/|from Japanese: c1893 (HathiTrust)
