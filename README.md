@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-22T06:12:11+00:00
+last_modified_at: 2025-03-22T06:15:33+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -241,7 +241,7 @@ X光線|/|/|1903|/|/|from Japanese: 1896 (Nikkoku); X光 is a [Chinese developme
 扳手(2)|/|noun|1893|其彈子均由後膛旁孔納入，膛下設木把手，用右手把住扳手 …|鄭觀應『盛世危言‧火器』|
 班長(1)|/|noun|1902|續錄京師大學堂仕學院師範館學生班長副班長職務條規七條|『大公報』12月18日「時事要聞」|
 班長(2)|/|noun|1929|/|/|from Japanese: 1869 (NDL)
-板書(1)|/|/|1908|/|/|from Japanese: 1889 (NLD); Nikkoku gives alternate readings first いたがき and はんしょ; NLD source gives no reading
+板書(1)|/|/|1908|/|/|from Japanese: 1889 (NDL)
 版畫|/|noun|1908|An impression from an engraved plate, block of wood, or other material, 刻版印刷物, 版畫, 印畫|顏惠慶『英華大辭典』s.v. Engraving|from Japanese: 1879 (Yomidasu)
 版權|/|noun|1895 (1887)|/|黃遵憲『日本國志·食貨志二』|
 版式|/|noun|1932|/|/|from Japanese: 1813 (Nikkoku)
