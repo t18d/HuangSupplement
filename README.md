@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-22T07:13:51+00:00
+last_modified_at: 2025-03-22T10:04:04+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -226,7 +226,7 @@ X光線|/|/|1903|/|/|from Japanese: 1896 (Nikkoku); X光 is a [Chinese developme
 |(as term of abuse)|/|1917|(白痴投稿)|『日知報』4月12日「白牡丹之打櫻桃」|
 |(with -式)|/|1923|那些白痴式的忠臣以爲敷衍學生，總得㩀學生爲己有。|『民國日報』11月21日「教育部老早該撤廢」|
 白粉(2)|/|noun|1857|此時草木暢茂、成煤層、其上為新紅沙石、黃灰石、石膏、石鹽、蛋粉石、白粉、火石|W. Muirhead in『六合叢談』1/2, 2|
-白鯨|/|/|1931|/|/|from Japanese: 1877
+白鯨|/|/|1931|/|/|from Japanese: 1877 (NDL)
 白金|/|noun|1848|Platina, 白金|Medhurst, _English and Chinese Dictionary_, s.v. Platina|
 白開水|/|noun|c1813 (a1811)|右二味⋯每服一二錢。白開水送下。|吳瑭『溫病條辨·卷三下焦篇』55|
 白内障|/|noun|1906|白內障(白翳)者。因于水晶體之溷濁。|『中學生理衛生教科書』100|from Japanese: 1867 (NDL); 白色內障 is attested in Chinese by 1644
