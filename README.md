@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-22T06:23:42+00:00
+last_modified_at: 2025-03-22T06:39:23+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -270,7 +270,7 @@ X光線|/|/|1903|/|/|from Japanese: 1896 (Nikkoku); X光 is a [Chinese developme
 綁票|/|verb|1899|名爲綁票又名請財神|『申報』9月15日|
 保留(1)|/|verb|1903|締結撤兵條約。其始或以保留權利許還清國為名。|『國民同盟會始末』55|
 保險公司|/|NP|1868|insurance company, 保險會 … 保險公司|Lobscheid『英華字典』s.v. Insurance|
-保持|/|/|1889|/|/|from Japanese: 1253 (Nikkoku)
+保持|/|/|1889|/|/|from Japanese: 1881 (Nikkoku)
 保管|/|/|1899|/|/|from Japanese: 1870 (NDL)
 保證書|/|noun|1895 (1887)|又住在裁判所管內饒有貲產者亦可代納應充金額之保證書|黃遵憲『日本國志·刑法志二』|
 報告(1)|/|verb|1895 (1887)|若更命留禁要將其事由報告裁判長|黃遵憲『日本國志·刑法志一』|
