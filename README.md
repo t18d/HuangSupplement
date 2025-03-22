@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-21T23:54:30+00:00
+last_modified_at: 2025-03-22T05:35:14+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -407,7 +407,8 @@ X光線|/|/|1903|/|/|from Japanese: 1896 (Nikkoku); X光 is a [Chinese developme
 南回帰線|/|/|1903/|/|/|from Japanese: 1874 (NDL)
 南歐|/|/|1899/|/|/|from Japanese 南欧: 1872 (NDL)
 南温帶|/|/|1903/|/|/|from Japanese 南温帯: 1873 (NDL)
-難產|/|noun|1815|坼副難產也|Morrison, _A Dictionary of the Chinese Language_, i/i, 494|
+難產(1)|(literally)|verb|c1620 (a589)|芣苢⋯作茹大滑其子治婦人難產|『毛詩草木鳥獸蟲魚疏·卷之上·采采芣苢』1|
+難產(2)|(metaphorically)|verb|1911|「難產之新內閣」|『盛京時報』3月15日|
 嚢腫|/|/|1919/|/|/|from Japanese: 1871 (NDL)
 蟯蟲|/|/|1909/|/|/|from Japanese 蟯虫: 1566頃 (Nikkoku)
 腦充血|/|/|1909/|/|/|from Japanese 脳充血: 1873 (NDL)
