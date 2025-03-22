@@ -4,7 +4,7 @@ permalink: obsolete/
 seo:
   type: Dataset
   name: "Appendix: Obsolete Words"
-last_modified_at: 2025-02-14T09:14:18+00:00
+last_modified_at: 2025-03-22T05:30:16+00:00
 description: Antedatings, errata and addenda to obsolete words in Huang He-ch'ing's lexicon
 ---
 # Appendix: Obsolete Words
@@ -13,7 +13,31 @@ description: Antedatings, errata and addenda to obsolete words in Huang He-ch'in
 
 Lemma|Sense|Word Class|Year|Quotation|Source|Note
 ---|---|---|---|---|---|---
+愛國心|/|/|1899|/|/|from Japanese: 愛国心　1874 (Yomidasu)
+愛好家|/|/|1930|/|/|from Japanese: 1877 (Yomidasu)
+X線|/|/|1906|/|/|from Japanese: 1896 (NDL)
+愛他|/|/|1899|/|/|from Japanese: 1878 (NDL)
+安息年|/|/|1915|/|/|from Japanese: 1885 (NDL); Kana reading is incorrect -- should be あんそくねん
+按手|/|/|1915|/|/|from Japanese: 1880 (Nikkoku)
+暗黙|/|/|1906|/|/|from Japanese: 1886 (Nikkoku)
+奥付|/|/|1915|/|/|from Japanese: c1893 (HathiTrust)
+百足蟲|centipede|noun|a1368 (c610)|蜈蚣螫候 此則百足蟲也|『諸病源候總論·卷三十六雜毒病諸候』(00878)|
 標準語|/|noun|1911|(二) 話法之統一 (甲) 以京話爲標準語|『申報』8月17日「統一國語方法案」|
 泊船|/|verb|1857|令毋許泊船瓦巴勒索、慮此船一泊彼處、水手逃亡、船貨遺失|『六合叢談』1/8, 9|
+哺乳瓶|/|/|1915/|/|/|from Japanese: 1884 (NDL)
+粉乳|/|/|1936|/|/|from Japanese: 1877 (NDL)
 乾濕計|/|/|/|/|/|from 乾湿計 (かんしつ‐けい)
 描寫(2)|describe|verb|/|/|/|superseded by [描述](https://t18d.github.io/HuangSupplement/#:~:text=描述)
+納入金|/|/|1907|/|/|from Japanese: 1880 (Yomidasu)
+捺印|/|/|1906|/|/|from Japanese:794(Nikkoku)
+耐壓|/|/|1947/|/|/|from Japanese 耐圧: 1886 (Hathi)
+耐震|/|/|1903/|/|/|from Japanese: a1891 (NDL/Yomidasu)
+男坂|/|/|1931/|/|/|from Japanese: 1717 (Nikkoku)
+男波|/|/|1931/|/|/|from Japanese: 1140頃 (Nikkoku)
+男系|/|/|1902/|/|/|from Japanese: 1873 (NDL)
+南米|/|/|1899/|/|/|from Japanese: 1870 (NDL)
+難船|/|/|1905/|/|/|from Japanese: 1782 (Nikkoku)
+嚢蟲|/|/|1922/|/|/|from Japanese 嚢虫: 1870 (NDL)
+腦病|/|/|1903/|/|/|from Japanese 脳病: 1869 (NDL)
+腦脊髓|/|/|1909/|/|/|from Japanese 脳脊髄: 1870 (NDL)
+頭腦勞動|/|/|1929/|/|/|from Japanese 頭脳労働: 1902 (NDL)
