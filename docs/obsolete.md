@@ -4,7 +4,7 @@ permalink: obsolete/
 seo:
   type: Dataset
   name: "Appendix: Obsolete Words"
-last_modified_at: 2025-03-22T13:43:45+00:00
+last_modified_at: 2025-03-22T14:10:40+00:00
 description: Antedatings, errata and addenda to obsolete words in Huang He-ch'ing's lexicon
 ---
 # Appendix: Obsolete Words
@@ -29,11 +29,11 @@ X線|/|/|1906|/|/|from Japanese: 1896 (NDL)
 乾濕計|/|/|/|/|/|from 乾湿計 (かんしつ‐けい)
 描寫(2)|describe|verb|/|/|/|superseded by [描述](https://t18d.github.io/HuangSupplement/#:~:text=描述)
 納入金|/|/|1907|/|/|from Japanese: 1880 (Yomidasu)
-捺印|/|/|1906|/|/|from Japanese:794(Nikkoku)
+捺印|/|/|1906|/|/|from Japanese: 794 (Nikkoku)
 耐壓|/|/|1947|/|/|from Japanese 耐圧: 1886 (Hathi)
 耐震|/|/|1903|/|/|from Japanese: a1891 (NDL/Yomidasu)
 男坂|/|/|1931|/|/|from Japanese: 1717 (Nikkoku)
-男波|/|/|1931|/|/|from Japanese: 1140頃 (Nikkoku)
+男波|/|/|1931|/|/|from Japanese: c1140 (Nikkoku)
 男系|/|/|1902|/|/|from Japanese: 1873 (NDL)
 南米|/|/|1899|/|/|from Japanese: 1870 (NDL)
 難船|/|/|1905|/|/|from Japanese: 1782 (Nikkoku)
