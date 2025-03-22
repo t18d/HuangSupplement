@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-22T06:09:06+00:00
+last_modified_at: 2025-03-22T06:12:11+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -237,7 +237,7 @@ X光線|/|/|1903|/|/|from Japanese: 1896 (Nikkoku); X光 is a [Chinese developme
 敗血症|/|/|1909|/|/|from Japanese: 1876 (NDL)
 擺(1)|/|nominal bound root|1868|of o'clock, 擺|Lobscheid『英華字典』s.v. Pendulum|
 拜金主義|/|noun|1907|實不外拜金主義也|『申報』4月8日「不允唐侍郞辭職辦路」|
-斑馬|/|noun|1868|Zebra 斑馬|鄺其照『字典集成』s.v. Zebra|from Japanese: 斑驢 1876 (Nikkoku); Japanese reading is incorrect -- correct reading is しまうま
+斑馬|/|noun|1868|Zebra 斑馬|鄺其照『字典集成』s.v. Zebra|
 扳手(2)|/|noun|1893|其彈子均由後膛旁孔納入，膛下設木把手，用右手把住扳手 …|鄭觀應『盛世危言‧火器』|
 班長(1)|/|noun|1902|續錄京師大學堂仕學院師範館學生班長副班長職務條規七條|『大公報』12月18日「時事要聞」|
 班長(2)|/|noun|1929|/|/|from Japanese: 1869 (NDL)
