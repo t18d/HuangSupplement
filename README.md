@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-23T11:56:43+00:00
+last_modified_at: 2025-03-23T12:05:00+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -220,7 +220,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 罷免權|/|/|1929|/|/|from Japanese: c1886 (NDL)
 霸權|/|/|1896|/|/|from Japanese: 1870 (NDL)
 白癡(1)|unintelligent|adjective|c1200 (c282)|不慧蓋丗所謂白癡|杜預 in『春秋正義·卷第十九成公』64 (7283)|
-|/|/|1909|觀此而猶不覺悟者。必白痴之也。|『神州日報』3月23日「美洲通信」|
+|/|/|1909|觀此而猶不覺悟者。必白痴之人也。|『神州日報』3月23日「美洲通信」|
 白癡(2)|idiot|noun|1904|汝之家產不久將復歸於白痴之手。汝尚不悟耶。|冷血『偵探談二』90|also in Japanese 白痴: 1886 (NDL)
 |(as term of abuse)|/|1917|(白痴投稿)|『日知報』4月12日「白牡丹之打櫻桃」|
 |(with -式)|/|1923|那些白痴式的忠臣以爲敷衍學生，總得㩀學生爲己有。|『民國日報』11月21日「教育部老早該撤廢」|
