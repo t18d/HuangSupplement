@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-03-18T05:09:52+00:00
+last_modified_at: 2025-03-23T08:09:52+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -103,6 +103,7 @@ K'ai|Ts'ao|Hsing|Print|Note
 鍍 Sung|/|/|/|attested in 廣韻
 發|发 Chin|/|/|
 髮|/|/|/|
+泛 汎|/|/|/|
 飯|/|/|/|飰 Sung print
 費|费 Han|/|费 Ch'ing|
 廢|废 T'ang|/|/|
