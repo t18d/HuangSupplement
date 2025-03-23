@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-22T13:58:35+00:00
+last_modified_at: 2025-03-23T00:12:57+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -203,7 +203,7 @@ X光線|/|/|1903|/|/|from Japanese: 1896 (Nikkoku); X光 is a [Chinese developme
 安樂椅子|/|noun|1912 (1910)|at the foot of your easy chair … 於安樂椅子之下|『英文書翰鑰』208|preface signed in Tokyo
 安全剃刀|/|/|1930|/|/|from Japanese: 1886 (Nikkoku)
 安全係數|/|/|1958|/|/|from Japanese: 1895 (NDL)
-暗流|/|/|1894|/|/|from Japanese: 1894 (Asahi)
+暗流|/|/|1903|/|/|from Japanese: 1894 (Asahi)
 暗生植物|/|NP|1887|Cryptogam{e}æ 暗生植物|Fryer『西藥大成藥品中西名目表』18|dog-Latin: Kretschmer §31
 暗示|/|/|1903|/|/|from Japanese: 1879 (Yomidasu)
 暗箱|/|/|1901|/|/|from Japanese: c1868 (Nikkoku)
@@ -219,7 +219,7 @@ X光線|/|/|1903|/|/|from Japanese: 1896 (Nikkoku); X光 is a [Chinese developme
 罷免|/|verb|T'ang|/|/|What changes is the political process (monarchy > dictatorship > democracy), not the semantics
 罷免權|/|/|1929|/|/|from Japanese: c1886 (NDL)
 霸權|/|/|1896|/|/|from Japanese: 1870 (NDL)
-白亞紀|/|/|1892|/|/|from Japanese: 1892 (NDL)
+白堊紀|/|/|1903|/|/|from Japanese: 1892 (NDL)
 白癡(1)|unintelligent|adjective|c1200 (c282)|不慧蓋丗所謂白癡|杜預 in『春秋正義·卷第十九成公』64 (7283)|
 |/|/|1909|觀此而猶不覺悟者。必白痴之也。|『神州日報』3月23日「美洲通信」|
 白癡(2)|idiot|noun|1904|汝之家產不久將復歸於白痴之手。汝尚不悟耶。|冷血『偵探談二』90|also in Japanese 白痴: 1886 (NDL)
