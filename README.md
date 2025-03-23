@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-23T00:30:57+00:00
+last_modified_at: 2025-03-23T08:05:43+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -294,8 +294,9 @@ X光線|/|/|1903|/|/|from Japanese: 1896 (Nikkoku); X光 is a [Chinese developme
 本義|/|noun|1868|the proper sense of a word, 本意 … 本義|Lobscheid『英華字典』s.v. Proper|
 本質|/|noun|1672|夫風之本質乃地所発乾熱之気有多端可証一試|Verbiest『坤輿圖説』|
 鼻音|/|noun|1869|Twang, a, … or nasal sound, 鼻音 … 鼻聲|Lobscheid『英華字典』s.v. Twang|
-比重(1)|/|noun|1867|specific gravity, 比重|Lobscheid『英華字典』s.v. Gravity|
 筆名|/|noun|1908|A false name, 偽名, 冒名, 假名, 別名, 筆名.|顏惠慶『英華大辭典』s.v. Pseudonym|名 is free only when the sense is 'given name'
+筆者|/|noun|1927|夫此種評論⋯固應力求其廣汎、惟因筆者之便利、順序等頗有不同.|『順天時報』11月29日「北京金融界之概觀」|
+比重(1)|/|noun|1867|specific gravity, 比重|Lobscheid『英華字典』s.v. Gravity|
 必然|/|adverb|1703|Forçosam<sup>te</sup> piĕ̇ tińg. piĕ̇ kińg. piĕ̇ jên.|Varo, _Arte de la lengua mandarina_, 65|
 標本|/|noun|1900|「製介類標本法」|『農學報』九十八|
 標記|/|noun|1858|朔望上下弦表、歷年測量寒熱表、行進江海標記、潮汐表、中外寄書表|『六合叢談』2/1, 15|earliest use as noun
