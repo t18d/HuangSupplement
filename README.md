@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-23T00:12:57+00:00
+last_modified_at: 2025-03-23T00:19:45+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -405,7 +405,7 @@ X光線|/|/|1903|/|/|from Japanese: 1896 (Nikkoku); X光 is a [Chinese developme
 耐火|/|/|1873|/|/|from Japanese: 1867 (NDL)
 耐熱|/|/|1892|/|/|from Japanese: 1877 (Yomidasu)
 耐酸|/|/|1965|/|/|from Japanese: 1867 (NDL)
-耐用|/|/|1873|/|/|from Japanese: 1873 (NDL)
+耐用|/|/|1873|/|/|also in Japanese: 1873 (NDL)
 男女平等|/|/|1903|/|/|from Japanese: 1880 (NDL)
 男生|/|/|1903|/|/|from Japanese: 1873 (NDL)
 男聲|/|/|1920|/|/|from Japanese 男声: 1873 (NDL)
