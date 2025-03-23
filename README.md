@@ -132,6 +132,7 @@ last_modified_at: 2025-03-23T12:05:00+00:00
       <li>Kühner, Raphael, and Friedrich Blass, <em>Ausfürliche Grammatik der Griechischen Sprache: I. Elementar- und Formenlehre</em>, ii (Hanover, 1892).</li>
       <li>Liu, Ch'uan-hung, and Hsiung Jun-chu, '試論古籍整理中他校的操作原則',『古籍整理研究學刊』, 3 (2018), 37–46.</li>
       <li>Mair, Victor H. et al. (eds), Han yü ta tz'u tien<em> tz'u mu yin hsü so yin</em> (Shanghai, 2003).</li>
+      <li>Meng, Chao-lien,『之乎者也非口語論』(Nanking, 2017).</li>
       <li>Tai, Li-kang, '晚清的官話音系及其性質',『古漢語研究』, 117 (2017), 28–41.</li>
       <li>Yeh, Pao-k'uei, '民初國音的回顧與反思',『廈門大學學報』, 183 (2007), 44–50.</li>
     </ul>
