@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-23T11:24:20+00:00
+last_modified_at: 2025-03-23T11:35:30+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -196,7 +196,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 愛人(2)|/|noun|1908|One in love, 愛人, 相好, 情人|顏惠慶『英華大辭典』s.v. Lover|from Japanese: 1862 (Nikkoku); cf. 雙解英和大辭典 s.v.
 |/|/|1909|原來我方纔腦中的幻象。却變了眼前的眞境。我那愛人來了。我那愛人來了。|『民吁日報』十月念三號「古井波 (續)」|
 安樂椅|/|noun|1905|安樂椅鐵床。安置得齊整。|『閨秀救國小說 女媧石』乙卷, 8|
-安樂椅子|/|noun|1912 (1910)|at the foot of your easy chair … 於安樂椅子之下|『英文書翰鑰』208|preface signed in Tokyo
+安樂椅子|/|noun|1912 (1910)|at the foot of your easy chair … 於安樂椅子之下|『英文書翰鑰』208|
 安全島|/|/|1930|/|/|from Japanese: 1918 (Yomidasu)
 安全燈|/|/|1903|/|/|from Japanese: 1872 (NDL)
 安全地帶|/|/|1930|/|/|from Japanese: 1890 (NDL)
@@ -229,7 +229,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 白金|/|noun|1848|Platina, 白金|Medhurst, _English and Chinese Dictionary_, s.v. Platina|
 白鯨|/|/|1931|/|/|from Japanese: 1877 (NDL)
 白開水|/|noun|c1813 (a1811)|右二味⋯每服一二錢。白開水送下。|吳瑭『溫病條辨·卷三下焦篇』55|
-白内障|/|noun|1906|白內障(白翳)者。因于水晶體之溷濁。|『中學生理衛生教科書』100|from Japanese: 1867 (NDL); 白色內障 is attested in Chinese by 1644
+白内障|/|noun|1906|白內障(白翳)者。因于水晶體之溷濁。|『中學生理衛生教科書』100|from Japanese: 1867 (NDL); 白色內障 attested in Chinese by 1644
 白熱(1)|/|adjective|1867|white heat, 白熱|Lobscheid『英華字典』s.v. Heat|
 白色恐怖|/|/|1928|/|/|from Japanese: 1923 (NDL)
 白血病|/|/|1907|/|/|from Japanese: 1875 (NDL)
@@ -491,7 +491,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 天主教|/|noun|a1588|君尊天主教 予學舉人文|Ruggieri, _Chinese Poems_, 17.1 (Jap. Sin. II-159)|
 外徑|/|noun|1874|外徑三寸|『申報』11月28日「怪疾二則」|
 偉大(1)|/|adjective|1899|阿君爲此一段演說。神氣甚壯。抱負偉大。|『清議報』二十四「非律賓獨立一周年」|also in Japanese: 1872 (NDL)
-西學東漸|/|idiom|1903|歐亞大通西學東漸|「泰西學案序」|signed in Tokyo; from Japanese: 1888 (CHJ)
+西學東漸|/|idiom|1903|歐亞大通西學東漸|「泰西學案序」|from Japanese: 1888 (CHJ)
 峽谷|/|noun|1902|峽谷如壁地勢隆起|『申報』7月15日「詳紀張家口鐵路里程」+|
 現代|/|noun|1875|recent ages 昭代, 現代.|鄺其照『字典集成』s.v. Recent|also in Japanese: 1894 (CHJ)
 -性(2)|/|nominal bound root|1664|中通曰、水流下而趨中、有剛火性也、火炎上而旋昇、有柔水性也。|方以智『物理小識』|first occurrence in three-morpheme words
