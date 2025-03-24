@@ -6028,8 +6028,15 @@ pre {
     }
 }
 
+@font-face {
+      font-family: 'FSung';
+      src: url('../FSung.woff2') format('woff2');
+      font-weight: normal;
+      font-style: normal;
+    }
+
 .markdown-body {
-    font-family: Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: Arial, FSung, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     font-size: 16px;
     line-height: 1.5;
     word-wrap:break-word
@@ -6119,7 +6126,8 @@ pre {
     margin-top: 24px;
     margin-bottom: 16px;
     font-weight: 600;
-    line-height:1.25
+    line-height:1.25;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 .markdown-body h1 .octicon-link, .markdown-body h2 .octicon-link, .markdown-body h3 .octicon-link, .markdown-body h4 .octicon-link, .markdown-body h5 .octicon-link, .markdown-body h6 .octicon-link {

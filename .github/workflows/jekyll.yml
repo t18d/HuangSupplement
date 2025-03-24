@@ -14,6 +14,7 @@ on:
       - '**.md'
       - '**.css'
       - '**.webp'
+      - '**.woff2'
       - '*.xml'
       - '**.html'
       - .github/workflows/jekyll.yml
@@ -60,6 +61,7 @@ jobs:
             assets/css/
             assets/js/
             assets/webp/
+            assets/font/
       - uses: dorny/paths-filter@v3
         id: filter
         with:
@@ -106,6 +108,23 @@ jobs:
           add_suffix: false
           exclusions: |-
             assets/js/
+      - uses: actions/setup-node@v4
+        with:
+          cache: 'npm'
+          cache-dependency-path: 'LICENSE'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: 'pip' # caching pip dependencies
+      - run: pip install -r requirements.txt
+      # Runs a set of commands using the runners shell
+      - name: Run glyphhanger
+        run: |
+          sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0
+          npx glyphhanger ./_site/index.html --formats=woff2 --subset=assets/font/*.ttf
+          fonttools merge assets/font/*subset*
+          npx glyphhanger --subset=merged.ttf --formats=woff2
+          cp merged-subset.woff2 _site/assets/FSung.woff2
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
@@ -127,6 +146,7 @@ jobs:
             assets/css/
             assets/js/
             assets/webp/
+            assets/font/
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -148,6 +168,23 @@ jobs:
           add_suffix: false
           exclusions: |-
             assets/js/
+      - uses: actions/setup-node@v4
+        with:
+          cache: 'npm'
+          cache-dependency-path: 'LICENSE'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: 'pip' # caching pip dependencies
+      - run: pip install -r requirements.txt
+      # Runs a set of commands using the runners shell
+      - name: Run glyphhanger
+        run: |
+          sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0
+          npx glyphhanger ./_site/index.html --formats=woff2 --subset=assets/font/*.ttf
+          fonttools merge assets/font/*subset*
+          npx glyphhanger --subset=merged.ttf --formats=woff2
+          cp merged-subset.woff2 _site/assets/FSung.woff2
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
