@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-23T12:18:37+00:00
+last_modified_at: 2025-03-24T12:00:18+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -200,7 +200,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 安樂椅子|/|noun|1912 (1910)|at the foot of your easy chair … 於安樂椅子之下|『英文書翰鑰』208|from Japanese: 1881 (NDL)
 安全島|/|/|1930|/|/|from Japanese: 1918 (Yomidasu)
 安全燈|/|/|1903|/|/|from Japanese: 1872 (NDL)
-安全地帶|/|/|1930|/|/|from Japanese: 1890 (NDL)
+安全地帶|/|/|1930|/|/|from Japanese 安全地𭘧: 1890 (NDL)
 安全第一|/|/|1930|/|/|from Japanese: 1911 (Asahi)
 安全剃刀|/|/|1930|/|/|from Japanese: 1886 (Nikkoku)
 安全係數|/|/|1958|/|/|from Japanese: 1895 (NDL)
