@@ -6030,7 +6030,7 @@ pre {
 
 @font-face {
       font-family: 'FSung'; /* Name your font family */
-      src: url('../assets/FSung.woff2') format('woff2'), /* Path to your font file */
+      src: url('../FSung.woff2') format('woff2'), /* Path to your font file */
            /* url('../assets/fonts/myfont.woff') format('woff');  Fallback format */
       font-weight: normal; /* Or bold, etc. */
       font-style: normal; /* Or italic, etc. */
