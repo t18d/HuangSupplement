@@ -6028,8 +6028,16 @@ pre {
     }
 }
 
+@font-face {
+      font-family: 'FSung'; /* Name your font family */
+      src: url('../assets/FSung.woff2') format('woff2'), /* Path to your font file */
+           /* url('../assets/fonts/myfont.woff') format('woff');  Fallback format */
+      font-weight: normal; /* Or bold, etc. */
+      font-style: normal; /* Or italic, etc. */
+    }
+
 .markdown-body {
-    font-family: Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: FSung, Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     font-size: 16px;
     line-height: 1.5;
     word-wrap:break-word
