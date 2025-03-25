@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-25T03:20:20+00:00
+last_modified_at: 2025-03-25T09:56:03+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -216,6 +216,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 八重唱|/|noun|1930|/|/|from Japanese: 1906 (NDL)
 八重奏|/|noun|1930|/|/|from Japanese: 1918 (NDL)
 八分音符|/|/|1920|/|/|from Japanese: 1883 (NDL)
+巴士|/|noun|1931|巴士與電車在本港同走一線|『中和日報』2月28日「電車公司年會情形」|
 罷工(2)|/|verb|1819|罷 … 工 … in the ordinary sense, to strike work for a rise of wages, as is often done by the Canton weavers|Morrison, _A Dictionary of the Chinese Language_, ii/i, s.v. 罷|
 罷免|/|verb|T'ang|/|/|What changes is the political process (monarchy > dictatorship > democracy), not the semantics
 罷免權|/|/|1929|/|/|from Japanese: c1886 (NDL)
@@ -331,6 +332,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 菜單|/|noun|1844|bill of fare, 菜單|Williams『英華韵府歷階』s.v. Tavern|
 草書|/|noun|Han|睦善草書臨病明帝驛馬令作草書尺牘十首焉|劉珍『東觀漢記·卷七列傳二·北海敬王睦』|
 草原|/|noun|1902|地多草原。故牧<畜>之業最盛。|作新譯書局『世界地理』292|
+炒魷魚|/|noun|1943|若果一件案都未辦過。叫造飯桶。難免炒魷魚之禍者也。|『大衆報 (澳門)』7月14日「廣東偵緝胆」|
 塵拂|/|noun|1912|尾端生有長毛。如塵拂。|杜亞泉–杜就田『新理科教授法二』12|likely from 塵払 (ちり‐はらい); [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=塵拂,-noun)
 秤桿|/|noun|1875|不料中有李秤杆范肉架者竊以爲必係鄕裏來者可以欺侮以顯跋扈之能|『申報』1月9日「記李秤杆等攔毆馮君事」|in nickname
 赤字|/|noun|1931|日本歳入預定過大 赤字問題引起各方非難|『大公報』天津版1931年4月4日4版|cf. '「赤字」二字，是我抄的一個日本新應用的名詞' (『新社會』1931)
