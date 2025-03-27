@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-27T01:00:55+00:00
+last_modified_at: 2025-03-27T07:30:19+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -370,6 +370,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 分詞|/|noun|1904 (1903)|與“︁Be”︁合作Progressive時所附有ing之形曰現在分詞 (Present Pär'ti çi ple)|『正則英文教科書』ii, 85+|
 分析|/|noun|1899|q.v. 定量分析, 定性分析|/|
 分析|analyse|verb|1884|然律文雖簡下字極有權衡逐條分析皆以⋯|『申報』2月29日「論捉賭」|as one verb instead of two
+復刻本|/|noun|c1807 (a1799)|近秦太史恩復刻本題爲梁陶宏景注|孫志祖『讀書脞錄·卷四·鬼谷子注』2 (01932)|cf. 覆刻本
+覆刻本|/|noun|1809|閩中覆刻本閒有譌舛|陳春「湖海樓叢書『學林』跋」|cf. 復刻本
 咖喱|/|noun|1874|整啲咖喱魚|Dennys『初学階』|
 干貝|/|/|/|/|/|likely a native word; see [#19](https://github.com/t18d/HuangSupplement/issues/19#issuecomment-2606537981)
 功率|/|noun|1889|Duty of engine 汽機功率|Fryer『汽機中西名目表』17|
