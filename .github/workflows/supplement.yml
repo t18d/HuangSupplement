@@ -1,5 +1,5 @@
-name: Run csv-to-md.py
-run-name: csv-to-md
+name: Generate README.md
+run-name: Generate README.md
 on: 
   push:
     branches:
@@ -17,7 +17,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  Run-CSV-To-MD_PY:
+  build:
     runs-on: ubuntu-latest
     permissions:
       # Give the default GITHUB_TOKEN write permission to commit and push the
