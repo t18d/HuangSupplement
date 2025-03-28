@@ -124,7 +124,12 @@ jobs:
           npx glyphhanger ./_site/index.html --formats=woff2 --subset=assets/font/*.ttf
           fonttools merge assets/font/*subset*
           npx glyphhanger --subset=merged.ttf --formats=woff2
-          cp merged-subset.woff2 _site/assets/FSung.woff2
+          cp merged-subset.woff2 _site/assets/FSung-su.woff2
+          rm assets/font/*subset* merged*
+          npx glyphhanger ./_site/obsolete/index.html --formats=woff2 --subset=assets/font/*.ttf
+          fonttools merge assets/font/*subset*
+          npx glyphhanger --subset=merged.ttf --formats=woff2
+          cp merged-subset.woff2 _site/assets/FSung-ob.woff2
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
