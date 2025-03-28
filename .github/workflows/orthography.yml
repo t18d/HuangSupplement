@@ -1,5 +1,5 @@
-name: Run csv-to-or.py
-run-name: csv-to-or
+name: Generate orthography.md
+run-name: Generate orthography.md
 on: 
   push:
     branches:
@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  Run-CSV-To-Or_PY:
+  build:
     runs-on: ubuntu-latest
     permissions:
       # Give the default GITHUB_TOKEN write permission to commit and push the
