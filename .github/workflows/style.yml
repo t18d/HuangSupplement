@@ -1,5 +1,5 @@
-name: Run csv-to-st.py
-run-name: csv-to-st
+name: Generate style.md
+run-name: Generate style.md
 on: 
   push:
     branches:
@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  Run-CSV-To-St_PY:
+  build:
     runs-on: ubuntu-latest
     permissions:
       # Give the default GITHUB_TOKEN write permission to commit and push the
