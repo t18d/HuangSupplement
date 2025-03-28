@@ -21,10 +21,10 @@ on:
 
   workflow_run:
     workflows:
-      - "Run csv-to-md.py"
-      - "Run csv-to-ob.py"
-      - "Run csv-to-st.py"
-      - "Run csv-to-or.py"
+      - "Generate README.md"
+      - "Generate obsolete.md"
+      - "Generate orthography.md"
+      - "Generate style.md"
     types: [completed]
 
   # Allows you to run this workflow manually from the Actions tab
@@ -136,7 +136,7 @@ jobs:
 
   build2:
     runs-on: ubuntu-latest
-    if: ${{ github.event_name == 'workflow_run' || github.event_name == 'workflow_dispatch' }}
+    if: ${{ github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
