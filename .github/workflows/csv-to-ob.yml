@@ -11,6 +11,12 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "csv"
+  cancel-in-progress: false
+   
 jobs:
   Run-CSV-To-Ob_PY:
     runs-on: ubuntu-latest
@@ -21,15 +27,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          # Partially clone against a given filter. Overrides sparse-checkout if set.
+          # Do a sparse checkout on given patterns. Each pattern should be separated with
+          # new lines.
           # Default: null
-          filter: 'blob:none'
+          sparse-checkout: |
+            obsolete.csv
+            csv-to-ob.py
+            docs/obsolete.md
       - uses: actions/setup-python@v5
         with: 
           python-version: '3.10'
       - run: |
           python csv-to-ob.py
           sed -i "0,/last_modified_at.*/s//last_modified_at: $(date -Iseconds)/" docs/obsolete.md
+      - name: Pull Remote Changes
+        run: git pull
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
     # Optional. Commit message for the created commit.

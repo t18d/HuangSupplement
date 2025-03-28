@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-27T07:30:19+00:00
+last_modified_at: 2025-03-28T00:55:24+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -181,7 +181,7 @@ last_modified_at: 2025-03-27T07:30:19+00:00
 <br>
 <!-- Anything not in the table must be before this comment. -->
 
-Lemma|Sense|Word Class|Year|Quotation|Source|Note
+Lemma|Sense|Word Class|Year|Quotation|Source|Note 
 ---|---|---|---|---|---|---
 -癌|/|nominal bound root|1902|口唇觸煙管處數發表皮癌等|『中學生理教科書』155|from Japanese: 1666 (Nikkoku)
 癌症|/|noun|1911|烟熏口唇咽喉⋯兩唇含烟之處。易生癌症。|『申報』7月16日「論烟草與衛生之關係」|from Japanese: 1875 (NDL)

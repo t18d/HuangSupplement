@@ -4,7 +4,7 @@ permalink: obsolete/
 seo:
   type: Dataset
   name: "Appendix: Obsolete Words"
-last_modified_at: 2025-03-23T06:08:15+00:00
+last_modified_at: 2025-03-28T00:55:13+00:00
 description: Antedatings, errata and addenda to obsolete words in Huang He-ch'ing's lexicon
 ---
 # Appendix: Obsolete Words
@@ -15,11 +15,10 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 ---|---|---|---|---|---|---
 愛國心|/|/|1899|/|/|from Japanese 愛国心: 1874 (Yomidasu)
 愛好家|/|/|1930|/|/|from Japanese: 1877 (Yomidasu)
-X線|/|/|1906|/|/|from Japanese: 1896 (NDL)
 愛他|/|/|1899|/|/|from Japanese: 1878 (NDL)
 安息年|/|/|1915|/|/|from Japanese: 1885 (NDL)
-按手|/|/|1915|/|/|from Japanese: 1880 (Nikkoku)
 暗黙|/|/|1906|/|/|from Japanese: 1886 (Nikkoku)
+按手|/|/|1915|/|/|from Japanese: 1880 (Nikkoku)
 奥付|/|/|1915|/|/|from Japanese: c1893 (Hathi)
 百足蟲|centipede|noun|a1368 (c610)|蜈蚣螫候 此則百足蟲也|『諸病源候總論·卷三十六雜毒病諸候』(00878)|
 標準語|/|noun|1911|(二) 話法之統一 (甲) 以京話爲標準語|『申報』8月17日「統一國語方法案」|
@@ -34,10 +33,11 @@ X線|/|/|1906|/|/|from Japanese: 1896 (NDL)
 耐震|/|/|1903|/|/|from Japanese: a1891 (NDL/Yomidasu)
 男坂|/|/|1931|/|/|from Japanese: 1717 (Nikkoku)
 男波|/|/|1931|/|/|from Japanese: c1140 (Nikkoku)
-男系|/|/|1902|/|/|from Japanese: 1873 (NDL)
 南米|/|/|1899|/|/|from Japanese: 1870 (NDL)
+男系|/|/|1902|/|/|from Japanese: 1873 (NDL)
 難船|/|/|1905|/|/|from Japanese: 1782 (Nikkoku)
 嚢蟲|/|/|1922|/|/|from Japanese 嚢虫: 1870 (NDL)
 腦病|/|/|1903|/|/|from Japanese 脳病: 1869 (NDL)
 腦脊髓|/|/|1909|/|/|from Japanese 脳脊髄: 1870 (NDL)
 頭腦勞動|/|/|1929|/|/|from Japanese 頭脳労働: 1902 (NDL)
+X線|/|/|1906|/|/|from Japanese: 1896 (NDL)
