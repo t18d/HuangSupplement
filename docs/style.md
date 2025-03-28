@@ -4,7 +4,7 @@ permalink: style/
 seo:
   type: Guide
   name: A Stylistic Appendix
-last_modified_at: 2025-03-07T00:56:10+00:00
+last_modified_at: 2025-03-28T08:43:51+00:00
 description: The stylistic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -29,6 +29,7 @@ Literary|Word Class|Non-U|Colloquial|Note
 半旗|adverb||降半旗 etc.|
 塵拂|noun||撣子 etc.|
 處處|adverb|在在||在在 is an affected archaism
+|verb|典藏|所有 etc.|cf. what [Cheng said](https://www.shuge.org/shiyi_sui/#:~:text=防御) about libraries viewing public-domain books as _their_ property
 墮胎|verb|人工流產|打胎|
 |noun|精品||officialese
 紕繆|noun|硬傷|差錯|
