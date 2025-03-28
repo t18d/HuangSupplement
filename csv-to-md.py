@@ -16,19 +16,36 @@
 
 import csv
 import operator
+import sys
+
+if "su" in sys.argv:
+    md = "README.md"
+    raw = "supplement.csv"
+
+if "ob" in sys.argv:
+    md = "docs/obsolete.md"
+    raw = "obsolete.csv"
+
+if "or" in sys.argv:
+    md = "docs/orthography.md"
+    raw = "orthography.csv"
+
+if "st" in sys.argv:
+    md = "docs/style.md"
+    raw = "style.csv"
 
 # read preface so that we can keep it before the table
 preface_lines = []
-with open("README.md", "r", encoding="utf8") as readme:
+with open(md, "r", encoding="utf8") as readme:
     for line in readme.readlines():
         preface_lines.append(line)
         if "<!-- Anything" in line:  # 2nd line because we need to keep the line with comment in
             break
 
 # open files to create new readers
-with open("supplement.csv", "r", encoding="utf8") as supplement_csv:
+with open(raw, "r", encoding="utf8") as supplement_csv:
     supplement_reader = csv.reader(supplement_csv)
-    with open("README.md", "w", encoding="utf8") as conj_md:  # WARNING: rewrites the file!
+    with open(md, "w", encoding="utf8") as conj_md:  # WARNING: rewrites the file!
         conj_md.writelines(preface_lines)
         conj_md.write("\n")
         # first line is headers

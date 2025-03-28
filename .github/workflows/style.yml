@@ -1,18 +1,17 @@
-name: Run csv-to-or.py
-run-name: csv-to-or
+name: Run csv-to-st.py
+run-name: csv-to-st
 on: 
   push:
     branches:
       - main
     paths:
-      - orthography.csv
-      - csv-to-or.py
+      - style.csv
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
-  Run-CSV-To-Or_PY:
+  Run-CSV-To-St_PY:
     runs-on: ubuntu-latest
     permissions:
       # Give the default GITHUB_TOKEN write permission to commit and push the
@@ -21,15 +20,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          # Partially clone against a given filter. Overrides sparse-checkout if set.
+          # Do a sparse checkout on given patterns. Each pattern should be separated with
+          # new lines.
           # Default: null
-          filter: 'blob:none'
+          sparse-checkout: |
+            obsolete.csv
+            csv-to-md.py
+            docs/style.md
       - uses: actions/setup-python@v5
         with: 
           python-version: '3.10'
       - run: |
-          python csv-to-or.py
-          sed -i "0,/last_modified_at.*/s//last_modified_at: $(date -Iseconds)/" docs/orthography.md
+          python csv-to-st.py st
+          sed -i "0,/last_modified_at.*/s//last_modified_at: $(date -Iseconds)/" docs/style.md
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
     # Optional. Commit message for the created commit.
@@ -40,4 +43,4 @@ jobs:
           # See the `pathspec`-documentation for git
           # - https://git-scm.com/docs/git-add#Documentation/git-add.txt-ltpathspecgt82308203
           # - https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpathspecapathspec
-          file_pattern: docs/orthography.md
+          file_pattern: docs/style.md

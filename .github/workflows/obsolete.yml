@@ -6,7 +6,6 @@ on:
       - main
     paths:
       - obsolete.csv
-      - csv-to-ob.py
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -32,13 +31,13 @@ jobs:
           # Default: null
           sparse-checkout: |
             obsolete.csv
-            csv-to-ob.py
+            csv-to-md.py
             docs/obsolete.md
       - uses: actions/setup-python@v5
         with: 
           python-version: '3.10'
       - run: |
-          python csv-to-ob.py
+          python csv-to-md.py ob
           sed -i "0,/last_modified_at.*/s//last_modified_at: $(date -Iseconds)/" docs/obsolete.md
       - name: Pull Remote Changes
         run: git pull

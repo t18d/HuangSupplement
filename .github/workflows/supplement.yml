@@ -37,7 +37,7 @@ jobs:
         with: 
           python-version: '3.10'
       - run: |
-          python csv-to-md.py
+          python csv-to-md.py su
           sed -i "0,/last_modified_at.*/s//last_modified_at: $(date -Iseconds)/" README.md
       - name: Pull Remote Changes
         run: git pull
