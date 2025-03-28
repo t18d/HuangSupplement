@@ -18,6 +18,7 @@ on:
       - '*.xml'
       - '**.html'
       - .github/workflows/jekyll.yml
+      - _config.yml
 
   workflow_run:
     workflows:
