@@ -16,4 +16,4 @@ plugins:
   - jekyll-readme-index                
   - jekyll-default-layout
 incremental: true
-exclude: ["assets/pdf/", "requirements.txt", "*.csv", "*.py", "LICENSE"]
+exclude: ["assets/pdf/", "requirements.txt", "*.ttf", "*.csv", "*.py", "LICENSE"]
