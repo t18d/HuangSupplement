@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-30T03:17:20+00:00
+last_modified_at: 2025-03-30T05:43:33+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -292,6 +292,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 背面|/|noun|1822|inside or back surface, 背面|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. OUTSIDE|
 被面|/|noun|1847|Coverlet, 被窩 … 被面|Medhurst, _English and Chinese Dictionary_, s.v. Coverlet|
 被殺|/|preposition + verb|1857|又辨金色之吏、曰穵林敦、亦被殺|『六合叢談』1/4, 15|
+本校|/|verb|1934 (1931)|本校法者.以本書前後互證|陳垣『元典章校補釋例·第四十三校法四例』86|cf. 理校
 本體|/|noun|1844|Essence, 精 … 本體 … 精氣|Williams『英華韵府歷階』s.v. Essence|
 本義|/|noun|1868|the proper sense of a word, 本意 … 本義|Lobscheid『英華字典』s.v. Proper|
 本質|/|noun|1672|夫風之本質乃地所発乾熱之気有多端可証一試|Verbiest『坤輿圖説』|
@@ -401,6 +402,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 |/|/|2001|「再说黄正甫刊本{乃}《三国志传》<乃>今见《三国演义》最早刻本」|『明清小說研究』1, 125|刻本 & 刋本 are stylistic variants
 烙鐵|/|noun|1889|Soldering iron 嵌錫烙鐵|Fryer『汽機中西名目表』47|
 禮拜|/|verb|c1584 (1583)|三當禮拜之日禁止工夫謁寺誦經禮拜天主|Ruggieri『祖傳天主十誡』(Jap. Sin. I-189)|
+理校|/|verb|1934 (1931)|所謂理校法也.遇無古本可據.或數本互異.而無所適從之時.則須用此法|陳垣『元典章校補釋例·第四十三校法四例』87|cf. Pasquali (1934) – Ch'en was reinventing the wheel
 硫酸|/|noun|1883|Sulphuric acid 硫酸|Fryer『金石中西名目表』32|
 漏斗|/|noun|1857|譬如水洩於漏斗|A. Williamson in『六合叢談』1/3, 7|
 麵包|/|noun|1583||_Dicionário Português-Chinês_ (Jap. Sin. I-198)|
@@ -496,6 +498,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 手續|/|noun|1901|行政訴訟之手續|『譯書彙編』７, 54+|
 水表|/|noun|1883|如是則該公司只須每日稽查水表|『申報』8月6日「自來水價宜變通說」|
 所有者|/|noun|1903|猶未定議所有者只集股本十萬兩而已|『國民日日報』8月26日「天津經濟問題」+|
+他校|/|verb|1934 (1931)|他校法者.以他書校本書|陳垣『元典章校補釋例·第四十三校法四例』86|cf. 理校
 提神|/|verb|1837|雖鴉片惡毒、然其性能提神|『東西洋考每月統計傳』丁酉年四月「奏爲鴉片」|
 體操|/|noun|1887|至櫻馬塲體操塲閱看師範學校生徒演習兵法|『申報』1月14日「日報譯略」|
 天主|/|noun|c1584 (1583)|『祖傳天主十誡』|Ruggieri (Jap. Sin. I-189)|
