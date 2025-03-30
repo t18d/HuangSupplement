@@ -28,6 +28,22 @@ That's Chu Chün-sheng's 望文生訓.
 
 [184802e](https://github.com/t18d/HuangSupplement/commit/184802ea9877186b40b7e33c3b3a4d7926029dfb), [f7352a1](https://github.com/t18d/HuangSupplement/commit/f7352a1d426877852ee4ceca7a91740278a6612e)
 
+## encyclopedic lemma
+
+_Han yü ta tz'u tien_ (2nd edn), s.v. 二十四史:
+
+> 指二十四部纪传体史书。明有二十一史之目，清乾隆四年又增《明史》《旧唐书》《旧五代史》，合称“二十四史”。
+
+This creates the impression that the name 二十四史 first appeared c1739. The actual use of the word, however, came much later:
+
+```diff
++ 二十四史,/,noun,c1796 (c1791),余在長沙養疾讀史記以下諸史日有恆課摘二十四史同姓名錄,汪輝祖『病榻夢痕錄·卷下』49 (XD104),cf. 與歐陽脩書並列共爲二十有四: c1795 (四庫總目卷四十五)
+```
+
+The name always came after the thing unless the thing was actually named at the time it was created.
+
+[9b40619](https://github.com/t18d/HuangSupplement/commit/9b40619631f0d4f95f663ffb7692c5564a6f8d19)
+
 ## etymology _vs_ semantics
 
 ```diff
@@ -84,6 +100,15 @@ The correct reading is 西洋布、丁香、肉果、水安息、蘇合油.
 > What gets changed may be a punctuation mark, but it could just as likely be a word.
 
 [pull/2#discussion_r1883680686](https://github.com/t18d/HuangSupplement/pull/2#discussion_r1883680686)
+
+## original _vs_ translation
+
+The following texts are commonly cited in scholarship from a translation instead of the original version:
+
+- 古今情海
+- 泣紅亭
+
+Always use a [checklist of editions](https://github.com/t18d/HuangSupplement/wiki/Checklist-of-Editions)!
 
 ## reinventing the wheel
 
