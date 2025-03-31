@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-03-31T06:38:53+00:00
+last_modified_at: 2025-03-31T06:48:05+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
