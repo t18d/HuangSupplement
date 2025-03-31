@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-03-30T07:30:47+00:00
+last_modified_at: 2025-03-31T02:49:52+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -369,7 +369,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 -費|(in two-morpheme words)|nominal bound root|1853|q.v. 船費|/|
 -費|(in three-morpheme words)|nominal bound root|1886|q.v. 保險費|/|
 廢水|/|noun|1889|Waste tank 廢水箱|Fryer『汽機中西名目表』56|
-分詞|/|noun|1904 (1903)|與“︁Be”︁合作Progressive時所附有ing之形曰現在分詞 (Present Pär'ti çi ple)|『正則英文教科書』ii, 85+|
+分詞|/|noun|1904 (1903)|與 “Be” 合作Progressive時所附有ing之形曰現在分詞 (Present Pär'ti çi ple)|『正則英文教科書』ii, 85+|
 分析|/|noun|1899|q.v. 定量分析, 定性分析|/|
 分析|analyse|verb|1884|然律文雖簡下字極有權衡逐條分析皆以⋯|『申報』2月29日「論捉賭」|as one verb instead of two
 復刻本|/|noun|c1807 (a1799)|近秦太史恩復刻本題爲梁陶宏景注|孫志祖『讀書脞錄·卷四·鬼谷子注』2 (01932)|cf. 覆刻本
