@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-03-23T08:09:52+00:00
+last_modified_at: 2025-03-31T06:38:53+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -168,9 +168,11 @@ K'ai|Ts'ao|Hsing|Print|Note
 槍|/|/|/|
 牆 墻|/|墙 Sung|墙 Sung|
 權|/|/|权 Ming|
+却 卻|/|/|/|卻 is archaism
 羣 群|/|/|/|
 繞 遶|/|绕 Ming|/|
 熱|/|热 Ming|热 Yüan|
+閏|/|闰 T'ang|/|
 殺|/|/|杀 Yüan|'杀古殺字' (五經文字)
 傷|/|/|/|伤 in Miao's forgery
 攝|/|/|摄 Ming|
