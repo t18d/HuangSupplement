@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-04-05T14:17:02+00:00
+last_modified_at: 2025-04-05T14:18:48+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -379,7 +379,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 咖喱|/|noun|1874|整啲咖喱魚|Dennys『初学階』|
 干貝|/|/|/|/|/|likely a native word; see [#19](https://github.com/t18d/HuangSupplement/issues/19#issuecomment-2606537981)
 功率|/|noun|1889|Duty of engine 汽機功率|Fryer『汽機中西名目表』17|
-構想|/|verb|c1616 (c1596)|此臣早夜之所拮据夙昔之所搆想者也|馮夢禎『快雪堂集·卷二十五·隆儒優士疏』(CADAL)|
+構想|/|verb|c1616 (c1596)|此臣早夜之所拮据夙昔之所搆想者也|馮夢禎『快雪堂集·卷二十五·隆儒優士疏』(NC5428/3243)|
 古文運動|/|noun|1927|我族之古文運動，非狹義之好古也。|『藝術界週刊』第十五期「雜記 (十四)」|
 官方|/|noun|1894|去冬香港私鑄案發英官方盡法以懲|『申報』5月17日「廣鑄銀錢說」|Han-ta's 官方(3)
 果汁|/|noun|1887|Colocynth pulp 𠹭囉噺果汁|Fryer『西藥大成藥品中西名目表』17|
