@@ -59,6 +59,18 @@ Without testing this collocation with **paradigmatic alternants** of different *
 |選舉是有必要的|copula|
 |選舉顯然是有必要的|copula|
 
+## 8 The clause: adjuncts
+
+### 越- PP (classical)
+
+||interval or point?|
+|-|:-:|
+|越明年春居易以進士舉一上登第 (T'ang)|point|
+|越明年三月廿日卒於同州之官舍 (T'ang)|point|
+|越四月十二日謂門人曰 (T'ang)|point|
+|越三日焚香朝拜 (T'ang)|interval|
+|越明年政通人和百廢具興 (Sung)|point|
+|越明年余得告還金陵 (Yüan)|point|
 
 ## 15 Coordination
 
