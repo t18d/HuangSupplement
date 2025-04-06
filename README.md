@@ -42,6 +42,7 @@ last_modified_at: 2025-04-05T14:18:48+00:00
           <li>NDL – 国立国会図書館デジタルコレクション</li>
           <li>NP – noun phrase</li>
           <li>Nikkoku – 日本国語大辞典 (2nd edn)</li>
+          <li>PP – preposition phrase</li>
           <li>Prep – preposition</li>
           <li>V – verb</li>
           <li>VP – verb phrase</li>
