@@ -5,7 +5,7 @@ permalink: grammar/
 seo:
   type: Guide
   name: A Grammatical Appendix
-last_modified_at: 2025-03-16T08:07:24+00:00
+last_modified_at: 2025-04-06T13:03:18+00:00
 layout: anchor
 ---
 # A Grammatical Appendix
@@ -51,9 +51,9 @@ The consequences of a failure to distinguish between **morphs** and **morphemes*
 Without testing this collocation with **paradigmatic alternants** of different **word classes** in the slot, Huang–Shi §12.2 jump to the conclusion that 顯然是 is an **adverb**. Compare, however:
 
 ||with 是 as|
-|:-:|:-:|
-|選舉有必要||
-|選舉顯然有必要||
+|-|:-:|
+|選舉有必要|Ø|
+|選舉顯然有必要|Ø|
 |選舉'是有必要|adverb|
 |*選舉顯然是有必要|copula|
 |選舉是有必要的|copula|
