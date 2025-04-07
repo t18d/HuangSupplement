@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-04-06T14:06:37+00:00
+last_modified_at: 2025-04-07T04:16:51+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -390,6 +390,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 花邊|/|noun|1866|an embroidered border, 花邊|Lobscheid『英華字典』s.v. Border|
 花梗|/|noun|1887|Myrospermum pedicellatum 小花梗米羅司卑麻|Fryer『西藥大成藥品中西名目表』41|
 环礁|/|noun|1903|自其形狀言之。則曰⋯環礁 (Atoll)|『中學地文教科書』96|
+及物動詞|/|noun|1914|凡及物動詞皆有受動|『時事新報』10月5日「世界語會消息：本會函授講義節要 (二十)」|
 減速|/|verb|1889|Ease 減速|Fryer『汽機中西名目表』17|
 校訂|/|verb|1342 (c1329)|因屬博士程熟等就加校訂鋟版與諸史並行之|趙丗延「南唐書序」in『國朝文類·卷三十三』16 (SBL249)|
 教育者|/|noun|1866|Educator, 教養者 … 教育者|Lobscheid『英華字典』s.v. Educator|
