@@ -61,7 +61,7 @@ Without testing this collocation with **paradigmatic alternants** of different *
 
 ## 8 The clause: adjuncts
 
-### 越- PP (classical)
+### 越- PPs (classical)
 
 ||interval or point?|
 |-|:-:|
@@ -109,13 +109,13 @@ Huang–Shi §8.5.1 gives up trying to distinguish between compounds and NPs; Ch
 |:-:|:-:|:-:|
 |Rule 1||free morph|
 ||adjective|noun|
-|NP|modifier|head|
+|NP|complement|head|
 
 ||人造|纖維|
 |:-:|:-:|:-:|
 |Rule 1||free [morph](https://t18d.github.io/HuangSupplement/grammar/#two-character-morphs) (Japanese, 1897)|
 ||adjective|noun|
-|NP|modifier|head|
+|NP|complement|head|
 
 ||豆|製品|
 |:-:|:-:|:-:|
@@ -133,13 +133,13 @@ Huang–Shi §8.5.1 gives up trying to distinguish between compounds and NPs; Ch
 |:-:|:-:|:-:|
 |Rule 1||free morph|
 ||adjective|noun|
-|NP|modifier|head|
+|NP|complement|head|
 
 ||耐火|材料|
 |:-:|:-:|:-:|
 |||word (s.xi)|
 ||adjective|noun|
-|NP|modifier|head|
+|NP|complement|head|
 
 ||自由|泳|
 |:-:|:-:|:-:|
@@ -151,8 +151,7 @@ Huang–Shi §8.5.1 gives up trying to distinguish between compounds and NPs; Ch
 |:-:|:-:|:-:|
 |Rule 1||free [morph](https://t18d.github.io/HuangSupplement/grammar/#two-character-morphs) (Japanese, 1887)|
 ||adjective|noun|
-|fossilised NP (1958)|complement|head|
-|Rule 4|||
+|NP|complement|head|
 
 Implementation for examples in Huang–Shi §3.4.2:
 
