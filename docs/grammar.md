@@ -5,7 +5,7 @@ permalink: grammar/
 seo:
   type: Guide
   name: A Grammatical Appendix
-last_modified_at: 2025-04-06T13:03:18+00:00
+last_modified_at: 2025-04-08T11:31:06+00:00
 layout: anchor
 ---
 # A Grammatical Appendix
