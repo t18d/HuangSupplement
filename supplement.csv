@@ -13,7 +13,7 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 愛人(2),/,noun,1908,"One in love, 愛人, 相好, 情人",顏惠慶『英華大辭典』s.v. Lover,from Japanese: 1862 (Nikkoku); cf. 雙解英和大辭典 s.v.
 ,/,/,1909,原來我方纔腦中的幻象。却變了眼前的眞境。我那愛人來了。我那愛人來了。,『民吁日報』十月念三號「古井波 (續)」,
 安樂椅,/,noun,1905,安樂椅鐵床。安置得齊整。,"『閨秀救國小說 女媧石』乙卷, 8",from Japanese: a1891 (NDL)
-安樂椅子,/,noun,1912 (1910),at the foot of your easy chair … 於安樂椅子之下,『英文書翰鑰』208,from Japanese: 1881 (NDL)
+安樂椅子,/,NP,1912 (1910),at the foot of your easy chair … 於安樂椅子之下,『英文書翰鑰』208,from Japanese: 1881 (NDL)
 安全島,/,/,1930,/,/,from Japanese: 1918 (Yomidasu)
 安全燈,/,/,1903,/,/,from Japanese: 1872 (NDL)
 安全地帶,/,/,1930,/,/,from Japanese 安全地𭘧: 1890 (NDL)
@@ -46,7 +46,7 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 白粉(2),/,noun,1857,此時草木暢茂、成煤層、其上為新紅沙石、黃灰石、石膏、石鹽、蛋粉石、白粉、火石,"W. Muirhead in『六合叢談』1/2, 2",
 白金,/,noun,1848,"Platina, 白金","Medhurst, _English and Chinese Dictionary_, s.v. Platina",
 白鯨,/,/,1931,/,/,from Japanese: 1877 (NDL)
-白開水,/,noun,c1813 (a1811),右二味⋯每服一二錢。白開水送下。,吳瑭『溫病條辨·卷三下焦篇』55,
+白開水,/,NP,c1813 (a1811),右二味⋯每服一二錢。白開水送下。,吳瑭『溫病條辨·卷三下焦篇』55,
 白内障,/,noun,1906,白內障(白翳)者。因于水晶體之溷濁。,『中學生理衛生教科書』100,from Japanese: 1867 (NDL); 白色內障 attested in Chinese by 1644
 白熱(1),/,adjective,1867,"white heat, 白熱",Lobscheid『英華字典』s.v. Heat,
 白色恐怖,/,/,1928,/,/,from Japanese: 1923 (NDL)
@@ -72,8 +72,8 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 板書(1),/,/,1908,/,/,from Japanese: 1889 (NDL)
 半島,/,noun,1868,/,/,also in Japanese: 1801 (Nikkoku)
 半導体,/,noun,1931,/,/,from Japanese: c1877 (NDL)
-半島戦争,/,noun,1903,/,/,from Japanese: 1873 (NDL)
-半封建,/,noun,1936,/,/,from Japanese: 1889 (NDL)
+半島戦争,/,NP,1903,/,/,from Japanese: 1873 (NDL)
+半封建,/,adjective,1936,/,/,from Japanese: 1889 (NDL)
 半旗,/,adverb,1876,「大日本國事 半旗弔慰」,"『萬國公報』396, 23",[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=半旗)
 伴生,/,/,1903,/,/,from Japanese: 1886 (NDL)
 半數,/,/,1889,/,/,from Japanese: 1868 (NDL)
@@ -139,7 +139,7 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 波形,/,noun,1906 (1904),音色之差異依波形之差異而生,陳文哲『普通應用物理教科書』151,
 伯爵,/,noun,1844,"Earl, 伯爵",Williams『英華韵府歷階』s.v. Earl,
 補助金,/,noun,1887,只允别賜補助金六萬元,『申報』2月1日「譯東洋朝日報」,
-不法行爲,/,noun,1883,似此種種不法行爲實足爲地方大害,『申報』12月19日「憲示録登」,
+不法行爲,/,NP,1883,似此種種不法行爲實足爲地方大害,『申報』12月19日「憲示録登」,
 布告,/,noun,1862,「佈告」,『上海新報』8月23日,
 不合理,/,adjective,1822,"It does not comport with right reason, 不合理 … 與理不相符","Morrison, _A Dictionary of the Chinese Language_, iii, s.v. COMPORT",
 不全,/,adjective,Chou,/,/,
@@ -151,7 +151,7 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 ,/,/,c1874 (a1873),「春秋繁露參校本及新校人名氏」,『古經解彙函·第十六』,
 草書,/,noun,Han,睦善草書臨病明帝驛馬令作草書尺牘十首焉,劉珍『東觀漢記·卷七列傳二·北海敬王睦』,
 草原,/,noun,1902,地多草原。故牧<畜>之業最盛。,作新譯書局『世界地理』292,
-炒魷魚,/,noun,1943,若果一件案都未辦過。叫造飯桶。難免炒魷魚之禍者也。,『大衆報 (澳門)』7月14日「廣東偵緝胆」,
+炒魷魚,/,verb,1943,若果一件案都未辦過。叫造飯桶。難免炒魷魚之禍者也。,『大衆報 (澳門)』7月14日「廣東偵緝胆」,
 塵拂,/,noun,1912,尾端生有長毛。如塵拂。,杜亞泉–杜就田『新理科教授法二』12,"likely from 塵払 (ちり‐はらい); [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=塵拂,-noun)"
 秤桿,/,noun,1875,不料中有李秤杆范肉架者竊以爲必係鄕裏來者可以欺侮以顯跋扈之能,『申報』1月9日「記李秤杆等攔毆馮君事」,in nickname
 赤字,/,noun,1931,日本歳入預定過大 赤字問題引起各方非難,『大公報』天津版1931年4月4日4版,cf.「赤字」二字，是我抄的一個日本新應用的名詞: 1931 (新社會)
@@ -168,7 +168,7 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 擔保,/,verb,c1601,姑饒不殺各苗承認擔保將牛壹拾贰隻以求退兵,『平播全書·卷三』6 (NCL-02251),here converted to noun
 地基,/,noun,1583,,_Dicionário Português-Chinês_ (Jap. Sin. I-198),
 地球儀,/,noun,1878,并製有小地球儀,『申報』6月21日「命題甚新」,
-地下水,/,noun,1903,地下水 雨水之一部。,『中學地文教科書』74,
+地下水,/,NP,1903,地下水 雨水之一部。,『中學地文教科書』74,
 電鍍,/,noun,1885,Electro-planting 電鍍銀,Fryer『化學材料中西名目表』13,
 墊圈,/,noun,1889,Washer 墊圈,Fryer『汽機中西名目表』56,
 電子,/,noun,1905,傳點亦名行點，或稱電子,纪立生–赵齐巽『最新化學詳要』+,
@@ -205,7 +205,7 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 花邊,/,noun,1866,"an embroidered border, 花邊",Lobscheid『英華字典』s.v. Border,
 花梗,/,noun,1887,Myrospermum pedicellatum 小花梗米羅司卑麻,Fryer『西藥大成藥品中西名目表』41,
 环礁,/,noun,1903,自其形狀言之。則曰⋯環礁 (Atoll),『中學地文教科書』96,
-及物動詞,/,noun,1914,凡及物動詞皆有受動,『時事新報』10月5日「世界語會消息：本會函授講義節要 (二十)」,
+及物動詞,/,NP,1914,凡及物動詞皆有受動,『時事新報』10月5日「世界語會消息：本會函授講義節要 (二十)」,
 減速,/,verb,1889,Ease 減速,Fryer『汽機中西名目表』17,
 校訂,/,verb,1342 (c1329),因屬博士程熟等就加校訂鋟版與諸史並行之,趙丗延「南唐書序」in『國朝文類·卷三十三』16 (SBL249),
 教育者,/,noun,1866,"Educator, 教養者 … 教育者",Lobscheid『英華字典』s.v. Educator,
@@ -335,7 +335,7 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 學理,/,noun,1903,解釋之意義由學者一己之私見者。謂之無權的解釋亦謂之學理解釋,汪–葉『新爾雅·釋法』27,
 學術雜誌,/,NP,1915,本雜誌爲西洋留學界唯一之學術雜誌,『申報』1月21日「『科學』第一期出版預告」,
 ,/,/,2018 (2017),我先后撰写了多篇考辨文章，投递到相关学术杂志或提交学术年会,劉傳鴻『中古漢語詞綴考辨·後記』434,
-堰塞湖,/,noun,1903,大別之則分凹地湖堰塞湖二種,『中學地文教科書』86,
+堰塞湖,/,NP,1903,大別之則分凹地湖堰塞湖二種,『中學地文教科書』86,
 硬傷,(metaphorical),noun,1928,袁世凱等，不過是個硬傷，忍痛用一次手術，還割得下來；若引用了那些下作小官僚，像微菌進血管，眞成不治之症了。,『民國日報』10月10日「祝政治建設的開始」,The literal sense dates back at least to s.xix med.
 ,glaring error,noun,1948,單就我們所說的「硬傷」而論，在這號稱「修訂本」、「標準本」當中就還多得難以計數。,鄧恭三「揭發『國定錯誤』廢除『國定課本』」in『大公報』10月3日,Note the quotes; [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=硬傷)
 原罪,/,noun,c1636,特吾主。及聖母。無染原罪。,Dias『聖經直解·雜事目錄』51 (Jap. Sin. I-70),
