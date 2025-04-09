@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-04-09T05:46:29+00:00
+last_modified_at: 2025-04-09T13:36:46+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -501,6 +501,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 石灰水|/|noun|1882|將膿泡一一挑破用石灰水洗淨|『申報』5月5日「火焚續述」|
 石墨|/|noun|1883|Plumbago, or Graphite 石墨|Fryer『金石中西名目表』26|
 石蕊|/|noun|1885|Litmus 石蕋|Fryer『化學材料中西名目表』21|
+是時候|(verbal)|idiom|a1618|我說是時候。這六姐還強說早哩。|『金瓶梅詞話·第三十回』7 (020272–91)|
+|(adjectival)|/|1936|並且給的很是時候。|梁實秋譯『李爾王』46+|
 手動|/|adjective|1889|Hand gear 手動器具, 或手動齒輪|Fryer『汽機中西名目表』26|
 手續|/|noun|1901|行政訴訟之手續|『譯書彙編』７, 54+|
 水表|/|noun|1883|如是則該公司只須每日稽查水表|『申報』8月6日「自來水價宜變通說」|
