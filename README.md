@@ -126,7 +126,7 @@ last_modified_at: 2025-04-10T13:14:49+00:00
     <h3>Theory</h3>
     <ul>
       <li>Aikhenvald, Alexandra A., <em>Classifiers: A Typology of Noun Categorization Devices</em> (Oxford, 2000).</li>
-      <li>Chang, Pin (ed.), <em>Hsien tai Han yü miao hsieh yü fa</em> (Peking, 2010).</li>
+      <li>Dixon, R. M. W., <em>Basic Linguistic Theory</em>, 3 vols (Oxford, 2010–2).</li>
       <li>Huang, Chu-Ren, and Dingxu Shi (eds), <em>A Reference Grammar of Chinese</em> (Cambridge, 2016).</li>
       <li>Huddleston, Rodney, and Geoffrey K. Pullum (eds), <em>The Cambridge Grammar of the English Language</em> (Cambridge, 2002).</li>
       <li>Kretschmer, Paul, <em>Sprachregeln für die Bildung und Betonung zoologischer und botanischer Namen</em> (Berlin, 1899).</li>
@@ -135,6 +135,7 @@ last_modified_at: 2025-04-10T13:14:49+00:00
       <li>Mair, Victor H. et al. (eds), Han yü ta tz'u tien<em> tz'u mu yin hsü so yin</em> (Shanghai, 2003).</li>
       <li>Meng, Chao-lien,『之乎者也非口語論』(Nanking, 2017).</li>
       <li>Tai, Li-kang, '晚清的官話音系及其性質',『古漢語研究』, 117 (2017), 28–41.</li>
+      <li>Yang, Po-chün, and He Le-shih,『古漢語語法及其發展』(rev. edn, Peking, 2001).</li>
       <li>Yeh, Pao-k'uei, '民初國音的回顧與反思',『廈門大學學報』, 183 (2007), 44–50.</li>
     </ul>
     <h3>Sources</h3>
