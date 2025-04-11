@@ -106,6 +106,7 @@ The correct reading is 西洋布、丁香、肉果、水安息、蘇合油.
 The following texts are commonly cited in scholarship from a translation instead of the original version:
 
 - 古今情海
+- 彭公案 (CCL)
 - 泣紅亭
 
 Always use a [checklist of editions](https://github.com/t18d/HuangSupplement/wiki/Checklist-of-Editions)!
