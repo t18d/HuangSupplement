@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-04-11T08:50:11+00:00
+last_modified_at: 2025-04-11T12:45:27+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -388,6 +388,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 海拔|/|noun|1901|此次爆發噴煙高出海拔一萬二千米|『清議報』八十六冊「支那現勢論」|
 海洋性氣候|/|NP|1902|歐羅巴⋯大抵有海洋性氣候|作新譯書局『世界地理』240|
 焊錫|/|noun|1889|Solder 銲錫|Fryer『汽機中西名目表』47|
+很|/|adverb|a1321|如今地廣民衆事務哏多|『元典章·朝綱一』1 (014275–314)|
+|/|/|a1388|那幾个守户閑官老秀才它毎都哏利害|『老生兒』1 (12336)|
 很是|(+VP)|VP|c1890|助我一臂之力就狠是盡心了|『小五義·卷十·五十二回』6 (D8690500)|
 |(+adjective)|/|1903|我們同他初次見面。看他的人。很是明白。怎麼他倒不替我們出力。|『繡像小說』第五號「文明小史」26|
 花邊|/|noun|1866|an embroidered border, 花邊|Lobscheid『英華字典』s.v. Border|
