@@ -44,6 +44,25 @@ The consequences of a failure to distinguish between **morphs** and **morphemes*
 1. By using the term _morpheme_ when they really mean a _morph_, one can like Huang–Shi miss a whole phenomenon like [**orthographic alternation**](#orthographic-alternation).
 2. By not grasping the difference between **abstract units** and their physical **realisation**, one can fall prey to irrelevant concepts such as _erh tzu tz'u_ and _shuang yin chieh tz'u_ which describe **orthography** and **pronunciation** respectively.
 
+## 4 The clause: complements
+
+This is a chapter omitted by Huang–Shi, to its own detriment.
+
+### Copula clauses and verbless clauses
+
+In the declarative **mood**, an adjectival CC requires a degree or negative **copula** as predicate. Zero **surface realisation** of the predicate is not allowed. Cf. *選舉重要.
+
+|CS|predicate|CC|
+|:-:|:-:|:-:|
+|選舉|很|重要|
+|選舉|不|重要|
+
+In the interrogative mood, zero surface realisation of the predicate is allowed.
+
+|VCS|predicate|VCC|
+|:-:|:-:|:-:|
+|選舉|Ø|重要嗎|
+
 ## 6 Adjectives and adverbs
 
 ### [顯然][是]__
