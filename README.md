@@ -32,7 +32,9 @@ last_modified_at: 2025-04-11T12:52:18+00:00
           <li>Adv – adverb</li>
           <li>Asahi – Asahi Shimbun Cross-Search</li>
           <li>aYEAR – ante YEAR</li>
+          <li>CC – copula complement</li>
           <li>CHJ – 日本語歴史コーパス</li>
+          <li>CS – copula subject</li>
           <li>cYEAR – circa YEAR</li>
           <li>Hathi – HathiTrust</li>
           <li>Koten – 古典ライブラリー</li>
@@ -45,6 +47,8 @@ last_modified_at: 2025-04-11T12:52:18+00:00
           <li>PP – preposition phrase</li>
           <li>Prep – preposition</li>
           <li>V – verb</li>
+          <li>VCC – verbless clause complement</li>
+          <li>VCS – verbless clause subject</li>
           <li>VP – verb phrase</li>
           <li>Yomidasu – Yomiuri Database Service</li>
         </ul>
