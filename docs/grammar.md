@@ -59,9 +59,9 @@ In the declarative **mood**, an adjectival CC requires a degree or negative **co
 
 In the interrogative mood, zero surface realisation of the predicate is allowed.
 
-|VCS|predicate|VCC|
-|:-:|:-:|:-:|
-|選舉|Ø|重要嗎|
+|VCS|predicate|VCC||
+|:-:|:-:|:-:|:-:|
+|選舉|Ø|重要|嗎|
 
 ## 6 Adjectives and adverbs
 
