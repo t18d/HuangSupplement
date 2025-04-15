@@ -130,6 +130,7 @@ last_modified_at: 2025-04-13T03:47:20+00:00
     <h3>Theory</h3>
     <ul>
       <li>Aikhenvald, Alexandra A., <em>Classifiers: A Typology of Noun Categorization Devices</em> (Oxford, 2000).</li>
+      <li>Chang, Ch'ing, 'Cosmopolitan Mandarin: Linguistic practice of Chinese <em>waiqi</em> professionals', <em>Journal of Asian Pacific Communication</em>, 16/2 (2006), 215–35.</li>
       <li>Dixon, R. M. W., <em>Basic Linguistic Theory</em>, 3 vols (Oxford, 2010–2).</li>
       <li>Huang, Chu-Ren, and Dingxu Shi (eds), <em>A Reference Grammar of Chinese</em> (Cambridge, 2016).</li>
       <li>Huddleston, Rodney, and Geoffrey K. Pullum (eds), <em>The Cambridge Grammar of the English Language</em> (Cambridge, 2002).</li>
