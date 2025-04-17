@@ -118,8 +118,14 @@ jobs:
           python-version: '3.13'
           cache: 'pip' # caching pip dependencies
       - run: pip install -r requirements.txt
-      # Runs a set of commands using the runners shell
-      - name: Run glyphhanger
+      - name: Cache FSung-su.woff2
+        id: cache-su
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-su.woff2
+          key: cache-${{ hashFiles('supplement.csv') }}
+      - name: Generate FSung-su.woff2
+        if: steps.cache-su.outputs.cache-hit != 'true'
         run: |
           sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0
           npx glyphhanger ./_site/index.html --formats=woff2 --subset=assets/font/*.ttf
@@ -127,6 +133,16 @@ jobs:
           npx glyphhanger --subset=merged.ttf --formats=woff2
           cp merged-subset.woff2 _site/assets/FSung-su.woff2
           rm assets/font/*subset* merged*
+      - name: Cache FSung-ob.woff2
+        id: cache-ob
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-ob.woff2
+          key: cache-${{ hashFiles('obsolete.csv') }}
+      - name: Generate FSung-ob.woff2
+        if: steps.cache-ob.outputs.cache-hit != 'true'
+        run: |
+          sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0
           npx glyphhanger ./_site/obsolete/index.html --formats=woff2 --subset=assets/font/*.ttf
           fonttools merge assets/font/*subset*
           npx glyphhanger --subset=merged.ttf --formats=woff2
@@ -183,8 +199,14 @@ jobs:
           python-version: '3.13'
           cache: 'pip' # caching pip dependencies
       - run: pip install -r requirements.txt
-      # Runs a set of commands using the runners shell
-      - name: Run glyphhanger
+      - name: Cache FSung-su.woff2
+        id: cache-su
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-su.woff2
+          key: cache-${{ hashFiles('supplement.csv') }}
+      - name: Generate FSung-su.woff2
+        if: steps.cache-su.outputs.cache-hit != 'true'
         run: |
           sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0
           npx glyphhanger ./_site/index.html --formats=woff2 --subset=assets/font/*.ttf
@@ -192,6 +214,16 @@ jobs:
           npx glyphhanger --subset=merged.ttf --formats=woff2
           cp merged-subset.woff2 _site/assets/FSung-su.woff2
           rm assets/font/*subset* merged*
+      - name: Cache FSung-ob.woff2
+        id: cache-ob
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-ob.woff2
+          key: cache-${{ hashFiles('obsolete.csv') }}
+      - name: Generate FSung-ob.woff2
+        if: steps.cache-ob.outputs.cache-hit != 'true'
+        run: |
+          sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0
           npx glyphhanger ./_site/obsolete/index.html --formats=woff2 --subset=assets/font/*.ttf
           fonttools merge assets/font/*subset*
           npx glyphhanger --subset=merged.ttf --formats=woff2
