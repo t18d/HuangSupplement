@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-04-17T07:08:37+00:00
+last_modified_at: 2025-04-21T08:52:03+00:00
 ---
 # A Supplement to 近現代漢語辭源
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -413,6 +413,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 濃度|/|noun|1905|蒸至適宜濃度再置冷處。|『中等化學教科書』294|
 暖氣|/|noun|1866|Caliduct … 熱氣筒 … 暖氣筒|Lobscheid『英華字典』s.v. Caliduct|
 偶像|/|noun|1927|我好像也已經成了偶象了|魯迅『兩地書·一〇五』|metaphorical
+耙梳|/|verb|1922|民國本屬多事、而法律方面、則尤爲不可耙梳|『民國日報』12月21日「張閣與衆院之因緣案」|typo for 爬梳
 排外主義|/|noun|1902|舊日之排外主義|『壬寅新民叢報彙編』1053|
 |/|/|1906|防止排外主義之傳播|『時報』12月26日|
 砲灰|/|noun|1894|非砲灰卽刀頭之鬼耳|『申報』9月6日「論倭人窘况」|
