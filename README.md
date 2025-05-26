@@ -7,7 +7,7 @@ seo:
   name: A Supplement to 近現代漢語辭源
 last_modified_at: 2025-05-26T03:41:36+00:00
 ---
-# A Supplement to 近現代漢語辭源 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15514851.svg)](https://doi.org/10.5281/zenodo.15514851)
+# A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/zenodo.15514851.svg)](https://doi.org/10.5281/zenodo.15514851)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
 <br>
 <br>
