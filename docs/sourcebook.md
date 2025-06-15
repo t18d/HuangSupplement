@@ -5,7 +5,7 @@ permalink: sourcebook/
 seo:
   type: Book
   name: "Lexicography: A Sourcebook"
-last_modified_at: 2025-02-23T08:21:36+00:00
+last_modified_at: 2025-06-15T09:47:20+00:00
 layout: anchor
 ---
 # Lexicography: A Sourcebook
