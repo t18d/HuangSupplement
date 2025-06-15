@@ -23,6 +23,8 @@ layout: anchor
 
 [_Dictionaries: The Art and Craft of Lexicography_](https://archive.org/details/dictionariesartc0000land_02ed) (2001)
 
+> “‘Esquivalience’ is too elaborate,” said Sidney Landau, the author of _Dictionaries: The Art and Craft of Lexicography_ … “If someone made that up, they’re nuts.” … [Erin] McKean confirmed that “esquivalience” was a fabricated word.… “Its inherent fakeitude is fairly obvious,” she said. (_The New Yorker_)
+
 [Confessions of the Antedater](https://doi.org/10.1353/dic.2018.0011) (2018)
 
 [Dictionaries and wordbooks used as sources by OED](https://oed.hertford.ox.ac.uk/topics/dictionaries/#main-sources) (2021)
