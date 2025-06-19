@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-05-26T05:49:43+00:00
+last_modified_at: 2025-06-19T05:42:07+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/zenodo.15514851.svg)](https://doi.org/10.5281/zenodo.15514851)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -455,6 +455,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 侵襲|/|verb|1847|to come upon, to attack, 侵襲|Medhurst, _English and Chinese Dictionary_, s.v. To come|
 羣島|/|noun|1833|五島⋯共稱呂宋羣島|『東西洋考每月統計傳』癸巳年六月「東南州島嶼等形勢綱目」|
 羣像(1)|(as an artwork)|noun|1915|門之巓東方民族之羣像在焉|『神州日報』5月11日「巴拿馬紀念會塲之五光十色」|from Japanese 群像: 1902 (NDL)
+人工(2)|man-made|adjective|1972|「第一章論人工水路」|『上海新報』9月9日|postdating (in 人工配合煉製而成 it's an adverb converted from the noun)
 日全食|/|noun|c1632|舊法於日全食時。測定月之視徑。隨時不等。|Rho『崇禎曆書·月離曆指·月離三』9+ (Oxon. Sinica 897)|
 三位一體(1)|/|idiom|c1636|吾主既降生後。有天主三位一體之像|Dias『聖經直解·雜事目錄』8 (Jap. Sin. I-70)|
 山脈|/|noun|1858|山脈之方向|W. Muirhead in『六合叢談』1/13, 9|
