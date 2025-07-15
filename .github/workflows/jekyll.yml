@@ -63,6 +63,7 @@ jobs:
             assets/js/
             assets/webp/
             assets/font/
+            assets/pdf/
       - uses: dorny/paths-filter@v3
         id: filter
         with:
@@ -169,6 +170,7 @@ jobs:
             assets/js/
             assets/webp/
             assets/font/
+            assets/pdf/
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
