@@ -5,7 +5,7 @@ permalink: papers/
 seo:
   type: Periodical
   name: HuangSupplement Working Papers
-last_modified_at:
+last_modified_at: 2025-07-15T14:45:58+00:00
 layout: no-anchor
 ---
 # Working Papers
