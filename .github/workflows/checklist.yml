@@ -1,4 +1,4 @@
-name: Monitor Edition Count
+name: Monitor Checklist Count
 
 on:
   schedule:
@@ -29,13 +29,14 @@ jobs:
         with:
           python-version: '3.13'
           cache: 'pip'
+          cache-dependency-path: scripts/monitor_edition_count.py
 
       - name: Install dependencies
         run: pip install requests lxml
 
       - name: Run monitor script
         id: monitor
-        run: python scripts/monitor_edn_count.py
+        run: python scripts/monitor_edition_count.py
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
