@@ -1,0 +1,50 @@
+name: Monitor Edition Count
+
+on:
+  schedule:
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitor-edition-count
+  cancel-in-progress: true
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          sparse-checkout: |
+            scripts/
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install requests lxml
+
+      - name: Run monitor script
+        id: monitor
+        run: python scripts/monitor_edn_count.py
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+    # Optional. Commit message for the created commit.
+    # Defaults to "Apply automatic changes"
+          commit_user_name: git-auto-commit-action
+          # Optional glob pattern of files which should be added to the commit
+          # Defaults to all (.)
+          # See the `pathspec`-documentation for git
+          # - https://git-scm.com/docs/git-add#Documentation/git-add.txt-ltpathspecgt82308203
+          # - https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpathspecapathspec
+          file_pattern: README.md
