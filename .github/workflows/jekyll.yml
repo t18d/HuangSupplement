@@ -27,6 +27,7 @@ on:
       - "Generate obsolete.md"
       - "Generate orthography.md"
       - "Generate style.md"
+      - "Monitor Checklist"
     types: [completed]
 
   # Allows you to run this workflow manually from the Actions tab
