@@ -42,6 +42,7 @@ jobs:
         with:
     # Optional. Commit message for the created commit.
     # Defaults to "Apply automatic changes"
+          commit_message: Update edition count
           commit_user_name: git-auto-commit-action
           # Optional glob pattern of files which should be added to the commit
           # Defaults to all (.)
