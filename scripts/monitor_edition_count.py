@@ -53,8 +53,10 @@ def write_github_output(changed: bool, edition_count: int):
 def main():
     try:
         edition_count = fetch_count()
-        changed       = rewrite_readme(edition_count)
-        write_github_output(changed, edition_count)
+        changed = rewrite_readme(edition_count)
+        write_github_output(changed, edition_count)   
+        if not changed:
+            sys.exit(1)
     except Exception as e:
         print(f"::error::{e}", file=sys.stderr)
         sys.exit(1)
