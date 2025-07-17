@@ -24,14 +24,13 @@ jobs:
           # new lines.
           # Default: null
           sparse-checkout: |
-            obsolete.csv
-            csv-to-md.py
-            docs/orthography.md
+            docs/
+            scripts/
       - uses: actions/setup-python@v5
         with: 
           python-version: '3.13'
       - run: |
-          python csv-to-md.py or
+          python scripts/csv-to-md.py or
           sed -i "0,/last_modified_at.*/s//last_modified_at: $(date -Iseconds)/" docs/orthography.md
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:

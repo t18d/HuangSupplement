@@ -30,14 +30,12 @@ jobs:
           # new lines.
           # Default: null
           sparse-checkout: |
-            supplement.csv
-            csv-to-md.py
-            README.md
+            scripts/
       - uses: actions/setup-python@v5
         with: 
           python-version: '3.13'
       - run: |
-          python csv-to-md.py su
+          python scripts/csv-to-md.py su
           sed -i "0,/last_modified_at.*/s//last_modified_at: $(date -Iseconds)/" README.md
       - name: Pull Remote Changes
         run: git pull

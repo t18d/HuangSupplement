@@ -24,14 +24,13 @@ jobs:
           # new lines.
           # Default: null
           sparse-checkout: |
-            obsolete.csv
-            csv-to-md.py
-            docs/style.md
+            docs/
+            scripts/
       - uses: actions/setup-python@v5
         with: 
           python-version: '3.13'
       - run: |
-          python csv-to-md.py st
+          python scripts/csv-to-md.py st
           sed -i "0,/last_modified_at.*/s//last_modified_at: $(date -Iseconds)/" docs/style.md
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
