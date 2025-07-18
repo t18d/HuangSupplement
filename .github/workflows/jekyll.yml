@@ -18,6 +18,7 @@ on:
       - '**.woff2'
       - '*.xml'
       - '**.html'
+      - '**.pdf'
       - .github/workflows/jekyll.yml
       - _config.yml
 
