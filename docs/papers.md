@@ -16,4 +16,4 @@ layout: no-anchor
 <a id="wp1" href="https://t18d.github.io/HuangSupplement/papers/#wp1">wp1</a> | 2025.07.15 | 14pp |
 [PDF](https://t18d.github.io/HuangSupplement/assets/pdf/wp1.pdf) \
 Edward Huang. 'A Componential Analysis of 中文 and Its Synonyms from <em>c.</em>1600
-to <em>c.</em>1950.' [10.5281/zenodo.15917862](https://doi.org/10.5281/zenodo.15917862)
+to <em>c.</em>1950.' [10.5281/zenodo.15917861](https://doi.org/10.5281/zenodo.15917861)
