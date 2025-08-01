@@ -150,7 +150,7 @@ breathing mark is replaced by an apostrophe to facilitate everyday use.
 - hei
 - hên
 - hêng
-- ho
+- [hê]
 - hou
 - hsi
 - hsia
