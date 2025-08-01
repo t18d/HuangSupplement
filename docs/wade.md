@@ -5,7 +5,7 @@ permalink: wade/
 seo:
   type: Dataset
   name: The One True Wade
-last_modified_at: 2024-12-28T14:11:49+00:00
+last_modified_at: 2025-08-01T14:00:13+00:00
 layout: no-anchor
 ---
 # The One True Wade
