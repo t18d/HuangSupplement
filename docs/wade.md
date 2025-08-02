@@ -13,7 +13,7 @@ layout: no-anchor
 &nbsp;  
 &nbsp;  
 &nbsp;  
-Wade-Giles is a misnomer.
+Wade–Giles is a misnomer.
 
 Everything was already present in Wade (1867), so it’s not true that ‘Giles’s 
 Romanization was only very slightly modified from Wade’s’ (Chung 2016). Neither
@@ -21,7 +21,7 @@ does Giles (1892) himself support the claim of Li and Fang (2020) that he
 'improved' Wade's syllabary:
 
 > The groups of sounds in this Dictionary are arranged alphabetically according
-> to the orthography adopted by Sir Thomas Wade for the Peking dialect in his
+> to the orthography adopted by Sir Tʜᴏᴍᴀs Wᴀᴅᴇ for the Peking dialect in his
 > elementary handbook … (p. vi)
 
 The perceived simplification results rather from the need to arrange lemmas in 
@@ -31,13 +31,18 @@ In the following listing, only `hê` and `shei` are extrapolated to reflect
 recent phonology; neither is to be found in Wade or Giles (1912). The rough 
 breathing mark is replaced by an apostrophe to facilitate everyday use.
 
+For capitalisation, word division and common modifications, see Barry (1997).
+
 <p><details>
     <summary>Bibliography</summary>
     <h3>Sources</h3>
     <ul>
-      <li>Giles, Herbert A. (ed.), <em>A Chinese-English Dictionary</em> 
+      <li>Barry, Randall K. (ed.), <em><a
+        href="https://archive.org/details/alalcromanizatio1997unse/page/43/mode/1up">                                 
+        ALA–LC Romanization Tables</em> (Washington, 1997), 43–4.</li>
+      <li>Giles, Herbert A. (ed.), <em>A Chinese–English Dictionary</em> 
         (London, 1892).</li>
-      <li>Giles, Herbert A. (ed.), <em>A Chinese-English Dictionary</em>, 3 vols 
+      <li>Giles, Herbert A. (ed.), <em>A Chinese–English Dictionary</em>, 3 vols 
         (2nd edn, Shanghai, 1912).</li>
       <li>Wade, Thomas Francis, <em><a 
         href="https://www.google.com/books/edition/The_Hsin_Ching_Lu_or_Book_of_Experiments/Yb1EAAAAcAAJ">
@@ -46,7 +51,7 @@ breathing mark is replaced by an apostrophe to facilitate everyday use.
     </ul>
     <h3>As seen in …</h3>
     <ul>
-      <li>Chung, Karen Steffen, 'Wade-Giles Romanization System', in Chan Sin-wai 
+      <li>Chung, Karen Steffen, 'Wade–Giles Romanization System', in Chan Sin-wai 
       (ed.), <em>The Routledge Encyclopedia of the Chinese Language</em> (London, 
       2016), 756–76.</li>
       <li>Li, Ch'ang-hao, and Fang Huan-hai, '翟理斯的漢語注音特點及其相關問題', 
