@@ -13,53 +13,75 @@ layout: no-anchor
 &nbsp;  
 &nbsp;  
 &nbsp;  
-The notion that pre-modern Chinese primarily used **traditional** [ideographs](https://t18d.github.io/HuangSupplement/dictionary/#ideograph) has no factual basis.
+The notion that pre-modern Chinese primarily used **traditional** 
+[ideographs](https://t18d.github.io/HuangSupplement/dictionary/#ideograph) has no 
+factual basis.
 
-Many of the so-called **simplified** ideographs are in fact traditional forms. They were **stylistic variants** used in informal **registers**. Not infrequently, the simplified variant was the only attested form of an ideograph in the informal genres.
+Many of the so-called **simplified** ideographs are in fact traditional forms. 
+They were **stylistic variants** used in informal **registers**. Not 
+infrequently, the simplified variant was the only attested form of an ideograph 
+in the informal genres.
 
-Fast forward to present-day Mandarin, it has proven futile to imagine that a single **character set** could prevail in any given population. Even within established 'simplified' regions, 'traditional' character sets are freely used in everyday communications as an aesthetic or political choice. With the arrival of personal computing, the ability to **decode** is all it requires to be able to **encode** with ease.
+Fast forward to present-day Mandarin, it has proven futile to imagine that a 
+single **character set** could prevail in any given population. Even within established 'simplified' regions, 'traditional' character sets are freely used in everyday communications as an aesthetic or political choice. With the arrival of personal computing, the ability to **decode** is all it requires to be able to **encode** with ease.
 
-Today, the task of the lexicographer is simply to document which style each variant of an ideograph came from.
+Today, the task of the lexicographer is simply to document which style each 
+variant of an ideograph came from.
 
 <span align="center">***</span>
 
-In the table that follows, _k'ai_ forms are those commonly used during the Chin–T'ang period; _ts'ao_, _hsing_ and _print_ forms are annotated with the period in which they are first attested. Use [git blame](https://github.com/t18d/HuangSupplement/blame/main/orthography.csv) to trace the sources for such attestation.
+In the table that follows, _k'ai_ forms are those commonly used during the 
+Chin–T'ang period; _ts'ao_, _hsing_ and _print_ forms are annotated with the 
+period in which they are first attested. Use 
+[git blame](https://github.com/t18d/HuangSupplement/blame/main/orthography.csv) 
+to see the sources for such attestation.
 
 Only forms that are still current in everyday usage tend to be included.
 
-If all current variants of an ideograph already existed in _k'ai_, no other styles are exemplified. If a variant existed in _ts'ao_, it is not further exemplified from _hsing_. Being the cursive of _k'ai_, _hsing_ is in general later than _ts'ao_, which was originally the cursive of _li_.
+If all current variants of an ideograph already existed in _k'ai_, no other 
+styles are exemplified. If a variant existed in _ts'ao_, it is not further 
+exemplified from _hsing_. Being the cursive of _k'ai_, _hsing_ is in general 
+later than _ts'ao_, which was originally the cursive of _li_.
 
-The etymology of an ideograph is only touched on insofar as such knowledge motivated the use of an archaising glyph in _k'ai_.
+The etymology of an ideograph is only touched on insofar as such knowledge 
+motivated the use of an archaising glyph in _k'ai_. Usage statement of 
+dictionaries is cited as secondary evidence. 
 
 <p>
   <details>
     <summary>Bibliography</summary>
-    <h3>Dataset</h3>
-    <ul>
-      <li>Wang, Ch'üan, <a href="https://github.com/t18d/HuangSupplement/issues/32#issuecomment-2695929143">Actual usage vs prescriptive lexicography from T'ang to Ch'ing</a>, 2013.</li>
-    </ul>
     <h3>Theory</h3>
     <ul>
-      <li>Chang, Yung-ch'üan,『敦煌寫本文獻學』(Lanchow, 2013).</li>
-      <li>Huang, Cheng, '漫談古籍整理的規範問題', <em>Tunhuang yen chiu</em>, 162 (2017), 70–7.</li>
-      <li>Huang, Cheng,『敦煌俗字典』(2nd edn, Shanghai, 2020), 2–40.</li>
-      <li>Tseng, Liang,『俗字及古籍文字通例研究』(Nanchang, 2006).</li>
+      <li>Chang, Yung-ch'üan, 敦煌寫本文獻學 (Lanchow, 2013).</li>
+      <li>Finglass, P. J., 'Orthographica Sophoclea', <em>Philologus</em>, 153 
+        (2009), 206–28.
+      <li>Huang, Cheng, '漫談古籍整理的規範問題', <em>Tunhwang yen chiu</em>, 162 
+        (2017), 70–7.</li>
+      <li>Huang, Cheng, 敦煌俗字典 (2nd edn, Shanghai, 2020), 2–40.</li>
+      <li>Tseng, Liang, 俗字及古籍文字通例研究 (Nanchang, 2006).</li>
     </ul>
     <h3>Sources</h3>
     <ul>
-      <li>An, Hui, '宋蜀本《後山居士文集》異體字研究', master's thesis, He-pei Teachers College, 2023.</li>
-      <li>Hagihara, Yoshio, '「国」と「囯」の文字を考える',『駒澤短大國文』, 33 (2003), 132.</li>
-      <li>Huang, Cheng, '敦煌字詁——並、並、併考辨', <em>Nan-ching shih fan ta hsüeh wen hsüeh yüan hsüeh pao</em>, 4 (2000), 44–51.</li>
-      <li>Huang, Cheng et al.,『敦煌俗字典』(2nd edn, Shanghai, 2020).</li>
-      <li>Ke, Hai-nan, '《宋本毛詩詁訓傳》異體字', master's thesis, He-pei Teachers College, 2021.</li>
-      <li>Li, Le-i,『簡化字源』(Peking, 1996).</li>
-      <li>Liu, Fu, and Li Chia-jui (eds),『宋元以來俗字譜』(Peking, 1930).</li>
-      <li>Liu, Miao-miao, '清刻本《通志堂集》異體字研究', master's thesis, He-pei Teachers College, 2021.</li>
-      <li>National Academy for Educational Research, <a href="https://dict.variants.moe.edu.tw">異體字字典</a> (14th edn, 2024).</li>
-      <li>Tseng, Liang, and Ch'en Min (eds),『明清小說俗字典』(Yangchow, 2018).</li>
-      <li>Wu, Li-yeh, and Ch'en Shuang-hsin, 'Ts'ao shu k'ai hua tzu yen chiu', <em>Chung kuo wen tzu yen chiu</em>, 29 (2019), 159–63.</li>
-      <li>Yamashita, Mari, '「広」の字体についてー略字体の出現時期とその要因ー',『漢字文化研究』, 1 (2011), 25–87.</li>
+      <li>Hagihara, Yoshio, '「国」と「囯」の文字を考える', 駒澤短大國文, 33 (2003), 
+        132.</li>
+      <li>Huang, Cheng, '敦煌字詁——並、並、併考辨', <em>Nanking shih fan ta hsüeh 
+        wen hsüeh yüan hsüeh pao</em>, 4 (2000), 44–51.</li>
+      <li>Huang, Cheng et al., 敦煌俗字典 (2nd edn, Shanghai, 2020).</li>
+      <li>Li, Le-i, 簡化字源 (Peking, 1996).</li>
+      <li>Liu, Fu, and Li Chia-jui (eds), 宋元以來俗字譜 (Peking, 1930).</li>
+      <li>National Academy for Educational Research, <a 
+        href="https://dict.variants.moe.edu.tw">異體字字典</a> (14th edn, 
+        2024).</li>
+      <li>Tseng, Liang, and Ch'en Min (eds), 明清小說俗字典 (Yangchow, 2018).</li>
+      <li>Wu, Li-yeh, and Ch'en Shuang-hsin, '草書楷化字研究', 
+        <em>Chung kuo wen tzu yen chiu</em>, 29 (2019), 159–63.</li>
+      <li>Yamashita, Mari, '「広」の字体についてー略字体の出現時期とその要因ー', 
+        漢字文化研究, 1 (2011), 25–87.</li>
     </ul>
+    For studies of the variants in incunabulas, see <a 
+      href="https://github.com/t18d/HuangSupplement/wiki/Variant-Ideographs-in-Incunabula">
+      Variant Ideographs in Incunabula</a>.
+    </a>.
   </details>
 </p>
 
