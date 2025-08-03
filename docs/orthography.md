@@ -81,7 +81,6 @@ dictionaries is cited as secondary evidence.
     For studies of the variants in incunabulas, see <a 
       href="https://github.com/t18d/HuangSupplement/wiki/Variant-Ideographs-in-Incunabula">
       Variant Ideographs in Incunabula</a>.
-    </a>.
   </details>
 </p>
 
