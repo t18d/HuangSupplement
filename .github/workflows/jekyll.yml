@@ -19,7 +19,6 @@ on:
       - '*.xml'
       - '**.html'
       - '**.pdf'
-      - .github/workflows/jekyll.yml
       - _config.yml
 
   workflow_run:
@@ -55,6 +54,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          fetch-depth: 2
           # Do a sparse checkout on given patterns. Each pattern should be separated with
           # new lines.
           # Default: null
@@ -67,6 +67,14 @@ jobs:
             assets/webp/
             assets/font/
             assets/pdf/
+      - name: Get author
+        id: author
+        run: |
+          echo "name=$(git log -1 --pretty=format:'%an')" >> $GITHUB_OUTPUT
+          echo "email=$(git log -1 --pretty=format:'%ae')" >> $GITHUB_OUTPUT
+          echo "msg<<EOF" >> $GITHUB_OUTPUT
+          git log -1 --pretty=%B >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
       - uses: dorny/paths-filter@v3
         id: filter
         with:
@@ -86,12 +94,15 @@ jobs:
         if: ${{ steps.filter.outputs.markdown == 'true' }}
         run: |
           sed -i "0,/last_modified_at.*/s//last_modified_at: $(date -Iseconds)/" ${{ steps.filter.outputs.markdown_files }}
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@v6
         with:
     # Optional. Commit message for the created commit.
     # Defaults to "Apply automatic changes"
-          commit_message: Apply timestamp
-          commit_user_name: git-auto-commit-action
+          commit_options: '--amend --no-edit'
+          commit_user_name: ${{ steps.author.outputs.name }}
+          commit_user_email: ${{ steps.author.outputs.email }}
+          commit_message: ${{ steps.author.outputs.msg }}
+          push_options: '--force-with-lease'
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
