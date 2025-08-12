@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-07-15T15:02:05+00:00
+last_modified_at: 2025-08-12T06:54:35+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/zenodo.15514851.svg)](https://doi.org/10.5281/zenodo.15514851)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -484,6 +484,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 外徑|/|noun|1874|外徑三寸|『申報』11月28日「怪疾二則」|
 偉大(1)|/|adjective|1899|阿君爲此一段演說。神氣甚壯。抱負偉大。|『清議報』二十四「非律賓獨立一周年」|also in Japanese: 1872 (NDL)
 西學東漸|/|idiom|1903|歐亞大通西學東漸|「泰西學案序」|from Japanese: 1882 (NDL)
+喜喪|/|noun|1718|䘮禮易而不戚 年高者且呼為喜䘮 古制全亡|『錢塘縣志·卷之七風俗』7 (地240.15/32)|
+|/|/|1837 (a1834)|杭人以福壽備而死者俗呼喜喪|梁紹壬『兩般秋雨盦隨筆·卷八』2 (79@20@1)|
 峽谷|/|noun|1902|峽谷如壁地勢隆起|『申報』7月15日「詳紀張家口鐵路里程」+|
 現代|/|noun|1875|recent ages 昭代, 現代.|鄺其照『字典集成』s.v. Recent|also in Japanese: 1894 (CHJ)
 形容詞|/|noun|c1836 (a1771)|逍遙⋯按此非必指谷名蓋與詆訐皆形容詞耳|姚範『援鶉堂筆記·卷四十一·南山詩』3 (重刻)|cf. 雖有詆訐之人
