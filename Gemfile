@@ -16,7 +16,6 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-github-metadata"
   gem "kramdown-parser-gfm"
-  gem "jekyll-coffeescript"
   gem "jekyll-relative-links"
   gem "jekyll-readme-index"
   gem "jekyll-default-layout"
