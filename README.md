@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-08-22T00:25:17+00:00
+last_modified_at: 2025-08-22T03:08:03+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/zenodo.15514851.svg)](https://doi.org/10.5281/zenodo.15514851)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -494,6 +494,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 |/|/|1837 (a1834)|杭人以福壽備而死者俗呼喜喪|梁紹壬『兩般秋雨盦隨筆·卷八』2 (79@20@1)|
 峽谷|/|noun|1902|峽谷如壁地勢隆起|『申報』7月15日「詳紀張家口鐵路里程」+|
 現代|/|noun|1875|recent ages 昭代, 現代.|鄺其照『字典集成』s.v. Recent|also in Japanese: 1894 (CHJ)
+心態|/|noun|1919|高低無定。心態屢遷。|『祈禱發𢕄總論』61|
 形容詞|/|noun|c1836 (a1771)|逍遙⋯按此非必指谷名蓋與詆訐皆形容詞耳|姚範『援鶉堂筆記·卷四十一·南山詩』3 (重刻)|cf. 雖有詆訐之人
 -性(2)|/|nominal bound root|1664|中通曰、水流下而趨中、有剛火性也、火炎上而旋昇、有柔水性也。|方以智『物理小識』|first occurrence in three-morpheme words
 學理|/|noun|1903|解釋之意義由學者一己之私見者。謂之無權的解釋亦謂之學理解釋|汪–葉『新爾雅·釋法』27|
