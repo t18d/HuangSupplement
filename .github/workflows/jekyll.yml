@@ -20,6 +20,7 @@ on:
       - '**.html'
       - '**.pdf'
       - _config.yml
+      - .github/workflows/jekyll.yml
 
   workflow_run:
     workflows:
@@ -67,6 +68,7 @@ jobs:
             assets/webp/
             assets/font/
             assets/pdf/
+            assets/svg/
       - name: Get author
         id: author
         run: |
@@ -185,6 +187,7 @@ jobs:
             assets/webp/
             assets/font/
             assets/pdf/
+            assets/svg/
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
