@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-09-18T08:17:56+00:00
+last_modified_at: 2025-09-18T08:45:15+00:00
 layout: anchor
 ---
 # Bibliography
@@ -70,7 +70,7 @@ layout: anchor
 - 沙廣聰, '接尾辞「性」の歴史：日中両語間の相互影響', master's thesis, Osaka University,
   2020.
 - 沈國威, '近代關鍵詞考源：傳統、近代、現代', 東亞觀念史集刊, 4 (2013), 433. \[現代\]
-- 沈國威, '近代關鍵詞考源：保守、進步、進化、退化、退步', 東亞觀念史集刊, 6 (2014), 306-7. \[保守, 保守黨, 保守主義\]
+- 沈國威, '近代關鍵詞考源：保守、進步、進化、退化、退步', 東亞觀念史集刊, 6 (2014), 306-7.
 - Tanomura, Tadaharu, 'カレーを表す中国語名称の変遷', 或問, 38 (2020), 15–25.
   \[咖哩\]
 - Tanomura, Tadaharu, '「接種」の語史: 種痘関連用語の生成と消長', 阪大日本語研究, 34
