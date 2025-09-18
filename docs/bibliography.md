@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-09-18T05:29:45+00:00
+last_modified_at: 2025-09-18T07:35:27+00:00
 layout: anchor
 ---
 # Bibliography
@@ -60,6 +60,7 @@ layout: anchor
 - 黃河清,
   '["界說""定義"考](http://www.huayuqiao.org/DOCC/DOC129/NO_076.php)', 語文建設,
   129 (2024), 76. \[定義\]
+- 黃興濤, '談「保險」', 文史知識, 4 (2000), 100–1. [保險, 保險公司]
 - 李志良, '「電子」一詞的譯定歷程及其意義引申', 或問, 45 (2024), 45–55.
 - 繆蓬, '晚清民國「病毒」知識的翻譯與引介：知識翻譯學視角', 當代外語研究, 4 (2022), 22–32.
 - 牛振, '近代日語譯詞對漢語地理學譯詞的影響探析', 漢字漢語研究, 24 (2023), 109–24.
