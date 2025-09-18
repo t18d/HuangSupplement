@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-09-15T06:53:38+00:00
+last_modified_at: 2025-09-18T04:06:32+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -178,6 +178,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 八重奏|/|noun|1930|/|/|from Japanese: 1918 (NDL)
 八分音符|/|/|1920|/|/|from Japanese: 1883 (NDL)
 巴士|/|noun|1931|巴士與電車在本港同走一線|『中和日報』2月28日「電車公司年會情形」|
+八音盒|/|/|1873|/|/|from Japanese: a1868 (Sugimoto)
 罷工(2)|/|verb|1819|罷 … 工 … in the ordinary sense, to strike work for a rise of wages, as is often done by the Canton weavers|Morrison, _A Dictionary of the Chinese Language_, ii/i, s.v. 罷|
 罷免|/|verb|T'ang|/|/|What changes is the political process (monarchy > dictatorship > democracy), not the semantics
 罷免權|/|/|1929|/|/|from Japanese: c1886 (NDL)
@@ -212,7 +213,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 班長(1)|/|noun|1902|續錄京師大學堂仕學院師範館學生班長副班長職務條規七條|『大公報』12月18日「時事要聞」|
 班長(2)|/|noun|1929|/|/|from Japanese: 1869 (NDL)
 版畫|/|noun|1908|An impression from an engraved plate, block of wood, or other material, 刻版印刷物, 版畫, 印畫|顏惠慶『英華大辭典』s.v. Engraving|from Japanese: 1879 (Yomidasu)
-版權|/|noun|1895 (1887)|/|黃遵憲『日本國志·食貨志二』|
+版權|/|noun|1895 (1887)|/|黃遵憲『日本國志·食貨志二』|from Japanese: 1866 (Fukuzawa)
 版式|/|noun|1932|/|/|from Japanese: 1813 (Nikkoku)
 板書(1)|/|/|1908|/|/|from Japanese: 1889 (NDL)
 半島|/|noun|1868|/|/|also in Japanese: 1801 (Nikkoku)
@@ -224,6 +225,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 半數|/|/|1889|/|/|from Japanese: 1868 (NDL)
 伴随|/|/|1930|/|/|from Japanese: 1886 (NDL)
 伴星|/|noun|1936|/|/|from Japanese: 1885 (NDL)
+半殖民地|/|noun|1920|此派之意在使土耳其成一英國之半󺀶民地|『晨報』5月2日「土耳其之將來」|
 半自動|/|/|1936|/|/|from Japanese: 1893 (NDL)
 伴奏|/|noun|1928|/|/|from Japanese: 1887 (NDL)
 幫|/|nominal bound root|1872|Party _or company,_ 羣黨 … 朋黨 … 班 … 幫|Doolittle『英華萃林韻府』s.v. Party|
@@ -525,5 +527,6 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 -主義(1)|/|nominal bound root|1883|因係官權主義聞主筆者必將更迭|『申報』3月4日「會黨類誌」|
 祝福|(intransitive)|verb|1538 (1370)|抑此乃祝福之詩非祭祀之詩|『五經蠡測·卷之四』13 (善000735)|
 |(transitive)|/|1837|故皇上帝祝福是日、以爲聖日也。|『東西洋考每月統記傳』丁酉年六月「以色列遊野」|
+著作權|/|/|/|/|/|from Japanese: 1899 (Mizuno)
 資金(2)|money for a particular purpose|noun|1901|此時.乙不有滙資金.或不爲負擔債務.而拒絕清償.則買受者.對前者請求償還|『湖北商務報』90, 18|from Japanese: 1874 (Nikkoku); 資金(1) should probably be subsumed
 X光線|/|/|1903|/|/|from Japanese: 1896 (Nikkoku); X光 is a [Chinese development](https://github.com/t18d/HuangSupplement/pull/36/commits/818c96432900119c5ea6ce03b389e5cefa84a5b1)
