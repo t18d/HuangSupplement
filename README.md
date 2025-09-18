@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-09-18T08:15:05+00:00
+last_modified_at: 2025-09-18T12:03:29+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -249,6 +249,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 保證書|/|noun|1895 (1887)|又住在裁判所管內饒有貲產者亦可代納應充金額之保證書|黃遵憲『日本國志·刑法志二』|
 暴風|/|noun|1822|TEMPEST of wind, 暴風 … or reversed|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. TEMPEST|
 報告(1)|/|verb|1895 (1887)|若更命留禁要將其事由報告裁判長|黃遵憲『日本國志·刑法志一』|
+報刊|/|noun|1921|北京從五四以來，出版界日見增高，尤以雜誌報刋爲最多。|『益世報』10月17日「需要的文學作品」|
 暴力|/|noun|1902|決非以暴力為尚而以自由為尚。人人以自由為尚此平等所由出也。|梁啟超輯譯『近世歐洲四大家政治學說』13|
 暴雨|/|noun|1857|有燥土而時有暴雨、成大水不能潤土者|W. Muirhead in『六合叢談』1/13, 10|
 北極星(2)|/|noun|Liang|十月乙丑有流星⋯出紫宮內北極星東南行三丈没空中|蕭子顯『南齊書·卷十三天文下』|
