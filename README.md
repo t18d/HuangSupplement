@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-09-18T05:11:25+00:00
+last_modified_at: 2025-09-18T07:29:30+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -241,7 +241,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note
 飽和點|/|noun|1950|/|/|from Japanese: 1875 (NDL)
 寶庫|/|noun|1916|/|/|from Japanese 宝庫: 1808 (Koten)
 保留(1)|/|verb|1903|締結撤兵條約。其始或以保留權利許還清國為名。|『國民同盟會始末』55|
-保險公司|/|NP|1868|insurance company, 保險會 … 保險公司|Lobscheid『英華字典』s.v. Insurance|
+保險(2)|/|noun|1862|啟者以上三大公司保險現歸本行辦理|『上海新報』第四十五號「洋船保險」|
+保險公司|/|NP|1862|大美國鳥喲󱛛日同保險公司|『上海新報』第四十五號「洋船保險」|
 保證書|/|noun|1895 (1887)|又住在裁判所管內饒有貲產者亦可代納應充金額之保證書|黃遵憲『日本國志·刑法志二』|
 暴風|/|noun|1822|TEMPEST of wind, 暴風 … or reversed|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. TEMPEST|
 報告(1)|/|verb|1895 (1887)|若更命留禁要將其事由報告裁判長|黃遵憲『日本國志·刑法志一』|
