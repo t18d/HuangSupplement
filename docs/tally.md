@@ -5,7 +5,7 @@ permalink: tally/
 seo:
   type: Dataset
   name: A Tally of Dictionaries
-last_modified_at: 2025-02-27T06:44:20+00:00
+last_modified_at: 2025-09-18T02:25:57+00:00
 layout: anchor
 ---
 # A Tally of Dictionaries
@@ -24,8 +24,10 @@ layout: anchor
 - 7th edn, 2016
 - ~69,000(?) words
 - No quotation evidence
-- [Early editions](https://github.com/t18d/HuangSupplement/wiki/Checklist-of-Editions#%E7%8F%BE%E4%BB%A3%E6%BC%A2%E8%AA%9E%E8%A9%9E%E5%85%B8) tend to offer better analysis
-- A barometer of economic conditions
+- [Early
+  editions](https://github.com/t18d/HuangSupplement/wiki/Checklist-of-Editions#%E7%8F%BE%E4%BB%A3%E6%BC%A2%E8%AA%9E%E8%A9%9E%E5%85%B8) tend to offer
+  better analysis
+- A barometer of economic conditions (revision began in 2023)
 
 ## _Hsien tai Han yü kuei fan tz’u tien_
 
