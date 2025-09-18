@@ -96,6 +96,9 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 飽和點,/,noun,1950,/,/,from Japanese: 1875 (NDL)
 寶庫,/,noun,1916,/,/,from Japanese 宝庫: 1808 (Koten)
 保留(1),/,verb,1903,締結撤兵條約。其始或以保留權利許還清國為名。,『國民同盟會始末』55,
+保守,/,/,1897,/,/,from Japanese: 1886 (Shen 2014)
+保守黨,/,/,1897,/,/,from Japanese: 1886 (Shen 2014)
+保守主義,/,/,1898,/,/,from Japanese: 1884 (Shen 2014)
 保險(2),/,noun,1862,啟者以上三大公司保險現歸本行辦理,『上海新報』第四十五號「洋船保險」,
 保險公司,/,NP,1862,大美國鳥喲󱛛日同保險公司,『上海新報』第四十五號「洋船保險」,
 保證書,/,noun,1895 (1887),又住在裁判所管內饒有貲產者亦可代納應充金額之保證書,黃遵憲『日本國志·刑法志二』,
@@ -232,7 +235,7 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 句讀,/,noun,c1344 (a1134),句讀凡經書成文語絶處謂之句語未絶而點分之以便誦詠謂之讀⋯又屋韻 增入,『增修互註禮部韻略·卷第四·五十󶤾』(012278),postdating: earliest instance of 讀 as comma
 卡車,/,noun,1923,曾宣言阻止外来卡車入路線之事、致有引起一般人之誤解、以卡車作乗客之車輛⋯此項卡車係専指運貨笨重之車而言,『申報』7月14日「滬太公司近況」,
 考古,practise archaeology,verb,1902,瑞國得了這個古迹 考古的人 個個爭先再尋,『大公報』8月2日「新石代」,
-考古學,/,noun,1896,"Археологія, Као-гу-сі*о* 考古學",Попов『俄漢合璧増補字彙』,from Japanese 考古学: 1877/79 (Tanomura)
+考古學,/,noun,1896,"Археологія, Као-гу-сі*о* 考古學",Попов『俄漢合璧増補字彙』,from Japanese 考古学: 1877/79 (Tanomura 2025)
 考古學家,/,noun,1907,義國夙以文明之淵藪見稱而入其境問十二銅標所在國人概答不知問之考古學家亦答不知,『順天時報』11月9日「客談歐美各國情形」,
 科學,/,adjective,1914,聚百十不科學無條理之人日發生不痛不癢不達時勢之議論,『時事新報』12月4日「清朝復辟案之反響」,[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=科學)
 可喜的,/,adjective,1904,所以驚奇可喜的事 人乍聽了 無不拍案呌絶,『京話日報』8月17日「達威德爾偵探記 第一節」,first occurrence as -的
@@ -383,6 +386,6 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 -主義(1),/,nominal bound root,1883,因係官權主義聞主筆者必將更迭,『申報』3月4日「會黨類誌」,
 祝福,(intransitive),verb,1538 (1370),抑此乃祝福之詩非祭祀之詩,『五經蠡測·卷之四』13 (善000735),
 ,(transitive),/,1837,故皇上帝祝福是日、以爲聖日也。,『東西洋考每月統記傳』丁酉年六月「以色列遊野」,
-著作權,/,/,/,/,/,from Japanese: 1899 (Mizuno)
+著作權,/,/,1905,/,/,from Japanese: 1899 (Mizuno)
 資金(2),money for a particular purpose,noun,1901,此時.乙不有滙資金.或不爲負擔債務.而拒絕清償.則買受者.對前者請求償還,"『湖北商務報』90, 18",from Japanese: 1874 (Nikkoku); 資金(1) should probably be subsumed
 X光線,/,/,1903,/,/,from Japanese: 1896 (Nikkoku); X光 is a [Chinese development](https://github.com/t18d/HuangSupplement/pull/36/commits/818c96432900119c5ea6ce03b389e5cefa84a5b1)
