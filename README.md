@@ -5,16 +5,24 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-09-19T14:47:11+00:00
+last_modified_at: 2025-09-20T00:11:58+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
 <br>
 <br>
 <br>
-<p>This database is searchable as a <a href="https://github.com/t18d/HuangSupplement/blob/main/supplement.csv">CSV file</a>. The quickest way to get an addition or correction merged is to fork the repo or <a href="https://github.com/t18d/HuangSupplement/wiki/Clone-the-repo">clone locally</a>, edit the CSV file and send in a pull request.</p>
+<p>This database is searchable as 
+  <a href="https://github.com/t18d/HuangSupplement/tree/main/dict">CSVs</a>. 
+  The quickest way to get an addition or correction merged is to fork the repo 
+  or <a href="https://github.com/t18d/HuangSupplement/wiki/Clone-the-repo">clone 
+  locally</a>, edit the CSV file and send in a pull request.</p>
   
-<p>The focus is on antedating and amending entries where the lemma is still current in everyday usage. Editorial history and argumentation can be accessed via <a href="https://github.com/t18d/HuangSupplement/blame/main/supplement.csv">git blame</a>.</p>
+<p>The focus is on antedating and amending entries where the lemma is still 
+  current in everyday usage. Triage of items compiled in Yang's <a 
+  href="https://github.com/t18d/HuangSupplement/blob/main/Yang%20Ch’ih%20近代漢字詞史研究文獻目錄.csv">bibliography</a>
+  is underway. Editorial history and argumentation can be accessed via git 
+  blame.</p>
 
 <div align="center">
 <a href="https://github.com/t18d/HuangSupplement/wiki/Notes-to-Contributors">Notes to Contributors</a> ·
