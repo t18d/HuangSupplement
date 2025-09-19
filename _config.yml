@@ -14,5 +14,7 @@ plugins:
   - jekyll-relative-links                
   - jekyll-readme-index                
   - jekyll-default-layout
+  - csv
+  - base64
 incremental: true
 exclude: ["assets/pdf/Basic references for pre-Han and Han Chinese.pdf", "requirements.txt", "*.ttf", "*.csv", "*.py", "LICENSE"]

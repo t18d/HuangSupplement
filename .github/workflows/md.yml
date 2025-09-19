@@ -1,0 +1,88 @@
+name: Process MDs
+run-name: Process MDs
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'dict/*.csv'
+      - '**/*.md'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2   # Enough history to amend last commit
+          sparse-checkout: |
+            docs/
+            build/
+            scripts/
+            dict/
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Detect file changes
+        id: filter
+        uses: dorny/paths-filter@v3
+        with:
+          list-files: shell
+          filters: |
+            csv:
+              - 'dict/*.csv'
+            md:
+              - added|modified: 'build/*.md'
+              - added|modified: 'docs/*.md'
+              - added|modified: 'README.md'
+
+
+      # Handle CSV changes in batch OR rebuild all on dispatch
+      - name: Process CSVs
+        if: steps.filter.outputs.csv == 'true' || github.event_name == 'workflow_dispatch'
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Manual dispatch: processing ALL CSV files in dict/"
+            python scripts/csv-to-md.py dict/*.csv
+          else
+            echo "CSV files: ${{ steps.filter.outputs.csv_files }}"
+            python scripts/csv-to-md.py ${{ steps.filter.outputs.csv_files }}
+          fi
+
+      # Handle Markdown changes in batch (no dispatch override)
+      - name: Update last_modified_at in changed MDs
+        if: steps.filter.outputs.md == 'true'
+        run: |
+          echo "Markdown files: ${{ steps.filter.outputs.md_files }}"
+          sed -i \
+            "0,/last_modified_at.*/s//last_modified_at: $(date -Iseconds)/" \
+            ${{ steps.filter.outputs.md_files }}
+
+      # Capture original commit author and message
+      - name: Get author
+        id: author
+        run: |
+          echo "name=$(git log -1 --pretty=format:'%an')" >> $GITHUB_OUTPUT
+          echo "email=$(git log -1 --pretty=format:'%ae')" >> $GITHUB_OUTPUT
+          {
+            echo "msg<<EOF"
+            git log -1 --pretty=%B
+            echo "EOF"
+          } >> $GITHUB_OUTPUT
+
+      # Amend the last commit instead of creating a new one
+      - uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_options: '--amend --no-edit'
+          commit_user_name: ${{ steps.author.outputs.name }}
+          commit_user_email: ${{ steps.author.outputs.email }}
+          commit_message: ${{ steps.author.outputs.msg }}
+          push_options: '--force-with-lease'
+

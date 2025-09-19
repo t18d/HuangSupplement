@@ -1,17 +1,14 @@
-# This workflow uses actions that are not certified by GitHub.
-# They are provided by a third-party and are governed by
-# separate terms of service, privacy policy, and support
-# documentation.
-
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll site to Pages
 
 on:
-  # Runs on pushes targeting the default branch
+  workflow_run:
+    workflows:
+      - "Process MDs"
+      - "Monitor Checklist"
+    types: [completed]
   push:
-    branches: ['main']
+    branches: [main]
     paths:
-      - '**.md'
       - '**.css'
       - '**.webp'
       - '**.svg'
@@ -21,254 +18,258 @@ on:
       - '**.pdf'
       - _config.yml
       - .github/workflows/jekyll.yml
-
-  workflow_run:
-    workflows:
-      - "Generate README.md"
-      - "Generate obsolete.md"
-      - "Generate orthography.md"
-      - "Generate style.md"
-      - "Monitor Checklist"
-    types: [completed]
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: write
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  # Build job
-  build1:
+  build:
     runs-on: ubuntu-latest
-    if: ${{ github.event_name == 'push' }}
+    if: ${{ 
+      (github.event_name == 'workflow_run' 
+        && github.event.workflow_run.conclusion == 'success') 
+      || github.event_name == 'workflow_dispatch' 
+      || github.event_name == 'push' 
+      }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 2
-          # Do a sparse checkout on given patterns. Each pattern should be separated with
-          # new lines.
-          # Default: null
           sparse-checkout: |
             _includes/
             _layouts/
+            build/
             docs/
+            dict/
             assets/css/
             assets/js/
             assets/webp/
             assets/font/
             assets/pdf/
             assets/svg/
-      - name: Get author
-        id: author
-        run: |
-          echo "name=$(git log -1 --pretty=format:'%an')" >> $GITHUB_OUTPUT
-          echo "email=$(git log -1 --pretty=format:'%ae')" >> $GITHUB_OUTPUT
-          echo "msg<<EOF" >> $GITHUB_OUTPUT
-          git log -1 --pretty=%B >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
-      - uses: dorny/paths-filter@v3
-        id: filter
-        with:
-    # Enable listing of files matching each filter.
-    # Paths to files will be available in `${FILTER_NAME}_files` output variable.
-    # Paths will be escaped and space-delimited.
-    # Output is usable as command-line argument list in Linux shell
-          list-files: shell
 
-    # In this example changed files will be checked by linter.
-    # It doesn't make sense to lint deleted files.
-    # Therefore we specify we are only interested in added or modified files.
-          filters: |
-            markdown:
-              - added|modified: '**.md'
-      - name: Lint Markdown
-        if: ${{ steps.filter.outputs.markdown == 'true' }}
-        run: |
-          sed -i "0,/last_modified_at.*/s//last_modified_at: $(date -Iseconds)/" ${{ steps.filter.outputs.markdown_files }}
-      - uses: stefanzweifel/git-auto-commit-action@v6
-        with:
-    # Optional. Commit message for the created commit.
-    # Defaults to "Apply automatic changes"
-          commit_options: '--amend --no-edit'
-          commit_user_name: ${{ steps.author.outputs.name }}
-          commit_user_email: ${{ steps.author.outputs.email }}
-          commit_message: ${{ steps.author.outputs.msg }}
-          push_options: '--force-with-lease'
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3' # Not needed with a `.ruby-version` or `.tool-versions`
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-          cache-version: 0 # Increment this number if you need to re-download cached gems
+          ruby-version: 'ruby'
+          bundler-cache: true
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+
       - name: Build with Jekyll
-        # Outputs to the './_site' directory by default
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        run: |
+          bundle exec jekyll build \
+          --baseurl "${{ steps.pages.outputs.base_path }}"
+
         env:
           JEKYLL_ENV: production
-      - name: HTML/CSS/JS Minifier
+
+      - name: Minify HTML/CSS/JS
         uses: docker://devatherock/minify-js:3.1.0
         with:
           directory: './_site'
           add_suffix: false
           exclusions: |-
             assets/js/
-      - uses: actions/setup-node@v4
-        with:
-          cache: 'npm'
-          cache-dependency-path: 'LICENSE'
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.13'
-          cache: 'pip' # caching pip dependencies
-      - run: pip install -r requirements.txt
-      - name: Cache FSung-su.woff2
-        id: cache-su
-        uses: actions/cache@v4
-        with:
-          path: _site/assets/FSung-su.woff2
-          key: cache-${{ hashFiles('supplement.csv') }}
-      - name: Generate FSung-su.woff2
-        if: steps.cache-su.outputs.cache-hit != 'true'
-        run: |
-          sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0
-          npx glyphhanger ./_site/index.html --formats=woff2 --subset=assets/font/*.ttf
-          fonttools merge assets/font/*subset*
-          npx glyphhanger --subset=merged.ttf --formats=woff2
-          cp merged-subset.woff2 _site/assets/FSung-su.woff2
-          rm assets/font/*subset* merged*
-      - name: Cache FSung-ob.woff2
-        id: cache-ob
-        uses: actions/cache@v4
-        with:
-          path: _site/assets/FSung-ob.woff2
-          key: cache-${{ hashFiles('obsolete.csv') }}
-      - name: Generate FSung-ob.woff2
-        if: steps.cache-ob.outputs.cache-hit != 'true'
-        run: |
-          sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0
-          npx glyphhanger ./_site/obsolete/index.html --formats=woff2 --subset=assets/font/*.ttf
-          fonttools merge assets/font/*subset*
-          npx glyphhanger --subset=merged.ttf --formats=woff2
-          cp merged-subset.woff2 _site/assets/FSung-ob.woff2
-      - name: Upload artifact
-        # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v3
 
-  build2:
-    runs-on: ubuntu-latest
-    if: ${{ github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          # Do a sparse checkout on given patterns. Each pattern should be separated with
-          # new lines.
-          # Default: null
-          sparse-checkout: |
-            _includes/
-            _layouts/
-            docs/
-            assets/css/
-            assets/js/
-            assets/webp/
-            assets/font/
-            assets/pdf/
-            assets/svg/
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.3' # Not needed with a `.ruby-version` or `.tool-versions`
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-          cache-version: 0 # Increment this number if you need to re-download cached gems
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
-      - name: Build with Jekyll
-        # Outputs to the './_site' directory by default
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
-        env:
-          JEKYLL_ENV: production
-      - name: HTML/CSS/JS Minifier
-        uses: docker://devatherock/minify-js:3.1.0
-        with:
-          directory: './_site'
-          add_suffix: false
-          exclusions: |-
-            assets/js/
       - uses: actions/setup-node@v4
-        with:
-          cache: 'npm'
-          cache-dependency-path: 'LICENSE'
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
-          cache: 'pip' # caching pip dependencies
-      - run: pip install -r requirements.txt
-      - name: Cache FSung-su.woff2
-        id: cache-su
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # Explicit per-page caches
+      - name: Cache font a
         uses: actions/cache@v4
         with:
-          path: _site/assets/FSung-su.woff2
-          key: cache-${{ hashFiles('supplement.csv') }}
-      - name: Generate FSung-su.woff2
-        if: steps.cache-su.outputs.cache-hit != 'true'
-        run: |
-          sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0
-          npx glyphhanger ./_site/index.html --formats=woff2 --subset=assets/font/*.ttf
-          fonttools merge assets/font/*subset*
-          npx glyphhanger --subset=merged.ttf --formats=woff2
-          cp merged-subset.woff2 _site/assets/FSung-su.woff2
-          rm assets/font/*subset* merged*
-      - name: Cache FSung-ob.woff2
-        id: cache-ob
+          path: _site/assets/FSung-a.woff2
+          key: cache-a-${{ hashFiles('dict/a.csv') }}
+      - name: Cache font b
         uses: actions/cache@v4
         with:
-          path: _site/assets/FSung-ob.woff2
-          key: cache-${{ hashFiles('obsolete.csv') }}
-      - name: Generate FSung-ob.woff2
-        if: steps.cache-ob.outputs.cache-hit != 'true'
+          path: _site/assets/FSung-b.woff2
+          key: cache-b-${{ hashFiles('dict/b.csv') }}
+      - name: Cache font c
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-c.woff2
+          key: cache-c-${{ hashFiles('dict/c.csv') }}
+      - name: Cache font d
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-d.woff2
+          key: cache-d-${{ hashFiles('dict/d.csv') }}
+      - name: Cache font e
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-e.woff2
+          key: cache-e-${{ hashFiles('dict/e.csv') }}
+      - name: Cache font f
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-f.woff2
+          key: cache-f-${{ hashFiles('dict/f.csv') }}
+      - name: Cache font g
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-g.woff2
+          key: cache-g-${{ hashFiles('dict/g.csv') }}
+      - name: Cache font h
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-h.woff2
+          key: cache-h-${{ hashFiles('dict/h.csv') }}
+      - name: Cache font i
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-i.woff2
+          key: cache-i-${{ hashFiles('dict/i.csv') }}
+      - name: Cache font j
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-j.woff2
+          key: cache-j-${{ hashFiles('dict/j.csv') }}
+      - name: Cache font k
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-k.woff2
+          key: cache-k-${{ hashFiles('dict/k.csv') }}
+      - name: Cache font l
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-l.woff2
+          key: cache-l-${{ hashFiles('dict/l.csv') }}
+      - name: Cache font m
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-m.woff2
+          key: cache-m-${{ hashFiles('dict/m.csv') }}
+      - name: Cache font n
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-n.woff2
+          key: cache-n-${{ hashFiles('dict/n.csv') }}
+      - name: Cache font o
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-o.woff2
+          key: cache-o-${{ hashFiles('dict/o.csv') }}
+      - name: Cache font p
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-p.woff2
+          key: cache-p-${{ hashFiles('dict/p.csv') }}
+      - name: Cache font q
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-q.woff2
+          key: cache-q-${{ hashFiles('dict/q.csv') }}
+      - name: Cache font r
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-r.woff2
+          key: cache-r-${{ hashFiles('dict/r.csv') }}
+      - name: Cache font s
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-s.woff2
+          key: cache-s-${{ hashFiles('dict/s.csv') }}
+      - name: Cache font t
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-t.woff2
+          key: cache-t-${{ hashFiles('dict/t.csv') }}
+      - name: Cache font u
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-u.woff2
+          key: cache-u-${{ hashFiles('dict/u.csv') }}
+      - name: Cache font v
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-v.woff2
+          key: cache-v-${{ hashFiles('dict/v.csv') }}
+      - name: Cache font w
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-w.woff2
+          key: cache-w-${{ hashFiles('dict/w.csv') }}
+      - name: Cache font x
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-x.woff2
+          key: cache-x-${{ hashFiles('dict/x.csv') }}
+      - name: Cache font y
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-y.woff2
+          key: cache-y-${{ hashFiles('dict/y.csv') }}
+      - name: Cache font z
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-z.woff2
+          key: cache-z-${{ hashFiles('dict/z.csv') }}
+      - name: Cache font letter
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-letter.woff2
+          key: cache-letter-${{ hashFiles('dict/letter.csv') }}
+      - name: Cache font obsolete
+        uses: actions/cache@v4
+        with:
+          path: _site/assets/FSung-obsolete.woff2
+          key: cache-obsolete-${{ hashFiles('dict/obsolete.csv') }}
+
+      - name: Generate fonts
         run: |
+          set -e
           sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0
-          npx glyphhanger ./_site/obsolete/index.html --formats=woff2 --subset=assets/font/*.ttf
-          fonttools merge assets/font/*subset*
-          npx glyphhanger --subset=merged.ttf --formats=woff2
-          cp merged-subset.woff2 _site/assets/FSung-ob.woff2
-      - name: Upload artifact
-        # Automatically uploads an artifact from the './_site' directory by default
+          for page in a b c d e f g h i j k l m n o p q r s t u v w x y z letter obsolete; do
+            html="./_site/$page/index.html"
+            csv="dict/$page.csv"
+            out="_site/assets/FSung-$page.woff2"
+
+            if [ ! -f "$csv" ] || [ ! -f "$html" ]; then
+              echo "Skipping $page (missing $csv or $html)"
+              continue
+            fi
+
+            if [ -f "$out" ]; then
+              echo "Font for $page already cached, skipping."
+              continue
+            fi
+
+            echo "Generating font for $page..."
+            npx glyphhanger "$html" --formats=woff2 --subset=assets/font/*.ttf
+            fonttools merge assets/font/*subset*
+            npx glyphhanger --subset=merged.ttf --formats=woff2
+            cp merged-subset.woff2 "$out"
+            rm -f assets/font/*subset* merged*
+          done
+
+      - name: Upload complete site
         uses: actions/upload-pages-artifact@v3
-  
-  # Deployment job
-  deploy1:
+        with:
+          path: _site
+
+  deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build1
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-  
-  deploy2:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build2
+    needs: build
     steps:
       - name: Deploy to GitHub Pages
         id: deployment

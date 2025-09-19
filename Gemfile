@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Use the latest version.
-gem "jekyll", "~> 4.3.3"
+gem "jekyll", "~> 4.4.1"
 
 # The theme of current site, locked to a certain version.
 # gem "jekyll-theme-primer"

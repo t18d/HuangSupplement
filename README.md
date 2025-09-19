@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-09-18T14:11:35+00:00
+last_modified_at: 2025-09-19T14:47:11+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -120,8 +120,8 @@ last_modified_at: 2025-09-18T14:11:35+00:00
       <li><a href="https://t18d.github.io/HuangSupplement/orthography/">An Orthographic Appendix</a></li>
       <li><a href="https://t18d.github.io/HuangSupplement/diglossia/">On Diglossia</a></li>
       <li><a href="https://t18d.github.io/HuangSupplement/obsolete/">Obsolete Words</a></li>
-      <li><a href="https://github.com/t18d/HuangSupplement/blob/main/anatomy.csv">Anatomical Terms</a></li>
-      <li><a href="https://github.com/t18d/HuangSupplement/blob/main/loanwords.csv">Loanwords</a></li>
+      <li><a href="https://github.com/t18d/HuangSupplement/blob/main/scratch/anatomy.csv">Anatomical Terms</a></li>
+      <li><a href="https://github.com/t18d/HuangSupplement/blob/main/scratch/loanwords.csv">Loanwords</a></li>
     </ul>
   </details>
 </p>
@@ -136,404 +136,39 @@ last_modified_at: 2025-09-18T14:11:35+00:00
   </details>
 </p>
 <br>
+<p align="center">
+<a href="https://t18d.github.io/HuangSupplement/a/">A (29)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/b/">B (119)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/c/">C (17)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/d/">D (14)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/e/">E (1)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/f/">F (15)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/g/">G (10)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/h/">H (8)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/i/">I (0)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/j/">J (9)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/k/">K (7)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/l/">L (6)</a> ·
 <br>
-<p align="right">
+<a href="https://t18d.github.io/HuangSupplement/m/">M (7)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/n/">N (30)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/o/">O (1)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/p/">P (8)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/q/">Q (26)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/r/">R (2)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/s/">S (16)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/t/">T (5)</a> ·
+<br>
+<a href="https://t18d.github.io/HuangSupplement/u/">U (0)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/v/">V (0)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/w/">W (2)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/x/">X (9)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/y/">Y (7)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/z/">Z (14)</a> ·
+<br>
+<a href="https://t18d.github.io/HuangSupplement/letter/">Lettered (1)</a>
+</p>
+<br>
+<p align="center">
   v2025.9.0 (FSung: v1.70)
 </p>
-<!-- Anything not in the table must be before this comment. -->
-
-Lemma|Sense|Word Class|Year|Quotation|Source|Note 
----|---|---|---|---|---|---
--癌|/|nominal bound root|1902|口唇觸煙管處數發表皮癌等|『中學生理教科書』155|from Japanese: 1666 (Nikkoku)
-癌症|/|noun|1911|烟熏口唇咽喉⋯兩唇含烟之處。易生癌症。|『申報』7月16日「論烟草與衛生之關係」|from Japanese: 1875 (NDL)
-矮林|/|/|1909|/|/|from Japanese: 1877 (Nikkoku)
-矮星|/|/|1934|/|/|from Japanese: 1919 (Hathi)
-愛稱|/|/|1957|/|/|from Japanese: 1876 (Yomidasu)
-愛國主義|/|/|1903|/|/|from Japanese: 1880 (NDL)
-愛國者|/|/|1902|/|/|from Japanese: 1873 (NDL)
-愛好者|/|/|1950|/|/|from Japanese: 1877 (Yomidasu)
-愛妻|/|noun|1165 (a233)|吳起之出愛妻文公之斬顚頡皆違其情者也|『韓非子·卷第十三外儲說右上』(17857)|
-愛情|/|noun|a1641|司愛欲者。愛一物。必生一愛情而内含存之。|Ruggieri『天主聖教實錄』(Jap. Sin. I-54)|
-愛犬|/|/|1914|/|/|from Japanese: a1842 (Nikkoku)
-愛人(2)|/|noun|1908|One in love, 愛人, 相好, 情人|顏惠慶『英華大辭典』s.v. Lover|from Japanese: 1862 (Nikkoku); cf. 雙解英和大辭典 s.v.
-|/|/|1909|原來我方纔腦中的幻象。却變了眼前的眞境。我那愛人來了。我那愛人來了。|『民吁日報』十月念三號「古井波 (續)」|
-安樂椅|/|noun|1905|安樂椅鐵床。安置得齊整。|『閨秀救國小說 女媧石』乙卷, 8|from Japanese: a1891 (NDL)
-安樂椅子|/|NP|1912 (1910)|at the foot of your easy chair … 於安樂椅子之下|『英文書翰鑰』208|from Japanese: 1881 (NDL)
-安全島|/|/|1930|/|/|from Japanese: 1918 (Yomidasu)
-安全燈|/|/|1903|/|/|from Japanese: 1872 (NDL)
-安全地帶|/|/|1930|/|/|from Japanese 安全地𭘧: 1890 (NDL)
-安全第一|/|/|1930|/|/|from Japanese: 1911 (Asahi)
-安全剃刀|/|/|1930|/|/|from Japanese: 1886 (Nikkoku)
-安全係數|/|/|1958|/|/|from Japanese: 1895 (NDL)
-暗流|/|/|1903|/|/|from Japanese: 1894 (Asahi)
-暗生植物|/|NP|1887|Cryptogam{e}æ 暗生植物|Fryer『西藥大成藥品中西名目表』18|dog-Latin: Kretschmer §31
-暗示|/|/|1903|/|/|from Japanese: 1879 (Yomidasu)
-暗室|/|noun|1664|故山市海市暗室一隙皆得轉吸而見之|方以智『物理小識』|
-暗箱|/|/|1901|/|/|from Japanese: c1868 (Nikkoku)
-暗轉|/|/|1948|/|/|from Japanese: 1908 (Yomidasu)
-凹版|/|/|1913|/|/|from Japanese: 1890 (NDL)
-凹面鏡|/|noun|1902|/|/|from Japanese: 1872 (CHJ)
-凹透鏡|/|noun|1930|/|/|from Japanese 複凹透鏡: c1876 (NDL)
-八重唱|/|noun|1930|/|/|from Japanese: 1906 (NDL)
-八重奏|/|noun|1930|/|/|from Japanese: 1918 (NDL)
-八分音符|/|/|1920|/|/|from Japanese: 1883 (NDL)
-巴士|/|noun|1931|巴士與電車在本港同走一線|『中和日報』2月28日「電車公司年會情形」|
-八音盒|/|/|1873|/|/|from Japanese: a1868 (Sugimoto)
-罷工(2)|/|verb|1819|罷 … 工 … in the ordinary sense, to strike work for a rise of wages, as is often done by the Canton weavers|Morrison, _A Dictionary of the Chinese Language_, ii/i, s.v. 罷|
-罷免|/|verb|T'ang|/|/|What changes is the political process (monarchy > dictatorship > democracy), not the semantics
-罷免權|/|/|1929|/|/|from Japanese: c1886 (NDL)
-霸權|/|/|1896|/|/|from Japanese: 1870 (NDL)
-白癡(1)|unintelligent|adjective|c1200 (c282)|不慧蓋丗所謂白癡|杜預 in『春秋正義·卷第十九成公』64 (7283)|
-|/|/|1909|觀此而猶不覺悟者。必白痴之人也。|『神州日報』3月23日「美洲通信」|
-白癡(2)|idiot|noun|1904|汝之家產不久將復歸於白痴之手。汝尚不悟耶。|冷血『偵探談二』90|also in Japanese 白痴: 1886 (NDL)
-|(as term of abuse)|/|1917|(白痴投稿)|『日知報』4月12日「白牡丹之打櫻桃」|
-|(with -式)|/|1923|那些白痴式的忠臣以爲敷衍學生，總得㩀學生爲己有。|『民國日報』11月21日「教育部老早該撤廢」|
-白堊紀|/|noun|1902|白堊紀 此紀因英德法三國、多產白堊、故以此命名|『地質學簡易教科書·歷史篇』4|from Japanese: 1892 (NDL)
-白粉(2)|/|noun|1857|此時草木暢茂、成煤層、其上為新紅沙石、黃灰石、石膏、石鹽、蛋粉石、白粉、火石|W. Muirhead in『六合叢談』1/2, 2|
-白金|/|noun|1848|Platina, 白金|Medhurst, _English and Chinese Dictionary_, s.v. Platina|
-白鯨|/|/|1931|/|/|from Japanese: 1877 (NDL)
-白開水|/|NP|c1813 (a1811)|右二味⋯每服一二錢。白開水送下。|吳瑭『溫病條辨·卷三下焦篇』55|
-白内障|/|noun|1906|白內障(白翳)者。因于水晶體之溷濁。|『中學生理衛生教科書』100|from Japanese: 1867 (NDL); 白色內障 attested in Chinese by 1644
-白熱(1)|/|adjective|1867|white heat, 白熱|Lobscheid『英華字典』s.v. Heat|
-白色恐怖|/|/|1928|/|/|from Japanese: 1923 (NDL)
-白血病|/|/|1907|/|/|from Japanese: 1875 (NDL)
-白夜|/|/|1954|/|/|from Japanese: 1913 (Nikkoku)
-白雲岩|/|/|1954|/|/|from Japanese: 1891 (NDL)
-白質|/|/|1880|/|/|from Japanese: 1870 (NDL)
-百分率|/|/|1902|/|/|from Japanese: 1875 (NDL)
-百合花|/|noun|a1487 (a863)|元和末海陵夏侯乙庭前生百合花大於常數倍異之|段成式『酉陽雜俎·卷六·器奇』3 (03915)|
-百合科|/|/|1903|/|/|from Japanese: 1884 (Nikkoku)
-百日咳|/|/|1902|/|/|from Japanese: 1797 (Nikkoku)
-敗訴|/|/|1907|/|/|from Japanese: a1889 (NDL)
-敗血症|/|/|1909|/|/|from Japanese: 1876 (NDL)
-擺(1)|/|nominal bound root|1868|of o'clock, 擺|Lobscheid『英華字典』s.v. Pendulum|
-拜金主義|/|noun|1907|實不外拜金主義也|『申報』4月8日「不允唐侍郞辭職辦路」|from Japanese: 1888 (NDL)
-斑馬|/|noun|1868|Zebra 斑馬|鄺其照『字典集成』s.v. Zebra|
-扳手(2)|/|noun|1893|其彈子均由後膛旁孔納入，膛下設木把手，用右手把住扳手 …|鄭觀應『盛世危言‧火器』|
-班長(1)|/|noun|1902|續錄京師大學堂仕學院師範館學生班長副班長職務條規七條|『大公報』12月18日「時事要聞」|
-班長(2)|/|noun|1929|/|/|from Japanese: 1869 (NDL)
-版畫|/|noun|1908|An impression from an engraved plate, block of wood, or other material, 刻版印刷物, 版畫, 印畫|顏惠慶『英華大辭典』s.v. Engraving|from Japanese: 1879 (Yomidasu)
-版權|/|noun|1895 (1887)|/|黃遵憲『日本國志·食貨志二』|from Japanese: 1866 (Fukuzawa)
-版式|/|noun|1932|/|/|from Japanese: 1813 (Nikkoku)
-板書(1)|/|/|1908|/|/|from Japanese: 1889 (NDL)
-半島|/|noun|1868|/|/|also in Japanese: 1801 (Nikkoku)
-半導体|/|noun|1931|/|/|from Japanese: c1877 (NDL)
-半島戦争|/|NP|1903|/|/|from Japanese: 1873 (NDL)
-半封建|/|adjective|1936|/|/|from Japanese: 1889 (NDL)
-半旗|/|adverb|1876|「大日本國事 半旗弔慰」|『萬國公報』396, 23|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=半旗)
-伴生|/|/|1903|/|/|from Japanese: 1886 (NDL)
-半數|/|/|1889|/|/|from Japanese: 1868 (NDL)
-伴随|/|/|1930|/|/|from Japanese: 1886 (NDL)
-伴星|/|noun|1936|/|/|from Japanese: 1885 (NDL)
-半殖民地|/|noun|1920|此派之意在使土耳其成一英國之半󺀶民地|『晨報』5月2日「土耳其之將來」|
-半自動|/|/|1936|/|/|from Japanese: 1893 (NDL)
-伴奏|/|noun|1928|/|/|from Japanese: 1887 (NDL)
-幫|/|nominal bound root|1872|Party _or company,_ 羣黨 … 朋黨 … 班 … 幫|Doolittle『英華萃林韻府』s.v. Party|
-綁票|/|verb|1899|名爲綁票又名請財神|『申報』9月15日|
-包圍|/|noun|1907|/|/|from Japanese: 1879 (NDL)
-包物|/|noun|1907|/|/|from Japanese: 1871 (NDL)
-胞子|/|noun|1903|/|/|from Japanese: 1872 (NDL)
-保持|/|/|1889|/|/|from Japanese: 1881 (Nikkoku)
-寶島|/|noun|1954|/|/|from Japanese: 1875 (NDL)
-保管|/|/|1899|/|/|from Japanese: 1870 (NDL)
-飽和(1)|/|noun|1905|/|/|from Japanese: a1847 (Nikkoku)
-飽和(2)|/|noun|1959|/|/|from Japanese: 1905 (Nikkoku)
-飽和點|/|noun|1950|/|/|from Japanese: 1875 (NDL)
-寶庫|/|noun|1916|/|/|from Japanese 宝庫: 1808 (Koten)
-保留(1)|/|verb|1903|締結撤兵條約。其始或以保留權利許還清國為名。|『國民同盟會始末』55|
-保守|/|/|1897|/|/|from Japanese: 1886 (Shen 2014)
-保守黨|/|/|1897|/|/|from Japanese: 1886 (Shen 2014)
-保守主義|/|/|1898|/|/|from Japanese: 1884 (Shen 2014)
-保險(2)|/|noun|1862|啟者以上三大公司保險現歸本行辦理|『上海新報』第四十五號「洋船保險」|
-保險公司|/|NP|1862|大美國鳥喲󱛛日同保險公司|『上海新報』第四十五號「洋船保險」|
-保證書|/|noun|1895 (1887)|又住在裁判所管內饒有貲產者亦可代納應充金額之保證書|黃遵憲『日本國志·刑法志二』|
-暴風|/|noun|1822|TEMPEST of wind, 暴風 … or reversed|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. TEMPEST|
-報告(1)|/|verb|1895 (1887)|若更命留禁要將其事由報告裁判長|黃遵憲『日本國志·刑法志一』|
-報刊|/|noun|1921|北京從五四以來，出版界日見增高，尤以雜誌報刋爲最多。|『益世報』10月17日「需要的文學作品」|
-暴力|/|noun|1902|決非以暴力為尚而以自由為尚。人人以自由為尚此平等所由出也。|梁啟超輯譯『近世歐洲四大家政治學說』13|
-報社|/|noun|1899|其兩國報社爭論此事。反爲互相氷炭。|『清議報』ii「俄法同盟疑案」20|
-暴雨|/|noun|1857|有燥土而時有暴雨、成大水不能潤土者|W. Muirhead in『六合叢談』1/13, 10|
-報紙|/|noun|1873|倘荷附刊報紙未始非推己及人同登彼岸之大旨也|『申報』1月4日「洋烟害」|from 新報紙: 1871
-北極星(2)|/|noun|Liang|十月乙丑有流星⋯出紫宮內北極星東南行三丈没空中|蕭子顯『南齊書·卷十三天文下』|
-被告|/|noun|a1368 (c1301)|被告 謂爲人所謡者|徐元瑞『吏學指南·卷六』|
-背景(1)|/|noun|1916|雖成為歷史上主要之背景|『神州日報』3月19日「大亞細亞主義之運命」|
-背景(2)|/|noun|1910|滬上所謂佈景有四大缺點⋯僅用背景一幅|『時報』3月14日「劇談」|cf. s.v. 佈景
-備考|/|verb|Ming|/|/|
-背面|/|noun|1822|inside or back surface, 背面|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. OUTSIDE|
-被面|/|noun|1847|Coverlet, 被窩 … 被面|Medhurst, _English and Chinese Dictionary_, s.v. Coverlet|
-被殺|/|preposition + verb|1857|又辨金色之吏、曰穵林敦、亦被殺|『六合叢談』1/4, 15|
-本校|/|verb|1934 (1931)|本校法者.以本書前後互證|陳垣『元典章校補釋例·第四十三校法四例』86|cf. 理校
-本體|/|noun|1844|Essence, 精 … 本體 … 精氣|Williams『英華韵府歷階』s.v. Essence|
-本義|/|noun|1868|the proper sense of a word, 本意 … 本義|Lobscheid『英華字典』s.v. Proper|
-本質|/|noun|1672|夫風之本質乃地所発乾熱之気有多端可証一試|Verbiest『坤輿圖説』|
-鼻音|/|noun|1869|Twang, a, … or nasal sound, 鼻音 … 鼻聲|Lobscheid『英華字典』s.v. Twang|
-筆名|/|noun|1908|A false name, 偽名, 冒名, 假名, 別名, 筆名.|顏惠慶『英華大辭典』s.v. Pseudonym|名 is free only when the sense is 'given name'
-筆者|/|noun|1927|夫此種評論⋯固應力求其廣汎、惟因筆者之便利、順序等頗有不同.|『順天時報』11月29日「北京金融界之概觀」|
-比重(1)|/|noun|1867|specific gravity, 比重|Lobscheid『英華字典』s.v. Gravity|
-必然|/|adverb|1703|Forçosam<sup>te</sup> piĕ̇ tińg. piĕ̇ kińg. piĕ̇ jên.|Varo, _Arte de la lengua mandarina_, 65|
-標本|/|noun|1900|「製介類標本法」|『農學報』九十八|
-標記|/|noun|1858|朔望上下弦表、歷年測量寒熱表、行進江海標記、潮汐表、中外寄書表|『六合叢談』2/1, 15|earliest use as noun
-表達|/|verb|1907|坎拿大首相勞利安已向駐亞托華日本領事表逹歉仄之意|『申報』9月12日「美洲排斥黃人暴動事彙誌」|泣紅亭 cited by Han-ta (2nd edn) is a 1981 translation
-表面張力|/|noun|1905|凡液體之表面因分子力不平均而生之收縮力為表面張力|湖北學務處『物理學』|
-表情|/|noun|1908|Expression of the passions, 表情, 情徵|顏惠慶『英華大辭典』s.v. Pathognomy|
-別字(1)|variant ideograph|noun|Northern Ch'i|/|『顏氏家訓』|
-|/|/|1930|中國的俗字或別字，在十年之內，總可以研究完備了。|劉復『宋元以來俗字譜·序』5|
-|/|/|2016|『碑別字新編 (修訂本)』|/|
-別字(2)|misused ideograph|noun|Ch'ing|/|『日知錄』|postdating
-兵工廠|/|noun|1882|赴大坂兵工廠督造山野砲數十門|『申報』10月6日「彚譯東報」|
-冰箱(1)|/|noun|1869|Refrigerator 涼箱 … 冰箱|Lobscheid『英華字典』s.v. Refrigerator|
-兵營|/|noun|1822|CAMP, 營 … 兵營 … 營寨|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. CAMP|
-病變|/|noun|1908|The transformation of a disease into another, (醫) 病症, 病變| 顏惠慶『英華大辭典』s.v. Diadexis|
-病毒|/|noun|1908|疮疹之毒水、传染病毒、病毒、脓浆毒 (痘毒、痘浆)|顏惠慶『英華大辭典』s.v. Virus|postdating
-摒絕|/|verb|1835|是以摒絕塑像、真心崇拜萬物之主宰|『東西洋考每月統記傳』乙未年六月「俠膽」|from 屏絕
-並列|/|verb|1847|Collateral, running parallel, 並列|Medhurst, _English and Chinese Dictionary_, s.v. Collateral+|
-摒棄|/|verb|c1715 (c1683)|丹砂白雉總摒棄檳榔萬斛無所須|『百尺梧桐閣集·遺稿詩十卷·送孫編修同周儀部奉使安南』(T5463/3140)|from 屏棄
-並行(2)|/|verb|1869|Concurrent, acting in conjunction … 同行 … 並行|Lobscheid『英華字典』s.v. Concurrent|
-波動(2)|/|verb|1902|譬如音響光溫之波動|廣智書局『心理教育學』72|
-波形|/|noun|1906 (1904)|音色之差異依波形之差異而生|陳文哲『普通應用物理教科書』151|
-伯爵|/|noun|1844|Earl, 伯爵|Williams『英華韵府歷階』s.v. Earl|
-補助金|/|noun|1887|只允别賜補助金六萬元|『申報』2月1日「譯東洋朝日報」|
-不法行爲|/|NP|1883|似此種種不法行爲實足爲地方大害|『申報』12月19日「憲示録登」|
-布告|/|noun|1862|「佈告」|『上海新報』8月23日|
-不合理|/|adjective|1822|It does not comport with right reason, 不合理 … 與理不相符|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. COMPORT|
-不全|/|adjective|Chou|/|/|
-不許|/|verb|1815|書上有講不明白的義旨就來細問不許含混|Morrison, _A Dictionary of the Chinese Language_, i/i, 750|
-裁員|/|verb|1882|「裁員節費」|『益聞錄』第百三十八號|
-採掘|mine|verb|1882|又云生野鑛山局自採掘以來日見起色|『申報』9月24日「照譯東洋新聞」|
-菜單|/|noun|1844|bill of fare, 菜單|Williams『英華韵府歷階』s.v. Tavern|
-參校本|/|noun|1814|其所引釋文皆就盧文弨參挍本而出之|東條弘『增攷孝經鄭氏解補證·提要』2|
-|/|/|c1874 (a1873)|「春秋繁露參校本及新校人名氏」|『古經解彙函·第十六』|
-草書|/|noun|Han|睦善草書臨病明帝驛馬令作草書尺牘十首焉|劉珍『東觀漢記·卷七列傳二·北海敬王睦』|
-草原|/|noun|1902|地多草原。故牧<畜>之業最盛。|作新譯書局『世界地理』292|
-炒魷魚|/|verb|1943|若果一件案都未辦過。叫造飯桶。難免炒魷魚之禍者也。|『大衆報 (澳門)』7月14日「廣東偵緝胆」|
-塵拂|/|noun|1912|尾端生有長毛。如塵拂。|杜亞泉–杜就田『新理科教授法二』12|likely from 塵払 (ちり‐はらい); [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=塵拂,-noun)
-秤桿|/|noun|1875|不料中有李秤杆范肉架者竊以爲必係鄕裏來者可以欺侮以顯跋扈之能|『申報』1月9日「記李秤杆等攔毆馮君事」|in nickname
-赤字|/|noun|1931|日本歳入預定過大 赤字問題引起各方非難|『大公報』天津版1931年4月4日4版|cf.「赤字」二字，是我抄的一個日本新應用的名詞: 1931 (新社會)
-出版社|/|noun|1919|二十八號同紳商各界代表謁見總理詢問外交情形⋯並組織外交雜誌出版社|『益世報』5月1日「山東旅京各校代表之大聚會」|from Japanese: 1876 (NDL)
-傳統(1)|/|adjective|1913|㩀暗殺者理由。謂羅氏破美國傳統慣例。故死之以爲預防。|『神州日報』1月14日「美總統選舉問題」|
-傳統(2)|/|noun|1910|若夫美之於南美諸國.則既有傳統的約束…又以…劃出一新紀元.|『外交報』277「論遠東與南美」14|from Japanese: 1895 (CHJ)
-|/|/|1911|利用列強之利害關係使之互相牽制 此種手段爲清國政治家傳統的政策|『神州日報』5月4日「日紙之四國借欵談」|
-慈善|philanthropic|adjective|1896|披打古伯氏.爲慈善之事.銷費家貲一半.|『時務報』第十二冊「美國富家好善」26|also in Japanese: 1871 (Nikkoku)
-詞源|/|noun|1916|聘請土頭土腦之土老先生編輯新詞源一種。補原有詞源所未備。|『新聞報』9月2日「諧著·贈送新詞源樣本廣告」|cf. 辭源
-|/|/|1918|而况卽以小學之詞源而論。其字之用尚不爲完全正確耶。|(張)東蓀「論譯書」in『時事新報』5月23日|
-辭源|/|noun|1912|聞該館尚編辭源一書亦已脫稿⋯兼望『辭源』之早日惠我也|『民立報』10月24日「惠書誌謝」|cf. 詞源
-叢刋|/|noun|1910|竊謂愼食衛生會於編纂餐衛叢刋外宜另出一附刷物|『申報』12月7日「讀餐衛叢刋」|
-打胎|/|verb|1872|不然何卒以破血打胎終久而不知變計耶|『申報』5月23日「四醫斃一婦」|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=打胎)
-擔保|/|verb|c1601|姑饒不殺各苗承認擔保將牛壹拾贰隻以求退兵|『平播全書·卷三』6 (NCL-02251)|here converted to noun
-地基|/|noun|1583||_Dicionário Português-Chinês_ (Jap. Sin. I-198)|
-地球儀|/|noun|1878|并製有小地球儀|『申報』6月21日「命題甚新」|
-地下水|/|NP|1903|地下水 雨水之一部。|『中學地文教科書』74|
-電鍍|/|noun|1885|Electro-planting 電鍍銀|Fryer『化學材料中西名目表』13|
-墊圈|/|noun|1889|Washer 墊圈|Fryer『汽機中西名目表』56|
-電子|/|noun|1905|傳點亦名行點，或稱電子|纪立生–赵齐巽『最新化學詳要』+|
-電子-|electronic|adjective|1935|電子告警器 Electronic Alarm|『通俗文化』1/4, 26|
-定義(1)|/|verb|1914|例如⋯(Definition)日人譯爲定義⋯定義有兼攝⋯(Define) 動字之功。|胡以魯「論譯名」in『庸言』2月15日|
-|/|/|1917|商業學爲最近採用之新名詞定義最爲困難|『大公報』12月17日「商業教育論 (十續)」|postdating; previously 下定義 & 正名定義
-對校|/|verb|c1743 (a1168)|詔靖及國子監直講王洙盡取秘閣古本對校|李燾『續資治通鑑長編撮要·仁宗皇帝紀十三之二』4 (09593)|
-多元|/|adjective|1915|遺傳質爲多元的而非二元的可知|『甲寅雜誌』1/6「論國家與國民性之關係」14|
-|/|/|1919|那些佛敎徒，其實只是一班懦夫⋯他們聽見了多元的淑世主義，牙齒都打戰了|『新青年』6/4「實驗主義」358|
-多元化|/|adjective|1920|實用主義⋯主張相對性和多元性⋯柏格森⋯不贊成實用主義之經驗化性和多元化性|『時事新報』7月26日「柏格森哲學與實用主義之異點」|
-|/|/|1936|高中「不分科」的害處⋯使我們的興趣多元化，或變成了純粹的工具主義而無所謂興趣。|『申報』4月1日「讀中學生雜誌的『研究和體騐』特輯」|
-多元論|/|noun|1902|迦那陀⋯印度衛世師派之敎祖唱多元論之阿屯說主張無神論|『新民叢報』第拾捌號「萬國思想家年表」116|
-二十四史|/|noun|c1796 (c1791)|余在長沙養疾讀史記以下諸史日有恆課摘二十四史同姓名錄|汪輝祖『病榻夢痕錄·卷下』49 (XD104)|cf. 與歐陽脩書並列共爲二十有四: c1795 (四庫總目卷四十五)
-發動|/|verb|1872|電機發動卽將其人拋起躍至丈餘|『申報』6月29日「電氣抛人」|
-發售|/|verb|a1792 (a1086)|農翁之善蓄稻也層藏累納有淹二十年不發售者|吕南公『灌園集·與楊次公書』(文淵閣)|
-反應(1)|/|noun|1902|呈酸性之反應|『理化教科書』17|
-反應(2)|/|noun|1902|吾入之意識、不外対於內部之剌戟之反應。|『新民叢報』「訳述三·人格論」|
-方言|dialect|noun|1906|「統一方言說畧」|沈敦和 in『寰球中國學生報』1/1, 26|cf. [#22](https://github.com/t18d/HuangSupplement/issues/22)
-方言學|dialectology|noun|1920|(表) 訓詁 {縱方面、—古訓學 橫方面、—現代方言學|沈兼士 in『時事新報』8月31日第七版|
--費|(in two-morpheme words)|nominal bound root|1853|q.v. 船費|/|
--費|(in three-morpheme words)|nominal bound root|1886|q.v. 保險費|/|
-廢水|/|noun|1889|Waste tank 廢水箱|Fryer『汽機中西名目表』56|
-分詞|/|noun|1904 (1903)|與 “Be” 合作Progressive時所附有ing之形曰現在分詞 (Present Pär'ti çi ple)|『正則英文教科書』ii, 85+|
-分析|/|noun|1899|q.v. 定量分析, 定性分析|/|
-分析|analyse|verb|1884|然律文雖簡下字極有權衡逐條分析皆以⋯|『申報』2月29日「論捉賭」|as one verb instead of two
-復活(1)|/|verb|c1605|我信󰿩身之復活。|『天主教要』6 (R.G.Or. III. 221.5)|
-復刻本|/|noun|c1807 (a1799)|近秦太史恩復刻本題爲梁陶宏景注|孫志祖『讀書脞錄·卷四·鬼谷子注』2 (01932)|cf. 覆刻本
-覆刻本|/|noun|1809|閩中覆刻本閒有譌舛|陳春「湖海樓叢書『學林』跋」|cf. 復刻本
-咖喱|/|noun|1874|整啲咖喱魚|Dennys『初学階』|
-干貝|/|/|/|/|/|likely a native word; see [#19](https://github.com/t18d/HuangSupplement/issues/19#issuecomment-2606537981)
-功率|/|noun|1889|Duty of engine 汽機功率|Fryer『汽機中西名目表』17|
-構想|/|verb|c1616 (c1596)|此臣早夜之所拮据夙昔之所搆想者也|馮夢禎『快雪堂集·卷二十五·隆儒優士疏』(NC5428/3243)|
-古典學|/|noun|1903|氏之教育說。反對從來所行之古典學。|『泰西學案·\<L>oc\<k>e學案』132|
-古典學家|/|noun|1924 (1923)|古典學家 … Francis Meres|唐敬杲『新文化辭書』918|'For a number of years Francis Meres, the glorifier of Shakespeare, has been puffed as a classical scholar.' (Allen)
-|/|/|1926|荷人格老秀西，係神學家而兼古典學家，史學家，政治學家，法學家|劉炳榮『西洋文化史綱·第三篇』37|
-古典語文學|/|NP|1938|這時期以其求歷史知識的熱心，及方法上與古典語文學的交互影響，使德國史學煥然一新。|『五十年來的德國學術』452|
-古文運動|/|noun|1927|我族之古文運動，非狹義之好古也。|『藝術界週刊』第十五期「雜記 (十四)」|
-官方|/|noun|1894|去冬香港私鑄案發英官方盡法以懲|『申報』5月17日「廣鑄銀錢說」|Han-ta's 官方(3)
-果汁|/|noun|1887|Colocynth pulp 𠹭囉噺果汁|Fryer『西藥大成藥品中西名目表』17|
-海拔|/|noun|1901|此次爆發噴煙高出海拔一萬二千米|『清議報』八十六冊「支那現勢論」|
-海洋性氣候|/|NP|1902|歐羅巴⋯大抵有海洋性氣候|作新譯書局『世界地理』240|
-焊錫|/|noun|1889|Solder 銲錫|Fryer『汽機中西名目表』47|
-很|/|adverb|a1321|如今地廣民衆事務哏多|『元典章·朝綱一』1 (014275–314)|
-|/|/|a1388|那幾个守户閑官老秀才它毎都哏利害|『老生兒』1 (12336)|
-很是|(+VP)|VP|c1890|助我一臂之力就狠是盡心了|『小五義·卷十·五十二回』6 (D8690500)|
-|(+adjective)|/|1903|我們同他初次見面。看他的人。很是明白。怎麼他倒不替我們出力。|『繡像小說』第五號「文明小史」26|
-花邊|/|noun|1866|an embroidered border, 花邊|Lobscheid『英華字典』s.v. Border|
-花梗|/|noun|1887|Myrospermum pedicellatum 小花梗米羅司卑麻|Fryer『西藥大成藥品中西名目表』41|
-环礁|/|noun|1903|自其形狀言之。則曰⋯環礁 (Atoll)|『中學地文教科書』96|
-及物動詞|/|NP|1914|凡及物動詞皆有受動|『時事新報』10月5日「世界語會消息：本會函授講義節要 (二十)」|
-減速|/|verb|1889|Ease 減速|Fryer『汽機中西名目表』17|
-校訂|/|verb|1342 (c1329)|因屬博士程熟等就加校訂鋟版與諸史並行之|趙丗延「南唐書序」in『國朝文類·卷三十三』16 (SBL249)|
-教育者|/|noun|1866|Educator, 教養者 … 教育者|Lobscheid『英華字典』s.v. Educator|
-接辦|/|verb|c1833|而其管理印度等處地方之事、仍容公司接辦|『東西洋考每月統記傳』癸巳十一月「英國之東地公司」|
-接種|/|verb|1898|傳至日本互相接種其効昭然|『申報』7月11日「豫防痘症篇」|
-經典序錄|/|NP|c1325 (a1287)|經典序錄河間人大毛公為詩故訓傳|王應麟『困學紀聞·卷之三·詩』1 (11340)|
-精品|/|noun|Sung|/|/|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=精品)
-句讀|/|noun|c1344 (a1134)|句讀凡經書成文語絶處謂之句語未絶而點分之以便誦詠謂之讀⋯又屋韻 增入|『增修互註禮部韻略·卷第四·五十󶤾』(012278)|postdating: earliest instance of 讀 as comma
-卡車|/|noun|1923|曾宣言阻止外来卡車入路線之事、致有引起一般人之誤解、以卡車作乗客之車輛⋯此項卡車係専指運貨笨重之車而言|『申報』7月14日「滬太公司近況」|
-考古|practise archaeology|verb|1902|瑞國得了這個古迹 考古的人 個個爭先再尋|『大公報』8月2日「新石代」|
-考古學|/|noun|1896|Археологія, Као-гу-сі*о* 考古學|Попов『俄漢合璧増補字彙』|from Japanese 考古学: 1877/79 (Tanomura 2025)
-考古學家|/|noun|1907|義國夙以文明之淵藪見稱而入其境問十二銅標所在國人概答不知問之考古學家亦答不知|『順天時報』11月9日「客談歐美各國情形」|
-科學|/|adjective|1914|聚百十不科學無條理之人日發生不痛不癢不達時勢之議論|『時事新報』12月4日「清朝復辟案之反響」|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=科學)
-可喜的|/|adjective|1904|所以驚奇可喜的事 人乍聽了 無不拍案呌絶|『京話日報』8月17日「達威德爾偵探記 第一節」|first occurrence as -的
-|/|/|1905|却是有一件可喜的好事|『京話日報』2月23日「通州苦况」|first independent use
-刻本|/|noun|Sung|近歲均州刻本輒改為仇香|陸遊『老學庵筆記』卷四|
-|/|/|2001|「再说黄正甫刊本{乃}《三国志传》<乃>今见《三国演义》最早刻本」|『明清小說研究』1, 125|刻本 & 刋本 are stylistic variants
-烙鐵|/|noun|1889|Soldering iron 嵌錫烙鐵|Fryer『汽機中西名目表』47|
-禮拜|/|verb|c1584 (1583)|三當禮拜之日禁止工夫謁寺誦經禮拜天主|Ruggieri『祖傳天主十誡』(Jap. Sin. I-189)|
-理校|/|verb|1934 (1931)|所謂理校法也.遇無古本可據.或數本互異.而無所適從之時.則須用此法|陳垣『元典章校補釋例·第四十三校法四例』87|cf. Pasquali (1934) – Ch'en was reinventing the wheel
-硫酸|/|noun|1883|Sulphuric acid 硫酸|Fryer『金石中西名目表』32|
-龍脈|/|noun|c1267|昔有頭陁、從廣信󴰉龍􁕘來此|祝洙『新編方輿勝覽·卷十福建路』250 (786975–94)|
-漏斗|/|noun|1857|譬如水洩於漏斗|A. Williamson in『六合叢談』1/3, 7|
-麵包|/|noun|1583||_Dicionário Português-Chinês_ (Jap. Sin. I-198)|
-麵粉|/|noun|1583||_Dicionário Português-Chinês_ (Jap. Sin. I-198)|
-描述|describe|verb|1909|其惶急尤難描述|『申報』8月2日「奇情小說 美人虹」+|not in 王雲五大辭典 & 國語辭典; very slowly took over the sense of 'describe' from [描寫(2)](https://t18d.github.io/HuangSupplement/obsolete/#:~:text=描寫(2))
-|/|/|1958|現代語言學先分兩個大的方面 … 「描述的語言學」(descriptive linguistics) … 「歷史 (或比較的) 語言學」|董同龢「語言的研究」in『現代學術季刊』2/2|
-描述語言學|/|NP|1958|個人覺得能代表近來美國描述語言學家的長處的倒是 Charles Fries 的兩本實用性的書|董同龢「語言的研究」in『現代學術季刊』2/2|the accurate translation of 'descriptive linguistics'
-描寫(1)|depict|verb|Ming|/|/|the word's only current sense
-描寫語言學|/|NP|1950|咱們現在應該嚴格使用描寫語言學的方法來分析現代中國語的結構|羅常培『語言與文化』103|fossilised use of the obsolete [描寫(2)](https://t18d.github.io/HuangSupplement/obsolete/#:~:text=描寫(2)) & no longer an accurate translation of 'descriptive linguistics'; cf. s.v. 描述語言學
-摩擦(1)|/|verb|1851|琥珀用燥羊毛摩擦一辺、此摩擦処便能拾芥、就是電気発出、似磁石噏鉄一般。|Macgowan『博物通書』第一章|
-納税人|/|/|1959|/|/|from Japanese: 1897 (Nikkoku)
-奶糖|/|noun|1889|竊取主人奶糖|『申報』5月24日「英界公堂瑣案」|
-耐火|/|/|1873|/|/|from Japanese: 1867 (NDL)
-耐熱|/|/|1892|/|/|from Japanese: 1877 (Yomidasu)
-耐酸|/|/|1965|/|/|from Japanese: 1867 (NDL)
-耐用|/|/|1873|/|/|also in Japanese: 1873 (NDL)
-南北戦争|/|/|1900|/|/|from Japanese: 1869 (NDL)
-難產(1)|(literally)|verb|c1620 (a589)|芣苢⋯作茹大滑其子治婦人難產|『毛詩草木鳥獸蟲魚疏·卷之上·采采芣苢』1 (428495829)|
-難產(2)|(metaphorically)|verb|1911|「難產之新內閣」|『盛京時報』3月15日|from Japanese: 1894 (Yomidasu)
-南回帰線|/|/|1903|/|/|from Japanese: 1874 (NDL)
-男女平等|/|/|1903|/|/|from Japanese: 1880 (NDL)
-南歐|/|/|1899|/|/|from Japanese 南欧: 1872 (NDL)
-男生|/|/|1903|/|/|from Japanese: 1873 (NDL)
-男聲|/|/|1920|/|/|from Japanese 男声: 1873 (NDL)
-男性|/|/|1902|/|/|from Japanese: 1870 (NDL)
-南温帶|/|/|1903|/|/|from Japanese 南温帯: 1873 (NDL)
-嚢腫|/|/|1919|/|/|from Japanese: 1871 (NDL)
-蟯蟲|/|/|1909|/|/|from Japanese 蟯虫: c1566 (Nikkoku)
-腦充血|/|/|1909|/|/|from Japanese 脳充血: 1873 (NDL)
-腦海|/|noun|1904|把一切事情在腦海掃除乾淨|『美人妝』29|'An up-to-date man would no longer aspire to have it said of him, 滿肚子裡有學問.' (Mateer)
-|/|/|1905|開設國會之思想。咸深印入國民腦海之中。|『津報』12月31日「論國民不可無政治思想 (續前稿)」|
-腦力|/|/|1899|/|/|from Japanese 脳力: 1872 (NDL)
-腦膜炎|/|/|1906|/|/|from Japanese 脳膜炎: 1868 (NDL)
-腦貧血|/|/|1915|/|/|from Japanese 脳貧血: 1873 (NDL)
-腦橋|/|/|1898|/|/|from Japanese 脳橋: 1873 (NDL)
-腦神經|/|/|1903|/|/|from Japanese 脳神経: 1822 (Hathi)
-內在|/|adjective|1916|Immanent … 內在|Hemeling『官話』s.v. Immanent|
-泥土|/|noun|1858|衝激泥土成新地|W. Muirhead in『六合叢談』1/13, 8|one word instead of two
-凝固|/|verb|1847|to harden, 凝固|Medhurst, _English and Chinese Dictionary_, s.v. To condense|
-濃度|/|noun|1905|蒸至適宜濃度再置冷處。|『中等化學教科書』294|
-暖氣|/|noun|1866|Caliduct … 熱氣筒 … 暖氣筒|Lobscheid『英華字典』s.v. Caliduct|
-偶像|/|noun|1927|我好像也已經成了偶象了|魯迅『兩地書·一〇五』|metaphorical
-耙梳|/|verb|1922|民國本屬多事、而法律方面、則尤爲不可耙梳|『民國日報』12月21日「張閣與衆院之因緣案」|typo for 爬梳
-排外主義|/|noun|1902|舊日之排外主義|『壬寅新民叢報彙編』1053|
-|/|/|1906|防止排外主義之傳播|『時報』12月26日|
-砲灰|/|noun|1894|非砲灰卽刀頭之鬼耳|『申報』9月6日「論倭人窘况」|
-|/|/|1934|殺人者在毁壞世界，救人者在修補它，而炮灰資格的諸公，卻總在恭維殺人者。|魯迅『且介亭雜文‧拿破侖與隋那』|
-披露|/|verb|1889|本社著作無論社內社外⋯當逐期披露|『新社』第三期|
-批判|/|verb|1902|故合印是編期我國民批判此二大問|『新廣東』100|
-|/|/|1905|徒大聲疾呼慷慨悲憤以批判當局之失策者|『津報』11月7日「論戰後經營之第一著手」|
-皮包|/|noun|1866|a leather bag, 皮包|Lobscheid『英華字典』s.v. Bag|
-評論家|/|noun|1903|此評論家當然之天職|『國民日日報』9月20日「論辜鴻銘之無恥」|
-破碎|/|verb|1844|Shatter, 破碎|Williams『英華韵府歷階』s.v. Shatter|
-七色板|/|noun|1906 (1904)|牛頓七色板|陳文哲『普通應用物理教科書·本書應用試驗器械定價表』10|
-|/|/|1926|現在的小學生就能玩七色板⋯收羅許多著名學者的大著作的大報，自然是光怪陸離，但也是轉不得|魯迅「雜論管閑事，做學問，灰色等」in『語絲』62, 3|
-齊唱|/|VP|1844|Chorus, join 齊唱|Williams『英華韵府歷階』s.v. Chorus|
-騎士|/|noun|1903|田奴騎士及君主之階級|進化譯社『史學通論』105|
-歧義|/|noun|1921 (1877)|是以魏晉以還⋯獨於詩未聞歧義|孫詒讓『温州經籍志』卷二 s.v. 夏氏詩經漁樵野說|
-起訴|/|verb|1895 (1887)|/|黃遵憲『日本國志·刑法志一』|
-起義(2)|/|verb|1833|亦有人起義以應其隆奈者也。|『東西洋考每月統記傳』癸巳十二月, 79|
-汽車(2)|/|noun|1903|近有法人与英人及他国人合擬賭賽。汽車由法京巴黎斯至日斯巴尼亜京城馬得利脱。|『申報』5月27日「賽車肇事」|
-契據|/|noun|1872|(document) 契 … 契據|Doolittle『英華萃林韻府』s.v. Deed|
-棄權|/|verb|1895 (1887)|/|黃遵憲『日本國志·刑法志一』|
-汽油|/|noun|1904|有汽油六百八十罐又煤三百噸以供俄軍之用|『大公報』1月28日「時事要聞」|
-鉛筆|/|noun|1822|Blacklead pencil, 鉛筆|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. BLACKLEAD|
-牽引力|/|noun|1908|其牽引力甚大且較牛皮橡皮各帶更為耐久堅韌|『申報』2月23日「專製布質引擎帶」|
-前部|/|noun|1902|鞏膜之前部曰角膜|教科書譯輯社『中學生理教科書』166|This is where Huang corrects _Han yü ta tz'u tien_: 前部 was always military before 1900s.
-潛伏期(1)|/|noun|1905|其初為病之潛伏期|湖北學務處『倫理學·課外餘談』34|
-前景|/|noun|1867|Foreground 前地 … 前景|Lobscheid『英華字典』s.v. Foreground|
-前述|/|adjective|1880|如前述江西某委員信役濫刑|『申報』4月27日「論惡役殃民」|also in Japanese: 1877 (Nikkoku); [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=前述)
-鉗子|/|noun|1848|鉗子⋯小鉗子|Medhurst, _English and Chinese Dictionary_, s.v. Pliers|
-槍刺|/|noun|1903|「趕造槍刺」|『北洋官報』第一百四十八冊|
-槍彈|/|noun|s.xvii|受數百槍彈從脅穿透|『行在陽秋·下』|
-槍械|/|noun|1600|疏火器鳥銃長短槍械法|『譚襄敏奏議·序』|
-強加|/|verb|1857|能強加力於他物者、謂重學之力|『六合叢談』1/11, 12|
-牆腳|/|noun|1844|Foundation, 基址 … 墻腳|Williams『英華韵府歷階』s.v. Foundation|
-侵入|/|verb|1868|to invade … as a disease a system, 侵入 … 侵害|Lobscheid『英華字典』s.v. Invade|metaphorical
-侵襲|/|verb|1847|to come upon, to attack, 侵襲|Medhurst, _English and Chinese Dictionary_, s.v. To come|
-羣島|/|noun|1833|五島⋯共稱呂宋羣島|『東西洋考每月統計傳』癸巳年六月「東南州島嶼等形勢綱目」|
-羣像(1)|(as an artwork)|noun|1915|門之巓東方民族之羣像在焉|『神州日報』5月11日「巴拿馬紀念會塲之五光十色」|from Japanese 群像: 1902 (NDL)
-人工(2)|man-made|adjective|1972|「第一章論人工水路」|『上海新報』9月9日|postdating (in 人工配合煉製而成 it's an adverb converted from the noun)
-日全食|/|noun|c1632|舊法於日全食時。測定月之視徑。隨時不等。|Rho『崇禎曆書·月離曆指·月離三』9+ (Oxon. Sinica 897)|
-三位一體(1)|/|idiom|c1636|吾主既降生後。有天主三位一體之像|Dias『聖經直解·雜事目錄』8 (Jap. Sin. I-70)|
-山脈|/|noun|1858|山脈之方向|W. Muirhead in『六合叢談』1/13, 9|
-上帝|/|noun|a1590|惟天主上帝其事未觧明否|Ricci, _Lettre de Sixte V au Maître de l'Empire des Ming_ (Chinois 1320)|
-上述|/|adjective|1903|以上述之新兵爲自衛軍⋯宜協力迫俄國交還奉天之事|『俄事警聞』12月20日「清國之對俄政策」|from Japanese: 1895 (CHJ); [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=上述)
-哨子|/|noun|1889|Steam whistle 汽哨子|Fryer『汽機中西名目表』49|
-生態學|/|noun|1903|論其習性與其相交之關係者。曰生態學。|作新社『新編動物學』3|
-聖誕|(in Christianity)|verb|c1636|「吾主聖誕前第四主日」|Dias『聖經直解·卷之一』9 (Jap. Sin. I-70)|
-聖母|/|noun|a1588|中間聖母無交配 誕聖原前室女躬|Ruggieri, _Chinese Poems_, 6 (Jap. Sin. II-159)|
-石灰水|/|noun|1882|將膿泡一一挑破用石灰水洗淨|『申報』5月5日「火焚續述」|
-石墨|/|noun|1883|Plumbago, or Graphite 石墨|Fryer『金石中西名目表』26|
-石蕊|/|noun|1885|Litmus 石蕋|Fryer『化學材料中西名目表』21|
-是時候|(verbal)|idiom|a1618|我說是時候。這六姐還強說早哩。|『金瓶梅詞話·第三十回』7 (020272–91)|
-|(adjectival)|/|1910|可惜你來的不是時候|『天津白話報』8月29日「閒評：有利則進 無利則退」|
-|/|/|1936|並且給的很是時候。|梁實秋譯『李爾王』46+|
-手動|/|adjective|1889|Hand gear 手動器具, 或手動齒輪|Fryer『汽機中西名目表』26|
-手續|/|noun|1901|行政訴訟之手續|『譯書彙編』７, 54+|
-水表|/|noun|1883|如是則該公司只須每日稽查水表|『申報』8月6日「自來水價宜變通說」|
-所有者|/|noun|1903|猶未定議所有者只集股本十萬兩而已|『國民日日報』8月26日「天津經濟問題」+|
-他校|/|verb|1934 (1931)|他校法者.以他書校本書|陳垣『元典章校補釋例·第四十三校法四例』86|cf. 理校
-提神|/|verb|1837|雖鴉片惡毒、然其性能提神|『東西洋考每月統計傳』丁酉年四月「奏爲鴉片」|
-體操|/|noun|1887|至櫻馬塲體操塲閱看師範學校生徒演習兵法|『申報』1月14日「日報譯略」|
-天主|/|noun|c1584 (1583)|『祖傳天主十誡』|Ruggieri (Jap. Sin. I-189)|
-天主教|/|noun|a1588|君尊天主教 予學舉人文|Ruggieri, _Chinese Poems_, 17.1 (Jap. Sin. II-159)|
-外徑|/|noun|1874|外徑三寸|『申報』11月28日「怪疾二則」|
-偉大(1)|/|adjective|1899|阿君爲此一段演說。神氣甚壯。抱負偉大。|『清議報』二十四「非律賓獨立一周年」|also in Japanese: 1872 (NDL)
-西學東漸|/|idiom|1903|歐亞大通西學東漸|「泰西學案序」|from Japanese: 1882 (NDL)
-喜喪|/|noun|1718|䘮禮易而不戚 年高者且呼為喜䘮 古制全亡|『錢塘縣志·卷之七風俗』7 (地240.15/32)|
-|/|/|1837 (a1834)|杭人以福壽備而死者俗呼喜喪|梁紹壬『兩般秋雨盦隨筆·卷八』2 (79@20@1)|
-峽谷|/|noun|1902|峽谷如壁地勢隆起|『申報』7月15日「詳紀張家口鐵路里程」+|
-現代|/|noun|1875|recent ages 昭代, 現代.|鄺其照『字典集成』s.v. Recent|also in Japanese: 1894 (CHJ)
-心態|/|noun|1919|高低無定。心態屢遷。|『祈禱發𢕄總論』61|
-形容詞|/|noun|c1836 (a1771)|逍遙⋯按此非必指谷名蓋與詆訐皆形容詞耳|姚範『援鶉堂筆記·卷四十一·南山詩』3 (重刻)|cf. 雖有詆訐之人
--性(2)|/|nominal bound root|1664|中通曰、水流下而趨中、有剛火性也、火炎上而旋昇、有柔水性也。|方以智『物理小識』|first occurrence in three-morpheme words
-學理|/|noun|1903|解釋之意義由學者一己之私見者。謂之無權的解釋亦謂之學理解釋|汪–葉『新爾雅·釋法』27|
-學術雜誌|/|NP|1915|本雜誌爲西洋留學界唯一之學術雜誌|『申報』1月21日「『科學』第一期出版預告」|
-|/|/|2018 (2017)|我先后撰写了多篇考辨文章，投递到相关学术杂志或提交学术年会|劉傳鴻『中古漢語詞綴考辨·後記』434|
-眼看|/|adverb|c1681 (a1661)|米價日騰一日眼看又是荒年|『醒世姻緣傳·第九十三囘』12 (xlvi)|
-眼看着|/|preposition|1851 (a1830)|眼看着蠹等放開手膽脧我脂膏|劉衡『庸吏庸言·革除蠹弊稟』17 (TT 4349)|
-堰塞湖|/|NP|1903|大別之則分凹地湖堰塞湖二種|『中學地文教科書』86|
-硬傷|(metaphorical)|noun|1928|袁世凱等，不過是個硬傷，忍痛用一次手術，還割得下來；若引用了那些下作小官僚，像微菌進血管，眞成不治之症了。|『民國日報』10月10日「祝政治建設的開始」|The literal sense dates back at least to s.xix med.
-|glaring error|noun|1948|單就我們所說的「硬傷」而論，在這號稱「修訂本」、「標準本」當中就還多得難以計數。|鄧恭三「揭發『國定錯誤』廢除『國定課本』」in『大公報』10月3日|Note the quotes; [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=硬傷)
-語文學|/|noun|1905|「語文學·文字統一之難」⋯「電學⋯」|『學報彙編·科學叢錄一·雜誌類七集』9|
-原罪|/|noun|c1636|特吾主。及聖母。無染原罪。|Dias『聖經直解·雜事目錄』51 (Jap. Sin. I-70)|
--運動(1)|/|nominal bound root|1900|這運動兩字。不是講身體的運動。是講去運動別人。要他相信。|『紹興白話報』第九十六號「說運動」|here converted to verb; 運動(1) as a noun is obsolete
-蔗糖|/|noun|1874|說畢卽將瓶中葡萄酒倒入玻璃盞又加蔗糖少許|『瀛寰瑣記』20, 7|
-政體|/|noun|1834|南亞墨利加列國已良久驅逐西班呀國官員、自操其權、惟政體未尚定着。|『東西洋考每月統記傳』甲午年二月「新聞之撮要」|
-致哀|/|verb|c1531 (488)|公事畢即往致哀|沈約『宋書·何尚之傳』(07347)|
-誌哀|/|verb|1878|舉國臣民遵制縞素成服以誌哀也|『申報』7月20日|
--製品|/|nominal bound root|1880|牛角製品|『申報』12月22日「戲咏煙具十首錄呈諸大吟壇指政」|
-中國|(in treaties)|noun|1731 (1690)|河之南岸、属于中国。河之北岸、属于鄂罗斯。|『聖祖仁皇帝實錄·卷一四三』|
-钟乳石|/|noun|1903|鐘乳石 (Sta\<l>actite)|『中學地文教科書』75|Doolittle (1872): 石鐘乳
-中文|/|noun|1873|「英京設教習中文書院」|『申報』3月24日|
-中文系|(of a high school)|noun|1923|中文系添古學哲學史學理論心理等類、英文系添有心理學高等幾何化學等課、|『時事新報』7月17日「蘇州桃塢改辦高級中學」|
-|(of a university)|/|1925|「上大中文系戊辰級會大會」|『民國日報』3月23日|中文系 has the same referent as, but is _not_ semantically equivalent to, 中國語言文學系
-種樹|plant trees|verb|a1034 (c296)|/|『文選·閒居賦』(8575)|
--主義(1)|/|nominal bound root|1883|因係官權主義聞主筆者必將更迭|『申報』3月4日「會黨類誌」|
-祝福|(intransitive)|verb|1538 (1370)|抑此乃祝福之詩非祭祀之詩|『五經蠡測·卷之四』13 (善000735)|
-|(transitive)|/|1837|故皇上帝祝福是日、以爲聖日也。|『東西洋考每月統記傳』丁酉年六月「以色列遊野」|
-著作權|/|/|1905|/|/|from Japanese: 1899 (Mizuno)
-資金(2)|money for a particular purpose|noun|1901|此時.乙不有滙資金.或不爲負擔債務.而拒絕清償.則買受者.對前者請求償還|『湖北商務報』90, 18|from Japanese: 1874 (Nikkoku); 資金(1) should probably be subsumed
-X光線|/|/|1903|/|/|from Japanese: 1896 (Nikkoku); X光 is a [Chinese development](https://github.com/t18d/HuangSupplement/pull/36/commits/818c96432900119c5ea6ce03b389e5cefa84a5b1)

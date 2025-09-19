@@ -1,0 +1,34 @@
+---
+title: "D @ HuangSupplement"
+permalink: d/
+seo:
+  type: Dataset
+  name: "HuangSupplement: letter D"
+last_modified_at: 2025-09-19T14:47:11+00:00
+description: Antedatings, errata and addenda to letter D of 近現代漢語辭源
+layout: main
+font_key: d
+---
+# D
+
+<!-- Anything not in the table must be before this comment. -->
+
+Lemma|Sense|Word Class|Year|Quotation|Source|Note|
+---|---|---|---|---|---|---|
+打胎|/|verb|1872|不然何卒以破血打胎終久而不知變計耶|『申報』5月23日「四醫斃一婦」|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=打胎)|
+擔保|/|verb|c1601|姑饒不殺各苗承認擔保將牛壹拾贰隻以求退兵|『平播全書·卷三』6 (NCL-02251)|here converted to noun|
+地基|/|noun|1583||_Dicionário Português-Chinês_ (Jap. Sin. I-198)||
+地球儀|/|noun|1878|并製有小地球儀|『申報』6月21日「命題甚新」||
+地下水|/|NP|1903|地下水 雨水之一部。|『中學地文教科書』74||
+電鍍|/|noun|1885|Electro-planting 電鍍銀|Fryer『化學材料中西名目表』13||
+墊圈|/|noun|1889|Washer 墊圈|Fryer『汽機中西名目表』56||
+電子|/|noun|1905|傳點亦名行點，或稱電子|纪立生–赵齐巽『最新化學詳要』+||
+電子-|electronic|adjective|1935|電子告警器 Electronic Alarm|『通俗文化』1/4, 26||
+定義(1)|/|verb|1914|例如⋯(Definition)日人譯爲定義⋯定義有兼攝⋯(Define) 動字之功。|胡以魯「論譯名」in『庸言』2月15日||
+|/|/|1917|商業學爲最近採用之新名詞定義最爲困難|『大公報』12月17日「商業教育論 (十續)」|postdating; previously 下定義 & 正名定義|
+對校|/|verb|c1743 (a1168)|詔靖及國子監直講王洙盡取秘閣古本對校|李燾『續資治通鑑長編撮要·仁宗皇帝紀十三之二』4 (09593)||
+多元|/|adjective|1915|遺傳質爲多元的而非二元的可知|『甲寅雜誌』1/6「論國家與國民性之關係」14||
+|/|/|1919|那些佛敎徒，其實只是一班懦夫⋯他們聽見了多元的淑世主義，牙齒都打戰了|『新青年』6/4「實驗主義」358||
+多元化|/|adjective|1920|實用主義⋯主張相對性和多元性⋯柏格森⋯不贊成實用主義之經驗化性和多元化性|『時事新報』7月26日「柏格森哲學與實用主義之異點」||
+|/|/|1936|高中「不分科」的害處⋯使我們的興趣多元化，或變成了純粹的工具主義而無所謂興趣。|『申報』4月1日「讀中學生雜誌的『研究和體騐』特輯」||
+多元論|/|noun|1902|迦那陀⋯印度衛世師派之敎祖唱多元論之阿屯說主張無神論|『新民叢報』第拾捌號「萬國思想家年表」116||

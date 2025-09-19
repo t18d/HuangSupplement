@@ -2,19 +2,32 @@
 <html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; 
+      style-src-elem 'self' 'unsafe-inline'; style-src-attr 'self'; font-src 
+      'self'">
     <meta name="referrer" content="strict-origin-when-cross-origin">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="noarchive">
-
+{% if page.font_key %}
+  <link rel="preload" href="{{ site.baseurl }}/assets/FSung-{{ page.font_key }}.woff2" as="font" type="font/woff2" crossorigin>
+  <style>
+    @font-face {
+      font-family: 'FSung';
+      src: url('{{ site.baseurl }}/assets/FSung-{{ page.font_key }}.woff2') format('woff2');
+      font-weight: normal;
+      font-style: normal;
+      font-display: swap;
+    }
+  </style>
+{% endif %}
+    <link rel="stylesheet" href="{{ "/assets/css/main.css?v=" | append: site.github.build_revision | relative_url }}">
 {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/obsolete.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       <nav class="text-right text-gray">
-        {% if page.title == "A Supplement to 近現代漢語辭源" %}HuangSupplement | {% else %}<a href="/HuangSupplement/">HuangSupplement</a> | {% endif %}<a href="https://github.com/t18d/HuangSupplement/wiki">Docs</a>
+        <a href="/HuangSupplement/">HuangSupplement</a> | <a href="https://github.com/t18d/HuangSupplement/wiki">Docs</a>
       </nav>
 
       {{ content }}
