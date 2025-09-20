@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-09-18T14:15:16+00:00
+last_modified_at: 2025-09-20T09:12:05+00:00
 layout: anchor
 ---
 # Bibliography
@@ -72,6 +72,8 @@ layout: anchor
   2020.
 - 沈國威, '近代關鍵詞考源：傳統、近代、現代', 東亞觀念史集刊, 4 (2013), 433. \[現代\]
 - 沈國威, '近代關鍵詞考源：保守、進步、進化、退化、退步', 東亞觀念史集刊, 6 (2014), 306-7.
+- Takashima, Kō, 'なぜbaseballは棒球と訳されたか：翻訳から⾒る近代中国スポーツ史',
+  京都⼤學⽂學部研究紀要, 55 (2016), 122.
 - Tanomura, Tadaharu, 'カレーを表す中国語名称の変遷', 或問, 38 (2020), 15–25.
   \[咖哩\]
 - Tanomura, Tadaharu, '「接種」の語史: 種痘関連用語の生成と消長', 阪大日本語研究, 34
