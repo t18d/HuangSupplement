@@ -4,7 +4,7 @@ permalink: b/
 seo:
   type: Dataset
   name: "HuangSupplement: letter B"
-last_modified_at: 2025-09-20T11:56:23+00:00
+last_modified_at: 2025-09-20T13:39:27+00:00
 description: Antedatings, errata and addenda to letter B of 近現代漢語辭源
 layout: main
 font_key: b
@@ -108,7 +108,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 本校|/|verb|1934 (1931)|本校法者.以本書前後互證|陳垣『元典章校補釋例·第四十三校法四例』86|cf. 理校|
 本體|/|noun|1844|Essence, 精 … 本體 … 精氣|Williams『英華韵府歷階』s.v. Essence||
 本義|/|noun|1868|the proper sense of a word, 本意 … 本義|Lobscheid『英華字典』s.v. Proper||
-本質|/|noun|1672|夫風之本質乃地所発乾熱之気有多端可証一試|Verbiest『坤輿圖説』||
+本質|/|noun|a1722 (1674)|夫風之本質。乃地所𤼵乾熱之氣。|Verbiest『坤輿圖説·風』(Chinois 1526)||
 鼻音|/|noun|1869|Twang, a, … or nasal sound, 鼻音 … 鼻聲|Lobscheid『英華字典』s.v. Twang||
 筆名|/|noun|1908|A false name, 偽名, 冒名, 假名, 別名, 筆名.|顏惠慶『英華大辭典』s.v. Pseudonym|名 is free only when the sense is 'given name'|
 筆者|/|noun|1927|夫此種評論⋯固應力求其廣汎、惟因筆者之便利、順序等頗有不同.|『順天時報』11月29日「北京金融界之概觀」||
