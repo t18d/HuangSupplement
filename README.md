@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-09-20T13:39:27+00:00
+last_modified_at: 2025-09-20T23:41:46+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -153,7 +153,6 @@ last_modified_at: 2025-09-20T13:39:27+00:00
 <a href="https://t18d.github.io/HuangSupplement/f/">F (15)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/g/">G (10)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/h/">H (8)</a> ·
-<a href="https://t18d.github.io/HuangSupplement/i/">I (0)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/j/">J (9)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/k/">K (7)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/l/">L (6)</a> ·
@@ -165,10 +164,8 @@ last_modified_at: 2025-09-20T13:39:27+00:00
 <a href="https://t18d.github.io/HuangSupplement/q/">Q (26)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/r/">R (2)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/s/">S (16)</a> ·
-<a href="https://t18d.github.io/HuangSupplement/t/">T (5)</a> ·
 <br>
-<a href="https://t18d.github.io/HuangSupplement/u/">U (0)</a> ·
-<a href="https://t18d.github.io/HuangSupplement/v/">V (0)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/t/">T (5)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/w/">W (2)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/x/">X (9)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/y/">Y (7)</a> ·
