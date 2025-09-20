@@ -4,7 +4,7 @@ permalink: c/
 seo:
   type: Dataset
   name: "HuangSupplement: letter C"
-last_modified_at: 2025-09-19T14:47:11+00:00
+last_modified_at: 2025-09-20T00:46:15+00:00
 description: Antedatings, errata and addenda to letter C of 近現代漢語辭源
 layout: main
 font_key: c

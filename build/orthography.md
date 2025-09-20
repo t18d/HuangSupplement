@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2025-09-19T14:47:11+00:00
+last_modified_at: 2025-09-20T00:46:15+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -54,7 +54,7 @@ dictionaries is cited as secondary evidence.
     <ul>
       <li>Chang, Yung-ch'üan, 敦煌寫本文獻學 (Lanchow, 2013).</li>
       <li>Finglass, P. J., 'Orthographica Sophoclea', <em>Philologus</em>, 153 
-        (2009), 206–28.
+        (2009), 206–28.</li>
       <li>Huang, Cheng, '漫談古籍整理的規範問題', <em>Tunhwang yen chiu</em>, 162 
         (2017), 70–7.</li>
       <li>Huang, Cheng, 敦煌俗字典 (2nd edn, Shanghai, 2020), 2–40.</li>
