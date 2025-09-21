@@ -4,7 +4,7 @@ permalink: q/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Q"
-last_modified_at: 2025-09-20T23:41:46+00:00
+last_modified_at: 2025-09-21T09:28:16+00:00
 description: Antedatings, errata and addenda to letter Q of 近現代漢語辭源
 layout: main
 font_key: q
@@ -32,6 +32,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 潛伏期(1)|/|noun|1905|其初為病之潛伏期|湖北學務處『倫理學·課外餘談』34||
 前景|/|noun|1867|Foreground 前地 … 前景|Lobscheid『英華字典』s.v. Foreground||
 前述|/|adjective|1880|如前述江西某委員信役濫刑|『申報』4月27日「論惡役殃民」|also in Japanese: 1877 (Nikkoku); [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=前述)|
+潛意識|/|noun|1918|此羣體之得生活。不外由於各個細胞能服從在潛意識而活動故也。|『大公報』10月25日「心靈研究之進境」||
 鉗子|/|noun|1848|鉗子⋯小鉗子|Medhurst, _English and Chinese Dictionary_, s.v. Pliers||
 槍刺|/|noun|1903|「趕造槍刺」|『北洋官報』第一百四十八冊||
 槍彈|/|noun|s.xvii|受數百槍彈從脅穿透|『行在陽秋·下』||
