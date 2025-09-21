@@ -4,7 +4,7 @@ permalink: y/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Y"
-last_modified_at: 2025-09-21T09:28:16+00:00
+last_modified_at: 2025-09-21T09:30:40+00:00
 description: Antedatings, errata and addenda to letter Y of 近現代漢語辭源
 layout: main
 font_key: y
@@ -26,4 +26,3 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |glaring error|noun|1948|單就我們所說的「硬傷」而論，在這號稱「修訂本」、「標準本」當中就還多得難以計數。|鄧恭三「揭發『國定錯誤』廢除『國定課本』」in『大公報』10月3日|Note the quotes; [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=硬傷)|
 語文學|/|noun|1905|「語文學·文字統一之難」⋯「電學⋯」|『學報彙編·科學叢錄一·雜誌類七集』9||
 原罪|/|noun|c1636|特吾主。及聖母。無染原罪。|Dias『聖經直解·雜事目錄』51 (Jap. Sin. I-70)||
--運動(1)|/|nominal bound root|1900|這運動兩字。不是講身體的運動。是講去運動別人。要他相信。|『紹興白話報』第九十六號「說運動」|here converted to verb; 運動(1) as a noun is obsolete|
