@@ -4,10 +4,11 @@ permalink: b/
 seo:
   type: Dataset
   name: "HuangSupplement: letter B"
-last_modified_at: 2025-09-21T05:21:28+00:00
+last_modified_at: 2025-09-21T12:22:58+00:00
 description: Antedatings, errata and addenda to letter B of 近現代漢語辭源
 layout: main
 font_key: b
+edit_path: dict/b.csv
 ---
 # B
 

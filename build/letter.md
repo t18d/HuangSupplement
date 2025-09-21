@@ -4,10 +4,11 @@ permalink: letter/
 seo:
   type: Dataset
   name: "HuangSupplement: lettered words"
-last_modified_at: 2025-09-20T23:41:46+00:00
+last_modified_at: 2025-09-21T12:22:58+00:00
 description: Antedatings, errata and addenda to lettered words in 近現代漢語辭源
 layout: main
 font_key: letter
+edit_path: dict/letter.csv
 ---
 # Lettered Words
 

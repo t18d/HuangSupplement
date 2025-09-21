@@ -4,10 +4,11 @@ permalink: k/
 seo:
   type: Dataset
   name: "HuangSupplement: letter K"
-last_modified_at: 2025-09-20T23:41:46+00:00
+last_modified_at: 2025-09-21T12:22:58+00:00
 description: Antedatings, errata and addenda to letter K of 近現代漢語辭源
 layout: main
 font_key: k
+edit_path: dict/k.csv
 ---
 # K
 
