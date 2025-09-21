@@ -4,7 +4,7 @@ permalink: b/
 seo:
   type: Dataset
   name: "HuangSupplement: letter B"
-last_modified_at: 2025-09-20T23:41:46+00:00
+last_modified_at: 2025-09-21T04:55:36+00:00
 description: Antedatings, errata and addenda to letter B of 近現代漢語辭源
 layout: main
 font_key: b
@@ -113,6 +113,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 筆名|/|noun|1908|A false name, 偽名, 冒名, 假名, 別名, 筆名.|顏惠慶『英華大辭典』s.v. Pseudonym|名 is free only when the sense is 'given name'|
 筆者|/|noun|1927|夫此種評論⋯固應力求其廣汎、惟因筆者之便利、順序等頗有不同.|『順天時報』11月29日「北京金融界之概觀」||
 比重(1)|/|noun|1867|specific gravity, 比重|Lobscheid『英華字典』s.v. Gravity||
+閉關鎖國|/|idiom|1902|議者知務農矣.而又爲閉關鎖國之說.|『原富·部戊』15||
 必然|/|adverb|1703|Forçosam<sup>te</sup> piĕ̇ tińg. piĕ̇ kińg. piĕ̇ jên.|Varo, _Arte de la lengua mandarina_, 65||
 標本|/|noun|1900|「製介類標本法」|『農學報』九十八||
 標記|/|noun|1858|朔望上下弦表、歷年測量寒熱表、行進江海標記、潮汐表、中外寄書表|『六合叢談』2/1, 15|earliest use as noun|
