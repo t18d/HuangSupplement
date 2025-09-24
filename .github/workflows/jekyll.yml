@@ -18,6 +18,7 @@ on:
       - '**.pdf'
       - _config.yml
       - .github/workflows/jekyll.yml
+      - package-lock.json
   workflow_dispatch:
 
 permissions:
@@ -70,25 +71,30 @@ jobs:
         run: |
           bundle exec jekyll build \
           --baseurl "${{ steps.pages.outputs.base_path }}"
-
         env:
           JEKYLL_ENV: production
 
-      - name: Minify HTML/CSS/JS
-        uses: docker://devatherock/minify-js:3.1.0
+      - uses: actions/setup-node@v5
         with:
-          directory: './_site'
-          add_suffix: false
-          exclusions: |-
-            assets/js/
+          node-version: 'node'
+          cache: 'npm'
+          package-manager-cache: true
 
-      - uses: actions/setup-node@v4
+      - name: Cache npm
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
+          
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
+          cache: 'pip'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          npm ci
+          pip install -r requirements.txt
 
       # Explicit per-page caches
       - name: Cache font a
@@ -131,11 +137,6 @@ jobs:
         with:
           path: _site/assets/FSung-h.woff2
           key: cache-h-${{ hashFiles('dict/h.csv') }}
-      - name: Cache font i
-        uses: actions/cache@v4
-        with:
-          path: _site/assets/FSung-i.woff2
-          key: cache-i-${{ hashFiles('dict/i.csv') }}
       - name: Cache font j
         uses: actions/cache@v4
         with:
@@ -191,16 +192,6 @@ jobs:
         with:
           path: _site/assets/FSung-t.woff2
           key: cache-t-${{ hashFiles('dict/t.csv') }}
-      - name: Cache font u
-        uses: actions/cache@v4
-        with:
-          path: _site/assets/FSung-u.woff2
-          key: cache-u-${{ hashFiles('dict/u.csv') }}
-      - name: Cache font v
-        uses: actions/cache@v4
-        with:
-          path: _site/assets/FSung-v.woff2
-          key: cache-v-${{ hashFiles('dict/v.csv') }}
       - name: Cache font w
         uses: actions/cache@v4
         with:
@@ -236,7 +227,7 @@ jobs:
         run: |
           set -e
           sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0
-          for page in a b c d e f g h i j k l m n o p q r s t u v w x y z letter obsolete; do
+          for page in a b c d e f g h j k l m n o p q r s t w x y z letter obsolete; do
             html="./_site/$page/index.html"
             csv="dict/$page.csv"
             out="_site/assets/FSung-$page.woff2"
@@ -252,12 +243,21 @@ jobs:
             fi
 
             echo "Generating font for $page..."
-            npx glyphhanger "$html" --formats=woff2 --subset=assets/font/*.ttf
+            npx glyphhanger "$html" --jsdom --formats=woff2 \
+              --subset=assets/font/*.ttf
             fonttools merge assets/font/*subset*
             npx glyphhanger --subset=merged.ttf --formats=woff2
             cp merged-subset.woff2 "$out"
             rm -f assets/font/*subset* merged*
           done
+
+      - name: Minify HTML/CSS/JS
+        uses: docker://devatherock/minify-js:3.1.0
+        with:
+          directory: './_site'
+          add_suffix: false
+          exclusions: |-
+            assets/js/
 
       - name: Upload complete site
         uses: actions/upload-pages-artifact@v3

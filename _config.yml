@@ -17,4 +17,4 @@ plugins:
   - csv
   - base64
 incremental: true
-exclude: ["assets/pdf/Basic references for pre-Han and Han Chinese.pdf", "requirements.txt", "*.ttf", "*.csv", "*.py", "LICENSE"]
+exclude: ["assets/pdf/Basic references for pre-Han and Han Chinese.pdf", "package*", "requirements.txt", "*.ttf", "*.csv", "*.py", "LICENSE"]
