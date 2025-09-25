@@ -244,7 +244,7 @@ jobs:
 
             echo "Generating font for $page..."
             npx glyphhanger "$html" --jsdom --formats=woff2 \
-              --subset=assets/font/*.ttf
+              --subset=assets/font/*.ttf 2>/dev/null
             fonttools merge assets/font/*subset*
             npx glyphhanger --subset=merged.ttf --formats=woff2
             cp merged-subset.woff2 "$out"
