@@ -74,18 +74,28 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - uses: actions/setup-node@v5
-        with:
-          node-version: 'node'
-          cache: 'npm'
-          package-manager-cache: true
+      #- uses: actions/setup-node@v5
+      #  with:
+      #    node-version: 'node'
+      #    cache: 'npm'
+      #    package-manager-cache: true
 
-      - name: Cache npm
+      #- name: Cache npm
+      #  uses: actions/cache@v4
+      #  with:
+      #    path: ~/.npm
+      #    key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Cache glyphhanger
         uses: actions/cache@v4
         with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
-          
+          path: ~/.bun/install/cache
+          key: ${{ runner.os }}-bun-${{ hashFiles('bun.lock') }}
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
@@ -93,7 +103,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          npm ci
+          bun install
           pip install -r requirements.txt
 
       # Explicit per-page caches
@@ -243,10 +253,10 @@ jobs:
             fi
 
             echo "Generating font for $page..."
-            npx glyphhanger "$html" --jsdom --formats=woff2 \
+            bunx glyphhanger "$html" --jsdom --formats=woff2 \
               --subset=assets/font/*.ttf 2>/dev/null
             fonttools merge assets/font/*subset*
-            npx glyphhanger --subset=merged.ttf --formats=woff2
+            bunx glyphhanger --subset=merged.ttf --formats=woff2
             cp merged-subset.woff2 "$out"
             rm -f assets/font/*subset* merged*
           done
