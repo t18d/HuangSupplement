@@ -237,29 +237,54 @@ jobs:
         run: |
           set -e
           sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0
-          for page in a b c d e f g h j k l m n o p q r s t w x y z letter obsolete; do
-            html="./_site/$page/index.html"
-            csv="dict/$page.csv"
-            out="_site/assets/FSung-$page.woff2"
 
+          # Define the pages as an array for easier handling
+          pages=(a b c d e f g h j k l m n o p q r s t w x y z letter obsolete)
+          
+          # Function to process a single page (for parallelization)
+          process_page() {
+            local page="$1"
+            local html="./_site/$page/index.html"
+            local csv="dict/$page.csv"
+            local out="_site/assets/FSung-$page.woff2"
+          
             if [ ! -f "$csv" ] || [ ! -f "$html" ]; then
               echo "Skipping $page (missing $csv or $html)"
-              continue
+              return
             fi
-
+          
             if [ -f "$out" ]; then
               echo "Font for $page already cached, skipping."
-              continue
+              return
             fi
-
+          
             echo "Generating font for $page..."
+          
+            # Create a temp dir for this page’s intermediate files
+            local tmpdir="assets/font/tmp-$page"
+            mkdir -p "$tmpdir"
+          
+            # Run glyphhanger to subset against this page’s HTML
             bunx glyphhanger "$html" --jsdom --formats=woff2 \
-              --subset=assets/font/*.ttf 2>/dev/null
-            fonttools merge assets/font/*subset*
-            bunx glyphhanger --subset=merged.ttf --formats=woff2
-            cp merged-subset.woff2 "$out"
-            rm -f assets/font/*subset* merged*
-          done
+              --subset=assets/font/*.ttf --output="$tmpdir"
+          
+            # Merge subsets: fonttools merge always writes merged.ttf in cwd
+            (cd "$tmpdir" && fonttools merge *subset*)
+            mv "$tmpdir/merged.ttf" "$tmpdir/merged-$page.ttf"
+          
+            # Subset the merged file again to woff2
+            bunx glyphhanger --subset="$tmpdir/merged-$page.ttf" \
+              --formats=woff2 --output="$tmpdir"
+          
+            # Copy final result into site assets
+            cp "$tmpdir/merged-$page-subset.woff2" "$out"
+          }
+          
+          # Export the function for parallel to use it
+          export -f process_page
+          
+          # Use GNU parallel to process pages in parallel
+          parallel -j"$(nproc)" process_page ::: "${pages[@]}"
 
       - name: Minify HTML/CSS/JS
         uses: docker://devatherock/minify-js:3.1.0
