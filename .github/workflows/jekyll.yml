@@ -266,7 +266,7 @@ jobs:
           
             # Run glyphhanger to subset against this page’s HTML
             bunx glyphhanger "$html" --jsdom --formats=woff2 \
-              --subset=assets/font/*.ttf --output="$tmpdir"
+              --subset=assets/font/*.ttf --output="$tmpdir" 2>/dev/null
           
             # Merge subsets: fonttools merge always writes merged.ttf in cwd
             (cd "$tmpdir" && fonttools merge *subset*)
