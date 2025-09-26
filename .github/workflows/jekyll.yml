@@ -90,15 +90,15 @@ jobs:
         with:
           bun-version: latest
 
-      - name: Cache glyphhanger
-        uses: actions/cache@v4
-        with:
-          path: ~/.bun/install/cache
-          key: ${{ runner.os }}-bun-${{ hashFiles('bun.lock') }}
+      #- name: Cache glyphhanger
+      #  uses: actions/cache@v4
+      #  with:
+      #    path: ~/.bun/install/cache
+      #    key: ${{ runner.os }}-bun-${{ hashFiles('bun.lock') }}
 
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.13'
+          python-version: '3.x'
           cache: 'pip'
 
       - name: Install dependencies
