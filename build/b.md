@@ -4,7 +4,7 @@ permalink: b/
 seo:
   type: Dataset
   name: "HuangSupplement: letter B"
-last_modified_at: 2025-09-28T07:29:44+00:00
+last_modified_at: 2025-09-28T07:56:37+00:00
 description: Antedatings, errata and addenda to letter B of 近現代漢語辭源
 layout: main
 font_key: b
@@ -122,7 +122,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 標記|/|noun|1858|朔望上下弦表、歷年測量寒熱表、行進江海標記、潮汐表、中外寄書表|『六合叢談』2/1, 15|earliest use as noun|
 表達|/|verb|1907|坎拿大首相勞利安已向駐亞托華日本領事表逹歉仄之意|『申報』9月12日「美洲排斥黃人暴動事彙誌」|泣紅亭 cited by Han-ta (2nd edn) is a 1981 translation|
 表面張力|/|noun|1905|凡液體之表面因分子力不平均而生之收縮力為表面張力|湖北學務處『物理學』||
-表情|/|noun|1908|Expression of the passions, 表情, 情徵|顏惠慶『英華大辭典』s.v. Pathognomy||
+表情|/|noun|1920|演劇人在舞台上必須常常注意，使面部表情與劇本中所包含的思想常相貫串|『時事新報』9月3日「戲劇的動作法」|still very much a verbal noun|
 別字(1)|variant ideograph|noun|Northern Ch'i|/|『顏氏家訓』||
 |/|/|1930|中國的俗字或別字，在十年之內，總可以研究完備了。|劉復『宋元以來俗字譜·序』5||
 |/|/|2016|『碑別字新編 (修訂本)』|/||
