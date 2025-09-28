@@ -44,11 +44,33 @@ def update_last_modified(lines: list, filename: str) -> list:
         raise RuntimeError(f"'{LAST_MODIFIED_KEY}' not found in {filename}")
     return updated_lines
 
+def parse_and_validate_csv(csv_path: str):
+    """
+    Parse CSV once, validating RFC4180-like rules.
+    Returns list of rows if valid, raises RuntimeError otherwise.
+    """
+    rows = []
+    try:
+        with open(csv_path, "r", encoding="utf8", newline="") as f:
+            reader = csv.reader(f, strict=True)
+            expected_len = None
+            for i, row in enumerate(reader, start=1):
+                if expected_len is None:
+                    expected_len = len(row)
+                elif len(row) != expected_len:
+                    raise RuntimeError(
+                        f"Row {i} in {csv_path} has {len(row)} fields; expected {expected_len}"
+                    )
+                rows.append(row)
+    except csv.Error as e:
+        raise RuntimeError(f"CSV parsing error in {csv_path}: {e}")
+    return rows
+
 def update_markdown_from_csv(csv_path: str, counts: dict):
     base_name = os.path.splitext(os.path.basename(csv_path))[0]
-
     md_path = os.path.join("build", f"{base_name}.md")
 
+    # Read preface up to marker
     preface_lines = []
     marker_found = False
     if os.path.exists(md_path):
@@ -58,20 +80,21 @@ def update_markdown_from_csv(csv_path: str, counts: dict):
                 if MARKER in line:
                     marker_found = True
                     break
-
     if not marker_found:
         raise RuntimeError(f"Marker '{MARKER}' not found in {md_path}")
 
     os.makedirs(os.path.dirname(md_path), exist_ok=True)
 
-    with open(csv_path, "r", encoding="utf8", newline="") as csv_file:
-        rows = list(csv.reader(csv_file))
+    # Validate and parse CSV in one pass
+    rows = parse_and_validate_csv(csv_path)
 
+    # Count entries for README if needed
     if (len(base_name) == 1 and 'a' <= base_name <= 'z') or base_name == 'letter':
         count = sum(1 for row in rows[1:] if row and row[0] != '')
         label = base_name.upper() if len(base_name) == 1 else 'Lettered'
         counts[label] = count
 
+    # Build markdown table
     table_lines = []
     if rows:
         header = [escape_markdown_cell(cell) for cell in rows[0]]
@@ -81,8 +104,10 @@ def update_markdown_from_csv(csv_path: str, counts: dict):
             escaped_row = [escape_markdown_cell(cell) for cell in row]
             table_lines.append("|".join(escaped_row) + "|\n")
 
+    # Update last_modified_at in preface
     preface_lines = update_last_modified(preface_lines, md_path)
 
+    # Write final markdown
     with open(md_path, "w", encoding="utf8") as md_file:
         md_file.writelines(preface_lines)
         md_file.write("\n")
