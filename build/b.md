@@ -4,7 +4,7 @@ permalink: b/
 seo:
   type: Dataset
   name: "HuangSupplement: letter B"
-last_modified_at: 2025-09-21T12:22:58+00:00
+last_modified_at: 2025-09-28T07:29:44+00:00
 description: Antedatings, errata and addenda to letter B of 近現代漢語辭源
 layout: main
 font_key: b
@@ -117,6 +117,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 閉關鎖國|/|idiom|1902|議者知務農矣.而又爲閉關鎖國之說.|『原富·部戊』15||
 避雷針|/|noun|1884|船上一切鐵錨鐵鍊⋯避雷針天文表量水表等物咸備|『申報』5月24日「觀南琛船記」|from Japanese: 1869 (NDL)|
 必然|/|adverb|1703|Forçosam<sup>te</sup> piĕ̇ tińg. piĕ̇ kińg. piĕ̇ jên.|Varo, _Arte de la lengua mandarina_, 65||
+辯證法|/|noun|1902|而希臘自芝諾芬尼梭格拉底屢用辯證法至阿里士多德而論理學蔚爲一科矣|『新民叢報』7「論中國學術思想變遷之大勢」59||
 標本|/|noun|1900|「製介類標本法」|『農學報』九十八||
 標記|/|noun|1858|朔望上下弦表、歷年測量寒熱表、行進江海標記、潮汐表、中外寄書表|『六合叢談』2/1, 15|earliest use as noun|
 表達|/|verb|1907|坎拿大首相勞利安已向駐亞托華日本領事表逹歉仄之意|『申報』9月12日「美洲排斥黃人暴動事彙誌」|泣紅亭 cited by Han-ta (2nd edn) is a 1981 translation|
