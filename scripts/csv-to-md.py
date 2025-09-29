@@ -119,17 +119,20 @@ def update_readme(counts: dict):
         return
 
     with open(readme_path, "r", encoding="utf8") as f:
-        lines = f.readlines()
+        content = f.read()
 
-    content = "".join(lines)
+    changed = False
     for label, count in counts.items():
         pattern = re.compile(r'{}\s*\(([^)]*)\)'.format(re.escape(label)))
-        content, _ = pattern.subn(f"{label} ({count})", content)
+        new_content, subs = pattern.subn(f"{label} ({count})", content)
+        if subs > 0:
+            changed = True
+            content = new_content  # carry forward substitutions
 
-    updated_lines = update_last_modified(content.splitlines(keepends=True), readme_path)
-
-    with open(readme_path, "w", encoding="utf8") as f:
-        f.writelines(updated_lines)
+    if changed:
+        updated_lines = update_last_modified(content.splitlines(keepends=True), readme_path)
+        with open(readme_path, "w", encoding="utf8") as f:
+            f.writelines(updated_lines)
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
