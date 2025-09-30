@@ -4,7 +4,7 @@ permalink: s/
 seo:
   type: Dataset
   name: "HuangSupplement: letter S"
-last_modified_at: 2025-09-21T12:22:58+00:00
+last_modified_at: 2025-09-30T12:48:31+00:00
 description: Antedatings, errata and addenda to letter S of 近現代漢語辭源
 layout: main
 font_key: s
@@ -21,6 +21,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 上帝|/|noun|a1590|惟天主上帝其事未觧明否|Ricci, _Lettre de Sixte V au Maître de l'Empire des Ming_ (Chinois 1320)||
 上述|/|adjective|1903|以上述之新兵爲自衛軍⋯宜協力迫俄國交還奉天之事|『俄事警聞』12月20日「清國之對俄政策」|from Japanese: 1895 (CHJ); [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=上述)|
 哨子|/|noun|1889|Steam whistle 汽哨子|Fryer『汽機中西名目表』49||
+奢談|/|VP|1903|「奢談禁例」|『國民日日報』11月29日|still very much stylised|
+|/|/|1911|及海牙開會改約期限已過英人尙容我奢談廢約乎|『吉長日報』3月31日「鴉片交涉談」|in natural text|
 生態學|/|noun|1903|論其習性與其相交之關係者。曰生態學。|作新社『新編動物學』3||
 聖誕|(in Christianity)|verb|c1636|「吾主聖誕前第四主日」|Dias『聖經直解·卷之一』9 (Jap. Sin. I-70)||
 聖母|/|noun|a1588|中間聖母無交配 誕聖原前室女躬|Ruggieri, _Chinese Poems_, 6 (Jap. Sin. II-159)||
