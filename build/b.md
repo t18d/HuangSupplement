@@ -4,7 +4,7 @@ permalink: b/
 seo:
   type: Dataset
   name: "HuangSupplement: letter B"
-last_modified_at: 2025-09-30T02:36:15+00:00
+last_modified_at: 2025-09-30T03:32:52+00:00
 description: Antedatings, errata and addenda to letter B of 近現代漢語辭源
 layout: main
 font_key: b
@@ -144,6 +144,6 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 不法行爲|/|NP|1883|似此種種不法行爲實足爲地方大害|『申報』12月19日「憲示録登」||
 布告|/|noun|1862|「佈告」|『上海新報』8月23日||
 不合理|/|adjective|1822|It does not comport with right reason, 不合理 … 與理不相符|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. COMPORT||
-不平等|/|adjective|a1029 (a420)|看是断事不平等二人俱犯罪󶅠何􁍏比丘駈比丘尼|『摩訶僧祇律·卷十二』21 (K0889)||
+不平等|/|adjective|a1029 (418)|看是断事不平等二人俱犯罪󶅠何􁍏比丘駈比丘尼|『摩訶僧祇律·卷十二』21 (K0889)||
 不全|/|adjective|Chou|/|/||
 不許|/|verb|1815|書上有講不明白的義旨就來細問不許含混|Morrison, _A Dictionary of the Chinese Language_, i/i, 750||
