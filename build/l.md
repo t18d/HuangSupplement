@@ -4,7 +4,7 @@ permalink: l/
 seo:
   type: Dataset
   name: "HuangSupplement: letter L"
-last_modified_at: 2025-09-21T12:22:58+00:00
+last_modified_at: 2025-09-30T12:37:42+00:00
 description: Antedatings, errata and addenda to letter L of 近現代漢語辭源
 layout: main
 font_key: l
@@ -17,7 +17,7 @@ edit_path: dict/l.csv
 Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
 烙鐵|/|noun|1889|Soldering iron 嵌錫烙鐵|Fryer『汽機中西名目表』47||
-禮拜|/|verb|c1584 (1583)|三當禮拜之日禁止工夫謁寺誦經禮拜天主|Ruggieri『祖傳天主十誡』(Jap. Sin. I-189)||
+禮拜|(+ the Christian god)|verb|c1584 (1583)|三當禮拜之日禁止工夫謁寺誦經禮拜天主|Ruggieri『祖傳天主十誡』(Jap. Sin. I-189)||
 理校|/|verb|1934 (1931)|所謂理校法也.遇無古本可據.或數本互異.而無所適從之時.則須用此法|陳垣『元典章校補釋例·第四十三校法四例』87|cf. Pasquali (1934) – Ch'en was reinventing the wheel|
 硫酸|/|noun|1883|Sulphuric acid 硫酸|Fryer『金石中西名目表』32||
 龍脈|/|noun|c1267|昔有頭陁、從廣信󴰉龍􁕘來此|祝洙『新編方輿勝覽·卷十福建路』250 (786975–94)||
