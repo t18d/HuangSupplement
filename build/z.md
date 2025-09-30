@@ -4,7 +4,7 @@ permalink: z/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Z"
-last_modified_at: 2025-09-23T07:51:41+00:00
+last_modified_at: 2025-09-30T11:38:34+00:00
 description: Antedatings, errata and addenda to letter Z of 近現代漢語辭源
 layout: main
 font_key: z
@@ -24,8 +24,9 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 中國|(in treaties)|noun|1731 (1690)|河之南岸、属于中国。河之北岸、属于鄂罗斯。|『聖祖仁皇帝實錄·卷一四三』||
 钟乳石|/|noun|1903|鐘乳石 (Sta\<l>actite)|『中學地文教科書』75|Doolittle (1872): 石鐘乳|
 中文|/|noun|1873|「英京設教習中文書院」|『申報』3月24日||
-中文系|(of a high school)|noun|1923|中文系添古學哲學史學理論心理等類、英文系添有心理學高等幾何化學等課、|『時事新報』7月17日「蘇州桃塢改辦高級中學」||
-|(of a university)|/|1925|「上大中文系戊辰級會大會」|『民國日報』3月23日|中文系 has the same referent as, but is _not_ semantically equivalent to, 中國語言文學系|
+中文系|(in a high school)|noun|1923|中文系添古學哲學史學理論心理等類、英文系添有心理學高等幾何化學等課、|『時事新報』7月17日「蘇州桃塢改辦高級中學」||
+|(in a university)|/|1925|「上大中文系戊辰級會大會」|『民國日報』3月23日|中文系 has the same referent as, but is _not_ semantically equivalent to, 中國語言文學系|
+中西合璧|(in a neutral sense)|idiom|1885|該洋東遞呈租地時所立中西合璧契據幷繪圖一張|『申報』8月14日「催繳地租」||
 種樹|plant trees|verb|a1034 (c296)|/|『文選·閒居賦』(8575)||
 -主義(1)|/|nominal bound root|1883|因係官權主義聞主筆者必將更迭|『申報』3月4日「會黨類誌」||
 祝福|(intransitive)|verb|1538 (1370)|抑此乃祝福之詩非祭祀之詩|『五經蠡測·卷之四』13 (善000735)||
