@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-09-20T09:12:05+00:00
+last_modified_at: 2025-09-30T06:38:14+00:00
 layout: anchor
 ---
 # Bibliography
@@ -55,6 +55,7 @@ layout: anchor
 - 陳戈, '『東西洋考每月統記傳』新詞研究', master's thesis, 浙江財經大學, 2013.
 - 陳華, '有關『四洲志』的若干问题', 暨南學報, 15/3 (1993), 80. \[英吉利\]
 - 崔蕭寒, '「摩擦」の語史：日中両語の相互影響', master's thesis, Osaka University, 2021.
+- 鄧紹根, '「采访」词源新证及其术语的形成', 當代傳播, 149/6 (2009), 59.
 - 馮天瑜–聶長順, 三十個關鍵詞的文化史 (Peking, 2021), 68–9. \[中國\]
 - 馮玥, '「反応」の語誌', master's thesis, Osaka University, 2022.
 - 黃河清,
