@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-09-30T06:38:14+00:00
+last_modified_at: 2025-10-01T13:15:49+00:00
 layout: anchor
 ---
 # Bibliography
@@ -56,8 +56,9 @@ layout: anchor
 - 陳華, '有關『四洲志』的若干问题', 暨南學報, 15/3 (1993), 80. \[英吉利\]
 - 崔蕭寒, '「摩擦」の語史：日中両語の相互影響', master's thesis, Osaka University, 2021.
 - 鄧紹根, '「采访」词源新证及其术语的形成', 當代傳播, 149/6 (2009), 59.
-- 馮天瑜–聶長順, 三十個關鍵詞的文化史 (Peking, 2021), 68–9. \[中國\]
+- 馮天瑜－聶長順, 三十個關鍵詞的文化史 (Peking, 2021), 68–9. \[中國\]
 - 馮玥, '「反応」の語誌', master's thesis, Osaka University, 2022.
+- 何華珍－丁鑫美, '近現代中日漢字詞源流考述', 漢語史研究集刊, 34 (2023), 201. [視線]
 - 黃河清,
   '["界說""定義"考](http://www.huayuqiao.org/DOCC/DOC129/NO_076.php)', 語文建設,
   129 (2024), 76. \[定義\]
