@@ -122,12 +122,19 @@ def update_readme(counts: dict):
         content = f.read()
 
     changed = False
+
     for label, count in counts.items():
         pattern = re.compile(r'{}\s*\(([^)]*)\)'.format(re.escape(label)))
-        new_content, subs = pattern.subn(f"{label} ({count})", content)
-        if subs > 0:
+
+        def repl(match):
+            old_val = match.group(1)
+            if old_val == str(count):
+                return match.group(0)  # unchanged
+            nonlocal changed
             changed = True
-            content = new_content  # carry forward substitutions
+            return f"{label} ({count})"
+
+        content = pattern.sub(repl, content)
 
     if changed:
         updated_lines = update_last_modified(content.splitlines(keepends=True), readme_path)
