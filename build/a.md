@@ -4,7 +4,7 @@ permalink: a/
 seo:
   type: Dataset
   name: "HuangSupplement: letter A"
-last_modified_at: 2025-10-01T06:44:46+00:00
+last_modified_at: 2025-10-01T07:37:15+00:00
 description: Antedatings, errata and addenda to letter A of 近現代漢語辭源
 layout: main
 font_key: a
@@ -40,7 +40,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 暗流|/|/|1903|/|/|from Japanese: 1894 (Asahi)|
 暗生植物|/|NP|1887|Cryptogam{e}æ 暗生植物|Fryer『西藥大成藥品中西名目表』18|dog-Latin: Kretschmer §31|
 暗示|/|/|1903|/|/|from Japanese: 1879 (Yomidasu)|
-暗室|/|noun|c1664|故山市海市暗室一隙皆得轉吸而見之|方以智『物理小識·卷之一天類·氣論』23 (307-0260)||
+暗室|/|noun|a1704 (c1664)|故山市􀟥市。暗室一𨻶。皆得轉吸而見之。|方以智『物理小識·卷之一天類·氣論』5 (2674)||
 暗箱|/|/|1901|/|/|from Japanese: c1868 (Nikkoku)|
 暗轉|/|/|1948|/|/|from Japanese: 1908 (Yomidasu)|
 凹版|/|/|1913|/|/|from Japanese: 1890 (NDL)|
