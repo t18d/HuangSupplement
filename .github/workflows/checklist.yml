@@ -3,6 +3,10 @@ name: Monitor Checklist
 on:
   schedule:
     - cron: '0 16 * * 6'
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/checklist.yml
   workflow_dispatch:
 
 permissions:
@@ -24,15 +28,25 @@ jobs:
           sparse-checkout: |
             scripts/
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      #- name: Set up Python
+      #  uses: actions/setup-python@v5
+      #  with:
+      #    python-version: '3.13'
+      #    cache: 'pip'
+      #    cache-dependency-path: scripts/monitor_edition_count.py
+
+      #- name: Install dependencies
+      #  run: pip install requests lxml
+
+      - uses: astral-sh/setup-uv@v6
         with:
-          python-version: '3.13'
-          cache: 'pip'
-          cache-dependency-path: scripts/monitor_edition_count.py
+          enable-cache: true
+          cache-dependency-glob: scripts/monitor_edition_count.py
 
       - name: Install dependencies
-        run: pip install requests lxml
+        run: |
+          uv venv
+          uv pip install requests lxml
 
       - name: Run monitor script
         id: monitor

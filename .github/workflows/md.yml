@@ -8,6 +8,7 @@ on:
     paths:
       - 'dict/*.csv'
       - '**/*.md'
+      - .github/workflows/md.yml
   workflow_dispatch:
 
 jobs:
@@ -26,9 +27,9 @@ jobs:
             scripts/
             dict/
 
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.13'
+      #- uses: actions/setup-python@v5
+      #  with:
+      #    python-version: '3.13'
 
       - name: Detect file changes
         id: filter
