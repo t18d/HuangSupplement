@@ -108,8 +108,8 @@ jobs:
       - name: Install dependencies
         run: |
           bun install
-          uv venv .venv
-          uv run pip install -r requirements.txt
+          uv venv
+          uv pip install -r requirements.txt
       #   pip install -r requirements.txt
 
       # Explicit per-page caches
