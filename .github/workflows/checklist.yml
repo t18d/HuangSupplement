@@ -50,7 +50,7 @@ jobs:
 
       - name: Run monitor script
         id: monitor
-        run: python scripts/monitor_edition_count.py
+        run: uv run scripts/monitor_edition_count.py
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:

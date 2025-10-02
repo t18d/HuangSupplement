@@ -242,6 +242,7 @@ jobs:
 
       - name: Generate fonts
         run: |
+          source .venv/bin/activate
           set -e
           sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0
 
