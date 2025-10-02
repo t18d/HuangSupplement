@@ -4,7 +4,7 @@ permalink: f/
 seo:
   type: Dataset
   name: "HuangSupplement: letter F"
-last_modified_at: 2025-09-21T12:22:58+00:00
+last_modified_at: 2025-10-02T03:17:48+00:00
 description: Antedatings, errata and addenda to letter F of 近現代漢語辭源
 layout: main
 font_key: f
@@ -17,6 +17,7 @@ edit_path: dict/f.csv
 Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
 發動|/|verb|1872|電機發動卽將其人拋起躍至丈餘|『申報』6月29日「電氣抛人」||
+發酵|/|verb|a1333|𤼲酵前一日將麯搗碎⋯火不可太猛󶴛焙過麯力酒不能𤼲|『事林廣記·别集卷八酒麴類·酒麯秘方』74 (別060-0001)|c1235 edn only had 發醅爲酵|
 發售|/|verb|a1792 (a1086)|農翁之善蓄稻也層藏累納有淹二十年不發售者|吕南公『灌園集·與楊次公書』(文淵閣)||
 反應(1)|/|noun|1902|呈酸性之反應|『理化教科書』17||
 反應(2)|/|noun|1902|吾入之意識、不外対於內部之剌戟之反應。|『新民叢報』「訳述三·人格論」||
