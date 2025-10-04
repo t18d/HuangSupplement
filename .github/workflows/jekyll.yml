@@ -19,6 +19,7 @@ on:
       - _config.yml
       - .github/workflows/jekyll.yml
       - package-lock.json
+      - Gemfile.lock
   workflow_dispatch:
 
 permissions:
