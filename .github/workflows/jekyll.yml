@@ -294,13 +294,26 @@ jobs:
           # Use GNU parallel to process pages in parallel
           parallel -j"$(nproc)" process_page ::: "${pages[@]}"
 
-      - name: Minify HTML/CSS/JS
-        uses: docker://devatherock/minify-js:3.1.0
-        with:
-          directory: './_site'
-          add_suffix: false
-          exclusions: |-
-            assets/js/
+      #- name: Minify HTML/CSS/JS
+      #  uses: docker://devatherock/minify-js:3.1.0
+      #  with:
+      #    directory: './_site'
+      #    add_suffix: false
+      #    exclusions: |-
+      #      assets/js/
+
+      - name: Install minify
+        run: |
+          curl -L https://github.com/tdewolff/minify/releases/latest/download/minify_linux_amd64.tar.gz \
+            | tar -xz
+          sudo mv minify /usr/local/bin/minify
+
+      - name: Minify HTML, CSS, JSON, SVG, XML
+        run: |
+          minify \
+            -r -i \
+            --match '*.html' '*.css' '*.json' '*.svg' '*.xml' \
+            -- ./_site
 
       - name: Upload complete site
         uses: actions/upload-pages-artifact@v3
