@@ -1,6 +1,7 @@
 {
   "private": true,
   "devDependencies": {
-    "glyphhanger": "github:t18d/glyphhanger"
+    "glyphhanger": "github:t18d/glyphhanger",
+    "purgecss": "^7.0.2"
   }
 }
