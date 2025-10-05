@@ -91,6 +91,27 @@ jobs:
         with:
           bun-version: latest
 
+      - name: PurgeCSS
+        run: |
+          bunx purgecss \
+            --content "_site/[a-z]/index.html" "_site/letter/index.html" "_site/obsolete/index.html" \
+            --css "_site/assets/css/main.css" \
+            --output "_site/assets/css"
+
+          bunx purgecss \
+            --content "_site/index.html" \
+            --css "_site/assets/css/default.css" \
+            --output "_site/assets/css"
+
+          bunx purgecss \
+            --content "_site/**/*.html" \
+                      "!_site/index.html" \
+                      "!_site/[a-z]/index.html" \
+                      "!_site/letter/index.html" \
+                      "!_site/obsolete/index.html" \
+            --css "_site/assets/css/valid.css" \
+            --output "_site/assets/css"
+
       #- name: Cache glyphhanger
       #  uses: actions/cache@v4
       #  with:
