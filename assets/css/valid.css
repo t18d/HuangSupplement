@@ -5275,31 +5275,35 @@ pre {
     table-layout:fixed !important
 }
 
-.sr-only {
+.sr-only {      
+    position: absolute;
+    width: 1px;                                     
+    height: 1px;           
+    padding: 0; 
+    margin: -1px;
+    overflow: hidden;         
+    white-space: nowrap;      
+    border: 0;  
+    clip-path: inset(50%);
+}                             
+                   
+.show-on-focus {        
     position: absolute;
     width: 1px;
-    height: 1px;
-    padding: 0;
+    height: 1px;        
+    margin: -1px;
     overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    word-wrap: normal;
-    border:0
-}
-
-.show-on-focus {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: 0;
-    overflow: hidden;
-    clip:rect(1px, 1px, 1px, 1px)
-}
-
+    white-space: nowrap;
+    border: 0;          
+    clip-path: inset(50%);
+}                      
+                       
 .show-on-focus:focus {
     z-index: 20;
-    width: auto;
+    width: auto; 
     height: auto;
-    clip:auto
+    margin: 0;
+    clip-path: none;
 }
 
 .container {
@@ -6708,4 +6712,11 @@ pre {
 
 .highlight {
     background-color:#f8f8f8
+}
+
+@view-transition {
+navigation: auto;
+}
+::view-transition-group(*) {
+animation-duration: 0.3s;
 }
