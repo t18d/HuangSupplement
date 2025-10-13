@@ -4,7 +4,7 @@ permalink: s/
 seo:
   type: Dataset
   name: "HuangSupplement: letter S"
-last_modified_at: 2025-10-01T13:06:47+00:00
+last_modified_at: 2025-10-13T02:28:59+00:00
 description: Antedatings, errata and addenda to letter S of 近現代漢語辭源
 layout: main
 font_key: s
@@ -29,7 +29,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 石灰水|/|noun|1882|將膿泡一一挑破用石灰水洗淨|『申報』5月5日「火焚續述」||
 石墨|/|noun|1883|Plumbago, or Graphite 石墨|Fryer『金石中西名目表』26||
 石蕊|/|noun|1885|Litmus 石蕋|Fryer『化學材料中西名目表』21||
-視角|/|noun|c1632|若視物之兩端。則兩腰線𤼵來至瞳心。合成三角靣之形。凡角之末銳。必在瞳心。名爲視角。|Rho『崇禎曆書·月離曆指·月離三』3+ (Oxon. Sinica 897)||
+視角|/|noun|c1632|若視物之兩端。則兩腰線𤼵來至瞳心。合成三角󴶩之形。凡角之末銳。必在瞳心。名爲視角。|Rho『崇禎曆書·月離曆指·月離三』3+ (Oxon. Sinica 897)||
 視線(1)|/|noun|1792 (a1610)|首圖目在甲視乙丙一球則如作甲乙丙三角形⋯乙甲丙甲二條視線為兩旁腰邉|『乾坤體義·卷中』5 (淵)||
 是時候|(verbal)|idiom|a1618|我說是時候。這六姐還強說早哩。|『金瓶梅詞話·第三十回』7 (020272–91)||
 |(adjectival)|/|1910|可惜你來的不是時候|『天津白話報』8月29日「閒評：有利則進 無利則退」||
