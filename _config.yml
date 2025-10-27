@@ -16,5 +16,4 @@ plugins:
   - jekyll-default-layout
   - csv
   - base64
-incremental: true
 exclude: ["assets/pdf/Basic references for pre-Han and Han Chinese.pdf", "package*", "requirements.txt", "*.ttf", "*.csv", "*.py", "LICENSE"]

@@ -1,2 +1,4 @@
+beautifulsoup4
+pathvalidate
 fonttools
 brotli

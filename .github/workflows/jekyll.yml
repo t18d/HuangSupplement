@@ -33,7 +33,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: blacksmith-4vcpu-ubuntu-2404
     if: ${{ 
       (github.event_name == 'workflow_run' 
         && github.event.workflow_run.conclusion == 'success') 
@@ -51,6 +51,7 @@ jobs:
             build/
             docs/
             dict/
+            scripts/
             assets/css/
             assets/js/
             assets/webp/
@@ -58,11 +59,25 @@ jobs:
             assets/pdf/
             assets/svg/
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+      - name: Detect latest cached Ruby
+        run: |
+          if [ -d "/opt/hostedtoolcache/Ruby" ]; then
+            LATEST_RUBY=$(ls -d /opt/hostedtoolcache/Ruby/*/x64/bin \
+              | awk -F/ '{print $5}' \
+              | sort -V \
+              | tail -1)
+
+            echo "LATEST_RUBY_VERSION=$LATEST_RUBY" >> $GITHUB_ENV
+            echo "Latest cached Ruby: $LATEST_RUBY"
+          else
+            echo "No cached Ruby found; falling back to 'ruby'."
+            echo "LATEST_RUBY_VERSION=ruby" >> $GITHUB_ENV
+          fi
+      - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 'ruby'
+          ruby-version: ${{ env.LATEST_RUBY_VERSION }}
           bundler-cache: true
+          cache-version: 0
 
       - name: Setup Pages
         id: pages
@@ -266,7 +281,6 @@ jobs:
         run: |
           source .venv/bin/activate
           set -e
-          sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0
 
           # Define the pages as an array for easier handling
           pages=(a b c d e f g h j k l m n o p q r s t w x y z letter obsolete)
@@ -294,20 +308,27 @@ jobs:
             local tmpdir="assets/font/tmp-$page"
             mkdir -p "$tmpdir"
           
-            # Run glyphhanger to subset against this page’s HTML
-            bunx glyphhanger "$html" --jsdom --formats=woff2 \
-              --subset=assets/font/*.ttf --output="$tmpdir" 2>/dev/null
+            # List all input fonts
+            local fonts=$(ls assets/font/*.ttf | tr '\n' ' ')
+          
+            # Run fontimize to subset against this page’s HTML
+            python3 scripts/fontimize.py "$html" \
+              --fonts $fonts \
+              --outputdir "$tmpdir" \
+              --subsetname subset
           
             # Merge subsets: fonttools merge always writes merged.ttf in cwd
-            (cd "$tmpdir" && fonttools merge *subset*)
+            (cd "$tmpdir" && fonttools merge *subset.ttf)
             mv "$tmpdir/merged.ttf" "$tmpdir/merged-$page.ttf"
           
-            # Subset the merged file again to woff2
-            bunx glyphhanger --subset="$tmpdir/merged-$page.ttf" \
-              --formats=woff2 --output="$tmpdir"
+            # Subset the merged file to woff2
+            fonttools subset "$tmpdir/merged-$page.ttf" \
+              --unicodes=* \
+              --flavor=woff2 \
+              --output-file="$tmpdir/FSung-$page.woff2"
           
             # Copy final result into site assets
-            cp "$tmpdir/merged-$page-subset.woff2" "$out"
+            cp "$tmpdir/FSung-$page.woff2" "$out"
           }
           
           # Export the function for parallel to use it
@@ -346,7 +367,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+    runs-on: blacksmith-4vcpu-ubuntu-2404
     needs: build
     steps:
       - name: Deploy to GitHub Pages
