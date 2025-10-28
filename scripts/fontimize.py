@@ -24,8 +24,6 @@ def _get_unicode_string(char : str, withU : bool = True) -> str:
     return ('U+' if withU else '') + hex(ord(char))[2:].upper().zfill(4) # eg U+1234
 
 def _is_cjk_character(codepoint: int) -> bool:
-    """Check if the codepoint is in CJK Unified Ideographs (main + Ext A-J) or CJK Symbols/Punctuation.
-    Includes full Planes 15/16 for private use."""
     cjk_ranges = [
         (0x4E00, 0x9FFF),      # Main
         (0x3400, 0x4DBF),      # Ext A
@@ -38,7 +36,18 @@ def _is_cjk_character(codepoint: int) -> bool:
         (0x31350, 0x323AF),    # Ext H
         (0x2EBF0, 0x2EE5F),    # Ext I
         (0x323B0, 0x3347F),    # Ext J
+        (0x2E80, 0x2EFF),      # CJK Radicals Supplement
+        (0x2F00, 0x2FDF),      # Kangxi Radicals
+        (0x2F800, 0x2FA1F),    # CJK Compatibility Ideographs Supplement
+        (0x2FF0, 0x2FFF),      # Ideographic Description Characters
         (0x3000, 0x303F),      # Symbols and Punctuation
+        (0x3100, 0x312F),      # Bopomofo
+        (0x31C0, 0x31EF),      # CJK Strokes
+        (0x3200, 0x32FF),      # Enclosed CJK Letters and Months
+        (0x3300, 0x33FF),      # CJK Compatibility
+        (0xF900, 0xFAFF),      # CJK Compatibility Ideographs
+        (0xFE10, 0xFE1F),      # Vertical Forms
+        (0xFE30, 0xFE4F),      # CJK Compatibility Forms
         (0xF0000, 0xFFFFF),    # Plane 15: Full private use
         (0x100000, 0x10FFFF),  # Plane 16: Full private use
     ]
@@ -252,7 +261,7 @@ def optimise_fonts(characters : set[str], fonts : list[str], fontpath : str = ""
             savings = sum_orig - sum_new;
             savings_percent = savings / sum_orig * 100 
             print("  Savings: " +  _file_size_to_readable(savings) + " less, which is " + str(round(savings_percent, 1)) + "%!")
-        print("Thankyou for using Fontimize!") # A play on Font and Optimise, haha, so good pun clever. But seriously - hopefully a memorable name!
+        print("Thank you for using Fontimize!") # A play on Font and Optimise, haha, so good pun clever. But seriously - hopefully a memorable name!
 
     return res
 
