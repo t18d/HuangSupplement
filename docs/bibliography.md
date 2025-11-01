@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-10-01T13:15:49+00:00
+last_modified_at: 2025-11-01T13:56:11+00:00
 layout: anchor
 ---
 # Bibliography
@@ -100,3 +100,4 @@ layout: anchor
 - 章可, '近現代「慈善」新詞考源', 東亞觀念史集刊, 19 (2021), 456.
 - 張涌泉, '「別字」正名', 語文建設, 4 (1989), 56–7.
 - 鄭宏, '副詞「很」的形成考', 韶關學院學報, 29/11 (2008), 101–2.
+- 鄭艷, '語言接觸視閾下「重婚」的詞義演變', 日語學習與研究, 211 (2020), 60.
