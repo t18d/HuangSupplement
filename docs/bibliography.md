@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-11-01T13:56:11+00:00
+last_modified_at: 2025-11-01T15:06:03+00:00
 layout: anchor
 ---
 # Bibliography
@@ -27,9 +27,9 @@ layout: anchor
 - Dixon, R. M. W., _Basic Linguistic Theory_, 3 vols (Oxford, 2010–2).
 - Greg, W. W., 'The Rationale of Copy-Text', in _Collected Papers_ (Oxford,
   1966), 374–91.
-  <ul class="text-gray-light"><li>But see D. Foxon, 'Greg's "Rationale" and 
+  - But see D. Foxon, 'Greg's "Rationale" and 
     the Editing of Pope', <em>The Library</em>, 33/2 (1978), 119–24, more useful 
-    than Bowers's 72-page disquisition from the same year.</li></ul>
+    than Bowers's 72-page disquisition from the same year.
 - Huang, Chu-Ren, and Dingxu Shi (eds), _A Reference Grammar of Chinese_
   (Cambridge, 2016).
 - Huddleston, Rodney, and Geoffrey K. Pullum (eds), _The Cambridge Grammar of
