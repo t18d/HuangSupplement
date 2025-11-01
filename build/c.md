@@ -4,7 +4,7 @@ permalink: c/
 seo:
   type: Dataset
   name: "HuangSupplement: letter C"
-last_modified_at: 2025-09-30T06:32:42+00:00
+last_modified_at: 2025-11-01T09:33:39+00:00
 description: Antedatings, errata and addenda to letter C of 近現代漢語辭源
 layout: main
 font_key: c
@@ -27,6 +27,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 草原|/|noun|1902|地多草原。故牧<畜>之業最盛。|作新譯書局『世界地理』292||
 炒魷魚|/|verb|1943|若果一件案都未辦過。叫造飯桶。難免炒魷魚之禍者也。|『大衆報 (澳門)』7月14日「廣東偵緝胆」||
 塵拂|/|noun|1912|尾端生有長毛。如塵拂。|杜亞泉–杜就田『新理科教授法二』12|likely from 塵払 (ちり‐はらい); [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=塵拂,-noun)|
+成果|/|noun|1898|夫地球之成果.衆生之成果.交際之成果.政治之成果.製造之成果.貿易之成果.語言文學工藝之成果.其始皆原於一.|『昌言報』8月17日「斯賓塞爾文集卷之一」1||
 秤桿|/|noun|1875|不料中有李秤杆范肉架者竊以爲必係鄕裏來者可以欺侮以顯跋扈之能|『申報』1月9日「記李秤杆等攔毆馮君事」|in nickname|
 赤字|/|noun|1931|日本歳入預定過大 赤字問題引起各方非難|『大公報』天津版1931年4月4日4版|cf.「赤字」二字，是我抄的一個日本新應用的名詞: 1931 (新社會)|
 出版社|/|noun|1919|二十八號同紳商各界代表謁見總理詢問外交情形⋯並組織外交雜誌出版社|『益世報』5月1日「山東旅京各校代表之大聚會」|from Japanese: 1876 (NDL)|
