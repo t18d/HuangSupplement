@@ -4,7 +4,7 @@ permalink: z/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Z"
-last_modified_at: 2025-09-30T11:38:34+00:00
+last_modified_at: 2025-11-01T06:26:58+00:00
 description: Antedatings, errata and addenda to letter Z of 近現代漢語辭源
 layout: main
 font_key: z
@@ -18,6 +18,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
 蔗糖|/|noun|1874|說畢卽將瓶中葡萄酒倒入玻璃盞又加蔗糖少許|『瀛寰瑣記』20, 7||
 政體|/|noun|1834|南亞墨利加列國已良久驅逐西班呀國官員、自操其權、惟政體未尚定着。|『東西洋考每月統記傳』甲午年二月「新聞之撮要」||
+紙張|/|noun|a1321|即𫝆遵守契本必用𥿄張顔料之物|『元典章·户部卷八』271 (014275–314)||
 致哀|/|verb|c1531 (488)|公事畢即往致哀|沈約『宋書·何尚之傳』(07347)||
 誌哀|/|verb|1878|舉國臣民遵制縞素成服以誌哀也|『申報』7月20日||
 -製品|/|nominal bound root|1880|牛角製品|『申報』12月22日「戲咏煙具十首錄呈諸大吟壇指政」||
