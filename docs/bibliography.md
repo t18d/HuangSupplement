@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-11-01T15:06:03+00:00
+last_modified_at: 2025-11-02T03:53:11+00:00
 layout: anchor
 ---
 # Bibliography
@@ -28,7 +28,7 @@ layout: anchor
 - Greg, W. W., 'The Rationale of Copy-Text', in _Collected Papers_ (Oxford,
   1966), 374–91.
   - But see D. Foxon, 'Greg's "Rationale" and 
-    the Editing of Pope', <em>The Library</em>, 33/2 (1978), 119–24, more useful 
+    the Editing of Pope', _The Library_, 33/2 (1978), 119–24, more useful 
     than Bowers's 72-page disquisition from the same year.
 - Huang, Chu-Ren, and Dingxu Shi (eds), _A Reference Grammar of Chinese_
   (Cambridge, 2016).
@@ -66,6 +66,8 @@ layout: anchor
 - 李玲, '從刊報未分到刊報兩分', 近代史研究, 3 (2014), 148. [報紙]
 - 李志良, '「電子」一詞的譯定歷程及其意義引申', 或問, 45 (2024), 45–55.
 - 繆蓬, '晚清民國「病毒」知識的翻譯與引介：知識翻譯學視角', 當代外語研究, 4 (2022), 22–32.
+- Masini, Federico, _The Formation of Modern Chinese Lexicon and Its Evolution
+  Toward a National Language: The Period from 1840 to 1898_ (Hong Kong, 1993).
 - 牛振, '近代日語譯詞對漢語地理學譯詞的影響探析', 漢字漢語研究, 24 (2023), 109–24.
 - Schmidt, Christian et al. (eds),
   [漢語新詞資料庫](https://mhdb.mh.sinica.edu.tw/vocabulary/search.php), accessed
