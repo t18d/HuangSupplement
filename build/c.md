@@ -4,7 +4,7 @@ permalink: c/
 seo:
   type: Dataset
   name: "HuangSupplement: letter C"
-last_modified_at: 2025-11-01T13:49:52+00:00
+last_modified_at: 2025-11-02T03:46:57+00:00
 description: Antedatings, errata and addenda to letter C of 近現代漢語辭源
 layout: main
 font_key: c
@@ -31,6 +31,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 秤桿|/|noun|1875|不料中有李秤杆范肉架者竊以爲必係鄕裏來者可以欺侮以顯跋扈之能|『申報』1月9日「記李秤杆等攔毆馮君事」|in nickname|
 赤字|/|noun|1931|日本歳入預定過大 赤字問題引起各方非難|『大公報』天津版1931年4月4日4版|cf.「赤字」二字，是我抄的一個日本新應用的名詞: 1931 (新社會)|
 重婚|/|verb|1895 (1887)|第二十一􁄬猥褻姦淫重婚之罪|黃遵憲『日本國志·卷三十』12||
+出版|/|verb|1879|今日內務省出版之書層出不窮無一人為此事|黃遵憲「己卯筆話」in『大河內文書』v, 2396||
 出版社|/|noun|1919|二十八號同紳商各界代表謁見總理詢問外交情形⋯並組織外交雜誌出版社|『益世報』5月1日「山東旅京各校代表之大聚會」|from Japanese: 1876 (NDL)|
 傳統(1)|/|adjective|1913|㩀暗殺者理由。謂羅氏破美國傳統慣例。故死之以爲預防。|『神州日報』1月14日「美總統選舉問題」||
 傳統(2)|/|noun|1910|若夫美之於南美諸國.則既有傳統的約束…又以…劃出一新紀元.|『外交報』277「論遠東與南美」14|from Japanese: 1895 (CHJ)|
