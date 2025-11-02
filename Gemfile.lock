@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: https://gem.coop/
   specs:
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
@@ -197,3 +197,6 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   kramdown-parser-gfm
+
+BUNDLED WITH
+   2.5.23
