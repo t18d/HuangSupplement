@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-11-02T03:53:11+00:00
+last_modified_at: 2025-11-02T07:02:21+00:00
 layout: anchor
 ---
 # Bibliography
@@ -60,11 +60,13 @@ layout: anchor
 - 馮玥, '「反応」の語誌', master's thesis, Osaka University, 2022.
 - 何華珍－丁鑫美, '近現代中日漢字詞源流考述', 漢語史研究集刊, 34 (2023), 201. [視線]
 - 黃河清,
-  '["界說""定義"考](http://www.huayuqiao.org/DOCC/DOC129/NO_076.php)', 語文建設,
+  '[「界說」「定義」考](http://www.huayuqiao.org/DOCC/DOC129/NO_076.php)', 語文建設,
   129 (2024), 76. \[定義\]
 - 黃興濤, '談「保險」', 文史知識, 4 (2000), 100–1. [保險, 保險公司]
 - 李玲, '從刊報未分到刊報兩分', 近代史研究, 3 (2014), 148. [報紙]
 - 李志良, '「電子」一詞的譯定歷程及其意義引申', 或問, 45 (2024), 45–55.
+- 路鵬程, '言論自由、出版自由與新聞自由概念傳入中國的歷史考察', _China Media Report
+  Overseas_, 6/3 (2010), 20–9.
 - 繆蓬, '晚清民國「病毒」知識的翻譯與引介：知識翻譯學視角', 當代外語研究, 4 (2022), 22–32.
 - Masini, Federico, _The Formation of Modern Chinese Lexicon and Its Evolution
   Toward a National Language: The Period from 1840 to 1898_ (Hong Kong, 1993).
