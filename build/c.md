@@ -4,7 +4,7 @@ permalink: c/
 seo:
   type: Dataset
   name: "HuangSupplement: letter C"
-last_modified_at: 2025-11-02T03:46:57+00:00
+last_modified_at: 2025-11-02T06:59:29+00:00
 description: Antedatings, errata and addenda to letter C of 近現代漢語辭源
 layout: main
 font_key: c
@@ -33,6 +33,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 重婚|/|verb|1895 (1887)|第二十一􁄬猥褻姦淫重婚之罪|黃遵憲『日本國志·卷三十』12||
 出版|/|verb|1879|今日內務省出版之書層出不窮無一人為此事|黃遵憲「己卯筆話」in『大河內文書』v, 2396||
 出版社|/|noun|1919|二十八號同紳商各界代表謁見總理詢問外交情形⋯並組織外交雜誌出版社|『益世報』5月1日「山東旅京各校代表之大聚會」|from Japanese: 1876 (NDL)|
+出版自由|/|NP|1899|西儒彌勒約翰曰人羣之進化莫要於思想自由言論自由出版自由|任公「飲冰室自由書」in『清議報』xxv, 15||
 傳統(1)|/|adjective|1913|㩀暗殺者理由。謂羅氏破美國傳統慣例。故死之以爲預防。|『神州日報』1月14日「美總統選舉問題」||
 傳統(2)|/|noun|1910|若夫美之於南美諸國.則既有傳統的約束…又以…劃出一新紀元.|『外交報』277「論遠東與南美」14|from Japanese: 1895 (CHJ)|
 |/|/|1911|利用列強之利害關係使之互相牽制 此種手段爲清國政治家傳統的政策|『神州日報』5月4日「日紙之四國借欵談」||
