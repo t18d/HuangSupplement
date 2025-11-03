@@ -4,7 +4,7 @@ permalink: c/
 seo:
   type: Dataset
   name: "HuangSupplement: letter C"
-last_modified_at: 2025-11-03T08:26:12+00:00
+last_modified_at: 2025-11-03T10:18:20+00:00
 description: Antedatings, errata and addenda to letter C of 近現代漢語辭源
 layout: main
 font_key: c
@@ -45,3 +45,4 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 叢刋|/|noun|1910|竊謂愼食衛生會於編纂餐衛叢刋外宜另出一附刷物|『申報』12月7日「讀餐衛叢刋」||
 催化|/|noun|1932|Catalysis, 催化. Catalyst, 催化劑.|薩本棟『物理學名詞彙』19||
 催化劑|/|noun|1932|Catalysis, 催化. Catalyst, 催化劑.|薩本棟『物理學名詞彙』19||
+催眠術|/|noun|a1900|瑞典人箸催眠術、言以電氣使人孰睡、能知未來|章炳麟『訄書·族制第二十』63||
