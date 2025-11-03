@@ -4,7 +4,7 @@ permalink: c/
 seo:
   type: Dataset
   name: "HuangSupplement: letter C"
-last_modified_at: 2025-11-02T07:47:12+00:00
+last_modified_at: 2025-11-03T08:26:12+00:00
 description: Antedatings, errata and addenda to letter C of 近現代漢語辭源
 layout: main
 font_key: c
@@ -43,3 +43,5 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |/|/|1918|而况卽以小學之詞源而論。其字之用尚不爲完全正確耶。|(張)東蓀「論譯書」in『時事新報』5月23日||
 辭源|/|noun|1912|聞該館尚編辭源一書亦已脫稿⋯兼望『辭源』之早日惠我也|『民立報』10月24日「惠書誌謝」|cf. 詞源|
 叢刋|/|noun|1910|竊謂愼食衛生會於編纂餐衛叢刋外宜另出一附刷物|『申報』12月7日「讀餐衛叢刋」||
+催化|/|noun|1932|Catalysis, 催化. Catalyst, 催化劑.|薩本棟『物理學名詞彙』19||
+催化劑|/|noun|1932|Catalysis, 催化. Catalyst, 催化劑.|薩本棟『物理學名詞彙』19||
