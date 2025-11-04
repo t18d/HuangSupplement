@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-11-03T10:22:08+00:00
+last_modified_at: 2025-11-04T04:07:52+00:00
 layout: anchor
 ---
 # Bibliography
@@ -73,6 +73,7 @@ layout: anchor
 - Masini, Federico, _The Formation of Modern Chinese Lexicon and Its Evolution
   Toward a National Language: The Period from 1840 to 1898_ (Hong Kong, 1993).
 - 牛振, '近代日語譯詞對漢語地理學譯詞的影響探析', 漢字漢語研究, 24 (2023), 109–24.
+- 龐乃明, '明清中國「大西洋」概念的生成與演變', 學術研究, 11 (2019), 128.
 - Schmidt, Christian et al. (eds),
   [漢語新詞資料庫](https://mhdb.mh.sinica.edu.tw/vocabulary/search.php), accessed
   23 Dec. 2024.
