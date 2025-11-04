@@ -4,7 +4,7 @@ permalink: d/
 seo:
   type: Dataset
   name: "HuangSupplement: letter D"
-last_modified_at: 2025-11-04T07:26:42+00:00
+last_modified_at: 2025-11-04T12:03:05+00:00
 description: Antedatings, errata and addenda to letter D of 近現代漢語辭源
 layout: main
 font_key: d
@@ -23,6 +23,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 擔保|/|verb|c1601|姑饒不殺各苗承認擔保將牛壹拾贰隻以求退兵|『平播全書·卷三』6 (NCL-02251)|here converted to noun|
 德育|/|noun|c1897|泰西敎育之學，其旨萬端，而以德育智育體育爲三大綱。|南洋公學「蒙學課本二編編輯大意」in『近代中國教育史料』ii, 250||
 地基|/|noun|1583||_Dicionário Português-Chinês_ (Jap. Sin. I-198)||
+地球|/|noun|1602 (1600)|外三圈天球⋯內一圈地球分天地五州區境之略|Ricci「山海輿地全圖」in『月令廣義·首卷』73||
 地球儀|/|noun|1878|并製有小地球儀|『申報』6月21日「命題甚新」||
 地下水|/|NP|1903|地下水 雨水之一部。|『中學地文教科書』74||
 電鍍|/|noun|1885|Electro-planting 電鍍銀|Fryer『化學材料中西名目表』13||
