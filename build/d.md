@@ -4,7 +4,7 @@ permalink: d/
 seo:
   type: Dataset
   name: "HuangSupplement: letter D"
-last_modified_at: 2025-11-04T04:05:02+00:00
+last_modified_at: 2025-11-04T07:19:40+00:00
 description: Antedatings, errata and addenda to letter D of 近現代漢語辭源
 layout: main
 font_key: d
@@ -21,6 +21,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |/|/|1906|縱下爲打消革命風潮計。上爲保護自身權利計。而强意立憲。然日後所頒之憲法。必非國民之公意。|『新民叢報』4(11)(83), 71||
 大西洋|(metonymic)|noun|1601|大西洋陪臣利瑪竇/奏爲貢獻土物事|Couvreur, _Choix de documents_, 82||
 擔保|/|verb|c1601|姑饒不殺各苗承認擔保將牛壹拾贰隻以求退兵|『平播全書·卷三』6 (NCL-02251)|here converted to noun|
+德育|/|noun|c1897|泰西敎育之學，其旨萬端，而以德育智育體育爲三大綱。|南洋公學「蒙學課本二編編輯大意」250||
 地基|/|noun|1583||_Dicionário Português-Chinês_ (Jap. Sin. I-198)||
 地球儀|/|noun|1878|并製有小地球儀|『申報』6月21日「命題甚新」||
 地下水|/|NP|1903|地下水 雨水之一部。|『中學地文教科書』74||
