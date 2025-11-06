@@ -4,7 +4,7 @@ permalink: d/
 seo:
   type: Dataset
   name: "HuangSupplement: letter D"
-last_modified_at: 2025-11-06T04:02:04+00:00
+last_modified_at: 2025-11-06T04:14:41+00:00
 description: Antedatings, errata and addenda to letter D of 近現代漢語辭源
 layout: main
 font_key: d
@@ -29,7 +29,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 典型(2)|(with -的)|adjective|1919|大抵希臘之悲劇⋯稱之爲個人的。甯不若稱爲典型的較爲確當。|『晨報』6月22日「歐洲戲曲之四時期」||
 |(without -的)|/|1921|阿爾志跋綏夫⋯在一九〇五年之前，已經寫出一個以性欲爲第一義的典型人物來.|魯迅「譯了『工人綏惠略夫』之後」2, in『小說月報』12/7||
 電鍍|/|noun|1885|Electro-planting 電鍍銀|Fryer『化學材料中西名目表』13||
-電氣|/|noun|1851|凡通信移文.雖𢿙千里.一刻可至⋯今欲詳明其理.先從電氣立論.|Macgowan「電氣通標序」in  _\"Philosophical Almanac\" in Chinese_||
+電氣|/|noun|1851|凡通信移文.雖𢿙千里.一刻可至⋯今欲詳明其理.先從電氣立論.|Macgowan「電氣通標序」in _“Philosophical Almanac” in Chinese_||
 墊圈|/|noun|1889|Washer 墊圈|Fryer『汽機中西名目表』56||
 電子|/|noun|1905|傳點亦名行點，或稱電子|纪立生–赵齐巽『最新化學詳要』+||
 電子-|electronic|adjective|1935|電子告警器 Electronic Alarm|『通俗文化』1/4, 26||
