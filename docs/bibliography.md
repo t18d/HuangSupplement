@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-11-06T06:47:04+00:00
+last_modified_at: 2025-11-06T13:40:00+00:00
 layout: anchor
 ---
 # Bibliography
@@ -52,6 +52,8 @@ layout: anchor
 ## Sources
 
 - 安平－李春暉, '福澤諭吉與近代日本版權制度初創', 渤海大學學報, 6 (2020), 77. \[版権\]
+- 畢亞莉, '日中同素異順語「発刊-刊発」および中国語「発刊辞/詞」（ファカンツ）の成立について',
+  北海道大学大学院文学院研究論集, 22 (2023), 61. \[發刊辭\]
 - 陳戈, '『東西洋考每月統記傳』新詞研究', master's thesis, 浙江財經大學, 2013.
 - 陳華, '有關『四洲志』的若干问题', 暨南學報, 15/3 (1993), 80. \[英吉利\]
 - 崔蕭寒, '「摩擦」の語史：日中両語の相互影響', master's thesis, Osaka University, 2021.
