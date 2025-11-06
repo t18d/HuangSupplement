@@ -4,7 +4,7 @@ permalink: d/
 seo:
   type: Dataset
   name: "HuangSupplement: letter D"
-last_modified_at: 2025-11-06T04:14:41+00:00
+last_modified_at: 2025-11-06T06:40:59+00:00
 description: Antedatings, errata and addenda to letter D of 近現代漢語辭源
 layout: main
 font_key: d
@@ -31,6 +31,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 電鍍|/|noun|1885|Electro-planting 電鍍銀|Fryer『化學材料中西名目表』13||
 電氣|/|noun|1851|凡通信移文.雖𢿙千里.一刻可至⋯今欲詳明其理.先從電氣立論.|Macgowan「電氣通標序」in _“Philosophical Almanac” in Chinese_||
 墊圈|/|noun|1889|Washer 墊圈|Fryer『汽機中西名目表』56||
+電視|/|noun|1927|英人復能應用此種光線以造電視器具(Television)|『申報』5月8日「死聲之發明」||
 電子|/|noun|1905|傳點亦名行點，或稱電子|纪立生–赵齐巽『最新化學詳要』+||
 電子-|electronic|adjective|1935|電子告警器 Electronic Alarm|『通俗文化』1/4, 26||
 定義(1)|/|verb|1914|例如⋯(Definition)日人譯爲定義⋯定義有兼攝⋯(Define) 動字之功。|胡以魯「論譯名」in『庸言』2月15日||
