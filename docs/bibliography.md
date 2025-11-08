@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-11-07T07:26:23+00:00
+last_modified_at: 2025-11-08T13:03:35+00:00
 layout: anchor
 ---
 # Bibliography
@@ -64,6 +64,7 @@ layout: anchor
 - 馮玥, '「反応」の語誌', master's thesis, Osaka University, 2022.
 - 何華珍－丁鑫美, '近現代中日漢字詞源流考述', 漢語史研究集刊, 34 (2023), 201. \[視線\]
 - 黃河清, '「地球」探源', 中國科技術語, 19/3 (2017), 72.
+- 黃河清, '「番茄」「西紅柿」考', 或問, 35 (2019), 32.
 - 黃河清,
   '[「界說」「定義」考](http://www.huayuqiao.org/DOCC/DOC129/NO_076.php)', 語文建設,
   129 (2024), 76. \[定義\]
