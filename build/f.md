@@ -4,7 +4,7 @@ permalink: f/
 seo:
   type: Dataset
   name: "HuangSupplement: letter F"
-last_modified_at: 2025-11-09T11:53:28+00:00
+last_modified_at: 2025-11-09T12:55:02+00:00
 description: Antedatings, errata and addenda to letter F of 近現代漢語辭源
 layout: main
 font_key: f
@@ -32,6 +32,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 -費|(in two-morpheme words)|nominal bound root|1853|q.v. 船費|/||
 -費|(in three-morpheme words)|nominal bound root|1886|q.v. 保險費|/||
 廢水|/|noun|1889|Waste tank 廢水箱|Fryer『汽機中西名目表』56||
+分(6)|/|noun|c1844 (c1819)|吴市用洋錢以塊計毎󲱮分十󾉟󾉟分十分|包世臣『管情三義·己卯𡻕朝松江即事』xxii, 6 (05593)||
 分詞|/|noun|1904 (1903)|與 “Be” 合作Progressive時所附有ing之形曰現在分詞 (Present Pär'ti çi ple)|『正則英文教科書』ii, 85+||
 分析|/|noun|1899|q.v. 定量分析, 定性分析|/||
 分析|analyse|verb|1884|然律文雖簡下字極有權衡逐條分析皆以⋯|『申報』2月29日「論捉賭」|as one verb instead of two|
