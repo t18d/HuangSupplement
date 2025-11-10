@@ -6721,3 +6721,9 @@ navigation: auto;
 ::view-transition-group(*) {
 animation-duration: 0.3s;
 }
+
+.warichu {
+    display: inline-block;
+    font-size: 0.7em;
+    vertical-align: baseline;
+}

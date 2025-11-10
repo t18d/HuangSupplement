@@ -4,7 +4,7 @@ permalink: obsolete/
 seo:
   type: Dataset
   name: "Appendix: Obsolete Words"
-last_modified_at: 2025-09-21T12:22:58+00:00
+last_modified_at: 2025-11-10T12:38:00+00:00
 description: Antedatings, errata and addenda to obsolete words in Huang He-ch'ing's lexicon
 layout: main
 font_key: obsolete
@@ -44,4 +44,5 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 腦脊髓|/|/|1909|/|/|from Japanese 脳脊髄: 1870 (NDL)|
 頭腦勞動|/|/|1929|/|/|from Japanese 頭脳労働: 1902 (NDL)|
 外動詞|/|NP|1914 (1913)|由主動詞而有所施及者。曰外動詞。|潘武『國文教科書後編』40|from 外動字|
+萬日略|gospel|noun|?1632||Aleni『口鐸日鈔』||
 X線|/|/|1906|/|/|from Japanese: 1896 (NDL)|
