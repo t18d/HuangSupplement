@@ -20,6 +20,8 @@ on:
       - .github/workflows/jekyll.yml
       - package-lock.json
       - Gemfile.lock
+      - '!dict/*.csv'
+      - '!**/*.md'
   workflow_dispatch:
 
 permissions:
