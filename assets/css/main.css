@@ -6723,7 +6723,7 @@ animation-duration: 0.3s;
 }
 
 .warichu {
-    display: inline-block;
+    display: inline;
     font-size: 0.7em;
     vertical-align: baseline;
 }
