@@ -4,7 +4,7 @@ permalink: f/
 seo:
   type: Dataset
   name: "HuangSupplement: letter F"
-last_modified_at: 2025-11-10T00:05:47+00:00
+last_modified_at: 2025-11-10T05:59:35+00:00
 description: Antedatings, errata and addenda to letter F of 近現代漢語辭源
 layout: main
 font_key: f
@@ -22,7 +22,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 發售|/|verb|a1792 (a1086)|農翁之善蓄稻也層藏累納有淹二十年不發售者|吕南公『灌園集·與楊次公書』(文淵閣)||
 發行|/|verb|c1621|青箱舘發行|『新傳理性元雅』[1] 0004 (832-187)||
 法治|/|noun|1901|以法治國謂之法治|任公「國家思想變遷異同論」in『清議報』95, 1|The difference with ancient 法治 is that the king/dictator is also subject to the law.|
-番茄|/|noun|c1835|番茄湯 度孖打叔|『紅毛番話』26v||
+番茄|/|noun|c1835|畨茄湯 度孖打叔|[紅毛番話], 26v||
 反動|(with -的)|adjective|1904|󶴛怕阻塞風氣 激出國民一種反動的力量 痛恨維新|『大公報』2月21日「恭賀新年」||
 反應(1)|/|noun|1902|呈酸性之反應|『理化教科書』17||
 反應(2)|/|noun|1902|吾入之意識、不外対於內部之剌戟之反應。|『新民叢報』「訳述三·人格論」||
