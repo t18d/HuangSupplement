@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-11-09T13:00:07+00:00
+last_modified_at: 2025-11-10T00:09:42+00:00
 layout: anchor
 ---
 # Bibliography
@@ -63,6 +63,8 @@ layout: anchor
 - 馮天瑜－聶長順, 三十個關鍵詞的文化史 (Peking, 2021), 68–9. \[中國\]
 - 馮玥, '「反応」の語誌', master's thesis, Osaka University, 2022.
 - 何華珍－丁鑫美, '近現代中日漢字詞源流考述', 漢語史研究集刊, 34 (2023), 201. \[視線\]
+- 胡琪, '「服務」一詞的產生及其對應概念的變遷', 日語語言研究, 197 (2018), 13.
+  \[etymology\]
 - 黃河清, '「地球」探源', 中國科技術語, 19/3 (2017), 72.
 - 黃河清, '「番茄」「西紅柿」考', 或問, 35 (2019), 32.
 - 黃河清,
