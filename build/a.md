@@ -4,7 +4,7 @@ permalink: a/
 seo:
   type: Dataset
   name: "HuangSupplement: letter A"
-last_modified_at: 2025-10-01T07:37:15+00:00
+last_modified_at: 2025-11-11T06:28:27+00:00
 description: Antedatings, errata and addenda to letter A of 近現代漢語辭源
 layout: main
 font_key: a

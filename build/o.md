@@ -4,7 +4,7 @@ permalink: o/
 seo:
   type: Dataset
   name: "HuangSupplement: letter O"
-last_modified_at: 2025-09-21T12:22:58+00:00
+last_modified_at: 2025-11-11T06:28:27+00:00
 description: Antedatings, errata and addenda to letter O of 近現代漢語辭源
 layout: main
 font_key: o
