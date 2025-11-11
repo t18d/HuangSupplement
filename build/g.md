@@ -4,7 +4,7 @@ permalink: g/
 seo:
   type: Dataset
   name: "HuangSupplement: letter G"
-last_modified_at: 2025-09-21T12:22:58+00:00
+last_modified_at: 2025-11-11T02:43:53+00:00
 description: Antedatings, errata and addenda to letter G of 近現代漢語辭源
 layout: main
 font_key: g
@@ -17,6 +17,7 @@ edit_path: dict/g.csv
 Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
 咖喱|/|noun|1874|整啲咖喱魚|Dennys『初学階』||
+改良|/|verb|1897|或欲改良社􀑁.或寓意於政法之變革.|『時務報』xliii「北京外交情形」20||
 干貝|/|/|/|/|/|likely a native word; see [#19](https://github.com/t18d/HuangSupplement/issues/19#issuecomment-2606537981)|
 功率|/|noun|1889|Duty of engine 汽機功率|Fryer『汽機中西名目表』17||
 構想|/|verb|c1616 (c1596)|此臣早夜之所拮据夙昔之所搆想者也|馮夢禎『快雪堂集·卷二十五·隆儒優士疏』(NC5428/3243)||
