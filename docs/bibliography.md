@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-11-11T06:29:53+00:00
+last_modified_at: 2025-11-11T07:11:56+00:00
 layout: anchor
 ---
 # Bibliography
@@ -70,6 +70,7 @@ layout: anchor
 - 黃河清,
   '[「界說」「定義」考](http://www.huayuqiao.org/DOCC/DOC129/NO_076.php)', 語文建設,
   129 (2024), 76. \[定義\]
+- 黃莎－聶長順, '近代「革命」再考察', 人文論叢, 28/2 (2017), 218.
 - 黃興濤, '談「保險」', 文史知識, 4 (2000), 100–1. \[保險, 保險公司\]
 - 賈立元, '催眠術在近代中國的傳播（1839–1911）', 科學文化評論, 17/3 (2020), 58.
 - 金觀濤－劉青峰, 觀念史研究：中國現代重要政治術語的形成 (Hong Kong, 2008). \[改良\]
