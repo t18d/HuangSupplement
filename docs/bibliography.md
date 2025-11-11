@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-11-10T00:09:42+00:00
+last_modified_at: 2025-11-11T00:55:37+00:00
 layout: anchor
 ---
 # Bibliography
@@ -84,6 +84,8 @@ layout: anchor
 - 繆蓬, '晚清民國「病毒」知識的翻譯與引介：知識翻譯學視角', 當代外語研究, 4 (2022), 22–32.
 - Masini, Federico, _The Formation of Modern Chinese Lexicon and Its Evolution
   Toward a National Language: The Period from 1840 to 1898_ (Hong Kong, 1993).
+- 閔心蕙, '「福音」概念——17–19世紀漢譯『聖經』文本研究', 亞洲概念史研究, 4 (2018),
+  222–3. \[福音, 萬日略\]
 - 牛振, '近代日語譯詞對漢語地理學譯詞的影響探析', 漢字漢語研究, 24 (2023), 109–24.
 - 龐乃明, '明清中國「大西洋」概念的生成與演變', 學術研究, 11 (2019), 128.
 - Schmidt, Christian et al. (eds),
