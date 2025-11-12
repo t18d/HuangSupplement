@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-11-12T03:17:55+00:00
+last_modified_at: 2025-11-12T06:32:22+00:00
 layout: anchor
 ---
 # Bibliography
@@ -91,6 +91,8 @@ layout: anchor
   222–3. \[福音, 萬日略\]
 - 牛振, '近代日語譯詞對漢語地理學譯詞的影響探析', 漢字漢語研究, 24 (2023), 109–24.
 - 龐乃明, '明清中國「大西洋」概念的生成與演變', 學術研究, 11 (2019), 128.
+- 仇子揚, '近代日中軍事用語の変容と交流の研究', doctoral thesis, Kansai University,
+  2019. \[工廠\]
 - Schmidt, Christian et al. (eds),
   [漢語新詞資料庫](https://mhdb.mh.sinica.edu.tw/vocabulary/search.php), accessed
   23 Dec. 2024.
