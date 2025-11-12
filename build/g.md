@@ -4,7 +4,7 @@ permalink: g/
 seo:
   type: Dataset
   name: "HuangSupplement: letter G"
-last_modified_at: 2025-11-11T07:08:48+00:00
+last_modified_at: 2025-11-12T03:17:05+00:00
 description: Antedatings, errata and addenda to letter G of 近現代漢語辭源
 layout: main
 font_key: g
@@ -23,6 +23,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 干貝|/|/|/|/|/|likely a native word; see [#19](https://github.com/t18d/HuangSupplement/issues/19#issuecomment-2606537981)|
 幹部|/|noun|1897|日本在台灣募集土民練習兵事名爲台灣土民兵幹部練習所|『申報』8月27日「編列土兵」||
 革命(1)|/|noun|1879|且本邦自戊辰革命之後其間纔十年|『申報』5月15日「譯日本人論亞細亞東部形勢」||
+個人主義(2)|/|noun|1900|不相任睦。各競其私。公利衆事。無人過問。此所謂個人主義。|『清議報』xli「論中國救亡當自增內力」2||
 功率|/|noun|1889|Duty of engine 汽機功率|Fryer『汽機中西名目表』17||
 構想|/|verb|c1616 (c1596)|此臣早夜之所拮据夙昔之所搆想者也|馮夢禎『快雪堂集·卷二十五·隆儒優士疏』(NC5428/3243)||
 古典學|/|noun|1903|氏之教育說。反對從來所行之古典學。|『泰西學案·\<L>oc\<k>e學案』132||
