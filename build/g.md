@@ -4,7 +4,7 @@ permalink: g/
 seo:
   type: Dataset
   name: "HuangSupplement: letter G"
-last_modified_at: 2025-11-12T06:25:17+00:00
+last_modified_at: 2025-11-12T09:27:19+00:00
 description: Antedatings, errata and addenda to letter G of 近現代漢語辭源
 layout: main
 font_key: g
@@ -26,6 +26,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 個人主義(2)|/|noun|1900|不相任睦。各競其私。公利衆事。無人過問。此所謂個人主義。|『清議報』xli「論中國救亡當自增內力」2||
 工廠|/|noun|c1590|而工厰存留大木󳫱一丈長四尺以上者該􀷟動以御器爲􁾕斬截任意用違其材|王世貞『弇山堂別集·卷一百』20 (13392)||
 功率|/|noun|1889|Duty of engine 汽機功率|Fryer『汽機中西名目表』17||
+工人|/|noun|1822|To engage or hire workmen, 顧工人|Morrison, _A Dictionary of the Chinese Language_ iii, s.v. ENGAGE||
+|/|/|1853|舊歲在南􀣲等處、有船數隻、載工人往西印度|『遐邇貫珍』5「近日雜報」8||
 構想|/|verb|c1616 (c1596)|此臣早夜之所拮据夙昔之所搆想者也|馮夢禎『快雪堂集·卷二十五·隆儒優士疏』(NC5428/3243)||
 古典學|/|noun|1903|氏之教育說。反對從來所行之古典學。|『泰西學案·\<L>oc\<k>e學案』132||
 古典學家|/|noun|1924 (1923)|古典學家 … Francis Meres|唐敬杲『新文化辭書』918|'For a number of years Francis Meres, the glorifier of Shakespeare, has been puffed as a classical scholar.' (Allen)|
