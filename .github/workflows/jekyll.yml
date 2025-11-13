@@ -18,7 +18,7 @@ on:
       - '**.pdf'
       - _config.yml
       - .github/workflows/jekyll.yml
-      - package-lock.json
+      - bun.lock
       - Gemfile.lock
       - '!dict/*.csv'
       - '!**/*.md'
