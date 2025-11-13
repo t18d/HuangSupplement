@@ -4,7 +4,7 @@ permalink: obsolete/
 seo:
   type: Dataset
   name: "Appendix: Obsolete Words"
-last_modified_at: 2025-11-11T06:28:27+00:00
+last_modified_at: 2025-11-13T00:14:11+00:00
 description: Antedatings, errata and addenda to obsolete words in Huang He-ch'ing's lexicon
 layout: main
 font_key: obsolete
@@ -23,7 +23,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 暗黙|/|/|1906|/|/|from Japanese: 1886 (Nikkoku)|
 按手|/|/|1915|/|/|from Japanese: 1880 (Nikkoku)|
 奥付|/|/|1915|/|/|from Japanese: c1893 (Hathi)|
-百足蟲|centipede|NP|a1368 (c610)|蜈蚣螫候 此則百足蟲也|『諸病源候總論·卷三十六雜毒病諸候』(00878)||
+百足蟲|centipede|NP|a1368 (c610)|蜈蚣螫候<span class="warichu">此則百足蟲也</span>|『諸病源候總論·卷三十六雜毒病諸候』(00878)||
 標準語|/|noun|1911|(二) 話法之統一 (甲) 以京話爲標準語|『申報』8月17日「統一國語方法案」||
 泊船|/|verb|1857|令毋許泊船瓦巴勒索、慮此船一泊彼處、水手逃亡、船貨遺失|『六合叢談』1/8, 9||
 哺乳瓶|/|/|1915|/|/|from Japanese: 1884 (NDL)|
