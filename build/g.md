@@ -4,7 +4,7 @@ permalink: g/
 seo:
   type: Dataset
   name: "HuangSupplement: letter G"
-last_modified_at: 2025-11-13T03:25:34+00:00
+last_modified_at: 2025-11-13T06:53:33+00:00
 description: Antedatings, errata and addenda to letter G of 近現代漢語辭源
 layout: main
 font_key: g
@@ -27,6 +27,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 公安局|/|noun|1914|公安局覆電<span class="warichu">云廣州都督鎮撫使鈞鑒平岡告急</span>|『申報』4月14日「粤省軍事彙紀」||
 工廠|/|noun|c1590|而工厰存留大木󳫱一丈長四尺以上者該􀷟動以御器爲􁾕斬截任意用違其材|王世貞『弇山堂別集·卷一百』20 (13392)||
 功率|/|noun|1889|Duty of engine 汽機功率|Fryer『汽機中西名目表』17||
+公僕|/|noun|1899|西人之諺曰。官吏者天下之公僕也。|『清議報』xxvii「飲氷室自由書」4||
 工人|/|noun|1822|To engage or hire workmen, 顧工人|Morrison, _A Dictionary of the Chinese Language_ iii, s.v. ENGAGE||
 |/|/|1853|舊歲在南􀣲等處、有船數隻、載工人往西印度|『遐邇貫珍』5「近日雜報」8||
 工業革命|/|NP|1902|故自工業革命之時起以前之事略記其要|『新民叢報』20「英國商工業發達史·例言」43–4||
