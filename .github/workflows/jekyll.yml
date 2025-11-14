@@ -43,10 +43,19 @@ jobs:
       || github.event_name == 'push' 
       }}
     steps:
+      - name: Optimize Git and Checkout
+        run: |
+          # Disable compression for faster network transfer.
+          git config --global core.compression 0
+          # Increase HTTP buffer for large repositories.
+          git config --global http.postBuffer 1073741824
+          # Turn off fsync
+          git config --global core.fsync -all
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 2
+          filter: 'blob:none'
           sparse-checkout: |
             _includes/
             _layouts/
