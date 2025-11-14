@@ -4,7 +4,7 @@ permalink: g/
 seo:
   type: Dataset
   name: "HuangSupplement: letter G"
-last_modified_at: 2025-11-13T08:27:14+00:00
+last_modified_at: 2025-11-14T01:16:50+00:00
 description: Antedatings, errata and addenda to letter G of 近現代漢語辭源
 layout: main
 font_key: g
@@ -33,6 +33,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 工人|/|noun|1822|To engage or hire workmen, 顧工人|Morrison, _A Dictionary of the Chinese Language_ iii, s.v. ENGAGE||
 |/|/|1853|舊歲在南􀣲等處、有船數隻、載工人往西印度|『遐邇貫珍』5「近日雜報」8||
 工業革命|/|NP|1902|故自工業革命之時起以前之事略記其要|『新民叢報』20「英國商工業發達史·例言」43–4||
+共產黨|/|noun|1901|無論何地。必散布此等新聞紙。以廣傳社會主義⋯更表揚一千七百九十三年共產黨流血之徒。|『譯書彙編』3「近世政治史」20||
 構想|/|verb|c1616 (c1596)|此臣早夜之所拮据夙昔之所搆想者也|馮夢禎『快雪堂集·卷二十五·隆儒優士疏』(NC5428/3243)||
 古典學|/|noun|1903|氏之教育說。反對從來所行之古典學。|『泰西學案·\<L>oc\<k>e學案』132||
 古典學家|/|noun|1924 (1923)|古典學家 … Francis Meres|唐敬杲『新文化辭書』918|'For a number of years Francis Meres, the glorifier of Shakespeare, has been puffed as a classical scholar.' (Allen)|
