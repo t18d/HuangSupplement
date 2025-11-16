@@ -4,7 +4,7 @@ permalink: g/
 seo:
   type: Dataset
   name: "HuangSupplement: letter G"
-last_modified_at: 2025-11-14T01:16:50+00:00
+last_modified_at: 2025-11-16T09:55:13+00:00
 description: Antedatings, errata and addenda to letter G of 近現代漢語辭源
 layout: main
 font_key: g
@@ -41,4 +41,5 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 古典語文學|/|NP|1938|這時期以其求歷史知識的熱心，及方法上與古典語文學的交互影響，使德國史學煥然一新。|『五十年來的德國學術』452||
 古文運動|/|noun|1927|我族之古文運動，非狹義之好古也。|『藝術界週刊』第十五期「雜記 (十四)」||
 官方|/|noun|1894|去冬香港私鑄案發英官方盡法以懲|『申報』5月17日「廣鑄銀錢說」|Han-ta's 官方(3)|
+關係(1)|/|noun|a1661 (a961)|或是逺方人事有寃抑凡於関􁋔𥁞湏勘\<逐>|『唐會要·卷第六十·御史臺』68 (03873)||
 果汁|/|noun|1887|Colocynth pulp 𠹭囉噺果汁|Fryer『西藥大成藥品中西名目表』17||
