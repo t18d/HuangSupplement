@@ -20,8 +20,6 @@ on:
       - .github/workflows/jekyll.yml
       - bun.lock
       - Gemfile.lock
-      - '!dict/*.csv'
-      - '!**/*.md'
   workflow_dispatch:
 
 permissions:
@@ -60,6 +58,24 @@ jobs:
             assets/font/
             assets/pdf/
             assets/svg/
+
+      - name: Check for excluded files
+        id: filter
+        run: |
+          CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
+
+          if echo "$CHANGED_FILES" | grep -E '(\.md$|^dict/.*\.csv$)' > /dev/null; then
+            echo "stop=true" >> $GITHUB_OUTPUT
+            echo "Excluded files (.md or dict/*.csv) detected → skipping Jekyll build"
+          else
+            echo "stop=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Skip build if excluded files were touched
+        if: steps.filter.outputs.stop == 'true'
+        run: |
+          echo "Build skipped because content files were modified."
+          exit 0
 
       - name: Detect latest cached Ruby
         run: |
