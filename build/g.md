@@ -4,7 +4,7 @@ permalink: g/
 seo:
   type: Dataset
   name: "HuangSupplement: letter G"
-last_modified_at: 2025-11-21T14:00:18+00:00
+last_modified_at: 2025-11-22T06:07:41+00:00
 description: Antedatings, errata and addenda to letter G of 近現代漢語辭源
 layout: main
 font_key: g
@@ -43,4 +43,5 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 官方|/|noun|1894|去冬香港私鑄案發英官方盡法以懲|『申報』5月17日「廣鑄銀錢說」|Han-ta's 官方(3)|
 關係(1)|/|noun|a1661 (a961)|或是逺方人事有寃抑凡於関􁋔𥁞湏勘\<逐>|『唐會要·卷第六十·御史臺』68 (03873)|Subsume (2) under (1). The difference between (1) and (3) is monovalent vs bivalent.|
 廣播(1)|/|verb|1923|無線電廣播事務：分送經濟上財政上消息、音樂、唱歌、復述演說、新聞⋯|『舊中國的上海廣播事業』41|not printed in 北洋政府檔案 lxxxvii|
+國家|state|noun|1815|國家大事 … “The great affairs of the state.”|Morrison, _A Dictionary of the Chinese Language_ i, 46||
 果汁|/|noun|1887|Colocynth pulp 𠹭囉噺果汁|Fryer『西藥大成藥品中西名目表』17||
