@@ -4,7 +4,7 @@ permalink: obsolete/
 seo:
   type: Dataset
   name: "Appendix: Obsolete Words"
-last_modified_at: 2025-11-13T00:14:11+00:00
+last_modified_at: 2025-11-22T13:39:11+00:00
 description: Antedatings, errata and addenda to obsolete words in Huang He-ch'ing's lexicon
 layout: main
 font_key: obsolete
@@ -29,6 +29,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 哺乳瓶|/|/|1915|/|/|from Japanese: 1884 (NDL)|
 粉乳|/|/|1936|/|/|from Japanese: 1877 (NDL)|
 乾濕計|/|/|/|/|/|from 乾湿計 (かんしつ‐けい)|
+海權|/|noun|1885||『海戰新義』|postdating|
 描寫(2)|describe|verb|/|/|/|superseded by [描述](https://t18d.github.io/HuangSupplement/#:~:text=描述)|
 納入金|/|/|1907|/|/|from Japanese: 1880 (Yomidasu)|
 捺印|/|/|1906|/|/|from Japanese: 794 (Nikkoku)|
