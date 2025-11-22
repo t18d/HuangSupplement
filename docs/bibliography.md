@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-11-21T14:04:50+00:00
+last_modified_at: 2025-11-22T13:42:35+00:00
 layout: anchor
 ---
 # Bibliography
@@ -122,6 +122,7 @@ layout: anchor
 - Tola, Gabriele, _John Fryer and_ The Translator’s Vade-mecum (Leiden, 2021),
   237–79.
 - 佟藝辰, '"分詞"考源', 或問, 46 (2024), 117–28.
+- 王昌, '清末「海權」概念考釋', 河北學刊, 41/6 (2021), 72.
 - 王傳龍, '句讀[dú]不是句讀[dòu]', 語言研究, 40/3 (2020), 82–3.
 - 王銘宇, '明末天主教文獻所見漢語基督教詞彙考述', 漢語學報, 44 (2013), 60.
 - 王銘宇, '羅明堅、利瑪竇『葡漢辭典』詞彙問題舉隅', 勵耘語言學刊, 19 (2014), 148.
