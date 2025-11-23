@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-11-23T07:20:50+00:00
+last_modified_at: 2025-11-23T11:58:47+00:00
 layout: anchor
 ---
 # Bibliography
@@ -99,6 +99,8 @@ layout: anchor
 - 錢芳華－馬陵合, '近代文獻中「工業革命」一詞的考察', 淮南師範學院學報, 138 (2023), 96.
 - 仇子揚, '近代日中軍事用語の変容と交流の研究', doctoral thesis, Kansai University,
   2019. \[工廠\]
+- 桑兵, '「華南」概念的生成演化與區域研究的檢討', 學術研究, 7 (2015), 95–6 (but see
+  [17f3d12](https://github.com/t18d/HuangSupplement/commit/17f3d1281ecb4b7a01e2362118e350613d3479b3)).
 - Schmidt, Christian et al. (eds),
   [漢語新詞資料庫](https://mhdb.mh.sinica.edu.tw/vocabulary/search.php), accessed
   23 Dec. 2024.
