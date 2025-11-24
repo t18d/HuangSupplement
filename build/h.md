@@ -4,7 +4,7 @@ permalink: h/
 seo:
   type: Dataset
   name: "HuangSupplement: letter H"
-last_modified_at: 2025-11-23T11:29:05+00:00
+last_modified_at: 2025-11-24T12:53:18+00:00
 description: Antedatings, errata and addenda to letter H of 近現代漢語辭源
 layout: main
 font_key: h
@@ -30,4 +30,5 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 花梗|/|noun|1887|Myrospermum pedicellatum 小花梗米羅司卑麻|Fryer『西藥大成藥品中西名目表』41||
 華北|/|noun|1891|『華北月報』|_Hua pei yueh pao. North China Church Times._, 1/1||
 華南|South China|noun|1899|又言靑島爲作客華南之諸西人避暑處|『申報』7月2日「膠灣政策」|previously, 'to the south of China'|
+化石|/|noun|1902|今此等前世界之生物、稱爲化石、保存巖石中|『地質學簡易教科書·〔一〕地相篇』5||
 环礁|/|noun|1903|自其形狀言之。則曰⋯環礁 (Atoll)|『中學地文教科書』96||
