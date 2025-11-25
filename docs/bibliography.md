@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-11-25T06:58:17+00:00
+last_modified_at: 2025-11-25T14:30:14+00:00
 layout: anchor
 ---
 # Bibliography
@@ -95,6 +95,7 @@ layout: anchor
 - 繆蓬, '晚清民國「病毒」知識的翻譯與引介：知識翻譯學視角', 當代外語研究, 4 (2022), 22–32.
 - Masini, Federico, _The Formation of Modern Chinese Lexicon and Its Evolution
   Toward a National Language: The Period from 1840 to 1898_ (Hong Kong, 1993).
+  \[出版\]
 - 閔心蕙, '「福音」概念——17–19世紀漢譯『聖經』文本研究', 亞洲概念史研究, 4 (2018),
   222–3. \[福音, 萬日略\]
 - 牛振, '近代日語譯詞對漢語地理學譯詞的影響探析', 漢字漢語研究, 24 (2023), 109–24.
@@ -132,6 +133,8 @@ layout: anchor
 - 王傳龍, '句讀[dú]不是句讀[dòu]', 語言研究, 40/3 (2020), 82–3.
 - 王銘宇, '明末天主教文獻所見漢語基督教詞彙考述', 漢語學報, 44 (2013), 60.
 - 王銘宇, '羅明堅、利瑪竇『葡漢辭典』詞彙問題舉隅', 勵耘語言學刊, 19 (2014), 148.
+- 謝久永, '「基因」一詞是由誰首次翻譯為中文的？', University of Manitoba (but see
+  [b2a3f39](https://github.com/t18d/HuangSupplement/commit/b2a3f39fddf9e4340a3b021fd3a3678e44efd432)).
 - 謝任, ‘「幹部」：一個新名詞進入中共革命語境的歷史’, 黨史研究與教學, 295 (2023), 86.
 - 楊麗娟, '「Fossil」漢語譯名演變考', 地質評論, 65/1 (2019), 27. \[化石\]
 - 楊楠, '近代中國政治中的「公僕」概念：生成、傳播與嬗變', 學習與探索, 330 (2023), 64.
