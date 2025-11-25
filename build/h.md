@@ -4,7 +4,7 @@ permalink: h/
 seo:
   type: Dataset
   name: "HuangSupplement: letter H"
-last_modified_at: 2025-11-25T04:09:17+00:00
+last_modified_at: 2025-11-25T06:11:00+00:00
 description: Antedatings, errata and addenda to letter H of 近現代漢語辭源
 layout: main
 font_key: h
@@ -34,3 +34,4 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 化學|/|noun|1855|戴君特出奇器盛水於桮交相注曷頓復變色名曰化學|王韜『蘅𠌶館日記』咸豐五年[二月]十有四日丁未||
 环礁|/|noun|1903|自其形狀言之。則曰⋯環礁 (Atoll)|『中學地文教科書』96||
 環境|/|noun|1913|凡身以外之景物。環繞於吾身者。謂之環境。環境之於敎育。亦頗關緊要。|『教育雜誌』5/1「春季環境之利用」||
+幻燈|/|noun|1891|繼之以各種幻燈現在此次地震慘狀及今古奇事蓋卽影戲之類也|『申報』12月14日「蛉洲記勝」||
