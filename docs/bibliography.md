@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-11-25T04:50:08+00:00
+last_modified_at: 2025-11-25T06:14:14+00:00
 layout: anchor
 ---
 # Bibliography
@@ -110,6 +110,7 @@ layout: anchor
   2020.
 - 沈國威, '近代關鍵詞考源：傳統、近代、現代', 東亞觀念史集刊, 4 (2013), 433. \[現代\]
 - 沈國威, '近代關鍵詞考源：保守、進步、進化、退化、退步', 東亞觀念史集刊, 6 (2014), 306-7.
+- 孫青, '魔燈鏡影：18–20世紀中國早期幻燈的放映、製作與傳播', 近代史研究, 4 (2018), 71.
 - Takashima, Kō, 'なぜbaseballは棒球と訳されたか：翻訳から⾒る近代中国スポーツ史',
   京都⼤學⽂學部研究紀要, 55 (2016), 122.
 - Tanomura, Tadaharu, 'カレーを表す中国語名称の変遷', 或問, 38 (2020), 15–25.
