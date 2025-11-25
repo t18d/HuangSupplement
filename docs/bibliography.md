@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-11-25T03:06:00+00:00
+last_modified_at: 2025-11-25T03:10:38+00:00
 layout: anchor
 ---
 # Bibliography
@@ -27,13 +27,13 @@ layout: anchor
 - Dixon, R. M. W., _Basic Linguistic Theory_, 3 vols (Oxford, 2010–2).
 - Greg, W. W., 'The Rationale of Copy-Text', in _Collected Papers_ (Oxford,
   1966), 374–91.
-  - But see D. Foxon, 'Greg's "Rationale" and 
-    the Editing of Pope', _The Library_, 33/2 (1978), 119–24, more useful 
-    than Bowers's 72-page disquisition from the same year.
+  - but see David Foxon, 'Greg's "Rationale" and the Editing of Pope', _The
+    Library_, 33/2 (1978), 119–24, more useful than Bowers's 72-page
+    disquisition from the same year.
 - Huang, Chu-Ren, and Dingxu Shi (eds), _A Reference Grammar of Chinese_
   (Cambridge, 2016).
-- Huddleston, Rodney, and Geoffrey K. Pullum (eds), _The Cambridge Grammar of
-  the English Language_ (Cambridge, 2002).
+  - an unsuccessful adaptation of Rodney Huddleston and Geoffrey K. Pullum
+    (eds), _The Cambridge Grammar of the English Language_ (Cambridge, 2002).
 - Kretschmer, Paul, _Sprachregeln für die Bildung und Betonung zoologischer und
   botanischer Namen_ (Berlin, 1899).
 - Kühner, Raphael, and Friedrich Blass, _Ausfürliche Grammatik der Griechischen
