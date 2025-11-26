@@ -4,7 +4,7 @@ permalink: obsolete/
 seo:
   type: Dataset
   name: "Appendix: Obsolete Words"
-last_modified_at: 2025-11-22T13:39:11+00:00
+last_modified_at: 2025-11-26T00:06:26+00:00
 description: Antedatings, errata and addenda to obsolete words in Huang He-ch'ing's lexicon
 layout: main
 font_key: obsolete
@@ -46,4 +46,5 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 頭腦勞動|/|/|1929|/|/|from Japanese 頭脳労働: 1902 (NDL)|
 外動詞|/|NP|1914 (1913)|由主動詞而有所施及者。曰外動詞。|潘武『國文教科書後編』40|from 外動字|
 萬日略|gospel|noun|?1632||Aleni『口鐸日鈔』||
+因基|/|noun|1924|在普通的二對因子的遺傳現象裏每對因子的物質基本,叫做因基(Gene)|陳楨『普通生物學』209||
 X線|/|/|1906|/|/|from Japanese: 1896 (NDL)|
