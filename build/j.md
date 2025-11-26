@@ -4,7 +4,7 @@ permalink: j/
 seo:
   type: Dataset
   name: "HuangSupplement: letter J"
-last_modified_at: 2025-11-25T14:21:56+00:00
+last_modified_at: 2025-11-26T02:55:42+00:00
 description: Antedatings, errata and addenda to letter J of 近現代漢語辭源
 layout: main
 font_key: j
@@ -16,6 +16,9 @@ edit_path: dict/j.csv
 
 Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
+積極(1)|positive|adjective|1903|/|『新爾雅』52|postdating|
+積極(3)|proactive|/|1899|/|『清議報』|q.v. (1)|
+|/|/|1902|/|/|q.v. (1)|
 基因(2)|/|noun|1930|故約翰生氏所定之基因,並不視爲物質,亦不指爲狀態⋯此等因基⋯與其他之基因作種種之配合,而移行於子孫.|許心芸譯『人生植物學』251|translator torn between the established 因基 & the phonetic spelling 基因 for ゲン|
 |/|/|1931|遺傳的幾條原則⋯約翰生與靡爾更的「基因」遺傳說|『東方雜誌』28/1「文化的生物學觀」101|Note the quotation marks.|
 及物動詞|/|NP|1914|凡及物動詞皆有受動|『時事新報』10月5日「世界語會消息：本會函授講義節要 (二十)」||
