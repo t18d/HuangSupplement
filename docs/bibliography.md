@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-11-25T14:30:14+00:00
+last_modified_at: 2025-11-26T00:17:12+00:00
 layout: anchor
 ---
 # Bibliography
@@ -150,3 +150,5 @@ layout: anchor
   103.
 - 鄭宏, '副詞「很」的形成考', 韶關學院學報, 29/11 (2008), 101–2.
 - 鄭艷, '語言接觸視閾下「重婚」的詞義演變', 日語學習與研究, 211 (2020), 60.
+- 鄒文君, '關於中日同形詞「基因」的詞史研究', 高等日語教育, 5 (2020), 89 (_for_ 1923,
+  _read_ 1924). \[因基\]
