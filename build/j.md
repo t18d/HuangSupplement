@@ -4,7 +4,7 @@ permalink: j/
 seo:
   type: Dataset
   name: "HuangSupplement: letter J"
-last_modified_at: 2025-11-27T01:16:30+00:00
+last_modified_at: 2025-11-27T05:12:31+00:00
 description: Antedatings, errata and addenda to letter J of 近現代漢語辭源
 layout: main
 font_key: j
@@ -27,6 +27,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |(in gloss)|/|1903|/|/||
 |(in private law)|/|1912|日本謂繼承曰相續法⋯查中國於嗣續宗祧等項多通用繼承字故此編改曰繼承|『中華民國暫行民律草案』vii, 1||
 繼承法|/|noun|1912|日本謂繼承曰相續法⋯查中國於嗣續宗祧等項多通用繼承字故⋯關於繼承之法曰繼承法|『中華民國暫行民律草案』vii, 1||
+紀念(2)|/|verb|1901|祝典烏乎起所以紀念舊事業而獎厲新事業也|『清議報』c「本館第一百册祝辭並論報館之責任及本館之經歷」1||
 減速|/|verb|1889|Ease 減速|Fryer『汽機中西名目表』17||
 校訂|/|verb|1342 (c1329)|因屬博士程熟等就加校訂鋟版與諸史並行之|趙丗延「南唐書序」in『國朝文類·卷三十三』16 (SBL249)||
 教育者|/|noun|1866|Educator, 教養者 … 教育者|Lobscheid『英華字典』s.v. Educator||
