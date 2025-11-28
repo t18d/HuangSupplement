@@ -4,7 +4,7 @@ permalink: x/
 seo:
   type: Dataset
   name: "HuangSupplement: letter X"
-last_modified_at: 2025-11-28T14:25:20+00:00
+last_modified_at: 2025-11-28T14:37:17+00:00
 description: Antedatings, errata and addenda to letter X of 近現代漢語辭源
 layout: main
 font_key: x
@@ -21,7 +21,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |/|/|1837 (a1834)|杭人以福壽備而死者俗呼喜喪|梁紹壬『兩般秋雨盦隨筆·卷八』2 (79@20@1)||
 峽谷|/|noun|1902|峽谷如壁地勢隆起|『申報』7月15日「詳紀張家口鐵路里程」+||
 現代|/|noun|1875|recent ages 昭代, 現代.|鄺其照『字典集成』s.v. Recent|also in Japanese: 1894 (CHJ)|
-小時|/|noun|1631|法以前推得一日。或二十四小時。行五十九分〇八秒二十微。|Rho『崇禎曆書·日󱄊曆指』26bis (Oxon. Sinica 897)||
+-小時|/|nominal bound root|1631|法以前推得一日。或二十四小時。行五十九分〇八秒二十微。|Rho『崇禎曆書·日󱄊曆指』26bis (Oxon. Sinica 897)||
 心態|/|noun|1919|高低無定。心態屢遷。|『祈禱發𢕄總論』61||
 形容詞|/|noun|c1836 (a1771)|逍遙⋯按此非必指谷名蓋與詆訐皆形容詞耳|姚範『援鶉堂筆記·卷四十一·南山詩』3 (重刻)|cf. 雖有詆訐之人|
 -性(2)|/|nominal bound root|a1704 (c1664)|中通曰。水流下而趨中。有剛火性也。火炎上而旋升。有􀓉水性也|方以智『物理小識·卷之一天類·水火本一』23 (2674)|first occurrence in three-morpheme words|
