@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-11-28T14:25:20+00:00
+last_modified_at: 2025-11-28T23:50:14+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -19,7 +19,7 @@ last_modified_at: 2025-11-28T14:25:20+00:00
   locally</a>, edit the CSV file and send in a pull request.</p>
   
 <p>The focus is on antedating and amending entries where the lemma is still 
-  current in everyday usage. Triage of items compiled in Yang's <a 
+  current in educated speech. Triage of items compiled in Yang's <a 
   href="https://github.com/t18d/HuangSupplement/blob/main/Yang%20Ch’ih%20近代漢字詞史研究文獻目錄.csv">bibliography</a>
   is underway. Editorial history and argumentation can be accessed via git 
   blame.</p>
