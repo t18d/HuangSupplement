@@ -4,7 +4,7 @@ permalink: j/
 seo:
   type: Dataset
   name: "HuangSupplement: letter J"
-last_modified_at: 2025-11-27T12:39:55+00:00
+last_modified_at: 2025-11-28T01:07:03+00:00
 description: Antedatings, errata and addenda to letter J of 近現代漢語辭源
 layout: main
 font_key: j
@@ -36,6 +36,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 減速|/|verb|1889|Ease 減速|Fryer『汽機中西名目表』17||
 交通工具|/|NP|1920|告訴他們內亂已經把我們的出產經濟狀况及交通工具破滅了|『大公報』11月3日「遠東統一宣言之草案」||
 |/|/|1922|今以汽車爲公衆之交通工具。則不可不硏究汽車是否爲最經濟的交通的方法。|『申報』5月6日「『公共汽車』之研究」||
+角(2)|/|noun|c1844 (c1819)|吴市用洋錢以塊計毎󲱮分十󾉟󾉟分十分|包世臣『管情三義·己卯𡻕朝松江即事』xxii, 6 (05593)||
 校訂|/|verb|1342 (c1329)|因屬博士程熟等就加校訂鋟版與諸史並行之|趙丗延「南唐書序」in『國朝文類·卷三十三』16 (SBL249)||
 教育者|/|noun|1866|Educator, 教養者 … 教育者|Lobscheid『英華字典』s.v. Educator||
 接辦|/|verb|c1833|而其管理印度等處地方之事、仍容公司接辦|『東西洋考每月統記傳』癸巳十一月「英國之東地公司」||
