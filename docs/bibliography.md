@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-11-29T10:33:38+00:00
+last_modified_at: 2025-11-29T15:07:44+00:00
 layout: anchor
 ---
 # Bibliography
@@ -81,7 +81,7 @@ layout: anchor
 - Onodera, Shiro, '19世紀末日中における「記念」の語義変化について', in [近代東アジアにおける翻訳概念の展開](http://hdl.handle.net/2433/246235), Kyoto University, 2013. \[紀念(2)]
 - 龐乃明, '明清中國「大西洋」概念的生成與演變', 學術研究, 11 (2019), 128.
 - 錢芳華－馬陵合, '近代文獻中「工業革命」一詞的考察', 淮南師範學院學報, 138 (2023), 96.
-- 仇子揚, '近代日中軍事用語の変容と交流の研究', doctoral thesis, Kansai University, 2019. \[工廠]
+- 仇子揚, '近代日中軍事用語の変容と交流の研究', doctoral thesis, Kansai University, 2019. \[工廠, 教練]
 - 桑兵, '「華南」概念的生成演化與區域研究的檢討', 學術研究, 7 (2015), 95–6 (but see [17f3d12](https://github.com/t18d/HuangSupplement/commit/17f3d1281ecb4b7a01e2362118e350613d3479b3)).
 - Schmidt, Christian et al. (eds), [漢語新詞資料庫](https://mhdb.mh.sinica.edu.tw/vocabulary/search.php), accessed 23 Dec. 2024.
 - 沙廣聰, '接尾辞「性」の歴史：日中両語間の相互影響', master's thesis, Osaka University, 2020.
