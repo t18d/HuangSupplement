@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-11-30T02:47:23+00:00
+last_modified_at: 2025-11-30T06:13:34+00:00
 layout: anchor
 ---
 # Bibliography
@@ -68,6 +68,7 @@ layout: anchor
 - 李英傑－王馨鑰, '「環境」一詞與環境觀的演變', 自然辯證法通訊, 294 (2023), 79.
 - 李志良, '催化概念在近代中國的傳入與初步發展', 自然科學史研究, 40/1 (2021), 43.
 - 李志良, '「電子」一詞的譯定歷程及其意義引申', 或問, 45 (2024), 45–55.
+- Lippert, Wolfgang, _Entstehung und Funktion einiger chinesischer marxistischer Termini: d. lexikal.-begriffl. Aspekt d. Rezeption d. Marxismus in Japan u. China_ (Wiesbaden, 1979). \[階級鬥爭]
 - 劉廣定, '中文「化學」源起再考', in 中國科學史論集 (Taipei, 2002), 99 (facsimile).
 - 劉曼, '「禮拜」來源再考', 國際漢學, 27 (2021), 161. \[禮拜(2), 禮拜-(3)]
 - 劉曼, '近現代新貨幣單位詞流傳、演變考', 亞洲概念史研究, 11 (2023), 100. \[分(6), 角(2)]
