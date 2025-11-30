@@ -4,7 +4,7 @@ permalink: j/
 seo:
   type: Dataset
   name: "HuangSupplement: letter J"
-last_modified_at: 2025-11-29T15:06:38+00:00
+last_modified_at: 2025-11-30T02:44:25+00:00
 description: Antedatings, errata and addenda to letter J of 近現代漢語辭源
 layout: main
 font_key: j
@@ -40,6 +40,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 校訂|/|verb|1342 (c1329)|因屬博士程熟等就加校訂鋟版與諸史並行之|趙丗延「南唐書序」in『國朝文類·卷三十三』16 (SBL249)||
 教練|(non-military)|noun|1919|㊀公布員陶益爾君㊁敎練李侃君|『申報』5月5日「遠東運動員出發攝影」|postdating|
 教練員|(non-military)|noun|1906|于會員中選舉諳練各種體操者爲敎練員|『申報』12月30日「城中商業󹲴防體操會簡章」||
+教育|/|verbal noun|1632|󼉅㓜教育又齊家之一支也|韓霖「童幼教育序」1 (Chinois 3389)||
 教育者|/|noun|1866|Educator, 教養者 … 教育者|Lobscheid『英華字典』s.v. Educator||
 接辦|/|verb|c1833|而其管理印度等處地方之事、仍容公司接辦|『東西洋考每月統記傳』癸巳十一月「英國之東地公司」||
 接種|/|verb|1898|傳至日本互相接種其効昭然|『申報』7月11日「豫防痘症篇」||
