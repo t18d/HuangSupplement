@@ -4,7 +4,7 @@ permalink: j/
 seo:
   type: Dataset
   name: "HuangSupplement: letter J"
-last_modified_at: 2025-11-30T02:44:25+00:00
+last_modified_at: 2025-11-30T06:08:31+00:00
 description: Antedatings, errata and addenda to letter J of 近現代漢語辭源
 layout: main
 font_key: j
@@ -43,6 +43,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 教育|/|verbal noun|1632|󼉅㓜教育又齊家之一支也|韓霖「童幼教育序」1 (Chinois 3389)||
 教育者|/|noun|1866|Educator, 教養者 … 教育者|Lobscheid『英華字典』s.v. Educator||
 接辦|/|verb|c1833|而其管理印度等處地方之事、仍容公司接辦|『東西洋考每月統記傳』癸巳十一月「英國之東地公司」||
+階級鬥爭|/|idiom|1906|階級鬬爭之幕既開⋯然富紳者有政府警察軍隊學人僧侶等爲之援助者也。|『民報』5「萬國社會黨大會略史」80||
 接種|/|verb|1898|傳至日本互相接種其効昭然|『申報』7月11日「豫防痘症篇」||
 經典序錄|/|NP|c1325 (a1287)|經典序錄河間人大毛公為詩故訓傳|王應麟『困學紀聞·卷之三·詩』1 (11340)||
 精品|/|noun|Sung|/|/|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=精品)|
