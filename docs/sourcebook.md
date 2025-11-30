@@ -5,7 +5,7 @@ permalink: sourcebook/
 seo:
   type: Book
   name: "Lexicography: A Sourcebook"
-last_modified_at: 2025-09-08T13:11:57+00:00
+last_modified_at: 2025-11-30T14:42:39+00:00
 layout: anchor
 ---
 # Lexicography: A Sourcebook
@@ -19,9 +19,6 @@ layout: anchor
 [_Canones 
 Lexicographici_](https://books.google.com/books?id=LqxUAAAAcAAJ&pg=RA3-PA1#v=onepage&q&f=false) (1860)
 
-[The Oxford Quarto 
-Dictionary](https://www.henrysweet.org/bulletin-of-the-henry-sweet-society/blog-post-title-one-wj68m-s8yby) (2008)
-
 [Sanford Brown Meech at the _Middle English 
 Dictionary_](https://doi.org/10.1353/dic.1995.0015) (1995)
 
@@ -32,6 +29,11 @@ Lexicography_](https://archive.org/details/dictionariesartc0000land_02ed) (2001)
 > _Dictionaries: The Art and Craft of Lexicography_ … “If someone made that up,
 > they’re nuts.” … [Erin] McKean confirmed that “esquivalience” was a fabricated
 > word.… “Its inherent fakeitude is fairly obvious,” she said. (_The New Yorker_)
+
+[The Oxford Quarto 
+Dictionary](https://www.henrysweet.org/bulletin-of-the-henry-sweet-society/blog-post-title-one-wj68m-s8yby) (2008)
+
+[Making the _Dictionary of Medieval Latin from British Sources_](https://doi.org/10.5871/bacad/9780197266083.003.0015) (2017)
 
 [Confessions of the Antedater](https://doi.org/10.1353/dic.2018.0011) (2018)
 
