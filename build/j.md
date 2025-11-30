@@ -4,7 +4,7 @@ permalink: j/
 seo:
   type: Dataset
   name: "HuangSupplement: letter J"
-last_modified_at: 2025-11-30T08:59:01+00:00
+last_modified_at: 2025-11-30T13:02:44+00:00
 description: Antedatings, errata and addenda to letter J of 近現代漢語辭源
 layout: main
 font_key: j
@@ -47,6 +47,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 接種|/|verb|1898|傳至日本互相接種其効昭然|『申報』7月11日「豫防痘症篇」||
 結果(1)|(with inanimate subject)|noun|1900|論及中國時𫝑提督謂中國此次戰爭將來結果必如美國初議|『申報』7月27日「美員淸議」||
 結果(2)|/|conjunction|1905|及觀戰臺一經砲攻結果遂致戰艦上之消息不靈|『申報』8月7日「西人論戰艦觀戰臺之不能再用」||
+解剖學|/|noun|1884|予不敏於施醫之暇譯解剖學誌全體通考一書|『全體通考·自序』1 (13142996)||
 經典序錄|/|NP|c1325 (a1287)|經典序錄河間人大毛公為詩故訓傳|王應麟『困學紀聞·卷之三·詩』1 (11340)||
 精品|/|noun|Sung|/|/|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=精品)|
 句讀|/|noun|c1344 (a1134)|句讀凡經書成文語絶處謂之句語未絶而點分之以便誦詠謂之讀⋯又屋韻 增入|『增修互註禮部韻略·卷第四·五十󶤾』(012278)|postdating: earliest instance of 讀 as comma|
