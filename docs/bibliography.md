@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-11-30T09:58:18+00:00
+last_modified_at: 2025-11-30T13:07:09+00:00
 layout: anchor
 ---
 # Bibliography
@@ -51,6 +51,7 @@ layout: anchor
 - 鄧紹根, '從新名詞到關鍵詞：民國「電視」概念史', 新聞學與傳播學, 228 (2015), 42.
 - 馮天瑜－聶長順, 三十個關鍵詞的文化史 (Peking, 2021), 68–9. \[中國]
 - 馮玥, '「反応」の語誌', master's thesis, Osaka University, 2022.
+- 高晞, '「解剖學」中文譯名的由來與確定——以德貞《全體通考》為中心', 歷史研究, 6 (2008), 89.
 - 何華珍－丁鑫美, '近現代中日漢字詞源流考述', 漢語史研究集刊, 34 (2023), 201. \[視線]
 - 胡琪, '「服務」一詞的產生及其對應概念的變遷', 日語語言研究, 197 (2018), 13. \[etymology]
 - 胡新祥, '中日近代新漢語についての研究 ―仏教由来漢語を中心に―', doctoral thesis, Rikkyo University, 2018. \[結果(1), 結果(2)]
