@@ -4,7 +4,7 @@ permalink: j/
 seo:
   type: Dataset
   name: "HuangSupplement: letter J"
-last_modified_at: 2025-12-01T05:28:35+00:00
+last_modified_at: 2025-12-01T06:31:24+00:00
 description: Antedatings, errata and addenda to letter J of 近現代漢語辭源
 layout: main
 font_key: j
@@ -50,7 +50,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 解剖學|/|noun|1884|予不敏於施醫之暇譯解剖學誌全體通考一書|『全體通考·自序』1 (13142996)||
 金融|/|noun|1893|日本𮎰尾精氏⋯設貿易研究所於上海⋯著淸國通商綜覽一書⋯第四門曰金融、一章銀行、二章諸爲替|『萬國公報』56「書淸國通商綜覽後」||
 |/|/|1898|然自明治十九年以降⋯金融機關漸漸通行|康有為「日本變政考」562 (023425009)||
-金石學|/|noun|1793|􂹵心金石學遠期千秋知|趙希璜『四百三十二峰草堂詩鈔·卷十一』7 (5748)||
+金石學|/|noun|a1800 (1793)|􂹵心金石學遠期千秋知|趙希璜『四百三十二峰草堂詩鈔·卷十一』7 (5748)||
 經典序錄|/|NP|c1325 (a1287)|經典序錄河間人大毛公為詩故訓傳|王應麟『困學紀聞·卷之三·詩』1 (11340)||
 精品|/|noun|Sung|/|/|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=精品)|
 句讀|/|noun|c1344 (a1134)|句讀凡經書成文語絶處謂之句語未絶而點分之以便誦詠謂之讀⋯又屋韻 增入|『增修互註禮部韻略·卷第四·五十󶤾』(012278)|postdating: earliest instance of 讀 as comma|
