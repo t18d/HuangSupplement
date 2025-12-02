@@ -4,7 +4,7 @@ permalink: j/
 seo:
   type: Dataset
   name: "HuangSupplement: letter J"
-last_modified_at: 2025-12-02T07:05:54+00:00
+last_modified_at: 2025-12-02T10:25:31+00:00
 description: Antedatings, errata and addenda to letter J of 近現代漢語辭源
 layout: main
 font_key: j
@@ -60,3 +60,5 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 痙攣|/|noun|1902|二、痙攣症筋不能任意収縮之病或手足强直或痙攣􂳈搦患者知覺全失|何燏時譯補『中學生理教科書』38||
 劇場|/|noun|1566 (a1559)|此巳是󸥥境劇塲寤則不復憶散則無何有矣|王慎中『遵巖先生文集·卷之三十七·與􁜕東𪷆』27 (集024-0013)|previously 戲劇場 or 雜劇場|
 句讀|/|noun|c1344 (a1134)|句讀凡經書成文語絶處謂之句語未絶而點分之以便誦詠謂之讀⋯又屋韻 增入|『增修互註禮部韻略·卷第四·五十󶤾』(012278)|postdating: earliest instance of 讀 as comma|
+覺悟|(with adjective)|noun|1920|目前極有希望之點。厥爲中國大多數中級社會之漸有政治覺悟。|『時事新報』3月1日「匯豐銀行主席之演說」||
+|(gradable)|/|1937|上海大公報社論關於國民革命軍第八路軍之屢次偉大勝利作評論云：『因爲這一部分的國民革命軍底戰士們有最高度的政治覺悟和最嚴明的紀律⋯』|『救國時報』30 Septembre「以第八路軍爲模範」|Not in 大公報; probably fake news. The gradable noun is of communist origins and betrays authorship.|
