@@ -4,7 +4,7 @@ permalink: k/
 seo:
   type: Dataset
   name: "HuangSupplement: letter K"
-last_modified_at: 2025-12-03T01:22:30+00:00
+last_modified_at: 2025-12-03T05:53:17+00:00
 description: Antedatings, errata and addenda to letter K of 近現代漢語辭源
 layout: main
 font_key: k
@@ -26,6 +26,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 考慮|/|verb|1902|此事雖似末􁄬.當學堂施設之初.最要考慮者也.|『東遊叢錄·函札筆談』117|letter by Japanese published in a Chinese book|
 |/|/|1905|常挈兩物而加攷慮而此攷慮之中即有以發見彼此短長之所在|『新民叢報』63「辨論與受用」26||
 科學|/|adjective|1914|聚百十不科學無條理之人日發生不痛不癢不達時勢之議論|『時事新報』12月4日「清朝復辟案之反響」|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=科學)|
+可能性(1)|potential|mass noun|1903|一切事物之未成時即可斷決當成何物何以故以有可能性故⋯運動之極盡可能性無復有餘是曰終極原因|『泰西學案』15||
+可能性(2)|possibility|count noun|1919|許多可能性 (Possibilitise) 許多濳伏力. (Potentialities) 不知不覺發瀉出來|傅斯年「人生問題發端」in『新潮』1/1, 8| Fu's typo|
 可喜的|/|adjective|1904|所以驚奇可喜的事 人乍聽了 無不拍案呌絶|『京話日報』8月17日「達威德爾偵探記 第一節」|first occurrence as -的|
 |/|/|1905|却是有一件可喜的好事|『京話日報』2月23日「通州苦况」|first independent use|
 刻本|/|noun|Sung|近歲均州刻本輒改為仇香|陸遊『老學庵筆記』卷四||
