@@ -4,7 +4,7 @@ permalink: k/
 seo:
   type: Dataset
   name: "HuangSupplement: letter K"
-last_modified_at: 2025-12-06T12:39:34+00:00
+last_modified_at: 2025-12-07T06:50:36+00:00
 description: Antedatings, errata and addenda to letter K of 近現代漢語辭源
 layout: main
 font_key: k
@@ -34,3 +34,4 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |/|/|1905|却是有一件可喜的好事|『京話日報』2月23日「通州苦况」|first independent use|
 刻本|/|noun|Sung|近歲均州刻本輒改為仇香|陸遊『老學庵筆記』卷四||
 |/|/|2001|「再说黄正甫刊本{乃}《三国志传》<乃>今见《三国演义》最早刻本」|『明清小說研究』1, 125|刻本 & 刋本 are stylistic variants|
+塊|/|noun|c1844 (c1819)|吴市用洋錢以塊計毎󲱮分十󾉟󾉟分十分|包世臣『管情三義·己卯𡻕朝松江即事』xxii, 6 (05593)||
