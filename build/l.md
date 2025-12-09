@@ -4,7 +4,7 @@ permalink: l/
 seo:
   type: Dataset
   name: "HuangSupplement: letter L"
-last_modified_at: 2025-12-09T02:58:20+00:00
+last_modified_at: 2025-12-09T05:27:15+00:00
 description: Antedatings, errata and addenda to letter L of 近現代漢語辭源
 layout: main
 font_key: l
@@ -17,6 +17,7 @@ edit_path: dict/l.csv
 Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
 浪漫主義|/|noun|1915|浪漫主義。Romanticism 當歐洲十八世紀末葉至十九世紀初年時。盛行於文藝上。|『東方雜誌』12/9「浪漫主義」5||
+勞動|/|noun|1905|/|/|postdating; previously = labourer|
 烙鐵|/|noun|1889|Soldering iron 嵌錫烙鐵|Fryer『汽機中西名目表』47||
 禮拜(1)|(+ the Christian god)|verb|c1584 (1583)|三當禮拜之日禁止工夫謁寺誦經禮拜天主|Ruggieri『祖傳天主十誡』(Jap. Sin. I-189)||
 禮拜(2)|week|noun|1620|礼􀂉 semana i domingo|_Arte de la lengua chio chiu_, 30r (Ms. 1027)||
