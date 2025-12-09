@@ -4,7 +4,7 @@ permalink: k/
 seo:
   type: Dataset
   name: "HuangSupplement: letter K"
-last_modified_at: 2025-12-07T13:24:29+00:00
+last_modified_at: 2025-12-09T01:02:43+00:00
 description: Antedatings, errata and addenda to letter K of 近現代漢語辭源
 layout: main
 font_key: k
@@ -35,5 +35,6 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 刻本|/|noun|Sung|近歲均州刻本輒改為仇香|陸遊『老學庵筆記』卷四||
 |/|/|2001|「再说黄正甫刊本{乃}《三国志传》<乃>今见《三国演义》最早刻本」|『明清小說研究』1, 125|刻本 & 刋本 are stylistic variants|
 塊|/|noun|c1844 (c1819)|吴市用洋錢以塊計毎󲱮分十󾉟󾉟分十分|包世臣『管情三義·己卯𡻕朝松江即事』xxii, 6 (05593)||
-困難|/|noun|1687 (a1056)|夫天下始定民方息肩于困難一人不能獨治政敎不能徧及|『周易口義·卷二』3 (A01881)||
+困難(2)|euphemism for poor|adjective|1903|夫人口旣稠密。故覺生活困難。在所不免。|作新社譯『支那人之氣質』153||
+困難(3)|/|noun|1687 (a1056)|夫天下始定民方息肩于困難一人不能獨治政敎不能徧及|『周易口義·卷二』3 (A01881)||
 |/|/|c1205 (c1178)|隂柔之人􀍻无明見一遇困難遂至􂕿󷴪失錯|『童溪易傳·卷二十一』10 (9582)||
