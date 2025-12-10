@@ -4,7 +4,7 @@ permalink: x/
 seo:
   type: Dataset
   name: "HuangSupplement: letter X"
-last_modified_at: 2025-11-29T10:31:51+00:00
+last_modified_at: 2025-12-10T00:40:47+00:00
 description: Antedatings, errata and addenda to letter X of 近現代漢語辭源
 layout: main
 font_key: x
@@ -22,6 +22,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 峽谷|/|noun|1902|峽谷如壁地勢隆起|『申報』7月15日「詳紀張家口鐵路里程」+||
 現代|/|noun|1875|recent ages 昭代, 現代.|鄺其照『字典集成』s.v. Recent|also in Japanese: 1894 (CHJ)|
 -小時|/|nominal bound root|1631|法以前推得一日。或二十四小時。行五十九分〇八秒二十微。|Rho『崇禎曆書·日󱄊曆指』26bis (Oxon. Sinica 897)||
+協議離婚|/|NP|1907|若協議離婚時。或妻死時。求返還其前日之贈物者槪無之。|『漢譯民法講義』105||
 心態|/|noun|1919|高低無定。心態屢遷。|『祈禱發𢕄總論』61||
 星期(2)|/|noun|1898|凡入會之友⋯每一星期、􁒋會一次、<span class="warichu">會友多習西文者故必用星期即禮拜日也</span>|『知新報』xlv「京師關西學會緣起」|This is really 星期(1), as the warichu shows. But it's what gave rise to 星期(2) in the next quote.|
 |/|/|1899|/|/||
