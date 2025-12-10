@@ -4,7 +4,7 @@ permalink: l/
 seo:
   type: Dataset
   name: "HuangSupplement: letter L"
-last_modified_at: 2025-12-10T13:11:11+00:00
+last_modified_at: 2025-12-10T14:10:06+00:00
 description: Antedatings, errata and addenda to letter L of 近現代漢語辭源
 layout: main
 font_key: l
@@ -29,5 +29,6 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 戀愛(1)|/|verbal noun|1900|誰不見男女之戀愛而因以看取人󴜴之大動機者惟有一瑟士丕亞|『清議報』xxxvii「飲氷室自由書·慧觀」3||
 戀愛(2)|/|verb|1903|雨苟幼時與其鄰女阿對兒 Adele 相戀愛。往來之戀書。蔚然成帙。|『新民叢報』28「歐學之片影」||
 硫酸|/|noun|1883|Sulphuric acid 硫酸|Fryer『金石中西名目表』32||
+流行性感冒|/|NP|1905|學校豫防傳染病之種類如左⋯百日咳。麻疹。流行性感冒。流行性耳下腺炎。|湖北學務處『管理法』199||
 龍脈|/|noun|c1267|昔有頭陁、從廣信󴰉龍􁕘來此|祝洙『新編方輿勝覽·卷十福建路』250 (786975–94)||
 漏斗|/|noun|1857|譬如水洩於漏斗|A. Williamson in『六合叢談』1/3, 7||
