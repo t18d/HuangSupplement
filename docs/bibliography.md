@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-12-09T03:01:30+00:00
+last_modified_at: 2025-12-10T13:16:10+00:00
 layout: anchor
 ---
 # Bibliography
@@ -112,6 +112,7 @@ layout: anchor
 - 謝久永, '「基因」一詞是由誰首次翻譯為中文的？', University of Manitoba (but see [b2a3f39](https://github.com/t18d/HuangSupplement/commit/b2a3f39fddf9e4340a3b021fd3a3678e44efd432)).
 - 謝任, ‘「幹部」：一個新名詞進入中共革命語境的歷史’, 黨史研究與教學, 295 (2023), 86.
 - 楊麗娟, '「Fossil」漢語譯名演變考', 地質評論, 65/1 (2019), 27. \[化石]
+- 楊聯芬, '「戀愛」之發生與現代文學觀念變遷', 中國社會科學, 1 (2014), 160.
 - 楊楠, '近代中國政治中的「公僕」概念：生成、傳播與嬗變', 學習與探索, 330 (2023), 64.
 - 葉新, '「版權」「著作權」兩個用語的由來及演變', 出版史料, 1 (2001), 103. \[著作権]
 - 尹瓊, '試析「眼看」的詞彙化與主觀化', 漢字文化, 263 (2020), 88.
