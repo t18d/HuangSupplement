@@ -4,7 +4,7 @@ permalink: l/
 seo:
   type: Dataset
   name: "HuangSupplement: letter L"
-last_modified_at: 2025-12-11T11:52:56+00:00
+last_modified_at: 2025-12-11T11:56:56+00:00
 description: Antedatings, errata and addenda to letter L of 近現代漢語辭源
 layout: main
 font_key: l
@@ -33,4 +33,4 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 流行性感冒|/|NP|1905|學校豫防傳染病之種類如左⋯百日咳。麻疹。流行性感冒。流行性耳下腺炎。|湖北學務處『管理法』199||
 龍脈|/|noun|c1267|昔有頭陁、從廣信󴰉龍􁕘來此|祝洙『新編方輿勝覽·卷十福建路』250 (786975–94)||
 漏斗|/|noun|1857|譬如水洩於漏斗|A. Williamson in『六合叢談』1/3, 7||
-邏輯(1)|/|noun|c1905 (1902)|案邏輯此翻名學.其名義始於希臘.|『穆勒名學·部甲·引論』2 (子816/1080)||
+邏輯(1)|/|noun|c1905 (1902)|案邏輯此翻名學.其名義始於希臘.|『穆勒名學·部甲·引論』2 (子816/1080)|See Huang (2010) for further quotations.|
