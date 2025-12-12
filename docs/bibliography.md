@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-12-11T11:59:49+00:00
+last_modified_at: 2025-12-12T10:03:56+00:00
 layout: anchor
 ---
 # Bibliography
@@ -59,6 +59,7 @@ layout: anchor
 - 胡新祥, '中日近代新漢語についての研究 ―仏教由来漢語を中心に―', doctoral thesis, Rikkyo University, 2018. \[結果(1), 結果(2)]
 - 黃河清, 近現代辭源 (Shanghai, 2010). \[邏輯(1)]
 - 黃河清, '「地球」探源', 中國科技術語, 19/3 (2017), 72.
+- 黃河清, '「螺旋」「螺絲」「螺釘」「螺絲釘」探源', 中國科技術語, 20/5 (2018), 74. \[螺旋(1)]
 - 黃河清, '「番茄」「西紅柿」考', 或問, 35 (2019), 32.
 - 黃河清, '[「界說」「定義」考](http://www.huayuqiao.org/DOCC/DOC129/NO_076.php)', 語文建設, 129 (2024), 76. \[定義]
 - 黃莎－聶長順, '近代「革命」再考察', 人文論叢, 28/2 (2017), 218.
