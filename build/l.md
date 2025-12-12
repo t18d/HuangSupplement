@@ -4,7 +4,7 @@ permalink: l/
 seo:
   type: Dataset
   name: "HuangSupplement: letter L"
-last_modified_at: 2025-12-12T10:01:02+00:00
+last_modified_at: 2025-12-12T10:05:31+00:00
 description: Antedatings, errata and addenda to letter L of 近現代漢語辭源
 layout: main
 font_key: l
@@ -37,4 +37,4 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 邏輯(2)|non-normative|noun|1911|凡俄人所有滿洲之特權一切悉爲朴茲茅斯條約所掩此支那之邏輯(論理)也|『民立報』4月18日「英倫通信」||
 |normative|/|1912|至政務繁簡。不以􁒋散而生區別。此乃由嚴格邏輯所得之斷案。|『民立報』4月24日「論行政系統」||
 邏輯學|/|noun|1915|近代學術俱重歸納邏輯亦然彌爾邏輯學突過前人卽以此也|『靑年雜誌』1/3「通信」1||
-螺旋|/|noun|1612|弦之竟軸而得一󽖹旋之墨。因󽖹旋之墨而立之𤗼。爲󽖹墻。墻之間而得󽖹旋之溝。爲󽖹溝。|De Ursis－徐『泰西水法·卷之一』3 (13813)||
+螺旋(1)|/|noun|1612|弦之竟軸而得一󽖹旋之墨。因󽖹旋之墨而立之𤗼。爲󽖹墻。墻之間而得󽖹旋之溝。爲󽖹溝。|De Ursis－徐『泰西水法·卷之一』3 (13813)||
