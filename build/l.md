@@ -4,7 +4,7 @@ permalink: l/
 seo:
   type: Dataset
   name: "HuangSupplement: letter L"
-last_modified_at: 2025-12-11T12:36:32+00:00
+last_modified_at: 2025-12-12T02:59:49+00:00
 description: Antedatings, errata and addenda to letter L of 近現代漢語辭源
 layout: main
 font_key: l
@@ -36,3 +36,4 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 邏輯(1)|/|noun|c1905 (1902)|案邏輯此翻名學.其名義始於希臘.|『穆勒名學·部甲·引論』2 (子816/1080)|See Huang (2010) for further quotations.|
 邏輯(2)|non-normative|noun|1911|凡俄人所有滿洲之特權一切悉爲朴茲茅斯條約所掩此支那之邏輯(論理)也|『民立報』4月18日「英倫通信」||
 |normative|/|1912|至政務繁簡。不以􁒋散而生區別。此乃由嚴格邏輯所得之斷案。|『民立報』4月24日「論行政系統」||
+邏輯學|/|noun|1915|近代學術俱重歸納邏輯亦然彌爾邏輯學突過前人卽以此也|『靑年雜誌』1/3「通信」1||
