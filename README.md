@@ -26,7 +26,7 @@ last_modified_at: 2025-12-12T10:01:02+00:00
 
 <div align="center">
 <a href="https://github.com/t18d/HuangSupplement/wiki/Notes-to-Contributors">Notes to Contributors</a> ·
-<a href="https://github.com/t18d/HuangSupplement/wiki/Checklist-of-Editions">Checklist of Editions</a> (360)<br>
+<a href="https://github.com/t18d/HuangSupplement/wiki/Checklist-of-Editions">Checklist of Editions</a> (365)<br>
 <a href="https://t18d.github.io/HuangSupplement/pitfalls/">Pitfalls in Historical Lexicography</a><br>
 <a href="https://t18d.github.io/HuangSupplement/bibliography/">Bibliography</a> ·
 <a href="https://t18d.github.io/HuangSupplement/papers/">Working Papers</a>
