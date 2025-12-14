@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-12-12T10:03:56+00:00
+last_modified_at: 2025-12-14T05:36:48+00:00
 layout: anchor
 ---
 # Bibliography
@@ -77,7 +77,7 @@ layout: anchor
 - Lippert, Wolfgang, _Entstehung und Funktion einiger chinesischer marxistischer Termini: d. lexikal.-begriffl. Aspekt d. Rezeption d. Marxismus in Japan u. China_ (Wiesbaden, 1979). \[階級鬥爭]
 - 劉廣定, '中文「化學」源起再考', in 中國科學史論集 (Taipei, 2002), 99 (facsimile).
 - 劉曼, '「禮拜」來源再考', 國際漢學, 27 (2021), 161. \[禮拜(2), 禮拜-(3)]
-- 劉曼, '近現代新貨幣單位詞流傳、演變考', 亞洲概念史研究, 11 (2023), 100. \[分(6), 角(2), 塊]
+- 劉曼, '近現代新貨幣單位詞流傳、演變考', 亞洲概念史研究, 11 (2023), 100. \[分(6), 角(2), 塊, 毛(1)] 
 - 劉曼, '漢語鐘點類時間詞來源研究', 漢語史學報, 1 (2025), 50–60. \[點(2), 點鐘, 小時]
 - 劉孟洋, '中日語言互動與術語的生成、演變——以「工人」與「勞動者」為例', 日語學習與研究, 198 (2018), 47. \[工人]
 - 劉幸－施克燦, '「Education」何以譯為「教育」——以日本有關學術史料為基礎的討論', 教育研究, 502 (2021), 93.
