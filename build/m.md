@@ -4,7 +4,7 @@ permalink: m/
 seo:
   type: Dataset
   name: "HuangSupplement: letter M"
-last_modified_at: 2025-12-14T05:34:54+00:00
+last_modified_at: 2025-12-14T06:31:54+00:00
 description: Antedatings, errata and addenda to letter M of 近現代漢語辭源
 layout: main
 font_key: m
@@ -17,6 +17,7 @@ edit_path: dict/m.csv
 Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
 毛(1)|/|noun|1834|􀭜狸皮 每張〩毛至〡元|『東西洋考每月統記傳』甲午年正月「省城洋商⋯市價」2||
+冒險精神|/|noun|1905 (1903)|至此而冒險精神。乃爲之一挫矣。|『空中飛艇』3||
 麵包|/|noun|1583||_Dicionário Português-Chinês_ (Jap. Sin. I-198)||
 麵粉|/|noun|1583||_Dicionário Português-Chinês_ (Jap. Sin. I-198)||
 描述|describe|verb|1909|其惶急尤難描述|『申報』8月2日「奇情小說 美人虹」+|not in 王雲五大辭典 & 國語辭典; very slowly took over the sense of 'describe' from [描寫(2)](https://t18d.github.io/HuangSupplement/obsolete/#:~:text=描寫(2))|
