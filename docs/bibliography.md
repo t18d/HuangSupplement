@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-12-15T04:58:05+00:00
+last_modified_at: 2025-12-15T11:31:14+00:00
 layout: anchor
 ---
 # Bibliography
@@ -89,6 +89,7 @@ layout: anchor
 - 牛振, '近代日語譯詞對漢語地理學譯詞的影響探析', 漢字漢語研究, 24 (2023), 109–24.
 - Onodera, Shiro, '19世紀末日中における「記念」の語義変化について', in [近代東アジアにおける翻訳概念の展開](http://hdl.handle.net/2433/246235), Kyoto University, 2013. \[紀念(2)]
 - 龐乃明, '明清中國「大西洋」概念的生成與演變', 學術研究, 11 (2019), 128.
+- 彭恆禮, '「民俗學」入華考——兼談近代辭典對學科術語的強化作用', 民俗研究, 3 (2010), 256.
 - 錢芳華－馬陵合, '近代文獻中「工業革命」一詞的考察', 淮南師範學院學報, 138 (2023), 96.
 - 仇子揚, '近代日中軍事用語の変容と交流の研究', doctoral thesis, Kansai University, 2019. \[工廠, 教練]
 - 權宇琦, '日中語彙交流の視点からみる近代和製医学用語の受容と交替', doctoral thesis, Takushoku University, 2021. \[痙攣]
