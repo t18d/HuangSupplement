@@ -4,7 +4,7 @@ permalink: m/
 seo:
   type: Dataset
   name: "HuangSupplement: letter M"
-last_modified_at: 2025-12-15T04:55:14+00:00
+last_modified_at: 2025-12-15T11:27:34+00:00
 description: Antedatings, errata and addenda to letter M of 近現代漢語辭源
 layout: main
 font_key: m
@@ -27,4 +27,5 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 描述語言學|/|NP|1958|個人覺得能代表近來美國描述語言學家的長處的倒是 Charles Fries 的兩本實用性的書|董同龢「語言的研究」in『現代學術季刊』2/2|the accurate translation of 'descriptive linguistics'|
 描寫(1)|depict|verb|Ming|/|/|the word's only current sense|
 描寫語言學|/|NP|1950|咱們現在應該嚴格使用描寫語言學的方法來分析現代中國語的結構|羅常培『語言與文化』103|fossilised use of the obsolete [描寫(2)](https://t18d.github.io/HuangSupplement/obsolete/#:~:text=描寫(2)) & no longer an accurate translation of 'descriptive linguistics'; cf. s.v. 描述語言學|
+民俗學|/|noun|1908|folk-lore, 野史,民俗學.|『英華大辭典』s.v. Lore||
 摩擦(1)|/|verb|1851|琥珀用燥羊毛摩擦一辺、此摩擦処便能拾芥、就是電気発出、似磁石噏鉄一般。|Macgowan『博物通書』第一章||
