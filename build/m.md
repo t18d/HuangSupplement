@@ -4,7 +4,7 @@ permalink: m/
 seo:
   type: Dataset
   name: "HuangSupplement: letter M"
-last_modified_at: 2025-12-15T14:25:30+00:00
+last_modified_at: 2025-12-16T01:04:15+00:00
 description: Antedatings, errata and addenda to letter M of 近現代漢語辭源
 layout: main
 font_key: m
@@ -29,4 +29,5 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 描寫語言學|/|NP|1950|咱們現在應該嚴格使用描寫語言學的方法來分析現代中國語的結構|羅常培『語言與文化』103|fossilised use of the obsolete [描寫(2)](https://t18d.github.io/HuangSupplement/obsolete/#:~:text=描寫(2)) & no longer an accurate translation of 'descriptive linguistics'; cf. s.v. 描述語言學|
 民俗學|/|noun|1908|folk-lore, 野史,民俗學.|『英華大辭典』s.v. Lore||
 民主(2)|/|verbal noun|1865 (1864)|於是易其國法、而改作民主之國|Martin『萬國公法·卷一』20+ (04013)||
+民族|/|noun|1834|故申󾏞中外諸民族。悔罪伏奉耶穌救世者之教也。|Gützlaff『救世主耶穌基督行論之要畧傳·煞語』74||
 摩擦(1)|/|verb|1851|琥珀用燥羊毛摩擦一辺、此摩擦処便能拾芥、就是電気発出、似磁石噏鉄一般。|Macgowan『博物通書』第一章||
