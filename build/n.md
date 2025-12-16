@@ -4,7 +4,7 @@ permalink: n/
 seo:
   type: Dataset
   name: "HuangSupplement: letter N"
-last_modified_at: 2025-12-16T11:34:40+00:00
+last_modified_at: 2025-12-16T13:25:51+00:00
 description: Antedatings, errata and addenda to letter N of 近現代漢語辭源
 layout: main
 font_key: n
@@ -50,3 +50,4 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 凝固|/|verb|1847|to harden, 凝固|Medhurst, _English and Chinese Dictionary_, s.v. To condense||
 濃度|/|noun|1905|蒸至適宜濃度再置冷處。|『中等化學教科書』294||
 暖氣|/|noun|1866|Caliduct … 熱氣筒 … 暖氣筒|Lobscheid『英華字典』s.v. Caliduct||
+女權主義|/|noun|1914|原來是一個󱳏老徐娘⋯高舉􁟒兩手在那裏向大衆鼓吹他的女權主義|『眉語』1/1「流水無󴜴」1||
