@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-12-16T01:06:38+00:00
+last_modified_at: 2025-12-16T07:07:25+00:00
 layout: anchor
 ---
 # Bibliography
@@ -54,6 +54,7 @@ layout: anchor
 - 馮天瑜－聶長順, 三十個關鍵詞的文化史 (Peking, 2021), 68–9. \[中國]
 - 馮玥, '「反応」の語誌', master's thesis, Osaka University, 2022.
 - 高晞, '「解剖學」中文譯名的由來與確定——以德貞《全體通考》為中心', 歷史研究, 6 (2008), 89.
+- 郭衛東, '新世界觀的形成：東、西、南、北洋的概念流變', 清史研究, 1 (2024), 18. \[南洋]
 - 何華珍－丁鑫美, '近現代中日漢字詞源流考述', 漢語史研究集刊, 34 (2023), 201. \[視線]
 - 胡琪, '「服務」一詞的產生及其對應概念的變遷', 日語語言研究, 197 (2018), 13. \[etymology]
 - 胡新祥, '中日近代新漢語についての研究 ―仏教由来漢語を中心に―', doctoral thesis, Rikkyo University, 2018. \[結果(1), 結果(2)]
