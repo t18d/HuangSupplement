@@ -4,7 +4,7 @@ permalink: n/
 seo:
   type: Dataset
   name: "HuangSupplement: letter N"
-last_modified_at: 2025-11-11T06:28:27+00:00
+last_modified_at: 2025-12-16T07:04:43+00:00
 description: Antedatings, errata and addenda to letter N of 近現代漢語辭源
 layout: main
 font_key: n
@@ -32,6 +32,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 男聲|/|/|1920|/|/|from Japanese 男声: 1873 (NDL)|
 男性|/|/|1902|/|/|from Japanese: 1870 (NDL)|
 南温帶|/|/|1903|/|/|from Japanese 南温帯: 1873 (NDL)|
+南洋|Southeast Asia|noun|1732 (1717)|其南洋吕宋。噶囉吧等處。不許商船前往貿易。|『聖祖仁皇帝實錄·康熙五十六年正月』6||
 嚢腫|/|/|1919|/|/|from Japanese: 1871 (NDL)|
 蟯蟲|/|/|1909|/|/|from Japanese 蟯虫: c1566 (Nikkoku)|
 腦充血|/|/|1909|/|/|from Japanese 脳充血: 1873 (NDL)|
