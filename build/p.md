@@ -4,7 +4,7 @@ permalink: p/
 seo:
   type: Dataset
   name: "HuangSupplement: letter P"
-last_modified_at: 2025-12-17T06:43:49+00:00
+last_modified_at: 2025-12-18T00:56:52+00:00
 description: Antedatings, errata and addenda to letter P of 近現代漢語辭源
 layout: main
 font_key: p
@@ -26,5 +26,6 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |/|/|1905|徒大聲疾呼慷慨悲憤以批判當局之失策者|『津報』11月7日「論戰後經營之第一著手」||
 皮包|/|noun|1866|a leather bag, 皮包|Lobscheid『英華字典』s.v. Bag||
 貧農|in anti-capitalist discourse|noun|1919|俄國尙有一•五〇〇•〇〇〇之富農•此等實亦資本家而貧農之敵也•|『時事新報』5月16日「俄國問題」||
+貧血(1)|(as free morph)|noun|1905|如發見腺病.營養不良.貧血⋯與其他慢性疾患等。檢查之際。可記入之。|湖北學務處『管理法』209|Huang's 1907 quote has a bound morph|
 評論家|/|noun|1903|此評論家當然之天職|『國民日日報』9月20日「論辜鴻銘之無恥」||
 破碎|/|verb|1844|Shatter, 破碎|Williams『英華韵府歷階』s.v. Shatter||
