@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-12-18T03:08:21+00:00
+last_modified_at: 2025-12-18T04:04:38+00:00
 layout: anchor
 ---
 # Bibliography
@@ -38,6 +38,14 @@ layout: anchor
 - Yeh, Pao-k'uei, '民初國音的回顧與反思', 廈門大學學報, 183 (2007), 44–50.
 
 ## Sources
+_This section only contains studies whose conclusion has been adopted by the
+Supplement; for a fuller (but non-exhaustive) listing of the books and
+articles which have been triaged, see Yang Ch'ih's
+[bibliography](https://github.com/t18d/HuangSupplement/blob/main/Yang%20Ch’ih%20近代漢字詞史研究文獻目錄.csv)._
+
+_As the orthography found in these studies is usually a normalised one, all 
+quotations in the Supplement were transcribed directly from the original
+documents._
 
 - 安平－李春暉, '福澤諭吉與近代日本版權制度初創', 渤海大學學報, 6 (2020), 77. \[版権]
 - 畢亞莉, '日中同素異順語「発刊-刊発」および中国語「発刊辞/詞」（ファカンツ）の成立について', 北海道大学大学院文学院研究論集, 22 (2023), 61. \[發刊辭]
