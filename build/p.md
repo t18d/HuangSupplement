@@ -4,7 +4,7 @@ permalink: p/
 seo:
   type: Dataset
   name: "HuangSupplement: letter P"
-last_modified_at: 2025-12-18T08:13:32+00:00
+last_modified_at: 2025-12-18T09:47:15+00:00
 description: Antedatings, errata and addenda to letter P of 近現代漢語辭源
 layout: main
 font_key: p
@@ -30,4 +30,5 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 評論家|/|noun|1903|此評論家當然之天職|『國民日日報』9月20日「論辜鴻銘之無恥」||
 破產(1)|(as a legal term)|verb|1902|商人停止清償.則裁判所.由其商人或債權者申請.决定宣告其商人破產.|『湖北商務報』125「日本破產律」1|postdating|
 破碎|/|verb|1844|Shatter, 破碎|Williams『英華韵府歷階』s.v. Shatter||
+普遍|(with -的)|adjective|1903|蔑視自然哲學、及數學⋯謂無普遍的眞理。|『泰西學案·蘇格拉底學案』4||
 普通|/|adjective|1901|/|/|postdating: first occurrence outside a proper name|
