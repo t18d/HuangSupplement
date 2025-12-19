@@ -4,7 +4,7 @@ permalink: q/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Q"
-last_modified_at: 2025-12-19T03:11:18+00:00
+last_modified_at: 2025-12-19T07:33:51+00:00
 description: Antedatings, errata and addenda to letter Q of 近現代漢語辭源
 layout: main
 font_key: q
@@ -45,5 +45,6 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 牆腳|/|noun|1844|Foundation, 基址 … 墻腳|Williams『英華韵府歷階』s.v. Foundation||
 侵入|/|verb|1868|to invade … as a disease a system, 侵入 … 侵害|Lobscheid『英華字典』s.v. Invade|metaphorical|
 侵襲|/|verb|1847|to come upon, to attack, 侵襲|Medhurst, _English and Chinese Dictionary_, s.v. To come||
+權|right|noun|a1849|英吉利王有󱸄兵講和的權.􁈥領王無有此權.|『海國圖志·󾼩五十二夷󴜴備采下』21 (地900/875.3)|translating 'the right of making war and peace'|
 羣島|/|noun|1833|五島⋯共稱呂宋羣島|『東西洋考每月統計傳』癸巳年六月「東南州島嶼等形勢綱目」||
 羣像(1)|(as an artwork)|noun|1915|門之巓東方民族之羣像在焉|『神州日報』5月11日「巴拿馬紀念會塲之五光十色」|from Japanese 群像: 1902 (NDL)|
