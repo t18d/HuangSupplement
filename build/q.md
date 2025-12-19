@@ -4,7 +4,7 @@ permalink: q/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Q"
-last_modified_at: 2025-12-18T13:52:50+00:00
+last_modified_at: 2025-12-19T03:11:18+00:00
 description: Antedatings, errata and addenda to letter Q of 近現代漢語辭源
 layout: main
 font_key: q
@@ -22,6 +22,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 奇蹟|(in secular contexts)|noun|1913|世界奇蹟。隨時隨地。無不有之。名之曰七。未免太窄。|『民國二年世界年鑑·世界七大奇蹟表』200|This sense comes from the Christian 奇蹟 rather than the traditional Chinese 奇蹟.|
 騎士|/|noun|1903|田奴騎士及君主之階級|進化譯社『史學通論』105||
 歧義|/|noun|1921 (1877)|是以魏晉以還⋯獨於詩未聞歧義|孫詒讓『温州經籍志』卷二 s.v. 夏氏詩經漁樵野說||
+啟蒙|Enlightenment|verbal noun|1902|利勝 Lessing … 德國之啓蒙哲學者|『新民叢報』22「萬國思想家年表」118||
+啟蒙運動|/|noun|1907|彼等互發飛檄。述啓蒙運動之切要。|『民報』17「虛無黨小史」10||
 起訴|/|verb|1895 (1887)|/|黃遵憲『日本國志·刑法志一』||
 起義(2)|/|verb|1833|亦有人起義以應其隆奈者也。|『東西洋考每月統記傳』癸巳十二月, 79||
 汽車(2)|/|noun|1903|近有法人与英人及他国人合擬賭賽。汽車由法京巴黎斯至日斯巴尼亜京城馬得利脱。|『申報』5月27日「賽車肇事」||
