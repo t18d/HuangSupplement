@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-12-19T07:38:47+00:00
+last_modified_at: 2025-12-19T08:53:04+00:00
 layout: anchor
 ---
 # Bibliography
@@ -110,8 +110,8 @@ documents._
 - 史洪智, '古今轉換與中外對接：近代「破產」概念的形成', 近代史學刊, 9 (2012), 41. \[破產(1)]
 - 孫大權, '「金融」一詞在中國近代的起源、演變及當代啓示', 復旦學報, 4 (2019), 138.
 - 孫青, '魔燈鏡影：18–20世紀中國早期幻燈的放映、製作與傳播', 近代史研究, 4 (2018), 71.
+- Svarverud, Rune, 'The notions of "power" and "rights" in Chinese political discourse', in _New Terms for New Ideas: Western Knowledge and Lexical Change in Late Imperial China_ (Leiden, 2001), 130. \[權]
 - Takashima Kō, 'なぜbaseballは棒球と訳されたか：翻訳から⾒る近代中国スポーツ史', 京都⼤學⽂學部研究紀要, 55 (2016), 122.
-- Taniguchi Satoko, '『萬國公法』中right的譯詞：「權利」與「權」', 亞洲概念史研究, 5 (2019), 25. \[權]
 - Tanomura Tadaharu, 'カレーを表す中国語名称の変遷', 或問, 38 (2020), 15–25. \[咖哩]
 - Tanomura Tadaharu, '「接種」の語史: 種痘関連用語の生成と消長', 阪大日本語研究, 34 (2022), 27–45.
 - Tanomura Tadaharu, '「卡車」の語史──その起源と展開', 或問, 46 (2024), 31–45.
