@@ -4,7 +4,7 @@ permalink: s/
 seo:
   type: Dataset
   name: "HuangSupplement: letter S"
-last_modified_at: 2025-11-11T06:28:27+00:00
+last_modified_at: 2025-12-20T07:26:00+00:00
 description: Antedatings, errata and addenda to letter S of 近現代漢語辭源
 layout: main
 font_key: s
@@ -16,6 +16,8 @@ edit_path: dict/s.csv
 
 Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
+三角關係|/|NP|1921|遇有男女三人往來較密的，就認爲戀愛底三角關係。其實，或許一角也不成！|『民國日報』9月14日「男女社交問題底障礙」||
+三角戀愛|/|NP|1922|戀愛裏最容易發生苦痛的，三角戀愛便是一個著例|『婦女雜誌』8/2「戀愛的意義與價値」6||
 三位一體(1)|/|idiom|c1636|吾主既降生後。有天主三位一體之像|Dias『聖經直解·雜事目錄』8 (Jap. Sin. I-70)||
 山脈|/|noun|1858|山脈之方向|W. Muirhead in『六合叢談』1/13, 9||
 上帝|/|noun|a1590|惟天主上帝其事未觧明否|Ricci, _Lettre de Sixte V au Maître de l'Empire des Ming_ (Chinois 1320)||
