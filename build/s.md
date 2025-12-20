@@ -4,7 +4,7 @@ permalink: s/
 seo:
   type: Dataset
   name: "HuangSupplement: letter S"
-last_modified_at: 2025-12-20T12:07:00+00:00
+last_modified_at: 2025-12-20T14:03:13+00:00
 description: Antedatings, errata and addenda to letter S of 近現代漢語辭源
 layout: main
 font_key: s
@@ -22,9 +22,10 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 三角戀愛|/|NP|1922|戀愛裏最容易發生苦痛的，三角戀愛便是一個著例|『婦女雜誌』8/2「戀愛的意義與價値」6||
 三位一體(1)|/|idiom|c1636|吾主既降生後。有天主三位一體之像|Dias『聖經直解·雜事目錄』8 (Jap. Sin. I-70)||
 山脈|/|noun|1858|山脈之方向|W. Muirhead in『六合叢談』1/13, 9||
--上|(of respect)|postposition|1901|天下事固有於理論上不可不行而事實上萬不可行者|『清議報』lxxxiii「過渡時代論」4|both with and without 於-|
+-上|(enclitic of respect)|postposition|1901|天下事固有於理論上不可不行而事實上萬不可行者|『清議報』lxxxiii「過渡時代論」4|both with and without 於-|
 上帝|/|noun|a1590|惟天主上帝其事未觧明否|Ricci, _Lettre de Sixte V au Maître de l'Empire des Ming_ (Chinois 1320)||
 上述|/|adjective|1903|以上述之新兵爲自衛軍⋯宜協力迫俄國交還奉天之事|『俄事警聞』12月20日「清國之對俄政策」|from Japanese: 1895 (CHJ); [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=上述)|
+少數民族|/|NP|1903|然皆以少數民族强鍵于多數之中固未聞以多數之民族而服從于少數之下者也|『浙江潮』5「民族主義論」30||
 哨子|/|noun|1889|Steam whistle 汽哨子|Fryer『汽機中西名目表』49||
 奢談|/|VP|1903|「奢談禁例」|『國民日日報』11月29日|still very much stylised|
 |/|/|1911|及海牙開會改約期限已過英人尙容我奢談廢約乎|『吉長日報』3月31日「鴉片交涉談」|in natural text|
