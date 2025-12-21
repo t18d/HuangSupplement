@@ -4,7 +4,7 @@ permalink: s/
 seo:
   type: Dataset
   name: "HuangSupplement: letter S"
-last_modified_at: 2025-12-20T14:03:13+00:00
+last_modified_at: 2025-12-21T14:07:58+00:00
 description: Antedatings, errata and addenda to letter S of 近現代漢語辭源
 layout: main
 font_key: s
@@ -32,6 +32,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 生態學|/|noun|1903|論其習性與其相交之關係者。曰生態學。|作新社『新編動物學』3||
 聖誕|(in Christianity)|verb|c1636|「吾主聖誕前第四主日」|Dias『聖經直解·卷之一』9 (Jap. Sin. I-70)||
 聖母|/|noun|a1588|中間聖母無交配 誕聖原前室女躬|Ruggieri, _Chinese Poems_, 6 (Jap. Sin. II-159)||
+失戀|/|verb|1904|此篇寫戀字甚盡力一邊寫失戀之善夫禮一邊寫得戀之阿羅|『新新小說』2「聖人歟盜賊歟」9||
 石灰水|/|noun|1882|將膿泡一一挑破用石灰水洗淨|『申報』5月5日「火焚續述」||
 石墨|/|noun|1883|Plumbago, or Graphite 石墨|Fryer『金石中西名目表』26||
 石蕊|/|noun|1885|Litmus 石蕋|Fryer『化學材料中西名目表』21||
