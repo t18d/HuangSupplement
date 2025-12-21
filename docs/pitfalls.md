@@ -4,7 +4,7 @@ permalink: pitfalls/
 seo:
   type: Collection
   name: Pitfalls in Historical Lexicography
-last_modified_at: 2025-04-11T08:37:03+00:00
+last_modified_at: 2025-12-21T07:20:30+00:00
 layout: anchor
 description: Gleanings from HuangSupplement
 ---
@@ -162,7 +162,8 @@ Cf. [**consistency of sets**](https://t18d.github.io/HuangSupplement/dictionary/
 
 A word is a word whatever its surface orthography. The phenomenon, of course, is a very old one in Chinese.
 
-See further [**Orthographic alternation**](https://t18d.github.io/HuangSupplement/grammar/#orthographic-alternation).
+See further [**Orthographic
+alternation**](https://t18d.github.io/HuangSupplement-grammar/word-formation/orthographic-alternation/).
 
 [2247d61](https://github.com/t18d/HuangSupplement/commit/2247d61a7a29015fe309c1d910501e839677ada1)
 

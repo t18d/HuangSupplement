@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-12-20T14:03:13+00:00
+last_modified_at: 2025-12-21T07:15:46+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -88,7 +88,7 @@ last_modified_at: 2025-12-20T14:03:13+00:00
           <li>Domain classification is set in <strong>italic type</strong>.</li>
         </ul>
       </li>
-      <li>Assignment to <strong>Word Class</strong> follows the analysis of Huang–Shi (2016) as corrected in the <a href="https://t18d.github.io/HuangSupplement/grammar/#defining-word">Grammatical Appendix</a>.</li>
+      <li>Assignment to <strong>Word Class</strong> follows the analysis of Huang–Shi (2016) as corrected in the <a href="https://t18d.github.io/HuangSupplement-grammar/word-formation/defining-word">Grammatical Appendix</a>.</li>
       <li><strong>Year</strong>
         <ul>
           <li>The first entry for a lemma represents the first known attestation. When a date is given, it is generally earlier than the earliest quotation in Huang except in the case of <strong>postdating</strong>.</li>
@@ -124,7 +124,7 @@ last_modified_at: 2025-12-20T14:03:13+00:00
     <br>
     <ul>
       <li><a href="https://t18d.github.io/HuangSupplement/style/">A Stylistic Appendix</a></li>
-      <li><a href="https://t18d.github.io/HuangSupplement/grammar/">A Grammatical Appendix</a></li>
+      <li><a href="https://t18d.github.io/HuangSupplement-grammar/">A Grammatical Appendix</a></li>
       <li><a href="https://t18d.github.io/HuangSupplement/orthography/">An Orthographic Appendix</a></li>
       <li><a href="https://t18d.github.io/HuangSupplement/diglossia/">On Diglossia</a></li>
       <li><a href="https://t18d.github.io/HuangSupplement/obsolete/">Obsolete Words</a></li>
