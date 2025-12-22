@@ -5,7 +5,7 @@ permalink: papers/
 seo:
   type: Periodical
   name: HuangSupplement Working Papers
-last_modified_at: 2025-12-17T12:01:42+00:00
+last_modified_at: 2025-12-22T13:26:34+00:00
 layout: no-anchor
 ---
 # HuangSupplement Working Papers
@@ -13,6 +13,10 @@ layout: no-anchor
 &nbsp;  
 &nbsp;  
 &nbsp;  
+<a id="wp3" href="https://t18d.github.io/HuangSupplement/papers/#wp3">wp3</a> | 2025.12.22 | 2pp |
+[PDF](https://t18d.github.io/HuangSupplement/assets/pdf/wp3.pdf) \
+Ethan Liu. 'Collation of the Manuscript of 瀛環志畧序跋 (NLC 14939) with the First Edition, <em>c.</em>1848.' [10.5281/zenodo.18017987](https://doi.org/10.5281/zenodo.18017987)
+
 <a id="wp2" href="https://t18d.github.io/HuangSupplement/papers/#wp2">wp2</a> | 2025.12.14 | 4pp |
 [PDF](https://t18d.github.io/HuangSupplement/assets/pdf/wp2.pdf) \
 Xingni Li. 'Collation of the Holograph of 稽瑞樓書⽬ (NLC 02862) with the First Edition, 1877.' [10.5281/zenodo.17925284](https://doi.org/10.5281/zenodo.17925284)
