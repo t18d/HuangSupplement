@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-12-23T09:41:25+00:00
+last_modified_at: 2025-12-23T11:39:04+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -65,21 +65,20 @@ last_modified_at: 2025-12-23T09:41:25+00:00
       </li>
       <li><strong>Solidus</strong>
         <ul>
-          <li>This database is designed to be consulted alongside Huang and <em>Han yü ta tz'u tien</em>. A <strong>solidus</strong> ('/') indicates that the infomation is the same as in (1) the previous entry, (2) Huang or (3) <em>Han yü ta tz'u tien</em>.</li>
+          <li>This Supplement is designed to be consulted alongside 近現代漢語辭源. A <strong>solidus</strong> ('/') in a cell indicates that the infomation is the same as in 近現代漢語辭源 or the previous entry.</li>
         </ul>
       </li>
       <li><strong>Lemma</strong>
         <ul>
-          <li>To facilitate cross-checking, the arrangement of lemmas is that of Mair et al. (2003) with the following exceptions:
+          <li>To facilitate cross-checking, the arrangement of lemmas is that of Mair et al. (2003) with the following modifications:
             <ul>
               <li>words whose <strong>head characters</strong> share the same sequence of letters and tone are sorted by subsequent characters;</li>
-              <li>in case that fails, they are sorted by the number of <strong>strokes</strong> of the characters concerned.</li>
+              <li>in case of a tie, they are sorted by the number of <strong>strokes</strong> of the characters concerned.</li>
             </ul>
           </li>
-          <li>The <a href="https://t18d.github.io/HuangSupplement/dictionary/#ideograph"><strong>ideographs</strong></a> used are their common form as contained in the character set of the system font on modern computers that is coded as TC, which tends to be the only form attested throughout the period covered here.</li>
+          <li>The <a href="https://t18d.github.io/HuangSupplement/dictionary/#ideograph"><strong>ideographs</strong></a> used are those suggested by the Traditional Chinese character set of iOS at the time of the commit, which tend to be the only form attested throughout the period covered here.</li>
           <li><strong>Numerals</strong> following a lemma refer to the different senses of a homonymous word. They form a superset of the senses defined in Huang.</li>
-          <li><a href="https://t18d.github.io/HuangSupplement/dictionary/#phonetic-loan">Phonetic</a> <strong>loanwords</strong> and anatomical terms are collected in separate appendices. For loanwords, see <a href="https://t18d.github.io/HuangSupplement/diglossia/">On Diglossia</a>.</li>
-          <li>For <strong>obsolete words</strong>, see the <a href="https://t18d.github.io/HuangSupplement/style/">Stylistic Appendix</a>.</li>
+          <li><strong>Obsolete words</strong>, <a href="https://t18d.github.io/HuangSupplement/dictionary/#phonetic-loan">phonetic</a> <strong>loanwords</strong> and anatomical terms are collected in separate appendices. For loanwords, see also <a href="https://t18d.github.io/HuangSupplement/diglossia/">On Diglossia</a>; for obsolete words, see also the <a href="https://t18d.github.io/HuangSupplement/style/">Stylistic Appendix</a>.</li>
         </ul>
       </li>
       <li><strong>Sense</strong>
@@ -88,30 +87,26 @@ last_modified_at: 2025-12-23T09:41:25+00:00
           <li>Domain classification is set in <strong>italic type</strong>.</li>
         </ul>
       </li>
-      <li>Assignment to <strong>Word Class</strong> follows the analysis of Huang–Shi (2016) as corrected in the <a href="https://t18d.github.io/HuangSupplement-grammar/word-formation/defining-word">Grammatical Appendix</a>.</li>
+      <li>Assignment to <strong>Word Class</strong> follows the analysis of Huang–Shih (2016) as corrected in the <a href="https://t18d.github.io/HuangSupplement-grammar/word-formation/defining-word">Grammatical Appendix</a>.</li>
       <li><strong>Year</strong>
         <ul>
           <li>The first entry for a lemma represents the first known attestation. When a date is given, it is generally earlier than the earliest quotation in Huang except in the case of <strong>postdating</strong>.</li>
-          <li>When the <strong>publication date</strong> and <strong>composition date</strong> of a source differ, the dating styles of the Middle English Dictionary and <a href="https://www.oed.com/discover/dating-middle-english-evidence-in-the-oed/">OED3</a> are adopted.</li>
-          <li>When a source has been added from the documentation of <em>Han yü ta tz'u tien</em>, only the <strong>political period</strong> is available. Such fuzzy dating will gradually be replaced by more precise dates.</li>
+          <li>When the <strong>publication date</strong> and <strong>composition date</strong> of a source differ, the dating style of the Middle English Dictionary and <a href="https://www.oed.com/discover/dating-middle-english-evidence-in-the-oed/">OED3</a> is used.</li>
         </ul>
       </li>
       <li><strong>Quotation</strong>
         <ul>
-          <li>To make full-text search possible, the <a href="https://t18d.github.io/HuangSupplement/dictionary/#ideograph"><strong>ideographs</strong></a> used are those contained in the character set of the system font on modern computers that are closest to a diplomatic transcription of the source.</li>
-          <li>The <strong>typography</strong> of the source is reproduced to the extent that the resources of HTML allow.</li>
-          <li>A <strong>blank</strong> means the scholar who antedated the word didn't supply the evidence in their writings.</li>
-          <li>A <strong>question mark</strong> ('?') means the word has not been found in the source cited by the scholar who antedated the word.</li>
+          <li>The exact <strong>variant ideographs</strong> as used in the source are reproduced when they are available in <a href="http://fgwang.blogspot.com">the latest version of FSung</a>. Failing that, the closest variant is substituted.</li>
+          <li>The <strong>typography</strong> of the source is reproduced to the extent that the baseline features of modern browsers allow.</li>
+          <li>A <strong>blank</strong> means we had no access to the source.</li>
           <li>For traditional <strong>critical symbols</strong>, see <a href="https://archive.org/details/textualcriticismandeditorialtechniquemartinwestl./">West (1973)</a>.</li>
         </ul>
       </li>
       <li><strong>Source</strong>
         <ul>
           <li><a href="https://t18d.github.io/HuangSupplement/dictionary/#evidence-dictionary"><strong>Dictionary evidence</strong></a> is treated as a primary rather than secondary source, and represents one single attestation instead of a statement about contemporary usage.</li>
-          <li>When the earliest source for a lemma is written by a non-native speaker, a <strong>second quotation</strong> from the earliest native source is added if one does not exist in Huang.</li>
-          <li>A <strong>plus sign</strong> ('+') following a source means the word is also attested in at least one other source dating from the same year.</li>
-          <li>A <strong>question mark</strong> ('?') means the scholar who antedated the word didn't supply the source in their writings.</li>
-          <li>A <strong>question mark</strong> ('?') following a source means the scholar who antedated the word didn't clearly specify the source in their writings and that the one given here was inferred from their bibliography.</li>
+          <li>An <strong>exclamation mark</strong> ('!') preceding a source means the quotation is taken from a modern edition with normalised orthography and we had no access to an early version.</li>
+          <li>A <strong>plus sign</strong> ('+') following a source means the word is attested more than once in that source.</li>
         </ul>
       </li>
     </ul>
