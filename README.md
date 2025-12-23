@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-12-23T11:40:38+00:00
+last_modified_at: 2025-12-23T11:53:48+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -107,6 +107,7 @@ last_modified_at: 2025-12-23T11:40:38+00:00
           <li><a href="https://t18d.github.io/HuangSupplement/dictionary/#evidence-dictionary"><strong>Dictionary evidence</strong></a> is treated as a primary rather than secondary source, and represents one single attestation instead of a statement about contemporary usage.</li>
           <li>An <strong>exclamation mark</strong> ('!') preceding a source means the quotation is taken from a modern edition with normalised orthography and we had no access to an early version.</li>
           <li>A <strong>plus sign</strong> ('+') following a source means the word is attested more than once in that source.</li>
+          <li>When a <strong>shelfmark</strong> is added in parentheses, it can be used to identify the relevant digital copy linked to in the <a href="https://github.com/t18d/HuangSupplement/wiki/Checklist-of-Editions">Checklist of Editions</a>.</li>
         </ul>
       </li>
     </ul>
