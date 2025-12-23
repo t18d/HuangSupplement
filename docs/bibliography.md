@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-12-20T12:09:38+00:00
+last_modified_at: 2025-12-23T01:08:34+00:00
 layout: anchor
 ---
 # Bibliography
@@ -115,6 +115,7 @@ documents._
 - Takashima Kō, 'なぜbaseballは棒球と訳されたか：翻訳から⾒る近代中国スポーツ史', 京都⼤學⽂學部研究紀要, 55 (2016), 122.
 - Tanomura Tadaharu, 'カレーを表す中国語名称の変遷', 或問, 38 (2020), 15–25. \[咖哩]
 - Tanomura Tadaharu, '「接種」の語史: 種痘関連用語の生成と消長', 阪大日本語研究, 34 (2022), 27–45.
+- Tanomura Tadaharu, '日本語の漢語の文法的特異性とその中国語への影響：「設計」の近現代語史', 大阪大学大学院文学研究科紀要, 62 (2022), 159–60.
 - Tanomura Tadaharu, '「卡車」の語史──その起源と展開', 或問, 46 (2024), 31–45.
 - Tanomura Tadaharu, '学問名「考古学」の成立', 阪大日本語研究, 37 (2025), 21, 46.
 - Todani Masayoshi, '中国語における日本語の借用と意味変化：「赤字」を例として', 日中語彙研究, 10 (2020), 149–70.
