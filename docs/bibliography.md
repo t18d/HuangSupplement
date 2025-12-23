@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-12-23T01:08:34+00:00
+last_modified_at: 2025-12-23T04:17:15+00:00
 layout: anchor
 ---
 # Bibliography
@@ -98,6 +98,7 @@ documents._
 - 閔心蕙, '「福音」概念——17–19世紀漢譯『聖經』文本研究', 亞洲概念史研究, 4 (2018), 222–3. \[福音, 萬日略]
 - 牛振, '近代日語譯詞對漢語地理學譯詞的影響探析', 漢字漢語研究, 24 (2023), 109–24.
 - Onodera, Shiro, '19世紀末日中における「記念」の語義変化について', in [近代東アジアにおける翻訳概念の展開](http://hdl.handle.net/2433/246235), Kyoto University, 2013. \[紀念(2)]
+- 龐大瑜, '中日近代詞彙環流個例研究——「神經」詞義的演變及身份認定', 文化創新比較研究, 8/11 (2024), 31. \[神經病(2)]
 - 龐乃明, '明清中國「大西洋」概念的生成與演變', 學術研究, 11 (2019), 128.
 - 彭恆禮, '「民俗學」入華考——兼談近代辭典對學科術語的強化作用', 民俗研究, 3 (2010), 256.
 - 錢芳華－馬陵合, '近代文獻中「工業革命」一詞的考察', 淮南師範學院學報, 138 (2023), 96.
@@ -114,7 +115,7 @@ documents._
 - Svarverud, Rune, 'The notions of "power" and "rights" in Chinese political discourse', in _New Terms for New Ideas: Western Knowledge and Lexical Change in Late Imperial China_ (Leiden, 2001), 130. \[權]
 - Takashima Kō, 'なぜbaseballは棒球と訳されたか：翻訳から⾒る近代中国スポーツ史', 京都⼤學⽂學部研究紀要, 55 (2016), 122.
 - Tanomura Tadaharu, 'カレーを表す中国語名称の変遷', 或問, 38 (2020), 15–25. \[咖哩]
-- Tanomura Tadaharu, '「接種」の語史: 種痘関連用語の生成と消長', 阪大日本語研究, 34 (2022), 27–45.
+- Tanomura Tadaharu, '「接種」の語史：種痘関連用語の生成と消長', 阪大日本語研究, 34 (2022), 27–45.
 - Tanomura Tadaharu, '日本語の漢語の文法的特異性とその中国語への影響：「設計」の近現代語史', 大阪大学大学院文学研究科紀要, 62 (2022), 159–60.
 - Tanomura Tadaharu, '「卡車」の語史──その起源と展開', 或問, 46 (2024), 31–45.
 - Tanomura Tadaharu, '学問名「考古学」の成立', 阪大日本語研究, 37 (2025), 21, 46.
