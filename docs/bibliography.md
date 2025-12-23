@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-12-23T04:17:15+00:00
+last_modified_at: 2025-12-23T09:47:57+00:00
 layout: anchor
 ---
 # Bibliography
@@ -112,6 +112,7 @@ documents._
 - 史洪智, '古今轉換與中外對接：近代「破產」概念的形成', 近代史學刊, 9 (2012), 41. \[破產(1)]
 - 孫大權, '「金融」一詞在中國近代的起源、演變及當代啓示', 復旦學報, 4 (2019), 138.
 - 孫青, '魔燈鏡影：18–20世紀中國早期幻燈的放映、製作與傳播', 近代史研究, 4 (2018), 71.
+- 孫遜, '現代漢語「審判」一詞的由來', 日語學習與研究, 165 (2013), 53–5 (but see [5a2e37f](https://github.com/t18d/HuangSupplement/commit/5a2e37fd13646856887bfcb6c3c4bf0b9f6dc30d)).
 - Svarverud, Rune, 'The notions of "power" and "rights" in Chinese political discourse', in _New Terms for New Ideas: Western Knowledge and Lexical Change in Late Imperial China_ (Leiden, 2001), 130. \[權]
 - Takashima Kō, 'なぜbaseballは棒球と訳されたか：翻訳から⾒る近代中国スポーツ史', 京都⼤學⽂學部研究紀要, 55 (2016), 122.
 - Tanomura Tadaharu, 'カレーを表す中国語名称の変遷', 或問, 38 (2020), 15–25. \[咖哩]
