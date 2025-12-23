@@ -4,7 +4,7 @@ permalink: s/
 seo:
   type: Dataset
   name: "HuangSupplement: letter S"
-last_modified_at: 2025-12-23T04:13:02+00:00
+last_modified_at: 2025-12-23T09:41:25+00:00
 description: Antedatings, errata and addenda to letter S of 近現代漢語辭源
 layout: main
 font_key: s
@@ -31,6 +31,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |/|/|1911|及海牙開會改約期限已過英人尙容我奢談廢約乎|『吉長日報』3月31日「鴉片交涉談」|in natural text|
 設計|/|verb|1897|而全川之改圖.雖費用爲十分浩大.要可設計籌畫.|『實學報』ix「石狩川疏濬工事」1||
 神經病(2)|mental disorder|noun|1889|日本報云俄國皇后󻢓患神經病前次因在汽車中傾跌致受驚駭近來病勢日見增重|『申報』5月3日「聘請名醫」||
+審判|(in theology)|verb|1605|我信其日後從彼而來 審判生死者|!Ricci『聖經約錄·十二亞玻斯多羅性薄錄』34||
+|(at law)|/|1865 (a1695)|于冥中列坐󴦨判世間事、亦有千古未結之案|『廣陽雜記·卷之二』578 (GJ/EB/119394)||
 生態學|/|noun|1903|論其習性與其相交之關係者。曰生態學。|作新社『新編動物學』3||
 聖誕|(in Christianity)|verb|c1636|「吾主聖誕前第四主日」|Dias『聖經直解·卷之一』9 (Jap. Sin. I-70)||
 聖母|/|noun|a1588|中間聖母無交配 誕聖原前室女躬|Ruggieri, _Chinese Poems_, 6 (Jap. Sin. II-159)||
