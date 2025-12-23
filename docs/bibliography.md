@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-12-23T14:06:24+00:00
+last_modified_at: 2025-12-23T14:12:08+00:00
 layout: anchor
 ---
 # Bibliography
@@ -40,8 +40,8 @@ layout: anchor
 ## Sources
 _This section only contains studies whose conclusion has been adopted by the
 Supplement; for a fuller (but non-exhaustive) listing of the books and
-articles which have been triaged, see Yang Ch'ih's
-[bibliography](https://github.com/t18d/HuangSupplement/blob/main/Yang%20Ch’ih%20近代漢字詞史研究文獻目錄.csv)._
+articles which have been triaged, see 
+[Yang Ch'ih's bibliography](https://github.com/t18d/HuangSupplement/blob/main/Yang%20Ch’ih%20近代漢字詞史研究文獻目錄.csv)._
 
 _As the orthography found in these studies is usually a normalised one, all 
 quotations in the Supplement were transcribed directly from the original
