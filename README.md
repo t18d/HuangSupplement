@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-12-24T07:27:54+00:00
+last_modified_at: 2025-12-24T08:22:25+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -46,7 +46,10 @@ last_modified_at: 2025-12-24T07:27:54+00:00
           <li>CHJ – 日本語歴史コーパス</li>
           <li>CS – copula subject</li>
           <li>cYEAR – circa YEAR</li>
+          <li>Han-ta – 漢語大詞典 (1st edn)</li>
           <li>Hathi – HathiTrust</li>
+          <li>Hsien-han – 現代漢語詞典 (7th edn)</li>
+          <li>Huang – 近現代漢語辭源</li>
           <li>Koten – 古典ライブラリー</li>
           <li>M1 – 官話<sub>1</sub> in Tai (2017)</li>
           <li>M2 – 官話<sub>2</sub> in Tai (2017)</li>
@@ -65,7 +68,7 @@ last_modified_at: 2025-12-24T07:27:54+00:00
       </li>
       <li><strong>Solidus</strong>
         <ul>
-          <li>This Supplement is designed to be consulted alongside 近現代漢語辭源. A <strong>solidus</strong> ('/') in a cell indicates that the infomation is the same as in 近現代漢語辭源 or the previous entry.</li>
+          <li>This Supplement is designed to be consulted alongside Huang. A <strong>solidus</strong> ('/') in a cell indicates that the infomation is the same as in Huang or the previous entry.</li>
         </ul>
       </li>
       <li><strong>Lemma</strong>
@@ -77,7 +80,7 @@ last_modified_at: 2025-12-24T07:27:54+00:00
             </ul>
           </li>
           <li>The <a href="https://t18d.github.io/HuangSupplement/dictionary/#ideograph"><strong>ideographs</strong></a> used are those suggested by the Traditional Chinese character set of iOS at the time of the commit, which tend to be the only form attested throughout the period covered here.</li>
-          <li><strong>Numerals</strong> following a lemma refer to the different senses of a homonymous word. They form a superset of the senses defined in Huang.</li>
+          <li><strong>Numerals</strong> following a lemma refer to the different senses of a homonymous word, which form a superset of the senses defined in Huang. If a word is absent from Huang, the numbering of Hsien-han (for neologisms) or Han-ta (for traditional words which underwent semantic change) is used.</li>
           <li><strong>Obsolete words</strong>, <a href="https://t18d.github.io/HuangSupplement/dictionary/#phonetic-loan">phonetic</a> <strong>loanwords</strong> and anatomical terms are collected in separate appendices. For loanwords, see also <a href="https://t18d.github.io/HuangSupplement/diglossia/">On Diglossia</a>; for obsolete words, see also the <a href="https://t18d.github.io/HuangSupplement/style/">Stylistic Appendix</a>.</li>
         </ul>
       </li>
