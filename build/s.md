@@ -4,7 +4,7 @@ permalink: s/
 seo:
   type: Dataset
   name: "HuangSupplement: letter S"
-last_modified_at: 2025-12-24T03:10:33+00:00
+last_modified_at: 2025-12-24T07:27:54+00:00
 description: Antedatings, errata and addenda to letter S of 近現代漢語辭源
 layout: main
 font_key: s
@@ -40,6 +40,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 聖母|/|noun|a1588|中間聖母無交配 誕聖原前室女躬|Ruggieri, _Chinese Poems_, 6 (Jap. Sin. II-159)||
 失戀|/|verb|1904|此篇寫戀字甚盡力一邊寫失戀之善夫禮一邊寫得戀之阿羅|『新新小說』2「聖人歟盜賊歟」9||
 石灰水|/|noun|1882|將膿泡一一挑破用石灰水洗淨|『申報』5月5日「火焚續述」||
+時間(4)|(with 沒-)|noun|1617 (1598)|春香姐⋯没時間做出些兒也|『牡丹亭還魂記·第二十齣鬧殤』48 (15096)||
 食療|/|noun|1926|我國醫籍中。有部叫做食療的⋯在下照着這個法子⋯繼續研究了好多年。果然發明幾件新食療。|『申報』4月9日「新食療」|first use as common noun|
 食療法|/|noun|1471 (a1357)|少以力學得􁏪疾有授以食療法𫝄乃󺋛󳭒|『圭齋文集·卷十』21 (07730)||
 石墨|/|noun|1883|Plumbago, or Graphite 石墨|Fryer『金石中西名目表』26||
