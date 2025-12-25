@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-12-25T06:21:35+00:00
+last_modified_at: 2025-12-25T06:36:07+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -76,7 +76,7 @@ last_modified_at: 2025-12-25T06:21:35+00:00
           <li>To facilitate cross-checking, the arrangement of lemmas is that of Mair et al. (2003) with the following modifications:
             <ul>
               <li>words whose <strong>head characters</strong> share the same sequence of letters and tone are sorted by subsequent characters;</li>
-              <li>in case of a tie, they are sorted by the number of <strong>strokes</strong> of the characters concerned.</li>
+              <li>in case of a tie, they are sorted by the <strong>complexity</strong> of the characters concerned in terms of (1) the number of strokes in the radical and (2) the number of residual strokes.</li>
             </ul>
           </li>
           <li>The <a href="https://t18d.github.io/HuangSupplement/dictionary/#ideograph"><strong>ideographs</strong></a> used are those suggested by the Traditional Chinese character set of iOS at the time of the commit, which tend to be the only form attested throughout the period covered here.</li>
