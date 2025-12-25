@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-12-25T03:28:16+00:00
+last_modified_at: 2025-12-25T06:25:59+00:00
 layout: anchor
 ---
 # Bibliography
@@ -92,6 +92,7 @@ documents._
 - 劉曼, '漢語鐘點類時間詞來源研究', 漢語史學報, 1 (2025), 50–60. \[點(2), 點鐘, 小時]
 - 劉孟洋, '中日語言互動與術語的生成、演變——以「工人」與「勞動者」為例', 日語學習與研究, 198 (2018), 47. \[工人]
 - 劉幸－施克燦, '「Education」何以譯為「教育」——以日本有關學術史料為基礎的討論', 教育研究, 502 (2021), 93.
+- 劉耀, '晚清「私法」概念的轉變與傳播', in 近代漢字術語的生成演變與中西日文化互動研究 (Peking, 2016), 290.
 - 路鵬程, '言論自由、出版自由與新聞自由概念傳入中國的歷史考察', _China Media Report Overseas_, 6/3 (2010), 20–9.
 - 繆蓬, '晚清民國「病毒」知識的翻譯與引介：知識翻譯學視角', 當代外語研究, 4 (2022), 22–32.
 - Masini, Federico, _The Formation of Modern Chinese Lexicon and Its Evolution Toward a National Language: The Period from 1840 to 1898_ (Hong Kong, 1993). \[出版]
