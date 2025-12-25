@@ -1,11 +1,11 @@
 ---
 title: A Supplement to 近現代漢語辭源
-description: Antedatings, errata and addenda to Huang He-ch'ing's lexicon
+description: Antedatings, errata and addenda to 近現代漢語辭源
 permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2025-12-25T06:36:07+00:00
+last_modified_at: 2025-12-25T06:47:27+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
