@@ -4,7 +4,7 @@ permalink: s/
 seo:
   type: Dataset
   name: "HuangSupplement: letter S"
-last_modified_at: 2025-12-26T00:46:38+00:00
+last_modified_at: 2025-12-26T03:03:33+00:00
 description: Antedatings, errata and addenda to letter S of 近現代漢語辭源
 layout: main
 font_key: s
@@ -27,7 +27,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 上述|/|adjective|1903|以上述之新兵爲自衛軍⋯宜協力迫俄國交還奉天之事|『俄事警聞』12月20日「清國之對俄政策」|from Japanese: 1895 (CHJ); [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=上述)|
 少數民族|/|NP|1903|然皆以少數民族强鍵于多數之中固未聞以多數之民族而服從于少數之下者也|『浙江潮』5「民族主義論」30||
 哨子|/|noun|1889|Steam whistle 汽哨子|Fryer『汽機中西名目表』49||
-奢談|/|VP|1903|「奢談禁例」|『國民日日報』11月29日|still very much stylised|
+奢談|/|verb|1903|「奢談禁例」|『國民日日報』11月29日|still very much stylised|
 |/|/|1911|及海牙開會改約期限已過英人尙容我奢談廢約乎|『吉長日報』3月31日「鴉片交涉談」|in natural text|
 設計|/|verb|1897|而全川之改圖.雖費用爲十分浩大.要可設計籌畫.|『實學報』ix「石狩川疏濬工事」1||
 神經病(2)|mental disorder|noun|1889|日本報云俄國皇后󻢓患神經病前次因在汽車中傾跌致受驚駭近來病勢日見增重|『申報』5月3日「聘請名醫」||

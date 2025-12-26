@@ -4,7 +4,7 @@ permalink: q/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Q"
-last_modified_at: 2025-12-20T01:13:12+00:00
+last_modified_at: 2025-12-26T03:03:33+00:00
 description: Antedatings, errata and addenda to letter Q of 近現代漢語辭源
 layout: main
 font_key: q
@@ -18,7 +18,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
 七色板|/|noun|1906 (1904)|牛頓七色板|陳文哲『普通應用物理教科書·本書應用試驗器械定價表』10||
 |/|/|1926|現在的小學生就能玩七色板⋯收羅許多著名學者的大著作的大報，自然是光怪陸離，但也是轉不得|魯迅「雜論管閑事，做學問，灰色等」in『語絲』62, 3||
-齊唱|/|VP|1844|Chorus, join 齊唱|Williams『英華韵府歷階』s.v. Chorus||
+齊唱|/|verb|1844|Chorus, join 齊唱|Williams『英華韵府歷階』s.v. Chorus||
 奇蹟|(in secular contexts)|noun|1913|世界奇蹟。隨時隨地。無不有之。名之曰七。未免太窄。|『民國二年世界年鑑·世界七大奇蹟表』200|This sense comes from the Christian 奇蹟 rather than the traditional Chinese 奇蹟.|
 騎士|/|noun|1903|田奴騎士及君主之階級|進化譯社『史學通論』105||
 歧義|/|noun|1921 (1877)|是以魏晉以還⋯獨於詩未聞歧義|孫詒讓『温州經籍志』卷二 s.v. 夏氏詩經漁樵野說||
