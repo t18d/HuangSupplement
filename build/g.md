@@ -4,7 +4,7 @@ permalink: g/
 seo:
   type: Dataset
   name: "HuangSupplement: letter G"
-last_modified_at: 2025-11-28T04:12:28+00:00
+last_modified_at: 2025-12-26T00:53:02+00:00
 description: Antedatings, errata and addenda to letter G of 近現代漢語辭源
 layout: main
 font_key: g
@@ -21,7 +21,6 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 改造|(metaphorically)|verb|1902|夫改造人心四圍之力莫大|『新民叢報』22「軍國民之敎育」47|obsolete collocation|
 |/|/|1903|而欲改造社會必先自改造我躬始|『新民叢報』26「新英國巨人克林威爾󶩐」47||
 干貝|/|/|/|/|/|likely a native word; see [#19](https://github.com/t18d/HuangSupplement/issues/19#issuecomment-2606537981)|
-幹部|/|noun|1897|日本在台灣募集土民練習兵事名爲台灣土民兵幹部練習所|『申報』8月27日「編列土兵」||
 革命(1)|/|noun|1879|且本邦自戊辰革命之後其間纔十年|『申報』5月15日「譯日本人論亞細亞東部形勢」||
 個人主義(2)|/|noun|1900|不相任睦。各競其私。公利衆事。無人過問。此所謂個人主義。|『清議報』xli「論中國救亡當自增內力」2||
 公安局|/|noun|1914|公安局覆電<span class="warichu">云廣州都督鎮撫使鈞鑒平岡告急</span>|『申報』4月14日「粤省軍事彙紀」||
