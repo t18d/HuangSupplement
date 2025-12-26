@@ -4,7 +4,7 @@ permalink: t/
 seo:
   type: Dataset
   name: "HuangSupplement: letter T"
-last_modified_at: 2025-12-25T13:46:52+00:00
+last_modified_at: 2025-12-26T00:46:38+00:00
 description: Antedatings, errata and addenda to letter T of 近現代漢語辭源
 layout: main
 font_key: t
@@ -20,6 +20,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 她(2)|/|/|1919|我⋯著了一篇關于『太極圖』的批評⋯不料居然來了一個旁皇迷路的靑年⋯給她下的考語|『新潮』2/1「康白󴜴啓事」22||
 他校|/|verb|1934 (1931)|他校法者.以他書校本書|陳垣『元典章校補釋例·第四十三校法四例』86|cf. 理校|
 糖尿病|/|noun|1906 (1905)|又患糖尿病者。其尿中一〇〇分約含四分乃至一〇分之葡萄糖也。|杜亞泉『化學新敎科書·下編』33||
+特別|(as free morph)|adjective|1902|故其書不過爲通鑑之一附庸。不能使學者讀之有特別之益也。|『新民叢報』1「新史學」47+||
 提神|/|verb|1837|雖鴉片惡毒、然其性能提神|『東西洋考每月統計傳』丁酉年四月「奏爲鴉片」||
 體操|/|noun|1887|至櫻馬塲體操塲閱看師範學校生徒演習兵法|『申報』1月14日「日報譯略」||
 天主|/|noun|c1584 (1583)|『祖傳天主十誡』|Ruggieri (Jap. Sin. I-189)||
