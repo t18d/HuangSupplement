@@ -4,7 +4,7 @@ permalink: d/
 seo:
   type: Dataset
   name: "HuangSupplement: letter D"
-last_modified_at: 2025-11-28T14:37:17+00:00
+last_modified_at: 2025-12-26T08:57:30+00:00
 description: Antedatings, errata and addenda to letter D of 近現代漢語辭源
 layout: main
 font_key: d
@@ -39,6 +39,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 雕塑(2)|/|noun|1903|彫刻塑像。皆奇偉壯大⋯古代印度及西亞諸邦。有建築雕塑。而無繪畫。|『東洋文明史』77||
 定義(1)|/|verb|1914|例如⋯(Definition)日人譯爲定義⋯定義有兼攝⋯(Define) 動字之功。|胡以魯「論譯名」in『庸言』2月15日||
 |/|/|1917|商業學爲最近採用之新名詞定義最爲困難|『大公報』12月17日「商業教育論 (十續)」|postdating; previously 下定義 & 正名定義|
+定語|/|noun|1936|此種與名詞或代名詞有關而用以區別一事物或他事物的語，稱爲定語|『俄語一月通』219|original by Okazawa Hidetora|
 鬥爭|(non-violent)|verbal noun|1907|凡武力之鬥爭。與非武力之鬥爭。狎獵洊至。|『神州日報』7月6日「預備立憲公會致商務總會商學公會討論商法草案書」||
 對校|/|verb|c1743 (a1168)|詔靖及國子監直講王洙盡取秘閣古本對校|李燾『續資治通鑑長編撮要·仁宗皇帝紀十三之二』4 (09593)||
 多元|/|adjective|1915|遺傳質爲多元的而非二元的可知|『甲寅雜誌』1/6「論國家與國民性之關係」14||
