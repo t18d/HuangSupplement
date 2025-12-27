@@ -4,7 +4,7 @@ permalink: t/
 seo:
   type: Dataset
   name: "HuangSupplement: letter T"
-last_modified_at: 2025-12-27T03:06:32+00:00
+last_modified_at: 2025-12-27T14:08:02+00:00
 description: Antedatings, errata and addenda to letter T of 近現代漢語辭源
 layout: main
 font_key: t
@@ -28,3 +28,4 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 天主教|/|noun|a1588|君尊天主教 予學舉人文|Ruggieri, _Chinese Poems_, 17.1 (Jap. Sin. II-159)||
 同情(1)|/|verb|1896|正義之力.則天下公論所由歸.而足以得其同󴜴也.|『時務報』xx「日本外交標準」28||
 同情(2)|/|verb|1848|Sympathy, 同情⋯性󴜴和合⋯慈悲|Medhurst, _English and Chinese Dictionary_ ii, s.v. Sympathy||
+投機(2)|/|verb|1902|如彼投機射利。俗所稱買空賣空者。其操術類於賭博。|『新民叢報』20「新民說十六」11||
