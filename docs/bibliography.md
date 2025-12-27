@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-12-25T12:38:36+00:00
+last_modified_at: 2025-12-27T03:10:11+00:00
 layout: anchor
 ---
 # Bibliography
@@ -134,6 +134,7 @@ documents._
 - 謝久永, '「基因」一詞是由誰首次翻譯為中文的？', University of Manitoba (but see [b2a3f39](https://github.com/t18d/HuangSupplement/commit/b2a3f39fddf9e4340a3b021fd3a3678e44efd432)).
 - 謝任, ‘「幹部」：一個新名詞進入中共革命語境的歷史’, 黨史研究與教學, 295 (2023), 86.
 - 薛桂譚, '漢日語言接觸視角下「抽象名詞+上」結構的演化——基於清末日譯漢文本的實證研究', 日語學習與研究, 232 (2024), 37. \[-上]
+- 楊馳, '七、「同情」', in 漢語近代二字詞研究 (Shanghai, 2019), 225, 228.
 - 楊麗娟, '「Fossil」漢語譯名演變考', 地質評論, 65/1 (2019), 27. \[化石]
 - 楊聯芬, '「戀愛」之發生與現代文學觀念變遷', 中國社會科學, 1 (2014), 160.
 - 楊楠, '近代中國政治中的「公僕」概念：生成、傳播與嬗變', 學習與探索, 330 (2023), 64.
