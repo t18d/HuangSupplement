@@ -4,7 +4,7 @@ permalink: t/
 seo:
   type: Dataset
   name: "HuangSupplement: letter T"
-last_modified_at: 2025-12-28T02:50:36+00:00
+last_modified_at: 2025-12-28T03:19:04+00:00
 description: Antedatings, errata and addenda to letter T of 近現代漢語辭源
 layout: main
 font_key: t
@@ -30,3 +30,4 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 同情(2)|/|verb|1848|Sympathy, 同情⋯性󴜴和合⋯慈悲|Medhurst, _English and Chinese Dictionary_ ii, s.v. Sympathy||
 投機(2)|/|verb|1902|如彼投機射利。俗所稱買空賣空者。其操術類於賭博。|『新民叢報』20「新民說十六」11||
 退化(2)|/|verb|1903 (1898)|何謂衰世。大都本有政敎。逐漸傾頺。至於退化。|『國聞報彙編·論中國敎化之退』23||
+拓撲學|/|noun|1946|但拓撲學的課大多缺如，殊有不能趕上時代之感。|『大公報』10月12日「最近十年來中國數學工作的方向」||
