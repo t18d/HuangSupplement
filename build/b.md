@@ -4,7 +4,7 @@ permalink: b/
 seo:
   type: Dataset
   name: "HuangSupplement: letter B"
-last_modified_at: 2025-11-13T00:14:11+00:00
+last_modified_at: 2025-12-29T02:44:32+00:00
 description: Antedatings, errata and addenda to letter B of 近現代漢語辭源
 layout: main
 font_key: b
@@ -141,6 +141,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 波形|/|noun|1906 (1904)|音色之差異依波形之差異而生|陳文哲『普通應用物理教科書』151||
 剝削|(with capitalist as subject)|verb|1912|譬如美國大資本家如煤油大王鐵路大王⋯中國有鑒於此⋯乃謂富者不能以專制剝削民財貧者乃能以競爭分沾利益|『時事新報』4月18日「中華實業聯合會歡迎孫中山先生記」|Note the lingering regime/subjects vocabulary here|
 伯爵|/|noun|1844|Earl, 伯爵|Williams『英華韵府歷階』s.v. Earl||
+補語|/|noun|1928 (1907)|蓋客語雖可因主語之轉􀄪。作爲主語。補語則決不能轉成主語。|『日本文典』134+||
 補助金|/|noun|1887|只允别賜補助金六萬元|『申報』2月1日「譯東洋朝日報」||
 不法行爲|/|NP|1883|似此種種不法行爲實足爲地方大害|『申報』12月19日「憲示録登」||
 布告|/|noun|1862|「佈告」|『上海新報』8月23日||
