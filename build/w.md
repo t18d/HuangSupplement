@@ -4,7 +4,7 @@ permalink: w/
 seo:
   type: Dataset
   name: "HuangSupplement: letter W"
-last_modified_at: 2025-12-29T08:55:00+00:00
+last_modified_at: 2025-12-29T12:22:53+00:00
 description: Antedatings, errata and addenda to letter W of 近現代漢語辭源
 layout: main
 font_key: w
