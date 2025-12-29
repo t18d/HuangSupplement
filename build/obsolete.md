@@ -4,7 +4,7 @@ permalink: obsolete/
 seo:
   type: Dataset
   name: "Appendix: Obsolete Words"
-last_modified_at: 2025-11-26T00:06:26+00:00
+last_modified_at: 2025-12-29T02:59:50+00:00
 description: Antedatings, errata and addenda to obsolete words in Huang He-ch'ing's lexicon
 layout: main
 font_key: obsolete
@@ -43,6 +43,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 嚢蟲|/|/|1922|/|/|from Japanese 嚢虫: 1870 (NDL)|
 腦病|/|/|1903|/|/|from Japanese 脳病: 1869 (NDL)|
 腦脊髓|/|/|1909|/|/|from Japanese 脳脊髄: 1870 (NDL)|
+事實(5)|/|noun|1902|知有事實而不知有理想|『新民叢報』1「新史學」44+||
 頭腦勞動|/|/|1929|/|/|from Japanese 頭脳労働: 1902 (NDL)|
 外動詞|/|NP|1914 (1913)|由主動詞而有所施及者。曰外動詞。|潘武『國文教科書後編』40|from 外動字|
 萬日略|gospel|noun|?1632||Aleni『口鐸日鈔』||
