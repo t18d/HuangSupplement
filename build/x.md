@@ -4,7 +4,7 @@ permalink: x/
 seo:
   type: Dataset
   name: "HuangSupplement: letter X"
-last_modified_at: 2025-12-10T00:40:47+00:00
+last_modified_at: 2025-12-30T03:44:13+00:00
 description: Antedatings, errata and addenda to letter X of 近現代漢語辭源
 layout: main
 font_key: x
@@ -16,6 +16,7 @@ edit_path: dict/x.csv
 
 Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
+西北(2)|north-western provinces|noun|1902 (1897)|嚮嘗竊竊過計。謂吾西北腹地諸省。風氣閡隔。人才乏絕。󶴛不足以自立。|『飮冰室文集·丁酉集下·復劉古愚山長書」34||
 西學東漸|/|idiom|1903|歐亞大通西學東漸|「泰西學案序」|from Japanese: 1882 (NDL)|
 喜喪|/|noun|1718|䘮禮易而不戚<span class="warichu">年高者且呼為喜䘮</span>古制全亡|『錢塘縣志·卷之七風俗』7 (地240.15/32)||
 |/|/|1837 (a1834)|杭人以福壽備而死者俗呼喜喪|梁紹壬『兩般秋雨盦隨筆·卷八』2 (79@20@1)||
