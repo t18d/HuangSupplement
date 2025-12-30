@@ -4,7 +4,7 @@ permalink: j/
 seo:
   type: Dataset
   name: "HuangSupplement: letter J"
-last_modified_at: 2025-12-28T07:26:27+00:00
+last_modified_at: 2025-12-30T11:24:15+00:00
 description: Antedatings, errata and addenda to letter J of 近現代漢語辭源
 layout: main
 font_key: j
@@ -39,7 +39,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 角(2)|/|noun|c1844 (c1819)|吴市用洋錢以塊計毎󲱮分十󾉟󾉟分十分|包世臣『管情三義·己卯𡻕朝松江即事』xxii, 6 (05593)||
 校訂|/|verb|1342 (c1329)|因屬博士程熟等就加校訂鋟版與諸史並行之|趙丗延「南唐書序」in『國朝文類·卷三十三』16 (SBL249)||
 教皇|/|noun|?1619 (a1600)|凡天下人⋯信認尊敬耶穌基利斯多所畱敎皇以代主敎者。皆成一􁊒都會。|Da Rocha『天主聖教啓蒙』23||
-教會|/|noun|1605|我信有聖而公厄格勒西亞<span class="warichu">譯言教會也凡天主教會皆總稱之</span>諸聖相通功|!Ricci『聖經約錄』34||
+教會|/|noun|1605|我信有聖而公。󺩫格勒西亞。<span class="warichu">譯言教㑹也。凢天主教㑹皆􁊒稱之</span>諸聖相通功。|[Ricci]『聖經約錄』99 (Jap. Sin. I 126)||
 教練|(non-military)|noun|1919|㊀公布員陶益爾君㊁敎練李侃君|『申報』5月5日「遠東運動員出發攝影」|postdating|
 教練員|(non-military)|noun|1906|于會員中選舉諳練各種體操者爲敎練員|『申報』12月30日「城中商業󹲴防體操會簡章」||
 教育|/|verbal noun|1632|󼉅㓜教育又齊家之一支也|韓霖「童幼教育序」1 (Chinois 3389)||
