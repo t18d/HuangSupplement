@@ -4,7 +4,7 @@ permalink: x/
 seo:
   type: Dataset
   name: "HuangSupplement: letter X"
-last_modified_at: 2025-12-30T13:21:33+00:00
+last_modified_at: 2025-12-31T00:55:30+00:00
 description: Antedatings, errata and addenda to letter X of 近現代漢語辭源
 layout: main
 font_key: x
@@ -24,6 +24,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 峽谷|/|noun|1902|峽谷如壁地勢隆起|『申報』7月15日「詳紀張家口鐵路里程」+||
 顯微鏡(2)|/|noun|c1681|顯微鏡 鏡用俯視.以極微細之物.󰤿三足之中.|『鏡史』11 (748514)||
 現代|/|noun|1875|recent ages 昭代, 現代.|鄺其照『字典集成』s.v. Recent|also in Japanese: 1894 (CHJ)|
+現代化|/|verb|1921|使希臘神話爲現代󵔻，而於夫婦關係，以彼一流底道德觀，不能不認爲幾分底創意|『晨報』8月18日「現代美國底劇壇」||
 -小時|/|nominal bound root|1631|法以前推得一日。或二十四小時。行五十九分〇八秒二十微。|Rho『崇禎曆書·日󱄊曆指』26bis (Oxon. Sinica 897)||
 協議離婚|/|NP|1907|若協議離婚時。或妻死時。求返還其前日之贈物者槪無之。|『漢譯民法講義』105||
 心態|/|noun|1919|高低無定。心態屢遷。|『祈禱發𢕄總論』61||
