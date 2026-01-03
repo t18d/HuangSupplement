@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2026-01-03T02:39:14+00:00
+last_modified_at: 2026-01-03T08:40:05+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -57,7 +57,6 @@ last_modified_at: 2026-01-03T02:39:14+00:00
           <li>NDL – 国立国会図書館デジタルコレクション</li>
           <li>NP – noun phrase</li>
           <li>Nikkoku – 日本国語大辞典 (2nd edn)</li>
-          <li>PP – preposition phrase</li>
           <li>Prep – preposition</li>
           <li>V – verb</li>
           <li>VCC – verbless clause complement</li>
