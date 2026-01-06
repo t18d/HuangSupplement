@@ -4,7 +4,7 @@ permalink: x/
 seo:
   type: Dataset
   name: "HuangSupplement: letter X"
-last_modified_at: 2026-01-06T12:50:37+00:00
+last_modified_at: 2026-01-06T13:30:36+00:00
 description: Antedatings, errata and addenda to letter X of 近現代漢語辭源
 layout: main
 font_key: x
@@ -28,6 +28,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |(with -的)|adjective|1927|目的在本創造精神、開闢經驗、求實驗「現代󵔻的敎育」|『大公報』7月18日「南開中學之新敎育籌備會」|Unmarked perfective aspect signals conversion to adjective.|
 |/|/|1935|受了高度的現代󵔽敎育的市民層的男子們是需要能夠「讀寫算數」的現代󵔽婦女來󷨲合他們的生活|『申報』9月29日「婦女問題講座 第三節 敎育問題」||
 想像|imagination|noun|1868|Imagination … conception, image in the mind, 想像 … 想頭 … 意思|Lobscheid, _English and Chinese Dictionary_, iii, s.v.|This is sense 2 in Webster.|
+消費(1)|/|intransitive verb|1902|然生產雖增而󹲴費之數不足與之相抵則供給過于需要|『新民叢報』11「論世界經濟競爭之大勢」55|The real innovation of the modern 消費 is in the transitivity.|
 -小時|/|nominal bound root|1631|法以前推得一日。或二十四小時。行五十九分〇八秒二十微。|Rho『崇禎曆書·日󱄊曆指』26bis (Oxon. Sinica 897)||
 協議離婚|/|NP|1907|若協議離婚時。或妻死時。求返還其前日之贈物者槪無之。|『漢譯民法講義』105||
 心態|/|noun|1919|高低無定。心態屢遷。|『祈禱發𢕄總論』61||
