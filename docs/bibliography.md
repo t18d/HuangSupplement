@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2026-01-06T07:24:10+00:00
+last_modified_at: 2026-01-06T14:04:30+00:00
 layout: anchor
 ---
 # Bibliography
@@ -116,7 +116,7 @@ documents._
 - 權宇琦, '日中語彙交流の視点からみる近代和製医学用語の受容と交替', doctoral thesis, Takushoku University, 2021. \[痙攣]
 - 桑兵, '「華南」概念的生成演化與區域研究的檢討', 學術研究, 7 (2015), 95–6 (but see [17f3d12](https://github.com/t18d/HuangSupplement/commit/17f3d1281ecb4b7a01e2362118e350613d3479b3)).
 - Schmidt, Christian et al. (eds), [漢語新詞資料庫](https://mhdb.mh.sinica.edu.tw/vocabulary/search.php), accessed 23 Dec. 2024.
-- 沙廣聰, '接尾辞「性」の歴史：日中両語間の相互影響', master's thesis, Osaka University, 2020.
+- 沙廣聰, '接尾辞「性」の歴史：日中両語間の相互影響', master's thesis, Osaka University, 2020. \[-性(2)]
 - 沈國威 (ed.), 植学啓原と植物学の語彙 (Suita, 2000). \[細胞]
 - 沈國威, '近代關鍵詞考源：傳統、近代、現代', 東亞觀念史集刊, 4 (2013), 433. \[現代]
 - 沈國威, '近代關鍵詞考源：保守、進步、進化、退化、退步', 東亞觀念史集刊, 6 (2014), 306-7, 320. \[保守, 保守黨, 保守主義, 退化(2)]
