@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-12-30T13:25:26+00:00
+last_modified_at: 2026-01-06T00:54:19+00:00
 layout: anchor
 ---
 # Bibliography
@@ -103,6 +103,7 @@ documents._
 - 路鵬程, '言論自由、出版自由與新聞自由概念傳入中國的歷史考察', _China Media Report Overseas_, 6/3 (2010), 20–9.
 - Masini, Federico, _The Formation of Modern Chinese Lexicon and Its Evolution Toward a National Language: The Period from 1840 to 1898_ (Hong Kong, 1993). \[出版]
 - 閔心蕙, '「福音」概念——17–19世紀漢譯『聖經』文本研究', 亞洲概念史研究, 4 (2018), 222–3. \[福音, 萬日略]
+- 牛月明, '「想像（imagination）」與中日文論的現代性', 或問, 21 (2011), 39.
 - 牛振, '近代日語譯詞對漢語地理學譯詞的影響探析', 漢字漢語研究, 24 (2023), 109–24.
 - Onodera, Shiro, '19世紀末日中における「記念」の語義変化について', in [近代東アジアにおける翻訳概念の展開](http://hdl.handle.net/2433/246235), Kyoto University, 2013. \[紀念(2)]
 - 龐大瑜, '中日近代詞彙環流個例研究——「神經」詞義的演變及身份認定', 文化創新比較研究, 8/11 (2024), 31. \[神經病(2)]
