@@ -4,7 +4,7 @@ permalink: x/
 seo:
   type: Dataset
   name: "HuangSupplement: letter X"
-last_modified_at: 2026-01-06T13:30:36+00:00
+last_modified_at: 2026-01-07T00:13:45+00:00
 description: Antedatings, errata and addenda to letter X of 近現代漢語辭源
 layout: main
 font_key: x
@@ -40,6 +40,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 形而上學(2)|/|noun|1903|記述的心理學⋯其所以冠以記述的之三字者特欲別於遡作用之根源以論心之本體之形而上學|『大公報』2月28日「京師大學堂講義」||
 形容詞|/|noun|c1836 (a1771)|逍遙⋯按此非必指谷名蓋與詆訐皆形容詞耳|姚範『援鶉堂筆記·卷四十一·南山詩』3 (重刻)|cf. 雖有詆訐之人|
 -性(2)|/|nominal bound root|a1704 (c1664)|中通曰。水流下而趨中。有剛火性也。火炎上而旋升。有􀓉水性也|方以智『物理小識·卷之一天類·水火本一』23 (2674)|first occurrence in three-morpheme words|
-學理|/|noun|1903|解釋之意義由學者一己之私見者。謂之無權的解釋亦謂之學理解釋|汪–葉『新爾雅·釋法』27||
+-學會|/|nominal bound root|1878|近悉格致學會士林畢集商議他學|『萬國公報』510「格致學會集議」132||
+學理|/|noun|1903|解釋之意義由學者一己之私見者。謂之無權的解釋亦謂之學理解釋|『新爾雅·釋法』27||
 學術雜誌|/|NP|1915|本雜誌爲西洋留學界唯一之學術雜誌|『申報』1月21日「『科學』第一期出版預告」||
 |/|/|2018 (2017)|我先后撰写了多篇考辨文章，投递到相关学术杂志或提交学术年会|劉傳鴻『中古漢語詞綴考辨·後記』434||
