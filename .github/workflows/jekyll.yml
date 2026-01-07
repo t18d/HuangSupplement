@@ -16,6 +16,7 @@ on:
       - '*.xml'
       - '**.html'
       - '**.pdf'
+      - '**.py'
       - _config.yml
       - .github/workflows/jekyll.yml
       - bun.lock
