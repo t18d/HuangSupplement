@@ -4,7 +4,7 @@ permalink: y/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Y"
-last_modified_at: 2026-01-07T12:08:45+00:00
+last_modified_at: 2026-01-08T01:24:15+00:00
 description: Antedatings, errata and addenda to letter Y of 近現代漢語辭源
 layout: main
 font_key: y
@@ -27,6 +27,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |(with modifier)|/|1902|/|/||
 陰極|/|noun|1866|Cathode … the negative pole, 陰極|Lobscheid, _English and Chinese Dictionary_, i, s.v.||
 |/|/|1868|陽氣􁒋於陽極、陰氣􁒋於陰極、欲令隔斷不通、則電氣不能放出矣|Martin『格物入門·卷四·電學上章』5 (科10 9956)||
+音節|/|noun|1912|複音語之民。每創一新語。必本舊有之語音。而更增加其音􁄠。表示意思之區別。|『申報』4月24日「顧實呈敎育部書」||
 硬傷|(metaphorical)|noun|1928|袁世凱等，不過是個硬傷，忍痛用一次手術，還割得下來；若引用了那些下作小官僚，像微菌進血管，眞成不治之症了。|『民國日報』10月10日「祝政治建設的開始」|The literal sense dates back at least to s.xix med.|
 |glaring error|noun|1948|單就我們所說的「硬傷」而論，在這號稱「修訂本」、「標準本」當中就還多得難以計數。|鄧恭三「揭發『國定錯誤』廢除『國定課本』」in『大公報』10月3日|Note the quotes; [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=硬傷)|
 語文學|/|noun|1905|「語文學·文字統一之難」⋯「電學⋯」|『學報彙編·科學叢錄一·雜誌類七集』9||
