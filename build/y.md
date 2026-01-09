@@ -4,7 +4,7 @@ permalink: y/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Y"
-last_modified_at: 2026-01-09T09:54:14+00:00
+last_modified_at: 2026-01-09T11:51:59+00:00
 description: Antedatings, errata and addenda to letter Y of 近現代漢語辭源
 layout: main
 font_key: y
@@ -35,5 +35,5 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 輿論|public opinion|noun|1892|輿論沸騰 public opinion is in a very disturbed state.|Giles, _A Chinese–English Dictionary_, ii, 1327|First time as translation of _public opinion_.|
 輿論監督|/|idiom|1909|然既爲皇室親貴⋯似不宜身當政局立於輿論監督之地位|『大公報』12月18日「現政府與責任內閣」||
 語文學|/|noun|1905|「語文學·文字統一之難」⋯「電學⋯」|『學報彙編·科學叢錄一·雜誌類七集』9||
-原子|/|noun|1902|原質之愛力。自化合體分子中之各原子。被其他諸原子同時牽引而成|『普通學報』5「原子連繫說」47+||
+原子|/|noun|1902|原質之愛力。自󵔻合體分子中之各原子。被其他諸原子同時牽引而成|『普通學報』5「原子連繫說」47+||
 原罪|/|noun|c1636|特吾主。及聖母。無染原罪。|Dias『聖經直解·雜事目錄』51 (Jap. Sin. I-70)||
