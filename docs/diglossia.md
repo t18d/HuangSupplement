@@ -4,7 +4,7 @@ permalink: diglossia/
 seo:
   type: Guide
   name: "Appendix: On Diglossia"
-last_modified_at: 2025-01-14T14:41:58+00:00
+last_modified_at: 2026-01-09T08:26:14+00:00
 description: Why HuangSupplement treats loanwords differently
 layout: no-anchor
 ---
@@ -15,7 +15,9 @@ layout: no-anchor
 &nbsp;  
 This is a long neglected aspect of the Mandarin lexis.
 
-The naive view holds that Mandarin contains few **lexical gaps**. Any gaps that may have emerged since late Ch'ing are filled by calques and especially [phonetic loans](https://github.com/t18d/HuangSupplement/blob/main/loanwords.csv).
+The naive view holds that Mandarin contains few **lexical gaps**. Any gaps that
+may have emerged since late Ch'ing are filled by calques and especially
+[phonetic loans](https://github.com/t18d/HuangSupplement/blob/main/scratch/loanwords.csv).
 
 Nothing could be further from the linguistic reality.
 
