@@ -4,7 +4,7 @@ permalink: z/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Z"
-last_modified_at: 2025-12-27T07:11:48+00:00
+last_modified_at: 2026-01-10T08:49:03+00:00
 description: Antedatings, errata and addenda to letter Z of 近現代漢語辭源
 layout: main
 font_key: z
@@ -16,6 +16,7 @@ edit_path: dict/z.csv
 
 Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
+章程|by-laws|noun|1892|章程 by-laws; rules; regulations.|Giles, _A Chinese–English Dictionary_, i, 67+|First time as translation of _by-laws_.|
 蔗糖|/|noun|1874|說畢卽將瓶中葡萄酒倒入玻璃盞又加蔗糖少許|『瀛寰瑣記』20, 7||
 政體|/|noun|1834|南亞墨利加列國已良久驅逐西班呀國官員、自操其權、惟政體未尚定着。|『東西洋考每月統記傳』甲午年二月「新聞之撮要」||
 紙張|/|noun|a1321|即𫝆遵守契本必用𥿄張顔料之物|『元典章·户部卷八』271 (014275–314)||
