@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2026-01-09T01:20:14+00:00
+last_modified_at: 2026-01-10T07:18:52+00:00
 layout: anchor
 ---
 # Bibliography
@@ -27,6 +27,7 @@ layout: anchor
   - but see David Foxon, 'Greg's "Rationale" and the Editing of Pope', _The Library_, 33/2 (1978), 119–24, more useful than Bowers's 72-page disquisition from the same year.
 - Huang, Chu-Ren, and Dingxu Shi (eds), _A Reference Grammar of Chinese_ (Cambridge, 2016).
   - an unsuccessful adaptation of Rodney Huddleston and Geoffrey K. Pullum (eds), _The Cambridge Grammar of the English Language_ (Cambridge, 2002).
+- Kaufman, Stephen A., 'Gleanings from the Comprehensive Aramaic Lexicon I: Previously Unknown Syriac Words', in _Puzzling Out the Past_ (Leiden, 2012), 93.
 - Kretschmer, Paul, _Sprachregeln für die Bildung und Betonung zoologischer und botanischer Namen_ (Berlin, 1899).
 - Kühner, Raphael, and Friedrich Blass, _Ausfürliche Grammatik der Griechischen Sprache: I. Elementar- und Formenlehre_, ii (Hanover, 1892).
 - Liu, Ch'uan-hung, and Hsiung Jun-chu, '試論古籍整理中他校的操作原則', 古籍整理研究學刊, 3 (2018), 37–46.
