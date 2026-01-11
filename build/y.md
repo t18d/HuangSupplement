@@ -4,7 +4,7 @@ permalink: y/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Y"
-last_modified_at: 2026-01-11T07:01:20+00:00
+last_modified_at: 2026-01-11T11:50:18+00:00
 description: Antedatings, errata and addenda to letter Y of 近現代漢語辭源
 layout: main
 font_key: y
@@ -21,6 +21,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 堰塞湖|/|NP|1903|大別之則分凹地湖堰塞湖二種|『中學地文教科書』86||
 陽極|/|noun|1866|Anode … 電氣之陽極|Lobscheid, _English and Chinese Dictionary_, i, s.v.||
 |/|/|1868|陽氣􁒋於陽極、陰氣􁒋於陰極、欲令隔斷不通、則電氣不能放出矣|Martin『格物入門·卷四·電學上章』5 (科10 9956)||
+野蠻(3)|/|adjective|1865 (1864)|後󵔻導漸開、此等野蠻不義之例、漸廢、至今殆絶矣|Martin『萬國公法·卷二』21 (04013)||
 意識|(contrasted with words)|noun|1824 (1335)|然後知韋侯佳句非言語意識所可到也|『蘇州府志·開元寺綠陰堂記』36 (地220.175/136)||
 |(as subject)|/|c1812 (1798)|有念所專注凝神生象是爲意識所造之夢孔子夢周公是也|『閱微草堂筆記·灤陽續錄三』18 (06083)||
 |(with 有-)|/|1902|/|/||
