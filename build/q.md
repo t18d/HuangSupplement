@@ -4,7 +4,7 @@ permalink: q/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Q"
-last_modified_at: 2025-12-26T03:03:33+00:00
+last_modified_at: 2026-01-11T01:23:08+00:00
 description: Antedatings, errata and addenda to letter Q of 近現代漢語辭源
 layout: main
 font_key: q
@@ -27,6 +27,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 起訴|/|verb|1895 (1887)|/|黃遵憲『日本國志·刑法志一』||
 起義(2)|/|verb|1833|亦有人起義以應其隆奈者也。|『東西洋考每月統記傳』癸巳十二月, 79||
 汽車(2)|/|noun|1903|近有法人与英人及他国人合擬賭賽。汽車由法京巴黎斯至日斯巴尼亜京城馬得利脱。|『申報』5月27日「賽車肇事」||
+氣管炎|/|noun|1887|氣管炎 Bronchitis|鄺其照『華英字典集成』603||
 契據|/|noun|1872|(document) 契 … 契據|Doolittle『英華萃林韻府』s.v. Deed||
 棄權|/|verb|1895 (1887)|/|黃遵憲『日本國志·刑法志一』||
 汽油|/|noun|1904|有汽油六百八十罐又煤三百噸以供俄軍之用|『大公報』1月28日「時事要聞」||
