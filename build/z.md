@@ -4,7 +4,7 @@ permalink: z/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Z"
-last_modified_at: 2026-01-11T00:12:44+00:00
+last_modified_at: 2026-01-11T00:50:29+00:00
 description: Antedatings, errata and addenda to letter Z of 近現代漢語辭源
 layout: main
 font_key: z
@@ -21,6 +21,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 蔗糖|/|noun|1874|說畢卽將瓶中葡萄酒倒入玻璃盞又加蔗糖少許|『瀛寰瑣記』20, 7||
 偵查|/|verb|a1639|經督撫院及各路撫󺪭逐一偵查則存亡逃叛終難掩蔽|『三朝遼事實錄·卷五』16 (02041)||
 政體|/|noun|1834|南亞墨利加󱠚國已良乆󾰾逐西班呀國官員、自操其權、惟政體未尚定着。|『東西洋考每月統記傳』甲午年二月「新聞之撮要」27||
+殖民|/|verb|1886|北方瘦瘠之區⋯務須拓土󺀶民庶臻美善|『申報』3月18日「蛉洲新語」||
 紙張|/|noun|a1321|即𫝆遵守契本必用𥿄張顔料之物|『元典章·户部卷八』271 (014275–314)||
 致哀|/|verb|c1531 (488)|公事畢即往致哀|沈約『宋書·何尚之傳』(07347)||
 誌哀|/|verb|1878|舉國臣民遵制縞素成服以誌哀也|『申報』7月20日||
