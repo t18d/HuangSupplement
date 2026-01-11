@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2026-01-11T07:02:28+00:00
+last_modified_at: 2026-01-11T11:52:40+00:00
 layout: anchor
 ---
 # Bibliography
@@ -124,6 +124,7 @@ documents._
 - Schmidt, Christian et al. (eds), [漢語新詞資料庫](https://mhdb.mh.sinica.edu.tw/vocabulary/search.php), accessed 23 Dec. 2024.
 - 沙廣聰, '接尾辞「性」の歴史：日中両語間の相互影響', master's thesis, Osaka University, 2020. \[-性(2)]
 - 沈國威 (ed.), 植学啓原と植物学の語彙 (Suita, 2000). \[細胞]
+- ⸻, '「野蠻」考源', 東亞觀念史集刊, 3 (2012), 391. \[野蠻(3)]
 - ⸻, '近代關鍵詞考源：傳統、近代、現代', 東亞觀念史集刊, 4 (2013), 433. \[現代]
 - ⸻, '近代關鍵詞考源：保守、進步、進化、退化、退步', 東亞觀念史集刊, 6 (2014), 306-7, 320. \[保守, 保守黨, 保守主義, 退化(2)]
 - 史洪智, '古今轉換與中外對接：近代「破產」概念的形成', 近代史學刊, 9 (2012), 41. \[破產(1)]
