@@ -4,7 +4,7 @@ permalink: z/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Z"
-last_modified_at: 2026-01-11T05:32:21+00:00
+last_modified_at: 2026-01-11T07:01:20+00:00
 description: Antedatings, errata and addenda to letter Z of 近現代漢語辭源
 layout: main
 font_key: z
@@ -25,6 +25,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 支氣管炎|/|noun|1921|據日本衞生局調查。冬季之死亡。以患急性慢性支氣管炎。及其他之呼吸器病。腦溢血者爲多。|『衞生學通論』65||
 知識份子|/|noun|1916|中國的知識份子一向自視爲與衆不同的特殊階級⋯鄙視從事生產，從事勞動的農工|『新青年』1/5「論知識青年從軍運動」20+||
 殖民|/|verb|1886|北方瘦瘠之區⋯務須拓土󺀶民庶臻美善|『申報』3月18日「蛉洲新語」||
+直譯(1)|/|verb|1881|茲將稿本寄上，梵字上所附漢字直譯⋯唯譯一二梵語而已|!Nanjio Bunyiu, litt. ad Yang Wen-hui, 479+||
 紙張|/|noun|a1321|即𫝆遵守契本必用𥿄張顔料之物|『元典章·户部卷八』271 (014275–314)||
 致哀|/|verb|c1531 (488)|公事畢即往致哀|沈約『宋書·何尚之傳』(07347)||
 誌哀|/|verb|1878|舉國臣民遵制縞素成服以誌哀也|『申報』7月20日||
