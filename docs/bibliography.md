@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2026-01-11T05:40:43+00:00
+last_modified_at: 2026-01-11T07:02:28+00:00
 layout: anchor
 ---
 # Bibliography
@@ -139,6 +139,7 @@ documents._
 - ⸻, '日本語の漢語の文法的特異性とその中国語への影響：「設計」の近現代語史', 大阪大学大学院文学研究科紀要, 62 (2022), 159–60.
 - ⸻, '「卡車」の語史──その起源と展開', 或問, 46 (2024), 31–45.
 - ⸻, '学問名「考古学」の成立', 阪大日本語研究, 37 (2025), 21, 46.
+- 陶磊,「直譯」「意譯」觀念溯源——從佛經翻譯到蘭學研究 (Shanghai, 2020), 206. \[意譯(1), 直譯(1)]
 - Todani Masayoshi, '中国語における日本語の借用と意味変化：「赤字」を例として', 日中語彙研究, 10 (2020), 149–70.
 - ⸻, '中国語における日本語「手続」の借用過程', 日中語彙研究, 11 (2021), 143–163.
 - Tola, Gabriele, _John Fryer and_ The Translator’s Vade-mecum (Leiden, 2021), 237–79.
