@@ -4,7 +4,7 @@ permalink: y/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Y"
-last_modified_at: 2026-01-11T11:50:18+00:00
+last_modified_at: 2026-01-11T13:29:11+00:00
 description: Antedatings, errata and addenda to letter Y of 近現代漢語辭源
 layout: main
 font_key: y
@@ -26,6 +26,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |(as subject)|/|c1812 (1798)|有念所專注凝神生象是爲意識所造之夢孔子夢周公是也|『閱微草堂筆記·灤陽續錄三』18 (06083)||
 |(with 有-)|/|1902|/|/||
 |(with modifier)|/|1902|/|/||
+義務|/|noun|1880 (1874)|茲聞清國以生番為屬地。言論不置。然此義務。旣誓我民。爰發我師。為天下所共知。|『籌辦夷務始末·卷九十六·日本柳原前光來函』43||
 意譯(1)|/|verb|1881|梵字上所附漢字直譯⋯如其意譯，譯家兩巨擘鳩摩羅什、玄奘，已擅其美，今復何言。|!Nanjio Bunyiu, litt. ad Yang Wen-hui, 479||
 陰極|/|noun|1866|Cathode … the negative pole, 陰極|Lobscheid, _English and Chinese Dictionary_, i, s.v.||
 |/|/|1868|陽氣􁒋於陽極、陰氣􁒋於陰極、欲令隔斷不通、則電氣不能放出矣|Martin『格物入門·卷四·電學上章』5 (科10 9956)||
