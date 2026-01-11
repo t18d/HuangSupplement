@@ -4,7 +4,7 @@ permalink: z/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Z"
-last_modified_at: 2026-01-11T03:18:36+00:00
+last_modified_at: 2026-01-11T05:32:21+00:00
 description: Antedatings, errata and addenda to letter Z of 近現代漢語辭源
 layout: main
 font_key: z
@@ -16,6 +16,7 @@ edit_path: dict/z.csv
 
 Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
+在⋯之下|(metaphorically)|adposition|1902|法國之立憲議會。當在過激之加科賓黨主持之下。常爲違憲之擧動。|『譯書彙編』2/2「歐洲財政史」44|translating の下に|
 章程|by-laws|noun|1892|章程 by-laws; rules; regulations.|Giles, _A Chinese–English Dictionary_, i, 67+|First time as translation of _by-laws_.|
 沼氣|/|noun|1903|攪池底之泥而起泡。所起之泡。即名沼氣|『初等理化博物敎科書』113+||
 蔗糖|/|noun|1874|說畢卽將瓶中葡萄酒倒入玻璃盞又加蔗糖少許|『瀛寰瑣記』20, 7||
