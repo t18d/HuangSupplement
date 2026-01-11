@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2026-01-11T11:52:40+00:00
+last_modified_at: 2026-01-11T13:31:25+00:00
 layout: anchor
 ---
 # Bibliography
@@ -131,6 +131,7 @@ documents._
 - 宋軍, '[從ἐκκλησία（ekklesia）到「教會」──基督教「教會」漢語譯名的形成](https://mediahub.cgst.edu/en/resources/article/ccrc-20230608)', China Graduate School of Theology, 2023.
 - 宋雪, '中國近代「維新」概念的建構', 學術月刊, 52/3 (2020), 122.
 - 孫大權, '「金融」一詞在中國近代的起源、演變及當代啓示', 復旦學報, 4 (2019), 138.
+- 孫浩然, '清末民初「義務」概念的引入與流變', 石家莊學院學報, 24/2 (2022), 84.
 - 孫青, '魔燈鏡影：18–20世紀中國早期幻燈的放映、製作與傳播', 近代史研究, 4 (2018), 71.
 - 孫遜, '現代漢語「審判」一詞的由來', 日語學習與研究, 165 (2013), 53–5 (but see [5a2e37f](https://github.com/t18d/HuangSupplement/commit/5a2e37fd13646856887bfcb6c3c4bf0b9f6dc30d)).
 - Svarverud, Rune, 'The notions of "power" and "rights" in Chinese political discourse', in _New Terms for New Ideas: Western Knowledge and Lexical Change in Late Imperial China_ (Leiden, 2001), 130. \[權]
