@@ -4,7 +4,7 @@ permalink: z/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Z"
-last_modified_at: 2026-01-11T07:01:20+00:00
+last_modified_at: 2026-01-12T03:49:02+00:00
 description: Antedatings, errata and addenda to letter Z of 近現代漢語辭源
 layout: main
 font_key: z
@@ -36,6 +36,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 中文系|(in a high school)|noun|1923|中文系添古學哲學史學理論心理等類、英文系添有心理學高等幾何化學等課、|『時事新報』7月17日「蘇州桃塢改辦高級中學」||
 |(in a university)|/|1925|「上大中文系戊辰級會大會」|『民國日報』3月23日|中文系 has the same referent as, but is _not_ semantically equivalent to, 中國語言文學系|
 中西合璧|(in a neutral sense)|idiom|1885|該洋東遞呈租地時所立中西合璧契據幷繪圖一張|『申報』8月14日「催繳地租」||
+種族|race|noun|1907|按此文分別民族與種族之定義甚悉。同血統者。謂之同種族。不必同血統而能同文󵔻者。謂之同民族。|『中國新報』3「中國今世最宜之政體論·識」62+||
 種樹|plant trees|verb|a1034 (c296)|/|『文選·閒居賦』(8575)||
 -主義(1)|/|nominal bound root|1883|因係官權主義聞主筆者必將更迭|『申報』3月4日「會黨類誌」||
 助詞|/|noun|a1368 (a577)|若送句及助詞當音矣󳼛反|『顔氏家訓·音辭第十八』81 (754329–31)||
