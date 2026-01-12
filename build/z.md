@@ -4,7 +4,7 @@ permalink: z/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Z"
-last_modified_at: 2026-01-12T03:53:25+00:00
+last_modified_at: 2026-01-12T06:25:06+00:00
 description: Antedatings, errata and addenda to letter Z of 近現代漢語辭源
 layout: main
 font_key: z
@@ -42,6 +42,6 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 助詞|/|noun|a1368 (a577)|若送句及助詞當音矣󳼛反|『顔氏家訓·音辭第十八』81 (754329–31)||
 祝福|(intransitive)|verb|1538 (1370)|抑此乃祝福之詩非祭祀之詩|『五經蠡測·卷之四』13 (善000735)||
 |(transitive)|/|1837|故皇上帝祝福是日、以爲聖日也。|『東西洋考每月統記傳』丁酉年六月「以色列遊野」||
-著作權|/|/|1905|/|/|from Japanese: 1899 (Mizuno)|
+著作權|/|noun|1902|經濟上之條約。即通商條約⋯著作權保護同盟條約工業保護同盟條約及關於撿疫條約是也。|『外交通義』214|from Japanese: 1899 (Mizuno); original by Nagaoka Harukazu (1901)|
 資金(2)|money for a particular purpose|noun|1901|此時.乙不有滙資金.或不爲負擔債務.而拒絕清償.則買受者.對前者請求償還|『湖北商務報』90, 18|from Japanese: 1874 (Nikkoku); 資金(1) should probably be subsumed|
 字典|(as common noun)|noun|1815|『字典: A Dictionary of the Chinese Language, in Three Parts』|/|previously the name of _K'ang-hsi tzu tien_|
