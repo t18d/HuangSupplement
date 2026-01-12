@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2026-01-12T08:24:17+00:00
+last_modified_at: 2026-01-12T11:13:27+00:00
 layout: anchor
 ---
 # Bibliography
@@ -99,7 +99,7 @@ documents._
 - 李英傑－王馨鑰, '「環境」一詞與環境觀的演變', 自然辯證法通訊, 294 (2023), 79.
 - 李志良, '催化概念在近代中國的傳入與初步發展', 自然科學史研究, 40/1 (2021), 43.
 - ⸻, '「電子」一詞的譯定歷程及其意義引申', 或問, 45 (2024), 45–55.
-- Lippert, Wolfgang, _Entstehung und Funktion einiger chinesischer marxistischer Termini: d. lexikal.-begriffl. Aspekt d. Rezeption d. Marxismus in Japan u. China_ (Wiesbaden, 1979). \[階級鬥爭]
+- Lippert, Wolfgang, _Entstehung und Funktion einiger chinesischer marxistischer Termini: d. lexikal.-begriffl. Aspekt d. Rezeption d. Marxismus in Japan u. China_ (Wiesbaden, 1979). \[階級鬥爭, 資本]
 - 劉廣定, '中文「化學」源起再考', in 中國科學史論集 (Taipei, 2002), 99 (facsimile).
 - 劉曼, '「禮拜」來源再考', 國際漢學, 27 (2021), 161. \[禮拜(2), 禮拜-(3)]
 - ⸻, '近現代新貨幣單位詞流傳、演變考', 亞洲概念史研究, 11 (2023), 100. \[分(6), 角(2), 塊, 毛(1)] 
@@ -156,7 +156,6 @@ documents._
 - 謝久永, '「基因」一詞是由誰首次翻譯為中文的？', University of Manitoba (but see [b2a3f39](https://github.com/t18d/HuangSupplement/commit/b2a3f39fddf9e4340a3b021fd3a3678e44efd432)).
 - 謝任, ‘「幹部」：一個新名詞進入中共革命語境的歷史’, 黨史研究與教學, 295 (2023), 86.
 - 徐克偉, '「顯微鏡」一詞的形成及其中日語言文化交流（1646–1831）', 高等日語教育, 1 (2018), 139. \[顯微鏡(2)]
-- 徐天娜, '近代中國的「資本家」——以其概念之生成、演變為中心', 江蘇社會科學, 3 (2016), 187. \[資本]
 - 薛桂譚, '「(在)……之下」結構的新用法——基於近代漢日語言接觸', 漢字漢語研究, 23 (2023), 121. \[在⋯之下]
 - ⸻, '漢日語言接觸視角下「抽象名詞+上」結構的演化——基於清末日譯漢文本的實證研究', 日語學習與研究, 232 (2024), 37. \[-上]
 - 楊馳, '「同情」', in 漢語近代二字詞研究 (Shanghai, 2019), 225, 228.
