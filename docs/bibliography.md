@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2026-01-12T13:05:20+00:00
+last_modified_at: 2026-01-12T13:53:37+00:00
 layout: anchor
 ---
 # Bibliography
@@ -157,6 +157,7 @@ documents._
 - 謝久永, '「基因」一詞是由誰首次翻譯為中文的？', University of Manitoba (but see [b2a3f39](https://github.com/t18d/HuangSupplement/commit/b2a3f39fddf9e4340a3b021fd3a3678e44efd432)).
 - 謝任, ‘「幹部」：一個新名詞進入中共革命語境的歷史’, 黨史研究與教學, 295 (2023), 86.
 - 徐克偉, '「顯微鏡」一詞的形成及其中日語言文化交流（1646–1831）', 高等日語教育, 1 (2018), 139. \[顯微鏡(2)]
+- 徐濤, '「Bicycle」的中文譯名：概念史角度的考察', 史林, 4 (2014), 114. \[自行車]
 - 薛桂譚, '「(在)……之下」結構的新用法——基於近代漢日語言接觸', 漢字漢語研究, 23 (2023), 121. \[在⋯之下]
 - ⸻, '漢日語言接觸視角下「抽象名詞+上」結構的演化——基於清末日譯漢文本的實證研究', 日語學習與研究, 232 (2024), 37. \[-上]
 - 楊馳, '「同情」', in 漢語近代二字詞研究 (Shanghai, 2019), 225, 228.
