@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2026-01-12T11:13:27+00:00
+last_modified_at: 2026-01-12T13:05:20+00:00
 layout: anchor
 ---
 # Bibliography
@@ -153,6 +153,7 @@ documents._
 - 王麗娟, '「陰極」「陽極」から見た中日言語交渉', 或問, 29 (2016), 170–1.
 - 王銘宇, '明末天主教文獻所見漢語基督教詞彙考述', 漢語學報, 44 (2013), 60.
 - ⸻, '羅明堅、利瑪竇『葡漢辭典』詞彙問題舉隅', 勵耘語言學刊, 19 (2014), 148.
+- 王中江, '近代「自然」語義身世之謎', 探索與爭鳴, 3 (2023), 61–2.
 - 謝久永, '「基因」一詞是由誰首次翻譯為中文的？', University of Manitoba (but see [b2a3f39](https://github.com/t18d/HuangSupplement/commit/b2a3f39fddf9e4340a3b021fd3a3678e44efd432)).
 - 謝任, ‘「幹部」：一個新名詞進入中共革命語境的歷史’, 黨史研究與教學, 295 (2023), 86.
 - 徐克偉, '「顯微鏡」一詞的形成及其中日語言文化交流（1646–1831）', 高等日語教育, 1 (2018), 139. \[顯微鏡(2)]
