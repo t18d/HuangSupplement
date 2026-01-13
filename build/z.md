@@ -4,7 +4,7 @@ permalink: z/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Z"
-last_modified_at: 2026-01-13T00:42:13+00:00
+last_modified_at: 2026-01-13T01:02:59+00:00
 description: Antedatings, errata and addenda to letter Z of 近現代漢語辭源
 layout: main
 font_key: z
@@ -50,3 +50,4 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 自然|nature|noun|1902|自然者，由其狹義言之，則總稱天地、山川、草木等有形的物質的之現象及物體也。其由廣義言之，則包括世界全體|!王國維譯『哲學概論』261|original by Kuwaki Gen’yoku (1900)|
 自行車|/|noun|1868|又有自行車、前後各一輪、一大一小|『再述奇』642||
 自由|/|adjective|1847|a freeman, 自由之人|Medhurst, _English and Chinese Dictionary_, i, s.v. Citizen+||
+自由戀愛|/|idiom|1903|非能曲之男女。自由戀愛。自由合併。自由分離。|『新民叢報』31「聖西門之生活及其學說」11||
