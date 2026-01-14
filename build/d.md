@@ -4,7 +4,7 @@ permalink: d/
 seo:
   type: Dataset
   name: "HuangSupplement: letter D"
-last_modified_at: 2026-01-14T03:54:52+00:00
+last_modified_at: 2026-01-14T06:23:09+00:00
 description: Antedatings, errata and addenda to letter D of 近現代漢語辭源
 layout: main
 font_key: d
@@ -25,6 +25,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 單利|/|noun|1905|他銀行之存欵以單利而行此銀行用複利之法而期貯蓄增󺀶|『法制學 經濟學』ii, 39+|lecture by 葛岡（のち中島）信虎|
 德育|/|noun|c1897|泰西敎育之學，其旨萬端，而以德育智育體育爲三大綱。|南洋公學「蒙學課本二編編輯大意」in『近代中國教育史料』ii, 250||
 地方債|/|noun|1901|地方債目的.亦與國債大異⋯大率皆起於興業之事.|『財政四綱·國債』32+||
+帝國|/|noun|c1820|亞非利加之分有侯國有王國有帝國又有多小國未有一定的朝政者|!『察世俗每月統記傳』庚辰年十一月「論亞非利加列國之朝政」||
 地基|/|noun|1583||_Dicionário Português-Chinês_ (Jap. Sin. I-198)||
 地球|/|noun|1602 (1600)|外三圈天球⋯內一圈地球分天地五州區境之略|Ricci「山海輿地全圖」in『月令廣義·首卷』73||
 地球儀|/|noun|1878|并製有小地球儀|『申報』6月21日「命題甚新」||
