@@ -4,7 +4,7 @@ permalink: f/
 seo:
   type: Dataset
   name: "HuangSupplement: letter F"
-last_modified_at: 2025-11-30T09:54:06+00:00
+last_modified_at: 2026-01-14T07:23:38+00:00
 description: Antedatings, errata and addenda to letter F of 近現代漢語辭源
 layout: main
 font_key: f
@@ -29,6 +29,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 方言|dialect|noun|1902|且同在中國。亦各處自有方言。彼此不同。况彼國界既殊。自宜有此。|『新民叢報』4「『和文奇字解』」104|cf. [#22](https://github.com/t18d/HuangSupplement/issues/22)|
 |/|/|1906|「統一方言說畧」|沈敦和 in『寰球中國學生報』1/1, 26||
 方言學|dialectology|noun|1920|(表) 訓詁 {縱方面、—古訓學 橫方面、—現代方言學|沈兼士 in『時事新報』8月31日第七版||
+飛機|/|noun|1893|彼云現有一物料堅于鐵輕于木⋯又有一物其力較煤油內之油尤大若用兩物作爲飛機每五十磅出一匹馬力不難|『萬國公報』48「新作飛機」23+||
 -費|(in two-morpheme words)|nominal bound root|1853|q.v. 船費|/||
 -費|(in three-morpheme words)|nominal bound root|1886|q.v. 保險費|/||
 肺結核|/|noun|1899|按肺結核華名癆病也。|『亞東時報』7「紀肺結核可懼之事」||
