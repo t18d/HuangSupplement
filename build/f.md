@@ -4,7 +4,7 @@ permalink: f/
 seo:
   type: Dataset
   name: "HuangSupplement: letter F"
-last_modified_at: 2026-01-14T08:08:50+00:00
+last_modified_at: 2026-01-14T08:44:08+00:00
 description: Antedatings, errata and addenda to letter F of 近現代漢語辭源
 layout: main
 font_key: f
@@ -41,6 +41,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 分析|analyse|verb|1884|然律文雖簡下字極有權衡逐條分析皆以⋯|『申報』2月29日「論捉賭」|as one verb instead of two|
 封建(1)|/|noun|1899|/|/|q.v. 封建時代|
 封建(3)|(with -的)|adjective|1908|同時又打破封建的制度。成統一國家的事業。|『神州日報』4月16日「論關於商業之設󰤿」||
+風險|/|noun|1883|今因去年折耗甚巨外面欠項風險故於今正面同各拚股揭算|『申報』2月22日「撇開是非」||
 服務|(in non-military context)|verb|1903|師範學校者⋯其卒業生之服務年限。凡十年。|『萬國教育志·第三編·第三章』139–40|from Japanese: 1894 (CHJ)|
 福音(1)|/|noun|1635|天主󲙏生後。宗徒與並時聖人紀錄者。中云萬日畧<span class="warichu">譯言好報福音</span>經。|Aleni『天主󲙏生言行紀畧·萬日畧經說』1 (Chinois 6709)||
 復活(1)|/|verb|c1605|我信󰿩身之復活。|『天主教要』6 (R.G.Or. III. 221.5)||
