@@ -4,7 +4,7 @@ permalink: h/
 seo:
   type: Dataset
   name: "HuangSupplement: letter H"
-last_modified_at: 2026-01-15T09:15:34+00:00
+last_modified_at: 2026-01-15T13:45:07+00:00
 description: Antedatings, errata and addenda to letter H of 近現代漢語辭源
 layout: main
 font_key: h
@@ -38,3 +38,5 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 環境|/|noun|1913|凡身以外之景物。環繞於吾身者。謂之環境。環境之於敎育。亦頗關緊要。|『教育雜誌』5/1「春季環境之利用」||
 幻燈|/|noun|1891|繼之以各種幻燈現在此次地震慘狀及今古奇事蓋卽影戲之類也|『申報』12月14日「蛉洲記勝」||
 黃色(2)|/|adjective|1944|題解：「黃色新聞」卽「桃色新聞」，內容是緋色的|『上海社會月報』1「黃色新聞」17|postdating|
+匯率|/|noun|1902|於英國收受之時.動部增加.則稱曰匯率騰貴.|『湖北商務報』123「銀行論」20+|translating 爲換ノ步合 in Tajiri Inajirō (1893)|
+貨幣本位|/|noun|1896|故當與列國訂約.爲之限制.維持現時之貨幣本位.斯爲上筞.|『時務報』x「麥見󿬓氏幣制論」25|original in _Tokyo Nichi Nichi Shimbun_|
