@@ -4,7 +4,7 @@ permalink: g/
 seo:
   type: Dataset
   name: "HuangSupplement: letter G"
-last_modified_at: 2026-01-15T01:26:17+00:00
+last_modified_at: 2026-01-15T02:50:59+00:00
 description: Antedatings, errata and addenda to letter G of 近現代漢語辭源
 layout: main
 font_key: g
@@ -30,7 +30,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 公僕|/|noun|1899|西人之諺曰。官吏者天下之公僕也。|『清議報』xxvii「飲氷室自由書」4||
 公權力|/|noun|1907|關於公權力編制之千八百七十五年二月二十五日之法律.|『十七國憲法正文彙纂·法蘭西』34||
 |/|/|1908|⋯國家既命團體行使國家事務即當然有付此公權力於地方團體之德義上之義務|『大公報』5月27日「駁無財政權之地方團體論」||
-工人|/|noun|1822|To engage or hire workmen, 顧工人|Morrison, _A Dictionary of the Chinese Language_ iii, s.v. ENGAGE||
+工人|/|noun|1822|To engage or hire workmen, 顧工人|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. ENGAGE||
 |/|/|1853|舊歲在南􀣲等處、有船數隻、載工人往西印度|『遐邇貫珍』5「近日雜報」8||
 公司|/|noun|1885 (a1777)|太哥初到坤甸之日􁒋勝公司及四大家圍皆器重之|「蘭芳公司歷代年册」in De Groot, _Het kongsiwezen van Borneo_ (Leiden, 1885), 54|a mining group|
 |/|/|1815|/|/|mapped to 'company' in proper name|
