@@ -4,7 +4,7 @@ permalink: g/
 seo:
   type: Dataset
   name: "HuangSupplement: letter G"
-last_modified_at: 2026-01-15T04:14:47+00:00
+last_modified_at: 2026-01-15T06:01:08+00:00
 description: Antedatings, errata and addenda to letter G of 近現代漢語辭源
 layout: main
 font_key: g
@@ -37,6 +37,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |/|/|1815|/|/|mapped to 'company' in proper name|
 工業革命|/|NP|1902|故自工業革命之時起以前之事略記其要|『新民叢報』20「英國商工業發達史·例言」43–4||
 工業化|/|verb|1920|詳細說，就是因爲強烈的工業化，使國民經濟的社會迅速增長富力|『新青年』7/4「人口論底學說變遷」23+||
+公債|/|noun|1875|本館姑將現在泰西各國公債備列以質衆覽⋯是泰西各國家共欠金錢四千零四十兆|『申報』3月22日「國債縂說」||
 共產黨|/|noun|1901|無論何地。必散布此等新聞紙。以廣傳社會主義⋯更表揚一千七百九十三年共產黨流血之徒。|『譯書彙編』3「近世政治史」20||
 構想|/|verb|c1616 (c1596)|此臣早夜之所拮据夙昔之所搆想者也|馮夢禎『快雪堂集·卷二十五·隆儒優士疏』(NC5428/3243)||
 古典學|/|noun|1903|氏之教育說。反對從來所行之古典學。|『泰西學案·\<L>oc\<k>e學案』132||
