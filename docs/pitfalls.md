@@ -4,7 +4,7 @@ permalink: pitfalls/
 seo:
   type: Collection
   name: Pitfalls in Historical Lexicography
-last_modified_at: 2026-01-11T08:54:55+00:00
+last_modified_at: 2026-01-15T02:55:17+00:00
 layout: anchor
 description: Gleanings from HuangSupplement
 ---
@@ -17,8 +17,8 @@ description: Gleanings from HuangSupplement
 &nbsp;  
 ## Dictionary
 
-Neologisms in a dictionary can enter the user's vocabulary. Scholars used to
-believe that 愛人(2) wasn't used in natural texts until the late 1910s after
+Neologisms in a dictionary can enter the user's vocabulary. Scholars once
+believed that 愛人(2) didn't appear in natural texts until the late 1910s after
 英華大辭典 (1908) borrowed it from 雙解英和大辭典. It's now turned up in a
 serialised novel from 1909, which is only to be expected.
 
