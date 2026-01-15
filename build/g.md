@@ -4,7 +4,7 @@ permalink: g/
 seo:
   type: Dataset
   name: "HuangSupplement: letter G"
-last_modified_at: 2025-12-26T00:53:02+00:00
+last_modified_at: 2026-01-15T01:26:17+00:00
 description: Antedatings, errata and addenda to letter G of 近現代漢語辭源
 layout: main
 font_key: g
@@ -21,6 +21,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 改造|(metaphorically)|verb|1902|夫改造人心四圍之力莫大|『新民叢報』22「軍國民之敎育」47|obsolete collocation|
 |/|/|1903|而欲改造社會必先自改造我躬始|『新民叢報』26「新英國巨人克林威爾󶩐」47||
 干貝|/|/|/|/|/|likely a native word; see [#19](https://github.com/t18d/HuangSupplement/issues/19#issuecomment-2606537981)|
+高利貸|/|noun|1902|此法律徒有害於正當之資本家。而反保護貪暴之高利貸(以僅少之母金。而收莫大之利子。貪欲無飽者。日本俗謂之高利貸、)者也。|廣智書局『經濟敎科書·第四編』3|original by Wadagaki Kenzō (1901)|
 革命(1)|/|noun|1879|且本邦自戊辰革命之後其間纔十年|『申報』5月15日「譯日本人論亞細亞東部形勢」||
 個人主義(2)|/|noun|1900|不相任睦。各競其私。公利衆事。無人過問。此所謂個人主義。|『清議報』xli「論中國救亡當自增內力」2||
 公安局|/|noun|1914|公安局覆電<span class="warichu">云廣州都督鎮撫使鈞鑒平岡告急</span>|『申報』4月14日「粤省軍事彙紀」||
@@ -41,6 +42,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |/|/|1926|荷人格老秀西，係神學家而兼古典學家，史學家，政治學家，法學家|劉炳榮『西洋文化史綱·第三篇』37||
 古典語文學|/|NP|1938|這時期以其求歷史知識的熱心，及方法上與古典語文學的交互影響，使德國史學煥然一新。|『五十年來的德國學術』452||
 古文運動|/|noun|1927|我族之古文運動，非狹義之好古也。|『藝術界週刊』第十五期「雜記 (十四)」||
+固定資本|/|NP|1901|凡資本有固定資本。與流動資本之別。|『譯林』2「國債論」8+||
 官方|/|noun|1894|去冬香港私鑄案發英官方盡法以懲|『申報』5月17日「廣鑄銀錢說」|Han-ta's 官方(3)|
 關係(1)|/|noun|a1661 (a961)|或是逺方人事有寃抑凡於関􁋔𥁞湏勘\<逐>|『唐會要·卷第六十·御史臺』68 (03873)|Subsume (2) under (1). The difference between (1) and (3) is monovalent vs bivalent.|
 廣播(1)|/|verb|1923|無線電廣播事務：分送經濟上財政上消息、音樂、唱歌、復述演說、新聞⋯|『舊中國的上海廣播事業』41|not printed in 北洋政府檔案 lxxxvii|
