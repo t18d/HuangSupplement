@@ -4,7 +4,7 @@ permalink: l/
 seo:
   type: Dataset
   name: "HuangSupplement: letter L"
-last_modified_at: 2025-12-23T01:05:31+00:00
+last_modified_at: 2026-01-16T13:07:34+00:00
 description: Antedatings, errata and addenda to letter L of 近現代漢語辭源
 layout: main
 font_key: l
@@ -17,7 +17,7 @@ edit_path: dict/l.csv
 Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
 浪漫主義|/|noun|1915|浪漫主義。Romanticism 當歐洲十八世紀末葉至十九世紀初年時。盛行於文藝上。|『東方雜誌』12/9「浪漫主義」5||
-勞動|/|noun|1905|/|/|postdating; previously = labourer|
+勞動|/|verb|1902|若與人類勞動之力相較。則二千萬之馬力。適與一億之工人。每日勞動十二時⋯始可與之相抵。|『加藤弘之講演集第二冊·近世開化之四大要件』54|postdating: previously = labourer|
 勞動力|/|noun|1903|會社企業。乃合小資本爲大資本集小勞動力爲大勞動力者之總稱也。|『最新經濟學』118||
 老師|school teacher|noun|1911|蒙小學堂的老師 就是古人所說的人師⋯至如󲭇等自由⋯不可施之於小學校|『京都日報』1月1日「再吿任敎育者」||
 烙鐵|/|noun|1889|Soldering iron 嵌錫烙鐵|Fryer『汽機中西名目表』47||
