@@ -4,7 +4,7 @@ permalink: j/
 seo:
   type: Dataset
   name: "HuangSupplement: letter J"
-last_modified_at: 2026-01-15T14:24:05+00:00
+last_modified_at: 2026-01-16T01:14:31+00:00
 description: Antedatings, errata and addenda to letter J of 近現代漢語辭源
 layout: main
 font_key: j
@@ -35,6 +35,9 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 技術|industrial technology|noun|1884|/|/||
 記者|/|noun|1893|翌日東京各日報社記者又宴於芝山紅葉館|『申報』7月28日「公讌志盛」||
 |/|/|1895 (1887)|/|『日本國志』||
+價値(2)|value|noun|1822|Value, that which a thing is worth, 値 … 價値|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. Value|cf. s.v. Price|
+|/|/|1837|毎年所出之土産、價値約共計銀九萬三千五百七十四萬員。|『東西洋考每月統記傳』丁酉十一月「法蘭西國志畧」147+|What distinguishes this from Han-ta's 價値(1) is its being an estimate & not a price you can trade at.|
+價値(3)|worth|/|1902|/|/||
 減速|/|verb|1889|Ease 減速|Fryer『汽機中西名目表』17||
 交通工具|/|NP|1920|告訴他們內亂已經把我們的出產經濟狀况及交通工具破滅了|『大公報』11月3日「遠東統一宣言之草案」||
 |/|/|1922|今以汽車爲公衆之交通工具。則不可不硏究汽車是否爲最經濟的交通的方法。|『申報』5月6日「『公共汽車』之研究」||
