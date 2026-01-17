@@ -4,7 +4,7 @@ permalink: n/
 seo:
   type: Dataset
   name: "HuangSupplement: letter N"
-last_modified_at: 2025-12-16T13:25:51+00:00
+last_modified_at: 2026-01-17T03:36:26+00:00
 description: Antedatings, errata and addenda to letter N of 近現代漢語辭源
 layout: main
 font_key: n
@@ -47,6 +47,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 腦神經|/|/|1903|/|/|from Japanese 脳神経: 1822 (Hathi)|
 內在|/|adjective|1916|Immanent … 內在|Hemeling『官話』s.v. Immanent||
 泥土|/|noun|1858|衝激泥土成新地|W. Muirhead in『六合叢談』1/13, 8|one word instead of two|
+鳥瞰(1)|/|noun|1920|第四篇 和會鳥瞰|『時事新報』4月21日「歐遊心影錄」||
+鳥瞰(2)|/|verb|1911|從高處攝取大地全景⋯印成地圖⋯與尋常所謂鳥瞰式之地圖相同。|『東方雜誌』8/4「攝影術發明之略史及現今之方法」10||
 凝固|/|verb|1847|to harden, 凝固|Medhurst, _English and Chinese Dictionary_, s.v. To condense||
 濃度|/|noun|1905|蒸至適宜濃度再置冷處。|『中等化學教科書』294||
 暖氣|/|noun|1866|Caliduct … 熱氣筒 … 暖氣筒|Lobscheid『英華字典』s.v. Caliduct||
