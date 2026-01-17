@@ -4,7 +4,7 @@ permalink: s/
 seo:
   type: Dataset
   name: "HuangSupplement: letter S"
-last_modified_at: 2025-12-30T11:24:15+00:00
+last_modified_at: 2026-01-17T09:22:50+00:00
 description: Antedatings, errata and addenda to letter S of 近現代漢語辭源
 layout: main
 font_key: s
@@ -22,6 +22,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 三角戀愛|/|NP|1922|戀愛裏最容易發生苦痛的，三角戀愛便是一個著例|『婦女雜誌』8/2「戀愛的意義與價値」6||
 三位一體(1)|/|idiom|c1636|吾主既降生後。有天主三位一體之像|Dias『聖經直解·雜事目錄』8 (Jap. Sin. I-70)||
 山脈|/|noun|1858|山脈之方向|W. Muirhead in『六合叢談』1/13, 9||
+商品|/|noun|1895 (1887)|/|/|merging 商品(1) & 商品(2); the distinction (inherited from Hsien-han) is non-existent.|
 -上|(enclitic of respect)|postposition|1901|天下事固有於理論上不可不行而事實上萬不可行者|『清議報』lxxxiii「過渡時代論」4|both with and without 於-|
 上帝|/|noun|a1590|惟天主上帝其事未觧明否|Ricci, _Lettre de Sixte V au Maître de l'Empire des Ming_ (Chinois 1320)||
 上述|/|adjective|1903|以上述之新兵爲自衛軍⋯宜協力迫俄國交還奉天之事|『俄事警聞』12月20日「清國之對俄政策」|from Japanese: 1895 (CHJ); [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=上述)|
