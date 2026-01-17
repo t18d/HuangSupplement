@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2026-01-17T01:24:04+00:00
+last_modified_at: 2026-01-17T03:39:30+00:00
 layout: anchor
 ---
 # Bibliography
@@ -112,6 +112,7 @@ documents._
 - 劉幸－施克燦, '「Education」何以譯為「教育」——以日本有關學術史料為基礎的討論', 教育研究, 502 (2021), 93.
 - 劉耀, '晚清「私法」概念的轉變與傳播', in 近代漢字術語的生成演變與中西日文化互動研究 (Peking, 2016), 290.
 - 路鵬程, '言論自由、出版自由與新聞自由概念傳入中國的歷史考察', _China Media Report Overseas_, 6/3 (2010), 20–9.
+- 駱雪, '觀看之變——晚清民國時期「鳥瞰」視角的流行及對社會觀念的塑造', 美術, 5 (2025), 6, 8. \[鳥瞰(1)(2)]
 - Masini, Federico, _The Formation of Modern Chinese Lexicon and Its Evolution Toward a National Language: The Period from 1840 to 1898_ (Hong Kong, 1993). \[出版]
 - 閔心蕙, '「福音」概念——17–19世紀漢譯『聖經』文本研究', 亞洲概念史研究, 4 (2018), 222–3. \[福音, 萬日略]
 - 聶長順－孫瑩瑩, '近代「學會」概念的傳入與確立', 人文論叢, 33/1 (2020), 403. \[-學會]
