@@ -4,7 +4,7 @@ permalink: s/
 seo:
   type: Dataset
   name: "HuangSupplement: letter S"
-last_modified_at: 2026-01-17T11:19:34+00:00
+last_modified_at: 2026-01-17T12:21:19+00:00
 description: Antedatings, errata and addenda to letter S of 近現代漢語辭源
 layout: main
 font_key: s
@@ -35,6 +35,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 社群|/|noun|1906|各國之竸興也率由族羣而進於社羣復由社羣而進於國羣遂以臻今日之盛|『金臺組報』1月3日「論中國萬事之不舉皆由於不能合羣」||
 |/|/|1920|他們能夠影響於組織「社羣」的個人，又是能夠影響於社羣自身的組織|『時事新報』6月20日「有機進化和社會進化」|original by Charles A. Ellwood|
 神經病(2)|mental disorder|noun|1889|日本報云俄國皇后󻢓患神經病前次因在汽車中傾跌致受驚駭近來病勢日見增重|『申報』5月3日「聘請名醫」||
+神經衰弱|/|AdjP|1904|󿬒古刺士二世皇帝者⋯神經衰󰚦之人也意志怯薄之人也|『新民叢報』54「俄皇󿬒古刺士二世」74||
 審判|(in theology)|verb|1605|我信其日後從彼而來。󴦨判生𭮀者。|[Ricci]『聖經約錄』99 (Jap. Sin. I 126)||
 |(at law)|/|1865 (a1695)|于冥中列坐󴦨判世間事、亦有千古未結之案|『廣陽雜記·卷之二』578 (GJ/EB/119394)||
 生命線(1)|/|noun|1916|我們知道：中國的生命線是應陸海並重的，􂓪固的國防是需要邊海和大陸配合而成|『新青年』1/5「閩臺關係論」34||
