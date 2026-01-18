@@ -4,7 +4,7 @@ permalink: b/
 seo:
   type: Dataset
   name: "HuangSupplement: letter B"
-last_modified_at: 2026-01-13T08:53:36+00:00
+last_modified_at: 2026-01-18T03:32:39+00:00
 description: Antedatings, errata and addenda to letter B of 近現代漢語辭源
 layout: main
 font_key: b
@@ -120,7 +120,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 必然|/|adverb|1703|Forçosam<sup>te</sup> piĕ̇ tińg. piĕ̇ kińg. piĕ̇ jên.|Varo, _Arte de la lengua mandarina_, 65||
 邊際效用|/|NP|1919|所以我去年敎授經濟學的時候，一般學生，對邊際效用，懷疑的也不少。|『新潮』1/3「經濟學上之新學說」383+|邊際效益 is post-1949|
 辯證法|/|noun|1902|而希臘自芝諾芬尼梭格拉底屢用辯證法至阿里士多德而論理學蔚爲一科矣|『新民叢報』7「論中國學術思想變遷之大勢」59||
-標本|/|noun|1900|采集介類爲標本.神必活.形必全.|『農學報』98「製介類標本法」||
+標本|/|noun|1900|采集介類爲標本.神必活.形必全.|『農學報』xcviii「製介類標本法」||
 標記|/|noun|1858|朔望上下弦表、歷年測量寒熱表、行進江海標記、潮汐表、中外寄書表|『六合叢談』2/1, 15|earliest use as noun|
 表達|/|verb|1907|坎拿大首相勞利安已向駐亞托華日本領事表逹歉仄之意|『申報』9月12日「美洲排斥黃人暴動事彙誌」|泣紅亭 cited by Han-ta (2nd edn) is a 1981 translation|
 表面張力|/|noun|1905|凡液體之表面因分子力不平均而生之收縮力為表面張力|湖北學務處『物理學』||
@@ -133,7 +133,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 冰箱(1)|/|noun|1869|Refrigerator 涼箱 … 冰箱|Lobscheid『英華字典』s.v. Refrigerator||
 兵營|/|noun|1822|CAMP, 營 … 兵營 … 營寨|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. CAMP||
 病變|/|noun|1908|The transformation of a disease into another, (醫) 病症, 病變| 顏惠慶『英華大辭典』s.v. Diadexis||
-病毒|/|noun|1900|殘餘之繭所出之蛾.大抵遺傳病󵦠.|『農學報』107「試驗蠶病成蹟報第三」19||
+病毒|/|noun|1900|殘餘之繭所出之蛾.大抵遺傳病󵦠.|『農學報』cvii「試驗蠶病成蹟報第三」19||
 摒絕|/|verb|1835|是以摒絕塑像、真心崇拜萬物之主宰|『東西洋考每月統記傳』乙未年六月「俠膽」|from 屏絕|
 並列|/|verb|1847|Collateral, running parallel, 並列|Medhurst, _English and Chinese Dictionary_, s.v. Collateral+||
 摒棄|/|verb|c1715 (c1683)|丹砂白雉總摒棄檳榔萬斛無所須|『百尺梧桐閣集·遺稿詩十卷·送孫編修同周儀部奉使安南』(T5463/3140)|from 屏棄|

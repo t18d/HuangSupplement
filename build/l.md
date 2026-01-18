@@ -4,7 +4,7 @@ permalink: l/
 seo:
   type: Dataset
   name: "HuangSupplement: letter L"
-last_modified_at: 2026-01-17T01:22:43+00:00
+last_modified_at: 2026-01-18T03:32:39+00:00
 description: Antedatings, errata and addenda to letter L of 近現代漢語辭源
 layout: main
 font_key: l
@@ -27,7 +27,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 理校|/|verb|1934 (1931)|所謂理校法也.遇無古本可據.或數本互異.而無所適從之時.則須用此法|陳垣『元典章校補釋例·第四十三校法四例』87|cf. Pasquali (1934) – Ch'en was reinventing the wheel|
 理性(1)|/|adjective|1922|理想畫畫派是在十八世紀的時候受賴普尼子的理性認識的理說的影響發生的但是不幾年間就受慢我魯殿的感性認識打破了|『順天時報』7月21日「俄畫展覽會批評』|The nominal use is now limited to 理性(2).|
 利率|/|noun|1897|將來欲募集公債.則宜大減利率.以保國家之利.|『時務報』xxiii「幣制論」23|original in _Tokyo Nichi Nichi Shimbun_|
-利潤|/|noun|1898|生命保險公司利潤.謂扣除與􀛩者遺族.及被保人󶐪約期滿者金額若干⋯之外.所餘金是也.|『農學報』44「農學保險論」8||
+利潤|/|noun|1898|生命保險公司利潤.謂扣除與􀛩者遺族.及被保人󶐪約期滿者金額若干⋯之外.所餘金是也.|『農學報』xliv「農學保險論」8||
 戀愛(1)|/|verbal noun|1900|誰不見男女之戀愛而因以看取人󴜴之大動機者惟有一瑟士丕亞|『清議報』xxxvii「飲氷室自由書·慧觀」3||
 戀愛(2)|/|verb|1903|雨苟幼時與其鄰女阿對兒 Adele 相戀愛。往來之戀書。蔚然成帙。|『新民叢報』28「歐學之片影」||
 領土|/|noun|1897|自臺灣歸吾領土.乃經帝國大學議􀑁之協贊.卽於科學上.特派遣適宜之人.|『實學報』ix「臺灣󺴌物之盛」2|translating a Japanese paper|

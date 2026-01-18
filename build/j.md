@@ -4,7 +4,7 @@ permalink: j/
 seo:
   type: Dataset
   name: "HuangSupplement: letter J"
-last_modified_at: 2026-01-16T09:06:34+00:00
+last_modified_at: 2026-01-18T03:32:39+00:00
 description: Antedatings, errata and addenda to letter J of 近現代漢語辭源
 layout: main
 font_key: j
@@ -36,7 +36,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 記者|/|noun|1893|翌日東京各日報社記者又宴於芝山紅葉館|『申報』7月28日「公讌志盛」||
 |/|/|1895 (1887)|/|『日本國志』||
 價値(2)|value|noun|1822|Value, that which a thing is worth, 値 … 價値|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. Value|cf. s.v. Price|
-|/|/|1837|毎年所出之土産、價値約共計銀九萬三千五百七十四萬員。|『東西洋考每月統記傳』丁酉十一月「法蘭西國志畧」147+|What distinguishes this from Han-ta's 價値(1) is its being an estimate & not a price you can trade at.|
+|/|/|1837|󼜊年所出之土産、價値約共計銀九萬三千五百七十四萬員。|『東西洋考每月統記傳』丁酉十一月「法蘭西國志畧」147+|What distinguishes this from Han-ta's 價値(1) is its being an estimate & not a price you can trade at.|
 價値(3)|worth|/|1902|/|/||
 減速|/|verb|1889|Ease 減速|Fryer『汽機中西名目表』17||
 間接稅|/|NP|1901|間接稅者.則以賣主而轉嫁於買主.|錢恂『財政四綱·租稅』2+||
