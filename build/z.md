@@ -4,7 +4,7 @@ permalink: z/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Z"
-last_modified_at: 2026-01-19T12:35:18+00:00
+last_modified_at: 2026-01-19T12:44:39+00:00
 description: Antedatings, errata and addenda to letter Z of 近現代漢語辭源
 layout: main
 font_key: z
@@ -23,6 +23,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 蔗糖|/|noun|1874|說畢卽將瓶中葡萄酒倒入玻璃盞又加蔗糖少許|『瀛寰瑣記』20, 7||
 偵查|/|verb|a1639|經督撫院及各路撫󺪭逐一偵查則存亡逃叛終難掩蔽|『三朝遼事實錄·卷五』16 (02041)||
 政府|/|noun|1877|苟有人民結社擔當欲請政府保護以營其業者則政府固當無不許矣|『萬國公報』431「論工業製􂀇之利」20+||
+證券|securities|noun|1915|七該區劃內關於證券交易之沿革及現况|『神州日報』6月2日「證券交易所法施行細則」|A case can be made that the word first came into being when 有價證券 got abbreviated to 證券 in 證券交易所 in 1914.|
 政體|/|noun|1834|南亞墨利加󱠚國已良乆󾰾逐西班呀國官員、自操其權、惟政體未尚定着。|『東西洋考每月統記傳』甲午年二月「新聞之撮要」27||
 支氣管炎|/|noun|1921|據日本衞生局調查。冬季之死亡。以患急性慢性支氣管炎。及其他之呼吸器病。腦溢血者爲多。|『衞生學通論』65||
 知識份子|/|noun|1916|中國的知識份子一向自視爲與衆不同的特殊階級⋯鄙視從事生產，從事勞動的農工|『新青年』1/5「論知識青年從軍運動」20+||
