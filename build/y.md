@@ -4,7 +4,7 @@ permalink: y/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Y"
-last_modified_at: 2026-01-18T13:01:02+00:00
+last_modified_at: 2026-01-19T11:17:00+00:00
 description: Antedatings, errata and addenda to letter Y of 近現代漢語辭源
 layout: main
 font_key: y
@@ -36,6 +36,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 音素|/|noun|1912|將所有國音均析爲至單至純之音素核定所有音素􁊒數|『愛國報』12月6日「敎育部部令 讀音統一會章程」+||
 硬傷|(metaphorical)|noun|1928|袁世凱等，不過是個硬傷，忍痛用一次手術，還割得下來；若引用了那些下作小官僚，像微菌進血管，眞成不治之症了。|『民國日報』10月10日「祝政治建設的開始」|The literal sense dates back at least to s.xix med.|
 |glaring error|noun|1948|單就我們所說的「硬傷」而論，在這號稱「修訂本」、「標準本」當中就還多得難以計數。|鄧恭三「揭發『國定錯誤』廢除『國定課本』」in『大公報』10月3日|Note the quotes; [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=硬傷)|
+營養|/|noun|1899|或身體虛󰚦.營養不給.不慣飮茶者.多飮之則血衝󹱜.|『農學報』lxvi「日本製茶書」2||
 優秀|/|adjective|1928 (1901)|各部聘用外國人之俊異優秀者爲顧問官教師以備諮訪|『張文襄公奏議·卷五十五·俄約要盟貽󶫦請將東三省開門通商摺」9||
 輿論|public opinion|noun|1892|輿論沸騰 public opinion is in a very disturbed state.|Giles, _A Chinese–English Dictionary_, ii, 1327|First time as translation of _public opinion_.|
 輿論監督|/|idiom|1909|然既爲皇室親貴⋯似不宜身當政局立於輿論監督之地位|『大公報』12月18日「現政府與責任內閣」||
