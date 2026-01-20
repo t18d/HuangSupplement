@@ -4,7 +4,7 @@ permalink: j/
 seo:
   type: Dataset
   name: "HuangSupplement: letter J"
-last_modified_at: 2026-01-19T11:17:00+00:00
+last_modified_at: 2026-01-20T09:02:32+00:00
 description: Antedatings, errata and addenda to letter J of 近現代漢語辭源
 layout: main
 font_key: j
@@ -28,6 +28,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |(in gloss)|/|1903|/|/||
 |(in private law)|/|1912|日本謂繼承曰相續法⋯查中國於嗣續宗祧等項多通用繼承字故此編改曰繼承|『中華民國暫行民律草案』vii, 1||
 繼承法|/|noun|1912|日本謂繼承曰相續法⋯查中國於嗣續宗祧等項多通用繼承字故⋯關於繼承之法曰繼承法|『中華民國暫行民律草案』vii, 1||
+季風|/|noun|1907 (1906)|此風於夏日則自海至陸、冬日則自陸至海、名曰季風。|『地文學』64+||
 計劃經濟|/|NP|1929|卽或資本主義的合理󵔻是在如理論上所表示的無競爭的計劃經濟中進行的⋯|『河北民國日報』4月16日「資本主義的合理󵔻之危機」|translation|
 紀念(1)|/|noun|1344 (a730)|遂󵛎奴曲琴取相思枕留与十娘以為󺘣𫝹|張鷟『遊仙窟』34v|Han-ta|
 |/|/|1866|有二等艙三男一女、向明乞物以作󺘣念|張德明『航海述奇·卷四』33 (地980/917)|Note the same radical.|
