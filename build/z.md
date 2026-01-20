@@ -4,7 +4,7 @@ permalink: z/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Z"
-last_modified_at: 2026-01-19T14:42:40+00:00
+last_modified_at: 2026-01-20T01:17:22+00:00
 description: Antedatings, errata and addenda to letter Z of 近現代漢語辭源
 layout: main
 font_key: z
@@ -52,8 +52,10 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 資本|/|noun|1871|[資]本, capital|Lobscheid, _A Chinese and English Dictionary_, 481||
 資本主義|/|noun|1927 (1903)|欲知今日之資本主義。須知餘剩價格之性質如何。|趙必振譯『近世社會主義』111+|original by Fukui Junzō (1899)|
 資金(2)|money for a particular purpose|noun|1901|此時.乙不有滙資金.或不爲負擔債務.而拒絕清償.則買受者.對前者請求償還|『湖北商務報』90, 18|from Japanese: 1874 (Nikkoku); 資金(1) should probably be subsumed|
+資源|(metaphorical)|noun|1902|不可無外交之憑藉不可無外交之資源 (resources de la< >diplomatie) 資源者何能制外國政府從吾之所要求之手段而已|『外交通義』9|original by Nagaoka Harukazu (1901)|
 字典|(as common noun)|noun|1815|『字典: A Dictionary of the Chinese Language, in Three Parts』|/|previously the name of _K'ang-hsi tzu tien_|
 自然|nature|noun|1902|自然者，由其狹義言之，則總稱天地、山川、草木等有形的物質的之現象及物體也。其由廣義言之，則包括世界全體|!王國維譯『哲學概論』261|original by Kuwaki Gen’yoku (1900)|
 自行車|/|noun|1868|又有自行車、前後各一輪、一大一小|『再述奇』642||
 自由|/|adjective|1847|a freeman, 自由之人|Medhurst, _English and Chinese Dictionary_, i, s.v. Citizen+||
+自由競爭|/|idiom|1902|如專賣之例如工商聯行之例皆當禁廢使得自由競爭而農夫乃食其利也|『新民叢報』17「生計學學說沿革小史」5+||
 自由戀愛|/|idiom|1903|非能曲之男女。自由戀愛。自由合併。自由分離。|『新民叢報』31「聖西門之生活及其學說」11||
