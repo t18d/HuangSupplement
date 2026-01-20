@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2026-01-20T03:23:45+00:00
+last_modified_at: 2026-01-20T06:42:11+00:00
 layout: anchor
 ---
 # Bibliography
@@ -151,7 +151,7 @@ documents._
 - 陶磊,「直譯」「意譯」觀念溯源——從佛經翻譯到蘭學研究 (Shanghai, 2020), 206. \[意譯(1), 直譯(1)]
 - Todani Masayoshi, '中国語における日本語の借用と意味変化：「赤字」を例として', 日中語彙研究, 10 (2020), 149–70.
 - ⸻, '中国語における日本語「手続」の借用過程', 日中語彙研究, 11 (2021), 143–163.
-- Tola, Gabriele, _John Fryer and_ The Translator’s Vade-mecum (Leiden, 2021), 237–79.
+- Tola, Gabriele, _John Fryer and_ The Translator’s Vade-mecum (Leiden, 2021), 237–79. \[暗生植物, 秤桿, 打胎, 電鍍, 墊圈, 發動, 廢水, 功率, 果汁, 焊錫, 花邊, 花梗, 減速, 烙鐵, 硫酸, 漏斗, 泥土, 鉗子, 臍帶, 哨子, 石灰水, 石墨, 石蕊, 手動, 水表, 外徑, 蔗糖]
 - 佟藝辰, '"分詞"考源', 或問, 46 (2024), 117–28.
 - 王昌, '清末「海權」概念考釋', 河北學刊, 41/6 (2021), 72.
 - 王傳龍, '句讀\[dú]不是句讀\[dòu]', 語言研究, 40/3 (2020), 82–3.
