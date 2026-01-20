@@ -4,7 +4,7 @@ permalink: q/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Q"
-last_modified_at: 2026-01-17T07:41:23+00:00
+last_modified_at: 2026-01-20T12:21:49+00:00
 description: Antedatings, errata and addenda to letter Q of 近現代漢語辭源
 layout: main
 font_key: q
@@ -44,7 +44,6 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 槍刺|/|noun|1903|「趕造槍刺」|『北洋官報』第一百四十八冊||
 槍彈|/|noun|s.xvii|受數百槍彈從脅穿透|『行在陽秋·下』||
 槍械|/|noun|1600|疏火器鳥銃長短槍械法|『譚襄敏奏議·序』||
-強加|/|verb|1857|能強加力於他物者、謂重學之力|『六合叢談』1/11, 12||
 牆腳|/|noun|1844|Foundation, 基址 … 墻腳|Williams『英華韵府歷階』s.v. Foundation||
 侵入|/|verb|1868|to invade … as a disease a system, 侵入 … 侵害|Lobscheid『英華字典』s.v. Invade|metaphorical|
 侵襲|/|verb|1847|to come upon, to attack, 侵襲|Medhurst, _English and Chinese Dictionary_, s.v. To come||
