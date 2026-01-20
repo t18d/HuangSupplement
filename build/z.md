@@ -4,7 +4,7 @@ permalink: z/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Z"
-last_modified_at: 2026-01-20T01:17:22+00:00
+last_modified_at: 2026-01-20T03:15:10+00:00
 description: Antedatings, errata and addenda to letter Z of 近現代漢語辭源
 layout: main
 font_key: z
@@ -59,3 +59,4 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 自由|/|adjective|1847|a freeman, 自由之人|Medhurst, _English and Chinese Dictionary_, i, s.v. Citizen+||
 自由競爭|/|idiom|1902|如專賣之例如工商聯行之例皆當禁廢使得自由競爭而農夫乃食其利也|『新民叢報』17「生計學學說沿革小史」5+||
 自由戀愛|/|idiom|1903|非能曲之男女。自由戀愛。自由合併。自由分離。|『新民叢報』31「聖西門之生活及其學說」11||
+組織(3)|/|noun|c1889 (1887)|游醫學校有󺴌物動物光󵔽電理組織諸學組織云者顯極微物之謂|『游厯圖經餘記·卷三』9 (地980/895)||
