@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2026-01-20T09:32:34+00:00
+last_modified_at: 2026-01-20T12:05:03+00:00
 layout: anchor
 ---
 # Bibliography
@@ -127,7 +127,7 @@ documents._
 - 仇子揚, '近代日中軍事用語の変容と交流の研究', doctoral thesis, Kansai University, 2019. \[工廠, 教練]
 - 權宇琦, '日中語彙交流の視点からみる近代和製医学用語の受容と交替', doctoral thesis, Takushoku University, 2021. \[痙攣]
 - 桑兵, '「華南」概念的生成演化與區域研究的檢討', 學術研究, 7 (2015), 95–6 (but see [17f3d12](https://github.com/t18d/HuangSupplement/commit/17f3d1281ecb4b7a01e2362118e350613d3479b3)).
-- Schmidt, Christian et al. (eds), [漢語新詞資料庫](https://mhdb.mh.sinica.edu.tw/vocabulary/search.php), accessed 23 Dec. 2024.
+- Schmidt, Christian et al. (eds), [漢語新詞資料庫](https://mhdb.mh.sinica.edu.tw/vocabulary/search.php), accessed 23 Dec. 2024. \[愛情, 愛人(2), 暗室, 罷工, 白粉(2), 白金, 白熱(1), -擺(1), 扳手(2), 版畫, -幫, 保證書, 報告(1), 暴風, 暴雨, 背面, 被面, 被殺, 本體, 本義, 本質, 鼻音, 比重(1), 必然, 標記, 冰箱(1), 並列, 並行(2), 病變, 伯爵, 不合理, 不許, 菜單]
 - 沙廣聰, '接尾辞「性」の歴史：日中両語間の相互影響', master's thesis, Osaka University, 2020. \[-性(2)]
 - 沈國威 (ed.), 植学啓原と植物学の語彙 (Suita, 2000). \[細胞]
 - ⸻, '「野蠻」考源', 東亞觀念史集刊, 3 (2012), 391. \[野蠻(3)]
