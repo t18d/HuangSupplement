@@ -4,7 +4,7 @@ permalink: s/
 seo:
   type: Dataset
   name: "HuangSupplement: letter S"
-last_modified_at: 2026-01-18T03:32:39+00:00
+last_modified_at: 2026-01-20T11:39:38+00:00
 description: Antedatings, errata and addenda to letter S of 近現代漢語辭源
 layout: main
 font_key: s
@@ -63,6 +63,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 手動|/|adjective|1889|Hand gear 手動器具, 或手動齒輪|Fryer『汽機中西名目表』26||
 手續|/|noun|1901|行政訴訟之手續|『譯書彙編』７, 54+||
 水表|/|noun|1883|如是則該公司只須每日稽查水表|『申報』8月6日「自來水價宜變通說」||
+水圈|/|noun|1904|第三章 水圈篇|『中等地文學敎科書』6|based on Japanese textbook|
 司法|/|verb|1865 (1864)|司法之權、在上法院|Martin『萬國公法·卷一』35 (04013)||
 私法|/|noun|c1889|泰西之例有公法有私法|『重訂法國志略·卷十七·志刑律』36||
 私權|/|noun|1865 (1864)|君之私權、有時歸公法審斷|Martin『萬國公法·卷一』17 (04013)||

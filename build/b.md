@@ -4,7 +4,7 @@ permalink: b/
 seo:
   type: Dataset
   name: "HuangSupplement: letter B"
-last_modified_at: 2026-01-18T03:32:39+00:00
+last_modified_at: 2026-01-20T11:39:38+00:00
 description: Antedatings, errata and addenda to letter B of 近現代漢語辭源
 layout: main
 font_key: b
@@ -122,6 +122,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 辯證法|/|noun|1902|而希臘自芝諾芬尼梭格拉底屢用辯證法至阿里士多德而論理學蔚爲一科矣|『新民叢報』7「論中國學術思想變遷之大勢」59||
 標本|/|noun|1900|采集介類爲標本.神必活.形必全.|『農學報』xcviii「製介類標本法」||
 標記|/|noun|1858|朔望上下弦表、歷年測量寒熱表、行進江海標記、潮汐表、中外寄書表|『六合叢談』2/1, 15|earliest use as noun|
+標準時|/|noun|1904|不如用一定地點之時間爲基礎⋯稱爲標準時|『中等地文學敎科書』22+|based on Japanese textbooks|
 表達|/|verb|1907|坎拿大首相勞利安已向駐亞托華日本領事表逹歉仄之意|『申報』9月12日「美洲排斥黃人暴動事彙誌」|泣紅亭 cited by Han-ta (2nd edn) is a 1981 translation|
 表面張力|/|noun|1905|凡液體之表面因分子力不平均而生之收縮力為表面張力|湖北學務處『物理學』||
 表情|/|noun|1920|演劇人在舞台上必須常常注意，使面部表情與劇本中所包含的思想常相貫串|『時事新報』9月3日「戲劇的動作法」|still very much a verbal noun|
