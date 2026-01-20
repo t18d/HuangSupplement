@@ -5,24 +5,16 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2026-01-20T03:15:10+00:00
+last_modified_at: 2026-01-20T05:17:30+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
 <br>
 <br>
 <br>
-<p>This database is searchable as 
-  <a href="https://github.com/t18d/HuangSupplement/tree/main/dict">CSVs</a>. 
-  The quickest way to get an addition or correction merged is to fork the repo 
-  or <a href="https://github.com/t18d/HuangSupplement/wiki/Clone-the-repo">clone 
-  locally</a>, edit the CSV file and send in a pull request.</p>
+<p>This database is searchable as <a href="https://github.com/t18d/HuangSupplement/tree/main/dict">CSVs</a>. The quickest way to get an addition or correction merged is to fork the repo or <a href="https://github.com/t18d/HuangSupplement/wiki/Clone-the-repo">clone locally</a>, edit a CSV file and send in a pull request.</p>
   
-<p>The focus is on antedating and amending entries where the lemma is still 
-  current in educated speech. Triage of items in <a 
-  href="https://github.com/t18d/HuangSupplement/tree/main/Yang">Yang's bibliography</a>
-  (2026-1-14) is underway. Editorial history and argumentation can be accessed via git 
-  blame.</p>
+<p>The focus is on antedating and amending entries where the lemma is still current in educated speech. Editorial history and argumentation can be accessed via git blame. Triage of items in <a href="https://github.com/t18d/HuangSupplement/tree/main/Yang">Yang's bibliography</a> (2026-01-14) is now completed.</p>
 
 <div align="center">
 <a href="https://github.com/t18d/HuangSupplement/wiki/Notes-to-Contributors">Notes to Contributors</a> ·
