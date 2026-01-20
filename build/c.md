@@ -4,7 +4,7 @@ permalink: c/
 seo:
   type: Dataset
   name: "HuangSupplement: letter C"
-last_modified_at: 2026-01-13T11:28:02+00:00
+last_modified_at: 2026-01-20T08:35:31+00:00
 description: Antedatings, errata and addenda to letter C of 近現代漢語辭源
 layout: main
 font_key: c
@@ -18,7 +18,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
 裁員|/|verb|1882|「裁員節費」|『益聞錄』第百三十八號||
 財政|/|noun|1877|至若輸入他國未製之物爲加製造以輸出之則是􀸋所謂無盡藏者也有志於財政者不可不察也|『萬國公報』431「論工業製造之利」||
-採訪|(in professional context)|verbal noun|1884 (c1876)|至於採訪失實紀載多誇此亦近時日報之通弊|『弢園文錄外編·論日報漸行於中土』21 (CADAL02106187)||
+採訪|(in professional context)|verbal noun|1884 (c1876)|至於採訪失實紀載多誇此亦近時日報之通弊|『弢園文錄外編·論日報漸行於中土』21 (02106187)||
 |(being codified)|verb + -法|1925|第一段 新聞社組織法研究 第二段 新聞採訪法|『申報』7月14日「道爾頓制與小學課外活動」||
 採掘|mine|verb|1882|又云生野鑛山局自採掘以來日見起色|『申報』9月24日「照譯東洋新聞」||
 菜單|/|noun|1844|bill of fare, 菜單|Williams『英華韵府歷階』s.v. Tavern||

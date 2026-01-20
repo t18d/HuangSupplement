@@ -4,7 +4,7 @@ permalink: d/
 seo:
   type: Dataset
   name: "HuangSupplement: letter D"
-last_modified_at: 2026-01-20T05:02:04+00:00
+last_modified_at: 2026-01-20T08:35:31+00:00
 description: Antedatings, errata and addenda to letter D of 近現代漢語辭源
 layout: main
 font_key: d
@@ -19,6 +19,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 打胎|/|verb|1872|不然何卒以破血打胎終久而不知變計耶|『申報』5月23日「四醫斃一婦」|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=打胎)|
 打消|/|verb|1905|各同鄉會紛紛謀抵制責會館幹事請公使打消之|『申報』12月17日「留日學生同盟退校之原因」||
 |/|/|1906|縱下爲打消革命風潮計。上爲保護自身權利計。而强意立憲。然日後所頒之憲法。必非國民之公意。|『新民叢報』4(11)(83), 71||
+大陸性氣候|/|NP|1902|氣候 乾燥酷烈。蓋大陸性氣候也。|『世界地理』222+||
 大西洋|(metonymic)|noun|1601|大西洋陪臣利瑪竇/奏爲貢獻土物事|Couvreur, _Choix de documents_, 82||
 大猩猩|gorilla|noun|1903|其中如大猩猩。猩猩。黑猩猩長臂猿等其形似人因名類人猿。|『新編動物學』23+||
 擔保|/|verb|c1601|姑饒不殺各苗承認擔保將牛壹拾贰隻以求退兵|『平播全書·卷三』6 (NCL-02251)|here converted to noun|
