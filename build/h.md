@@ -4,7 +4,7 @@ permalink: h/
 seo:
   type: Dataset
   name: "HuangSupplement: letter H"
-last_modified_at: 2026-01-22T07:10:04+00:00
+last_modified_at: 2026-01-22T07:12:21+00:00
 description: Antedatings, errata and addenda to letter H of 近現代漢語辭源
 layout: main
 font_key: h
@@ -26,8 +26,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 黑猩猩|chimpanzee|noun|1903|黑猩猩同爲阿非利加之產。大如小兒。毛色黑。顏色黃。|『新編動物學』23+||
 很|/|adverb|a1321|如今地廣民衆事務哏多|『元典章·朝綱一』1 (014275–314)||
 |/|/|a1388|那幾个守户閑官老秀才它毎都哏利害|『老生兒』1 (12336)||
-很是|(+VP)|VP|c1890|助我一臂之力就狠是盡心了|『小五義·卷十·五十二回』6 (D8690500)||
-|(+adjective)|/|1903|我們同他初次見面。看他的人。很是明白。怎麼他倒不替我們出力。|『繡像小說』5「文明小史」26||
+很是|(+ VP)|VP|c1890|助我一臂之力就狠是盡心了|『小五義·卷十·五十二回』6 (D8690500)||
+|(+ adjective)|/|1903|我們同他初次見面。看他的人。很是明白。怎麼他倒不替我們出力。|『繡像小說』5「文明小史」26||
 花邊|/|noun|1866|an embroidered border, 花邊|Lobscheid『英華字典』s.v. Border||
 花梗|/|noun|1887|Myrospermum pedicellatum 小花梗米羅司卑麻|Fryer『西藥大成藥品中西名目表』41||
 華北|/|noun|1891|『華北月報』|_Hua pei yueh pao. North China Church Times._, 1/1||
