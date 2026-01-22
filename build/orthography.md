@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-01-22T08:48:19+00:00
+last_modified_at: 2026-01-22T09:01:15+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -14,8 +14,8 @@ layout: no-anchor
 &nbsp;  
 &nbsp;  
 The notion that pre-modern Chinese primarily used **traditional** 
-[ideographs](https://t18d.github.io/HuangSupplement/dictionary/#ideograph) has no 
-factual basis.
+[ideographs](https://t18d.github.io/HuangSupplement/dictionary/#ideograph) has
+no factual basis.
 
 Many of the so-called **simplified** ideographs are in fact traditional forms. 
 They were **stylistic variants** used in informal **registers**. Not 
@@ -23,7 +23,11 @@ infrequently, the simplified variant was the only attested form of an ideograph
 in the informal genres.
 
 Fast forward to present-day Mandarin, it has proven futile to imagine that a 
-single **character set** could prevail in any given population. Even within established 'simplified' regions, 'traditional' character sets are freely used in everyday communications as an aesthetic or political choice. With the arrival of personal computing, the ability to **decode** is all it requires to be able to **encode** with ease.
+single **character set** could prevail in any given population. Even within 
+established 'simplified' regions, 'traditional' character sets are freely used
+in everyday communications as an aesthetic or political choice. With the
+arrival of personal computing, the ability to **decode** is all it requires to
+be able to **encode** with ease.
 
 Today, the task of the lexicographer is simply to document which style each 
 variant of an ideograph came from.
@@ -52,35 +56,26 @@ dictionaries is cited as secondary evidence.
     <summary>Bibliography</summary>
     <h3>Theory</h3>
     <ul>
-      <li>Chang, Yung-ch'üan, 敦煌寫本文獻學 (Lanchow, 2013).</li>
-      <li>Finglass, P. J., 'Orthographica Sophoclea', <em>Philologus</em>, 153 
-        (2009), 206–28.</li>
-      <li>Huang, Cheng, '漫談古籍整理的規範問題', <em>Tunhwang yen chiu</em>, 162 
-        (2017), 70–7.</li>
-      <li>Huang, Cheng, 敦煌俗字典 (2nd edn, Shanghai, 2020), 2–40.</li>
-      <li>Tseng, Liang, 俗字及古籍文字通例研究 (Nanchang, 2006).</li>
+      <li>張涌泉, 敦煌寫本文獻學 (Lanchow, 2013).</li>
+      <li>Finglass, P. J., 'Orthographica Sophoclea', <em>Philologus</em>, 153 (2009), 206–28.</li>
+      <li>黃征, '漫談古籍整理的規範問題', <em>Tunhwang yen chiu</em>, 162 (2017), 70–7.</li>
+      <li>黃征, 敦煌俗字典 (2nd edn, Shanghai, 2020), 2–40.</li>
+      <li>曾良, 俗字及古籍文字通例研究 (Nanchang, 2006).</li>
     </ul>
     <h3>Sources</h3>
     <ul>
-      <li>Hagihara, Yoshio, '「国」と「囯」の文字を考える', 駒澤短大國文, 33 (2003), 
-        132.</li>
-      <li>Huang, Cheng, '敦煌字詁——並、並、併考辨', <em>Nanking shih fan ta hsüeh 
-        wen hsüeh yüan hsüeh pao</em>, 4 (2000), 44–51.</li>
-      <li>Huang, Cheng et al., 敦煌俗字典 (2nd edn, Shanghai, 2020).</li>
-      <li>Li, Le-i, 簡化字源 (Peking, 1996).</li>
-      <li>Liu, Fu, and Li Chia-jui (eds), 宋元以來俗字譜 (Peking, 1930).</li>
-      <li>National Academy for Educational Research, <a 
-        href="https://dict.variants.moe.edu.tw">異體字字典</a> (14th edn, 
-        2024).</li>
-      <li>Tseng, Liang, and Ch'en Min (eds), 明清小說俗字典 (Yangchow, 2018).</li>
-      <li>Wu, Li-yeh, and Ch'en Shuang-hsin, '草書楷化字研究', 
-        <em>Chung kuo wen tzu yen chiu</em>, 29 (2019), 159–63.</li>
-      <li>Yamashita, Mari, '「広」の字体についてー略字体の出現時期とその要因ー', 
-        漢字文化研究, 1 (2011), 25–87.</li>
+      <li>Hagihara Yoshio, '「国」と「囯」の文字を考える', 駒澤短大國文, 33 (2003), 132.</li>
+      <li>黃征, '敦煌字詁——並、並、併考辨', 南京師範大學文學院學報, 4 (2000), 44–51.</li>
+      <li>黃征 et al. (eds), 敦煌俗字典 (2nd edn, Shanghai, 2020).</li>
+      <li>李樂毅, 簡化字源 (Peking, 1996).</li>
+      <li>劉復－李家瑞, 宋元以來俗字譜 (Peking, 1930).</li>
+      <li>曾良－陳敏 (eds), 明清小說俗字典 (Yangchow, 2018).</li>
+      <li>吳立業－陳雙新, '草書楷化字研究', 中國文字研究, 29 (2019), 159–63.</li>
+      <li>Yamashita Mari, '「広」の字体についてー略字体の出現時期とその要因ー', 漢字文化研究, 1 (2011), 25–87.</li>
+      <li>楊榮祥, 近代漢語副詞研究 (Peking, 2005).</li>
+      <li>中華民國教育部, <a href="https://dict.variants.moe.edu.tw">異體字字典</a> (14th edn, 2024).</li>
     </ul>
-    For studies of the variants in incunabulas, see <a 
-      href="https://github.com/t18d/HuangSupplement/wiki/Variant-Ideographs-in-Incunabula">
-      Variant Ideographs in Incunabula</a>.
+    For studies of the variants in incunabulas, see <a href="https://github.com/t18d/HuangSupplement/wiki/Variant-Ideographs-in-Incunabula">Variant Ideographs in Incunabula</a>.
   </details>
 </p>
 
