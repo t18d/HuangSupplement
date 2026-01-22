@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-01-22T09:08:22+00:00
+last_modified_at: 2026-01-22T09:13:05+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -132,7 +132,7 @@ K'ai|Ts'ao|Hsing|Print|Note|
 構 搆|/|/|/||
 骨 (TW) Ming|骨 (CN) T'ang|/|/|骨 (TW), attested in 字彙, is archaism|
 廣|/|/|/|広 1891 kanji|
-國|/|/|国 Ch'ing|国 1133 kanji; 囯 Sung print|
+國|/|/|国 Ch'ing|国 1133 kanji (Hagihara 2003: 132); 囯 Sung print|
 過|/|/|过 Yüan||
 後|/|后 Chin|后 Yüan||
 畫|/|画 Ming|画 Ch'ing|畵 > 画 is late archaism|
