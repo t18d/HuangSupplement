@@ -4,7 +4,7 @@ permalink: b/
 seo:
   type: Dataset
   name: "HuangSupplement: letter B"
-last_modified_at: 2026-01-20T11:39:38+00:00
+last_modified_at: 2026-01-22T07:10:04+00:00
 description: Antedatings, errata and addenda to letter B of 近現代漢語辭源
 layout: main
 font_key: b
@@ -87,8 +87,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 保守|/|/|1897|/|/|from Japanese: 1886 (Shen 2014)|
 保守黨|/|/|1897|/|/|from Japanese: 1886 (Shen 2014)|
 保守主義|/|/|1898|/|/|from Japanese: 1884 (Shen 2014)|
-保險(2)|/|noun|1862|啟者以上三大公司保險現歸本行辦理|『上海新報』第四十五號「洋船保險」||
-保險公司|/|NP|1862|大美國鳥喲󱛛日同保險公司|『上海新報』第四十五號「洋船保險」||
+保險(2)|/|noun|1862|啟者以上三大公司保險現歸本行辦理|『上海新報』45「洋船保險」||
+保險公司|/|NP|1862|大美國鳥喲󱛛日同保險公司|『上海新報』45「洋船保險」||
 保證書|/|noun|1895 (1887)|又住在裁判所管內饒有貲產者亦可代納應充金額之保證書|黃遵憲『日本國志·刑法志二』||
 暴風|/|noun|1822|TEMPEST of wind, 暴風 … or reversed|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. TEMPEST||
 報告(1)|/|verb|1895 (1887)|若更命留禁要將其事由報告裁判長|黃遵憲『日本國志·刑法志一』||
