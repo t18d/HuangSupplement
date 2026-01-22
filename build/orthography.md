@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-01-22T09:01:15+00:00
+last_modified_at: 2026-01-22T09:08:22+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -64,7 +64,7 @@ dictionaries is cited as secondary evidence.
     </ul>
     <h3>Sources</h3>
     <ul>
-      <li>Hagihara Yoshio, '「国」と「囯」の文字を考える', 駒澤短大國文, 33 (2003), 132.</li>
+      <li>Hagihara Yoshio, '「国」と「囯」の文字を考える', 駒澤短大國文, 33 (2003), 78–133.</li>
       <li>黃征, '敦煌字詁——並、並、併考辨', 南京師範大學文學院學報, 4 (2000), 44–51.</li>
       <li>黃征 et al. (eds), 敦煌俗字典 (2nd edn, Shanghai, 2020).</li>
       <li>李樂毅, 簡化字源 (Peking, 1996).</li>
