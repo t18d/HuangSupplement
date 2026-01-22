@@ -4,7 +4,7 @@ permalink: a/
 seo:
   type: Dataset
   name: "HuangSupplement: letter A"
-last_modified_at: 2025-11-11T06:28:27+00:00
+last_modified_at: 2026-01-22T07:01:08+00:00
 description: Antedatings, errata and addenda to letter A of 近現代漢語辭源
 layout: main
 font_key: a
@@ -25,7 +25,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 愛國者|/|/|1902|/|/|from Japanese: 1873 (NDL)|
 愛好者|/|/|1950|/|/|from Japanese: 1877 (Yomidasu)|
 愛妻|/|noun|1165 (a233)|吳起之出愛妻文公之斬顚頡皆違其情者也|『韓非子·卷第十三外儲說右上』(17857)||
-愛情|/|noun|a1641|司愛欲者。愛一物。必生一愛情而内含存之。|Ruggieri『天主聖教實錄』(Jap. Sin. I-54)||
+愛情|/|noun|a1641|司愛欲者。愛一物。必生一愛󴜴而内𫩧存之。|Ruggieri『天主聖教實錄』20+ (Jap. Sin. I-54)||
 愛犬|/|/|1914|/|/|from Japanese: a1842 (Nikkoku)|
 愛人(2)|/|noun|1908|One in love, 愛人, 相好, 情人|顏惠慶『英華大辭典』s.v. Lover|from Japanese: 1862 (Nikkoku); cf. 雙解英和大辭典 s.v.|
 |/|/|1909|原來我方纔腦中的幻象。却變了眼前的眞境。我那愛人來了。我那愛人來了。|『民吁日報』十月念三號「古井波 (續)」||
