@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-01-22T09:13:05+00:00
+last_modified_at: 2026-01-22T09:16:06+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -96,7 +96,7 @@ K'ai|Ts'ao|Hsing|Print|Note|
 邊|/|/|边 Yüan||
 標|标 T'ang|/|/||
 別 别|/|/|/|别 is stylistic variant|
-并 並 竝|/|/|/|竝 is archaism; in most Tunhuang sources, 并 is Prep & 並 V/Adv|
+并 並 竝|/|/|/|竝 is archaism; in most Tunhuang sources, 并 is Prep & 並 V/Adv (Huang 2000)|
 補|/|/|/||
 布|/|佈 Ming|/|佈 already in 廣韻|
 纔 Han 才 N Wei|/|/|/|Yang (2005: 147)|
@@ -222,7 +222,7 @@ K'ai|Ts'ao|Hsing|Print|Note|
 學|学 Wu|/|/||
 儀|/|/|仪 Yüan||
 義|/|/|义 Yüan||
-應|应 T'ang|/|应 Ch'ing|応 1753 kanji; Wang Hsi-chih's 应 in Li is fake|
+應|应 T'ang|/|应 Ch'ing|応 1753 kanji (Yamashita 2011); Wang Hsi-chih's 应 in Li is fake|
 營|/|/|营 Yüan||
 涌|/|/|/|湧 attested in 集韻|
 踊 踴|/|/|/|踴 attested in 集韻|
