@@ -4,7 +4,7 @@ permalink: f/
 seo:
   type: Dataset
   name: "HuangSupplement: letter F"
-last_modified_at: 2026-01-25T06:06:42+00:00
+last_modified_at: 2026-01-25T10:07:07+00:00
 description: Antedatings, errata and addenda to letter F of 近現代漢語辭源
 layout: main
 font_key: f
@@ -47,5 +47,5 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 福音(1)|/|noun|1635|天主󲙏生後。宗徒與並時聖人紀錄者。中云萬日畧<span class="warichu">譯言好報福音</span>經。|Aleni『天主󲙏生言行紀畧·萬日畧經說』1 (Chinois 6709)||
 復活(1)|/|verb|c1605|我信󰿩身之復活。|『天主教要』6 (R.G.Or. III. 221.5)||
 復刻本|/|noun|c1807 (a1799)|近秦太史恩復刻本題爲梁陶宏景注|孫志祖『讀書脞錄·卷四·鬼谷子注』2 (01932)||
-|/|noun|1809|閩中覆刻本閒有譌舛|陳春「湖海樓叢書『學林』跋」||
+|/|/|1809|閩中覆刻本閒有譌舛|陳春「湖海樓叢書『學林』跋」||
 複利|/|noun|1904|用對數以求複利及年金其法較簡是爲對數之應用|『最新代數學敎科書·第十四編』166+||
