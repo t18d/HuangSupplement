@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-01-26T12:38:48+00:00
+last_modified_at: 2026-01-26T12:39:54+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -129,7 +129,7 @@ K'ai|Ts'ao|Hsing|Print|Note|
 鳳|/|/|风 Ming 凤 Ch'ing|风 commonly confused with 風|
 復|/|/|/||
 杆|/|/|/|桿 in 元刋四聲篇海|
-箇 個|/|/|個 Ming|See Huang (2020) s.v.|
+箇 个|/|/|個 Ming|See Huang (2020) s.v.|
 構 搆|/|/|/||
 骨 (TW) Ming|骨 (CN) T'ang|/|/|骨 (TW), attested in 字彙, is archaism|
 廣|/|/|/|広 1891 kanji|
