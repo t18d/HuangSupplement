@@ -4,7 +4,7 @@ permalink: c/
 seo:
   type: Dataset
   name: "HuangSupplement: letter C"
-last_modified_at: 2026-01-30T14:11:56+00:00
+last_modified_at: 2026-01-30T15:22:15+00:00
 description: Antedatings, errata and addenda to letter C of 近現代漢語辭源
 layout: main
 font_key: c
@@ -42,7 +42,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 詞彙(1)|vocabulary (in all senses)|collective noun|1921|這一步蓄積詞彙的工夫，並不是呆板强記所可敷衍⋯一種書有一種書習用的詞彙|『民國日報』10月13日「作文法講義」+|Previously only 名詞彙; as it's a collective noun, 詞彙化 is a solecism for 成詞 or 詞化.|
 詞彙(2)|lexicon|/|1934|各種語言的「詞彙」(lexicon),彼此間就因之有分歧錯雜的現象.|張世祿『語言學概論』85||
 詞彙學|/|noun|1921|聲韻學，詞彙學，文法學，是國語的三大要素。|『實用國語文法下編』192||
-詞類活用|(as bound morph)|VP|1924|英文詞類活用字甚夥|『中華英文週報』10/256「詞類活用字之一斑」770||
+詞類活用|(in bound form)|VP|1924|英文詞類活用字甚夥|『中華英文週報』10/256「詞類活用字之一斑」770||
 慈善|philanthropic|adjective|1896|披打古伯氏.爲慈善之事.銷費家貲一半.|『時務報』第十二冊「美國富家好善」26|also in Japanese: 1871 (Nikkoku)|
 詞源|/|noun|1916|聘請土頭土腦之土老先生編輯新詞源一種。補原有詞源所未備。|『新聞報』9月2日「諧著·贈送新詞源樣本廣告」|cf. 辭源|
 |/|/|1918|而况卽以小學之詞源而論。其字之用尚不爲完全正確耶。|(張)東蓀「論譯書」in『時事新報』5月23日||
