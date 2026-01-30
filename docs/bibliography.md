@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2026-01-20T12:22:04+00:00
+last_modified_at: 2026-01-30T00:57:57+00:00
 layout: anchor
 ---
 # Bibliography
@@ -21,22 +21,23 @@ layout: anchor
 ## Theory
 
 - Aikhenvald, Alexandra A., _Classifiers: A Typology of Noun Categorization Devices_ (Oxford, 2000).
-- Chang, Ch'ing, 'Cosmopolitan Mandarin: Linguistic practice of Chinese _waiqi_ professionals', _Journal of Asian Pacific Communication_, 16/2 (2006), 215–35.
+- Chang Ch'ing, 'Cosmopolitan Mandarin: Linguistic practice of Chinese _waiqi_ professionals', _Journal of Asian Pacific Communication_, 16/2 (2006), 215–35.
 - Dixon, R. M. W., _Basic Linguistic Theory_, 3 vols (Oxford, 2010–2).
 - Greg, W. W., 'The Rationale of Copy-Text', in _Collected Papers_ (Oxford, 1966), 374–91.
   - but see David Foxon, 'Greg's "Rationale" and the Editing of Pope', _The Library_, 33/2 (1978), 119–24, more useful than Bowers's 72-page disquisition from the same year.
-- Huang, Chu-Ren, and Dingxu Shi (eds), _A Reference Grammar of Chinese_ (Cambridge, 2016).
+- Huang Chu-Ren, and Dingxu Shi (eds), _A Reference Grammar of Chinese_ (Cambridge, 2016).
   - an unsuccessful adaptation of Rodney Huddleston and Geoffrey K. Pullum (eds), _The Cambridge Grammar of the English Language_ (Cambridge, 2002).
+- Huang Yi-lung, 清代避諱研究 (Hsinchu, 2024).
 - Kaufman, Stephen A., 'Gleanings from the Comprehensive Aramaic Lexicon I: Previously Unknown Syriac Words', in _Puzzling Out the Past_ (Leiden, 2012), 93.
 - Kretschmer, Paul, _Sprachregeln für die Bildung und Betonung zoologischer und botanischer Namen_ (Berlin, 1899).
 - Kühner, Raphael, and Friedrich Blass, _Ausfürliche Grammatik der Griechischen Sprache: I. Elementar- und Formenlehre_, ii (Hanover, 1892).
-- Liu, Ch'uan-hung, and Hsiung Jun-chu, '試論古籍整理中他校的操作原則', 古籍整理研究學刊, 3 (2018), 37–46.
+- Liu Ch'uan-hung, and Hsiung Jun-chu, '試論古籍整理中他校的操作原則', 古籍整理研究學刊, 3 (2018), 37–46.
 - Mair, Victor H. et al. (eds), Han yü ta tz'u tien _tz'u mu yin hsü so yin_ (Shanghai, 2003).
 - Měchura, Michal, 'Better than XML: Towards a lexicographic markup language', _Data & Knowledge Engineering_, 146 (2023), 102196.
-- Meng, Chao-lien, 之乎者也非口語論 (Nanking, 2017).
-- Tai, Li-kang, '晚清的官話音系及其性質', 古漢語研究, 117 (2017), 28–41.
-- Yang, Po-chün, and He Le-shih, 古漢語語法及其發展 (rev. edn, Peking, 2001).
-- Yeh, Pao-k'uei, '民初國音的回顧與反思', 廈門大學學報, 183 (2007), 44–50.
+- Meng Chao-lien, 之乎者也非口語論 (Nanking, 2017).
+- Tai Li-kang, '晚清的官話音系及其性質', 古漢語研究, 117 (2017), 28–41.
+- Yang Po-chün, and He Le-shih, 古漢語語法及其發展 (rev. edn, Peking, 2001).
+- Yeh Pao-k'uei, '民初國音的回顧與反思', 廈門大學學報, 183 (2007), 44–50.
 
 ## Sources
 _This section only contains studies whose conclusion has been adopted by the
