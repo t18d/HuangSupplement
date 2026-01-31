@@ -4,7 +4,7 @@ permalink: style/
 seo:
   type: Guide
   name: A Stylistic Appendix
-last_modified_at: 2026-01-24T07:13:49+00:00
+last_modified_at: 2026-01-31T10:13:56+00:00
 description: The stylistic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -34,6 +34,7 @@ Non-U|Word Class|Literary|Colloquial|Note|
 精品|noun|||officialese|
 (不)科學|adjective|(不)準確||a loose use of 科學|
 離開|verb|死|||
+連續統|noun|連續體 etc.||-統 is non-transparent & a sign of mindless parroting|
 爬梳|verb|梳理||See s.v. 耙梳.|
 前揭|adjective|前述||-揭 is faux-classical; from Japanese.|
 人工流產|verb|墮胎|打胎||
