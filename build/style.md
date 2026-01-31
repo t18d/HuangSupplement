@@ -4,7 +4,7 @@ permalink: style/
 seo:
   type: Guide
   name: A Stylistic Appendix
-last_modified_at: 2026-01-31T10:13:56+00:00
+last_modified_at: 2026-01-31T11:32:50+00:00
 description: The stylistic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -29,8 +29,10 @@ Non-U|Word Class|Literary|Colloquial|Note|
 |adverb|半旗|降半旗 etc.||
 |noun|塵拂|撣子 etc.||
 崇高|adjective|||now mostly used sarcastically due to its political overtones|
-詞彙化|verb|成詞 詞化||solecism; see s.v. 詞彙(1).|
+詞化|noun|成詞||careless translation of _lexicalisation_|
+詞彙化|verb|成詞||solecism; see s.v. 詞彙(1).|
 典藏|verb||所有 etc.|cf. what [Cheng said](https://www.shuge.org/shiyi_sui/#:~:text=防御) about libraries viewing public-domain books as _their_ property|
+共現|noun|搭配||careless translation of _co-occurrence_|
 精品|noun|||officialese|
 (不)科學|adjective|(不)準確||a loose use of 科學|
 離開|verb|死|||
