@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2026-02-01T00:03:59+00:00
+last_modified_at: 2026-02-01T01:24:48+00:00
 layout: anchor
 ---
 # Bibliography
@@ -42,13 +42,16 @@ layout: anchor
 ## Sources
 _This section only contains studies whose conclusion has been adopted by the
 Supplement; for a fuller (but non-exhaustive) listing of the books and
-articles which have been triaged, see 
-[Yang Ch'ih's bibliography](https://github.com/t18d/HuangSupplement/tree/main/Yang). HTML-based articles were backed up in the Wayback Machine the same day they were accessed._
+articles which have been triaged, see [Yang Ch'ih's
+bibliography](https://github.com/t18d/HuangSupplement/tree/main/Yang).
+HTML-based articles were backed up in archive.today (or the Wayback Machine) the 
+same day they were accessed._
 
 _As the orthography found in these studies is usually a normalised one, all 
 quotations in the Supplement were transcribed directly from the original
 documents._
 
+&nbsp;  
 - 安平－李春暉, '福澤諭吉與近代日本版權制度初創', 渤海大學學報, 6 (2020), 77. \[etymology]
 - 畢亞莉, '日中同素異順語「発刊-刊発」および中国語「発刊辞/詞」（ファカンツ）の成立について', 北海道大学大学院文学院研究論集, 22 (2023), 61. \[發刊辭]
 - 操瑞青, '近代新聞界的「事實」概念及其話語變遷', 國際新聞界, 44/5 (2022), 9. \[事實(5)]
