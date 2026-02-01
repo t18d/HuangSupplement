@@ -4,7 +4,7 @@ permalink: b/
 seo:
   type: Dataset
   name: "HuangSupplement: letter B"
-last_modified_at: 2026-01-24T13:17:24+00:00
+last_modified_at: 2026-02-01T13:30:37+00:00
 description: Antedatings, errata and addenda to letter B of 近現代漢語辭源
 layout: main
 font_key: b
@@ -58,7 +58,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 版權|/|noun|1895 (1887)|/|黃遵憲『日本國志·食貨志二』|from Japanese: 1866 (Fukuzawa)|
 版式|/|noun|1932|/|/|from Japanese: 1813 (Nikkoku)|
 板書(1)|/|/|1908|/|/|from Japanese: 1889 (NDL)|
-半島|/|noun|1868|/|/|also in Japanese: 1801 (Nikkoku)|
+半島|/|noun|1602|半島|『坤輿萬國全圖·南亞󸽘利加』|Note that this doesn't translate _El gran rio de Parana_, which is 伯剌那大江.|
 半導体|/|noun|1931|/|/|from Japanese: c1877 (NDL)|
 半島戦争|/|NP|1903|/|/|from Japanese: 1873 (NDL)|
 半封建|/|adjective|1936|/|/|from Japanese: 1889 (NDL)|
