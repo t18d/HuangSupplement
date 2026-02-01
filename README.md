@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2026-01-31T14:07:33+00:00
+last_modified_at: 2026-02-01T10:31:35+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -159,10 +159,10 @@ last_modified_at: 2026-01-31T14:07:33+00:00
 <a href="https://t18d.github.io/HuangSupplement/c/">C (32)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/d/">D (35)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/e/">E (1)</a> ·
-<a href="https://t18d.github.io/HuangSupplement/f/">F (31)</a> ·
-<a href="https://t18d.github.io/HuangSupplement/g/">G (34)</a> ·
-<a href="https://t18d.github.io/HuangSupplement/h/">H (22)</a> ·
-<a href="https://t18d.github.io/HuangSupplement/j/">J (49)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/f/">F (32)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/g/">G (36)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/h/">H (23)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/j/">J (50)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/k/">K (17)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/l/">L (24)</a>
 <br>
@@ -172,11 +172,11 @@ last_modified_at: 2026-01-31T14:07:33+00:00
 <a href="https://t18d.github.io/HuangSupplement/p/">P (15)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/q/">Q (37)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/r/">R (4)</a> ·
-<a href="https://t18d.github.io/HuangSupplement/s/">S (47)</a>
+<a href="https://t18d.github.io/HuangSupplement/s/">S (48)</a>
 <br>
 <a href="https://t18d.github.io/HuangSupplement/t/">T (17)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/w/">W (9)</a> ·
-<a href="https://t18d.github.io/HuangSupplement/x/">X (28)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/x/">X (29)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/y/">Y (24)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/z/">Z (46)</a>
 <br>

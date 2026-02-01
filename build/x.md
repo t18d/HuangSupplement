@@ -4,7 +4,7 @@ permalink: x/
 seo:
   type: Dataset
   name: "HuangSupplement: letter X"
-last_modified_at: 2026-01-30T06:30:12+00:00
+last_modified_at: 2026-02-01T10:31:35+00:00
 description: Antedatings, errata and addenda to letter X of 近現代漢語辭源
 layout: main
 font_key: x
@@ -27,6 +27,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 現代化|/|verb|1921|使希臘神話爲現代󵔻，而於夫婦關係，以彼一流底道德觀，不能不認爲幾分底創意|『晨報』8月18日「現代美國底劇壇」||
 |(with -的)|adjective|1927|目的在本創造精神、開闢經驗、求實驗「現代󵔻的敎育」|『大公報』7月18日「南開中學之新敎育籌備會」|The 'completed' semantics signal conversion to adjective.|
 |/|/|1935|受了高度的現代󵔽敎育的市民層的男子們是需要能夠「讀寫算數」的現代󵔽婦女來󷨲合他們的生活|『申報』9月29日「婦女問題講座 第三節 敎育問題」||
+憲法|/|noun|1633|⋯一國之上自公卿、下迨士庻、其遵憲法而罔敢違者、無論貴與賤也|『口鐸日抄·卷四』15 (Chinois 7114)||
 想像|imagination|noun|1868|Imagination … conception, image in the mind, 想像 … 想頭 … 意思|Lobscheid, _English and Chinese Dictionary_, iii, s.v.|This is sense 2 in Webster.|
 消費(1)|/|intransitive verb|1900|詳論列國間之需要供給生產消費之程度及其輸運之方法|『江南商務報』3「商工地理學」2+|The real innovation of the modern 消費 is in the transitivity.|
 |/|/|1902|然生產雖增而󹲴費之數不足與之相抵則供給過于需要|『新民叢報』11「論世界經濟競爭之大勢」55||

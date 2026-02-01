@@ -4,7 +4,7 @@ permalink: g/
 seo:
   type: Dataset
   name: "HuangSupplement: letter G"
-last_modified_at: 2026-01-15T09:15:34+00:00
+last_modified_at: 2026-02-01T10:31:35+00:00
 description: Antedatings, errata and addenda to letter G of 近現代漢語辭源
 layout: main
 font_key: g
@@ -48,8 +48,10 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 古文運動|/|noun|1927|我族之古文運動，非狹義之好古也。|『藝術界週刊』第十五期「雜記 (十四)」||
 固定資本|/|NP|1901|凡資本有固定資本。與流動資本之別。|『譯林』2「國債論」8+||
 官方|/|noun|1894|去冬香港私鑄案發英官方盡法以懲|『申報』5月17日「廣鑄銀錢說」|Han-ta's 官方(3)|
+關稅|/|noun|1724|再外來洋船向󺟈泊於近省􂠥埔地方來囬輸納關税|『雍正朝漢文硃批奏摺彙編』iii, 905||
 關係(1)|/|noun|a1661 (a961)|或是逺方人事有寃抑凡於関􁋔𥁞湏勘\<逐>|『唐會要·卷第六十·御史臺』68 (03873)|Subsume (2) under (1). The difference between (1) and (3) is monovalent vs bivalent.|
 廣播(1)|/|verb|1923|無線電廣播事務：分送經濟上財政上消息、音樂、唱歌、復述演說、新聞⋯|『舊中國的上海廣播事業』41|not printed in 北洋政府檔案 lxxxvii|
+國籍|/|noun|1708|其表示永不返回之西洋人，發給印票⋯寫明西洋人國籍、年齡、會別、來華年限、永不返回西洋|!『明清時期澳門問題檔案彙編』i, 74–5||
 國際貿易|/|NP|1901|又或有其國貨幣⋯不能通行於他國者.則其國際貿易上⋯仍不得依計數貨制.|錢恂『財政四綱·貨幣』11||
 國家|state|noun|1815|國家大事 … “The great affairs of the state.”|Morrison, _A Dictionary of the Chinese Language_ i/i, 46||
 國民所得|/|noun|1901|例如甲國稅額千萬圓。國民所得爲五千萬圓。則甲國租稅。爲五分之一也。|『譯林』9「理財學」30|original by 笹川潔 in 財政學 (1899)|

@@ -4,7 +4,7 @@ permalink: j/
 seo:
   type: Dataset
   name: "HuangSupplement: letter J"
-last_modified_at: 2026-01-20T09:02:32+00:00
+last_modified_at: 2026-02-01T10:31:35+00:00
 description: Antedatings, errata and addenda to letter J of 近現代漢語辭源
 layout: main
 font_key: j
@@ -16,6 +16,7 @@ edit_path: dict/j.csv
 
 Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
+基督|/|noun|1655|一六五五年十二月二十五日吾主耶穌基督聖誕瞻禮日肅|!Nickel「上大明中國睿智大皇帝書」||
 機會成本|/|NP|1922|維搜此說,實機會成本說(Opportunity cost)之起原也.|『科學』7/12「奧國學派」1245||
 積極(1)|positive|adjective|1903|/|『新爾雅』52|postdating|
 積極(3)|proactive|/|1899|/|『清議報』|q.v. (1)|
