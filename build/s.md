@@ -4,7 +4,7 @@ permalink: s/
 seo:
   type: Dataset
   name: "HuangSupplement: letter S"
-last_modified_at: 2026-02-01T10:31:35+00:00
+last_modified_at: 2026-02-01T11:59:58+00:00
 description: Antedatings, errata and addenda to letter S of 近現代漢語辭源
 layout: main
 font_key: s
@@ -54,7 +54,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 石墨|/|noun|1883|Plumbago, or Graphite 石墨|Fryer『金石中西名目表』26||
 石蕊|/|noun|1885|Litmus 石蕋|Fryer『化學材料中西名目表』21||
 實業|/|noun|1891|此外起農會製絲會社等皆勵精實業|『申報』7月23日「日東賸語」|postdating: see Sun (2023) s.v.|
-十字架|/|noun|c1584|七者當信𲗙所自􂕺在􀌤十字架上󰤋痛受苦。|Ruggieri『 新編西竺國天主實錄』31 (Jap. Sin. I-189)||
+十字架|/|noun|c1584|七者當信𲗙所自􂕺在􀌤十字架上󰤋痛受苦。|Ruggieri『新編西竺國天主實錄』31 (Jap. Sin. I-189)||
 視角|/|noun|c1632|若視物之兩端。則兩腰線𤼵來至瞳心。合成三角󴶩之形。凡角之末銳。必在瞳心。名爲視角。|Rho『崇禎曆書·月離曆指·月離三』3+ (Oxon. Sinica 897)||
 世界|/|noun|1854|全世界中、各國布棋⋯方今世界形勢一變、各國君主、當爲天地立心、爲生民立命之秋也|『遐邇貫珍』11「日本日記」8+|in a letter addressed to a Chinese by a Japanese|
 視力|/|noun|c1634|而五官中最󹣭貴者。莫如眼睛。其視力󻺝逺大。亦更細微。|『泰西人身說㮣·卷下·目司』7+ (Chinois 5130)||
