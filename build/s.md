@@ -4,7 +4,7 @@ permalink: s/
 seo:
   type: Dataset
   name: "HuangSupplement: letter S"
-last_modified_at: 2026-02-02T12:47:28+00:00
+last_modified_at: 2026-02-02T12:56:25+00:00
 description: Antedatings, errata and addenda to letter S of 近現代漢語辭源
 layout: main
 font_key: s
@@ -31,7 +31,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 哨子|/|noun|1889|Steam whistle 汽哨子|Fryer『汽機中西名目表』49||
 奢談|/|verb|1903|「奢談禁例」|『國民日日報』11月29日|still very much stylised|
 |/|/|1911|及海牙開會改約期限已過英人尙容我奢談廢約乎|『吉長日報』3月31日「鴉片交涉談」|in natural text|
-設計|/|verb|c1832|夫千里鏡可喩得人之眼󼦍。其鏡顯然是故意設計所致、其眼亦明然有一位原設計制􂀇之者也。|『古聖奉神天啟示道家訓·家訓本一論』7+ (LMS 282)||
+設計|/|verb|c1832|夫千里鏡可喩得人之眼󼦍。其鏡顯然是故意設計所致、其眼亦明然有一位原設計制􂀇之者也。|Morrison『古聖奉神天啟示道家訓·家訓本一論』7+ (LMS 282)|Back in 1822, the same author only had 設計策 for _design_.|
 |/|/|1897|而全川之改圖.雖費用爲十分浩大.要可設計籌畫.|『實學報』ix「石狩川疏濬工事」1|Due to the last quote, it's less clear now if it's a loanword here.|
 社群|/|noun|1906|各國之竸興也率由族羣而進於社羣復由社羣而進於國羣遂以臻今日之盛|『金臺組報』1月3日「論中國萬事之不舉皆由於不能合羣」||
 |/|/|1920|他們能夠影響於組織「社羣」的個人，又是能夠影響於社羣自身的組織|『時事新報』6月20日「有機進化和社會進化」|original by Charles A. Ellwood|
