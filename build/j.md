@@ -4,7 +4,7 @@ permalink: j/
 seo:
   type: Dataset
   name: "HuangSupplement: letter J"
-last_modified_at: 2026-02-01T10:31:35+00:00
+last_modified_at: 2026-02-03T09:14:02+00:00
 description: Antedatings, errata and addenda to letter J of 近現代漢語辭源
 layout: main
 font_key: j
@@ -52,6 +52,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 教練|(non-military)|noun|1919|㊀公布員陶益爾君㊁敎練李侃君|『申報』5月5日「遠東運動員出發攝影」|postdating|
 教練員|(non-military)|noun|1906|于會員中選舉諳練各種體操者爲敎練員|『申報』12月30日「城中商業󹲴防體操會簡章」||
 教授|university professor|noun|1887|大學校教授大澤謙二更議以海軍􁊒監高木兼寬爲院長|『申報』2月13日「蓬壺曉漏」|postdating: the Anglo-Chinese College in Huang's 1856 quote was a secondary school.|
+教堂|synagogue|noun|c1634|本地敎堂耶穌先救󰓞魔者處|『天主降生言行紀像』23||
+|church|/|c1855 (1637)|其他地方若有敎堂妖書。盡行拆毁焚除。|『聖朝破邪錄·卷二』37 (307-0094)||
 教育|/|verbal noun|1632|󼉅㓜教育又齊家之一支也|韓霖「童幼教育序」1 (Chinois 3389)||
 教育者|/|noun|1866|Educator, 教養者 … 教育者|Lobscheid『英華字典』s.v. Educator||
 接辦|/|verb|c1833|而其管理印度等處地方之事、仍容公司接辦|『東西洋考每月統記傳』癸巳十一月「英國之東地公司」||

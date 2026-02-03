@@ -4,7 +4,7 @@ permalink: t/
 seo:
   type: Dataset
   name: "HuangSupplement: letter T"
-last_modified_at: 2026-01-18T03:32:39+00:00
+last_modified_at: 2026-02-03T09:14:02+00:00
 description: Antedatings, errata and addenda to letter T of 近現代漢語辭源
 layout: main
 font_key: t
@@ -24,6 +24,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 特殊|(in NP)|adjective|1902|欲以淸國特殊之慣例凌駕國際上之法則|錢承鋕譯『外交通義』306+||
 提神|/|verb|1837|雖鴉片惡毒、然其性能提神|『東西洋考每月統計傳』丁酉年四月「奏爲鴉片」||
 體操|/|noun|1887|至櫻馬塲體操塲閱看師範學校生徒演習兵法|『申報』1月14日「日報譯略」||
+天皇|/|noun|a1136 (1060)|日本古倭奴也⋯彦瀲子神武立更以天皇爲號徙治大和州|『新唐書·東夷列傳第一百四十五』15 (S035)||
 天主|/|noun|c1584 (1583)|『祖傳天主十誡』|Ruggieri (Jap. Sin. I-189)||
 天主教|/|noun|a1588|君尊天主教 予學舉人文|Ruggieri, _Chinese Poems_, 17.1 (Jap. Sin. II-159)||
 通貨緊縮|/|idiom|1910|通貨緊縮之時。物價騰貴。物價騰貴。則生產困難。結果生產萎微。而購買力減少。|『經濟學概論·第二編』200+|original by Yamanōchi Masaaki (1905)|

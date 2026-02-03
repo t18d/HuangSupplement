@@ -4,7 +4,7 @@ permalink: y/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Y"
-last_modified_at: 2026-01-19T11:18:01+00:00
+last_modified_at: 2026-02-03T09:14:02+00:00
 description: Antedatings, errata and addenda to letter Y of 近現代漢語辭源
 layout: main
 font_key: y
@@ -45,5 +45,6 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 預算(2)|/|verb|1889|/|/||
 原子|/|noun|1902|原質之愛力。自󵔻合體分子中之各原子。被其他諸原子同時牽引而成|『普通學報』5「原子連繫說」47+||
 原罪|/|noun|c1636|特吾主。及聖母。無染原罪。|Dias『聖經直解·雜事目錄』51 (Jap. Sin. I-70)||
+遠視(1)|/|adjective|a1680|而近視遠視諸眼鏡更佳|!『十二樓·夏宜樓·第二囘』17|Not in 1st edn.|
 運營(2)|run (a country)|verb|1907|而以政治哲學之眼孔觀之非謂其非國家之一機關亦非謂其非國家運營之一組織|『中國新報』1/3「中國今世最宜之政體論」13+||
 |run (business)|/|1916|然一商號一公司當新舊乘除之際事實上儘可停止其本機關所運營之業務以待根本上之解决|『順天時報』11月26日「上大􁊒統確定根本辦法書」||
