@@ -4,7 +4,7 @@ permalink: l/
 seo:
   type: Dataset
   name: "HuangSupplement: letter L"
-last_modified_at: 2026-01-25T06:02:23+00:00
+last_modified_at: 2026-02-03T13:41:03+00:00
 description: Antedatings, errata and addenda to letter L of 近現代漢語辭源
 layout: main
 font_key: l
@@ -23,7 +23,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 烙鐵|/|noun|1889|Soldering iron 嵌錫烙鐵|Fryer『汽機中西名目表』47||
 禮拜(1)|(+ the Christian god)|verb|c1584 (1583)|三當禮拜之日禁止工夫謁寺誦經禮拜天主|Ruggieri『祖傳天主十誡』(Jap. Sin. I-189)||
 禮拜(2)|week|noun|1620|礼􀂉 semana i domingo|_Arte de la lengua chio chiu_, 30r (Ms. 1027)||
-禮拜-(3)|/|nominal bound root|1620|礼􀂉一 lunes … 礼􀂉六 sabado|_Arte de la lengua chio chiu_, 30r (Ms. 1027)|postdating|
+禮拜-(3)|/|nominal bound stem|1620|礼􀂉一 lunes … 礼􀂉六 sabado|_Arte de la lengua chio chiu_, 30r (Ms. 1027)|postdating|
 理校|/|verb|1934 (1931)|所謂理校法也.遇無古本可據.或數本互異.而無所適從之時.則須用此法|陳垣『元典章校補釋例·第四十三校法四例』87|cf. Pasquali (1934) – Ch'en was reinventing the wheel|
 理性(1)|/|adjective|1922|理想畫畫派是在十八世紀的時候受賴普尼子的理性認識的理說的影響發生的但是不幾年間就受慢我魯殿的感性認識打破了|『順天時報』7月21日「俄畫展覽會批評』|The nominal use is now limited to 理性(2).|
 利率|/|noun|1897|將來欲募集公債.則宜大減利率.以保國家之利.|『時務報』xxiii「幣制論」23|original in _Tokyo Nichi Nichi Shimbun_|

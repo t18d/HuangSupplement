@@ -4,7 +4,7 @@ permalink: x/
 seo:
   type: Dataset
   name: "HuangSupplement: letter X"
-last_modified_at: 2026-02-03T13:22:44+00:00
+last_modified_at: 2026-02-03T13:41:03+00:00
 description: Antedatings, errata and addenda to letter X of 近現代漢語辭源
 layout: main
 font_key: x
@@ -33,7 +33,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 消費(1)|/|intransitive verb|1900|詳論列國間之需要供給生產消費之程度及其輸運之方法|『江南商務報』3「商工地理學」2+|The real innovation of the modern 消費 is in the transitivity.|
 |/|/|1902|然生產雖增而󹲴費之數不足與之相抵則供給過于需要|『新民叢報』11「論世界經濟競爭之大勢」55||
 小腦|/|noun|c1634|皮之知􁮻。因有細筋。從大小二󹱜生來四大枝。|『泰西人身說㮣·卷下·四体􁮻司』20 (Chinois 5130)||
--小時|/|nominal bound stem|1631|法以前推得一日。或二十四小時。行五十九分〇八秒二十微。|Rho『崇禎曆書·日󱄊曆指』26bis (Oxon. Sinica 897)||
+小時|/|noun|1631|法以前推得一日。或二十四小時。行五十九分〇八秒二十微。|Rho『崇禎曆書·日󱄊曆指』26bis (Oxon. Sinica 897)||
 效率(1)|/|noun|1903|/|/|The physics textbook cited by Sun (2023) as from 1901 has a preface dated 1903.|
 效率(2)|/|noun|1915|盡之之道唯何,曰必自增進人事效率始.|『科學』1/11「人事之效率」1209+||
 協議離婚|/|NP|1907|若協議離婚時。或妻死時。求返還其前日之贈物者槪無之。|『漢譯民法講義』105||
@@ -42,13 +42,13 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 新聞自由|/|NP|1907|一千八百二十二年⋯停止聯合國會。束縛新聞自由。勵行警察權。|蔣羲明譯『歐洲列强近世外交􀼊史』49|from Japanese: 新聞の自由 (Shindō 1907)|
 星期(2)|/|noun|1898|凡入會之友⋯每一星期、􁒋會一次、<span class="warichu">會友多習西文者故必用星期即禮拜日也</span>|『知新報』xlv「京師關西學會緣起」|This is really 星期(1), as the warichu shows. But it's what gave rise to 星期(2) in the next quote.|
 |/|/|1899|/|/||
-星期-(3)|/|nominal bound root|1902|凡星期三及星期六下午亦係停課|『申報』10月13日「京報全錄」||
+星期-(3)|/|nominal bound stem|1902|凡星期三及星期六下午亦係停課|『申報』10月13日「京報全錄」||
 猩猩|orangutan|noun|1892|狌狌俗名猩猩亦名林中野人⋯與人相仿具有􁊒明|『格致彙編』第七年秋「獸有百種論」13||
 形而上學(2)|/|noun|1903|記述的心理學⋯其所以冠以記述的之三字者特欲別於遡作用之根源以論心之本體之形而上學|『大公報』2月28日「京師大學堂講義」||
 形容詞|/|noun|c1836 (a1771)|逍遙⋯按此非必指谷名蓋與詆訐皆形容詞耳|姚範『援鶉堂筆記·卷四十一·南山詩』3 (重刻)|cf. 雖有詆訐之人|
 -性(2)|/|nominal suffix|a1704 (c1664)|中通曰。水流下而趨中。有剛火性也。火炎上而旋升。有􀓉水性也|方以智『物理小識·卷之一天類·水火本一』23 (2674)|first occurrence in three-morpheme words|
--學會|/|nominal bound root|1878|近悉格致學會士林畢集商議他學|『萬國公報』510「格致學會集議」132||
--學學會|/|nominal bound root &times;2|1907|竊欲聯合羣英。組織一󵔻學學會。求吾國󵔻學之進步。|『時報』10月3日「擬組織中國化學學會啓」||
+-學會|/|nominal bound stem|1878|近悉格致學會士林畢集商議他學|『萬國公報』510「格致學會集議」132||
+-學學會|/|nominal bound stem|1907|竊欲聯合羣英。組織一󵔻學學會。求吾國󵔻學之進步。|『時報』10月3日「擬組織中國化學學會啓」||
 學理|/|noun|1903|解釋之意義由學者一己之私見者。謂之無權的解釋亦謂之學理解釋|『新爾雅·釋法』27||
 學術雜誌|/|NP|1915|本雜誌爲西洋留學界唯一之學術雜誌|『申報』1月21日「『科學』第一期出版預告」||
 |/|/|2018 (2017)|我先后撰写了多篇考辨文章，投递到相关学术杂志或提交学术年会|劉傳鴻『中古漢語詞綴考辨·後記』434||
