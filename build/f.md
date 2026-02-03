@@ -4,7 +4,7 @@ permalink: f/
 seo:
   type: Dataset
   name: "HuangSupplement: letter F"
-last_modified_at: 2026-02-01T10:31:35+00:00
+last_modified_at: 2026-02-03T13:22:44+00:00
 description: Antedatings, errata and addenda to letter F of 近現代漢語辭源
 layout: main
 font_key: f
@@ -20,6 +20,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 發酵|/|verb|a1333|𤼲酵前一日將麯搗碎⋯火不可太猛󶴛焙過麯力酒不能𤼲|『事林廣記·别集卷八酒麴類·酒麯秘方』74 (別060-0001)|c1235 edn only had 發醅爲酵|
 發刊辭|/|noun|1902|「大陸發刊辭」|『大陸報』1, 1||
 發售|/|verb|a1792 (a1086)|農翁之善蓄稻也層藏累納有淹二十年不發售者|吕南公『灌園集·與楊次公書』(文淵閣)||
+發條|/|noun|c1809|凡鐘表未及走畢、或停擺經年、則發條逼緊既久、放開則軟而無力|『高厚𫎇求·三集·自鳴鐘表圖法』13+ (305-0229)||
 發行|/|verb|c1621|青箱舘發行|『新傳理性元雅』[1] 0004 (832-187)||
 法老|/|noun|a1707|蓋經語法老我特興爾以顯著我德於爾|!Basset「福保祿宗徒與羅瑪輩書」244v (BL Sloane 3599)||
 法治|/|noun|1901|以法治國謂之法治|任公「國家思想變遷異同論」in『清議報』95, 1|The difference with ancient 法治 is that the king/dictator is also subject to the law.|
