@@ -4,7 +4,7 @@ permalink: c/
 seo:
   type: Dataset
   name: "HuangSupplement: letter C"
-last_modified_at: 2026-02-04T10:14:06+00:00
+last_modified_at: 2026-02-04T12:16:53+00:00
 description: Antedatings, errata and addenda to letter C of 近現代漢語辭源
 layout: main
 font_key: c
@@ -26,7 +26,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |/|/|c1874 (a1873)|「春秋繁露參校本及新校人名氏」|『古經解彙函·第十六』||
 草書|/|noun|Han|睦善草書臨病明帝驛馬令作草書尺牘十首焉|劉珍『東觀漢記·卷七列傳二·北海敬王睦』||
 草原|/|noun|1902|地多草原。故牧<畜>之業最盛。|作新譯書局『世界地理』292||
-測量|/|verb|c1607|測量者。以測望知山岳󰝝臺之高。|『測量法義』1+ (342031–35)||
+測量|/|verb|c1607|測量者。以測望知山岳󰝝臺之高。|『測量法義』1+ (05200)||
 長頸鹿|/|noun|a1844|在此地、虎、獅⋯與長頸鹿<span class="warichu">正是各獸之最高者</span>以及駝鳥、濯濯自在也。|!『萬國地理全集·卷二十七』307||
 炒魷魚|/|verb|1943|若果一件案都未辦過。叫造飯桶。難免炒魷魚之禍者也。|『大衆報 (澳門)』7月14日「廣東偵緝胆」||
 塵拂|/|noun|1912|尾端生有長毛。如塵拂。|杜亞泉–杜就田『新理科教授法二』12|likely from 塵払 (ちり‐はらい); [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=塵拂,-noun)|
