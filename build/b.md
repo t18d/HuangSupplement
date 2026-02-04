@@ -4,7 +4,7 @@ permalink: b/
 seo:
   type: Dataset
   name: "HuangSupplement: letter B"
-last_modified_at: 2026-02-04T04:19:42+00:00
+last_modified_at: 2026-02-04T10:14:06+00:00
 description: Antedatings, errata and addenda to letter B of 近現代漢語辭源
 layout: main
 font_key: b
@@ -32,9 +32,11 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |(with -式)|/|1923|那些白痴式的忠臣以爲敷衍學生，總得㩀學生爲己有。|『民國日報』11月21日「教育部老早該撤廢」||
 白堊紀|/|noun|1902|白堊紀 此紀因英德法三國、多產白堊、故以此命名|『地質學簡易教科書·歷史篇』4|from Japanese: 1892 (NDL)|
 白粉(2)|/|noun|1857|此時草木暢茂、成煤層、其上為新紅沙石、黃灰石、石膏、石鹽、蛋粉石、白粉、火石|W. Muirhead in『六合叢談』1/2, 2||
+白鴿|/|noun|Chin||||
 白金|/|noun|1848|Platina, 白金|Medhurst, _English and Chinese Dictionary_, s.v. Platina||
 白鯨|/|/|1931|/|/|from Japanese: 1877 (NDL)|
 白開水|/|noun|c1813 (a1811)|右二味⋯每服一二錢。白開水送下。|吳瑭『溫病條辨·卷三下焦篇』55||
+白蘭地|/|noun|1872|Brandy. 白蘭地酒|Doolittle『英華萃林韻府』ii, 300||
 白内障|/|noun|1906|白內障(白翳)者。因于水晶體之溷濁。|『中學生理衛生教科書』100|from Japanese: 1867 (NDL); 白色內障 attested in Chinese by 1644|
 白熱(1)|/|adjective|1867|white heat, 白熱|Lobscheid『英華字典』s.v. Heat||
 白色恐怖|/|/|1928|/|/|from Japanese: 1923 (NDL)|
