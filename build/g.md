@@ -4,7 +4,7 @@ permalink: g/
 seo:
   type: Dataset
   name: "HuangSupplement: letter G"
-last_modified_at: 2026-02-01T10:31:35+00:00
+last_modified_at: 2026-02-04T04:19:42+00:00
 description: Antedatings, errata and addenda to letter G of 近現代漢語辭源
 layout: main
 font_key: g
@@ -32,7 +32,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |/|/|1908|⋯國家既命團體行使國家事務即當然有付此公權力於地方團體之德義上之義務|『大公報』5月27日「駁無財政權之地方團體論」||
 工人|/|noun|1822|To engage or hire workmen, 顧工人|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. ENGAGE||
 |/|/|1853|舊歲在南􀣲等處、有船數隻、載工人往西印度|『遐邇貫珍』5「近日雜報」8||
-工商管理|(in bound form)|stem|1918|此書及工商管理法。皆所以闡明此中之消息。硏究其能守能攻之道者也。|『現代商業經營法』81||
+工商管理|(in bound form)|VP|1918|此書及工商管理法。皆所以闡明此中之消息。硏究其能守能攻之道者也。|『現代商業經營法』81||
 公司|/|noun|1885 (a1777)|太哥初到坤甸之日􁒋勝公司及四大家圍皆器重之|「蘭芳公司歷代年册」in De Groot, _Het kongsiwezen van Borneo_ (Leiden, 1885), 54|a mining group|
 |/|/|1815|/|/|mapped to 'company' in proper name|
 工業革命|/|NP|1902|故自工業革命之時起以前之事略記其要|『新民叢報』20「英國商工業發達史·例言」43–4||

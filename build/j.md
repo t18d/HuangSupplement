@@ -4,7 +4,7 @@ permalink: j/
 seo:
   type: Dataset
   name: "HuangSupplement: letter J"
-last_modified_at: 2026-02-03T09:17:02+00:00
+last_modified_at: 2026-02-04T04:19:42+00:00
 description: Antedatings, errata and addenda to letter J of 近現代漢語辭源
 layout: main
 font_key: j
@@ -41,7 +41,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |/|/|1837|󼜊年所出之土産、價値約共計銀九萬三千五百七十四萬員。|『東西洋考每月統記傳』丁酉十一月「法蘭西國志畧」147+|What distinguishes this from Han-ta's 價値(1) is its being an estimate & not a price you can trade at.|
 價値(3)|worth|/|1902|/|/||
 減速|/|verb|1889|Ease 減速|Fryer『汽機中西名目表』17||
-間接稅|/|NP|1901|間接稅者.則以賣主而轉嫁於買主.|錢恂『財政四綱·租稅』2+||
+間接稅|/|noun|1901|間接稅者.則以賣主而轉嫁於買主.|錢恂『財政四綱·租稅』2+||
 焦慮性|/|adjective|1937 (1935)|Anxiety psychosis … 焦慮性精神病|『精神病理學名詞』75+||
 交通工具|/|NP|1920|告訴他們內亂已經把我們的出產經濟狀况及交通工具破滅了|『大公報』11月3日「遠東統一宣言之草案」||
 |/|/|1922|今以汽車爲公衆之交通工具。則不可不硏究汽車是否爲最經濟的交通的方法。|『申報』5月6日「『公共汽車』之研究」||

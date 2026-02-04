@@ -4,7 +4,7 @@ permalink: y/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Y"
-last_modified_at: 2026-02-04T03:40:36+00:00
+last_modified_at: 2026-02-04T04:19:42+00:00
 description: Antedatings, errata and addenda to letter Y of 近現代漢語辭源
 layout: main
 font_key: y
@@ -18,7 +18,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
 眼看|/|adverb|c1681 (a1661)|米價日騰一日眼看又是荒年|『醒世姻緣傳·第九十三囘』12 (xlvi)||
 眼看着|/|preposition|1851 (a1830)|眼看着蠹等放開手膽脧我脂膏|劉衡『庸吏庸言·革除蠹弊稟』17 (TT 4349)||
-堰塞湖|/|NP|1903|大別之則分凹地湖堰塞湖二種|『中學地文教科書』86||
+堰塞湖|/|noun|1903|大別之則分凹地湖堰塞湖二種|『中學地文教科書』86||
 陽極|/|noun|1866|Anode … 電氣之陽極|Lobscheid, _English and Chinese Dictionary_, i, s.v.||
 |/|/|1868|陽氣􁒋於陽極、陰氣􁒋於陰極、欲令隔斷不通、則電氣不能放出矣|Martin『格物入門·卷四·電學上章』5 (科10 9956)||
 野蠻(3)|/|adjective|1865 (1864)|後󵔻導漸開、此等野蠻不義之例、漸廢、至今殆絶矣|Martin『萬國公法·卷二』21 (04013)||

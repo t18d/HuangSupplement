@@ -4,7 +4,7 @@ permalink: h/
 seo:
   type: Dataset
   name: "HuangSupplement: letter H"
-last_modified_at: 2026-02-01T10:31:35+00:00
+last_modified_at: 2026-02-04T04:19:42+00:00
 description: Antedatings, errata and addenda to letter H of 近現代漢語辭源
 layout: main
 font_key: h
@@ -23,7 +23,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |/|/|1920|一講自由戀愛。男女個個便放縱得不得了。這是不會有的⋯一個人不能不合羣。|『時事新報』1月20日「通訉」|norm established|
 |/|/|1925|班上是何等的看重他而瞧不起那位考第一而不愛說話不合羣的李稚生！|『京報』6月2日「記曹仲華」|policing the norm|
 合作|cooperate|verb|1908|Co-operating, 合力的, 合作的.|『英華大辭典』s.v. Synergetic|The sequence 協力/通力/同力合作 > 合作 is posited.|
-黑人|/|NP|c1589|黒人洗白最爲難 󽽺望荣華命又􂱉|Ruggieri, _Chinese Poems_, 21 (Jap. Sin. II-159)||
+黑人|/|noun|c1589|黒人洗白最爲難 󽽺望荣華命又􂱉|Ruggieri, _Chinese Poems_, 21 (Jap. Sin. II-159)||
 黑猩猩|chimpanzee|noun|1903|黑猩猩同爲阿非利加之產。大如小兒。毛色黑。顏色黃。|『新編動物學』23+||
 很|/|adverb|a1321|如今地廣民衆事務哏多|『元典章·朝綱一』1 (014275–314)||
 |/|/|a1388|那幾个守户閑官老秀才它毎都哏利害|『老生兒』1 (12336)||

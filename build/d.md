@@ -4,7 +4,7 @@ permalink: d/
 seo:
   type: Dataset
   name: "HuangSupplement: letter D"
-last_modified_at: 2026-02-04T00:59:16+00:00
+last_modified_at: 2026-02-04T04:19:42+00:00
 description: Antedatings, errata and addenda to letter D of 近現代漢語辭源
 layout: main
 font_key: d
@@ -19,7 +19,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 打胎|/|verb|1872|不然何卒以破血打胎終久而不知變計耶|『申報』5月23日「四醫斃一婦」|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=打胎)|
 打消|/|verb|1905|各同鄉會紛紛謀抵制責會館幹事請公使打消之|『申報』12月17日「留日學生同盟退校之原因」||
 |/|/|1906|縱下爲打消革命風潮計。上爲保護自身權利計。而强意立憲。然日後所頒之憲法。必非國民之公意。|『新民叢報』4(11)(83), 71||
-大陸島|/|NP|1904|大陸島據地質學斷之。有距大陸分離期尙近⋯者。|『動物敎科書』50+||
+大陸島|/|noun|1904|大陸島據地質學斷之。有距大陸分離期尙近⋯者。|『動物敎科書』50+||
 大陸性氣候|/|NP|1902|氣候 乾燥酷烈。蓋大陸性氣候也。|『世界地理』222+||
 大西洋|(metonymic)|noun|1601|大西洋陪臣利瑪竇/奏爲貢獻土物事|Couvreur, _Choix de documents_, 82||
 大猩猩|gorilla|noun|1903|其中如大猩猩。猩猩。黑猩猩長臂猿等其形似人因名類人猿。|『新編動物學』23+||
@@ -32,7 +32,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 地基|/|noun|1583||_Dicionário Português-Chinês_ (Jap. Sin. I-198)||
 地球|/|noun|1602 (1600)|外三圈天球⋯內一圈地球分天地五州區境之略|Ricci「山海輿地全圖」in『月令廣義·首卷』73||
 地球儀|/|noun|1878|并製有小地球儀|『申報』6月21日「命題甚新」||
-地下水|/|NP|1903|地下水 雨水之一部。|『中學地文教科書』74||
+地下水|/|noun|1903|地下水 雨水之一部。|『中學地文教科書』74||
 典型(2)|(with -的)|adjective|1919|大抵希臘之悲劇⋯稱之爲個人的。甯不若稱爲典型的較爲確當。|『晨報』6月22日「歐洲戲曲之四時期」||
 |(without -的)|/|1921|阿爾志跋綏夫⋯在一九〇五年之前，已經寫出一個以性欲爲第一義的典型人物來.|魯迅「譯了『工人綏惠略夫』之後」2, in『小說月報』12/7||
 -點(2)|/|nominal bound root|1748 (c1744)|作自鳴鐘，按時鳴⋯一點黎明⋯九點止行人，凡輪哨依汎防官栅連派定，過二點則交代|!『噶喇吧紀略』178+||

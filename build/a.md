@@ -4,7 +4,7 @@ permalink: a/
 seo:
   type: Dataset
   name: "HuangSupplement: letter A"
-last_modified_at: 2026-01-22T07:10:04+00:00
+last_modified_at: 2026-02-04T04:19:42+00:00
 description: Antedatings, errata and addenda to letter A of 近現代漢語辭源
 layout: main
 font_key: a
@@ -30,7 +30,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 愛人(2)|/|noun|1908|One in love, 愛人, 相好, 情人|顏惠慶『英華大辭典』s.v. Lover|from Japanese: 1862 (Nikkoku); cf. 雙解英和大辭典 s.v.|
 |/|/|1909|原來我方纔腦中的幻象。却變了眼前的眞境。我那愛人來了。我那愛人來了。|『民吁日報』10月23日「古井波」||
 安樂椅|/|noun|1905|安樂椅鐵床。安置得齊整。|『閨秀救國小說 女媧石』乙卷, 8|from Japanese: a1891 (NDL)|
-安樂椅子|/|NP|1912 (1910)|at the foot of your easy chair … 於安樂椅子之下|『英文書翰鑰』208|from Japanese: 1881 (NDL)|
+安樂椅子|/|noun|1912 (1910)|at the foot of your easy chair … 於安樂椅子之下|『英文書翰鑰』208|from Japanese: 1881 (NDL)|
 安全島|/|/|1930|/|/|from Japanese: 1918 (Yomidasu)|
 安全燈|/|/|1903|/|/|from Japanese: 1872 (NDL)|
 安全地帶|/|/|1930|/|/|from Japanese 安全地𭘧: 1890 (NDL)|

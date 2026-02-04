@@ -4,7 +4,7 @@ permalink: x/
 seo:
   type: Dataset
   name: "HuangSupplement: letter X"
-last_modified_at: 2026-02-03T13:41:03+00:00
+last_modified_at: 2026-02-04T04:19:42+00:00
 description: Antedatings, errata and addenda to letter X of 近現代漢語辭源
 layout: main
 font_key: x
@@ -36,7 +36,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 小時|/|noun|1631|法以前推得一日。或二十四小時。行五十九分〇八秒二十微。|Rho『崇禎曆書·日󱄊曆指』26bis (Oxon. Sinica 897)||
 效率(1)|/|noun|1903|/|/|The physics textbook cited by Sun (2023) as from 1901 has a preface dated 1903.|
 效率(2)|/|noun|1915|盡之之道唯何,曰必自增進人事效率始.|『科學』1/11「人事之效率」1209+||
-協議離婚|/|NP|1907|若協議離婚時。或妻死時。求返還其前日之贈物者槪無之。|『漢譯民法講義』105||
+協議離婚|/|VP|1907|若協議離婚時。或妻死時。求返還其前日之贈物者槪無之。|『漢譯民法講義』105||
 心理|/|noun|1872|雖彼之󵔻學天文格物心理各學亦皆有所以懲教道之假訛焉|『申報』11月28日「附論西教興廢來書」||
 心態|/|noun|1919|高低無定。心態屢遷。|『祈禱發𢕄總論』61||
 新聞自由|/|NP|1907|一千八百二十二年⋯停止聯合國會。束縛新聞自由。勵行警察權。|蔣羲明譯『歐洲列强近世外交􀼊史』49|from Japanese: 新聞の自由 (Shindō 1907)|

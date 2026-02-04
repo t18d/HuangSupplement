@@ -4,7 +4,7 @@ permalink: q/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Q"
-last_modified_at: 2026-02-03T13:22:44+00:00
+last_modified_at: 2026-02-04T04:19:42+00:00
 description: Antedatings, errata and addenda to letter Q of 近現代漢語辭源
 layout: main
 font_key: q
@@ -48,7 +48,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 牆腳|/|noun|1844|Foundation, 基址 … 墻腳|Williams『英華韵府歷階』s.v. Foundation||
 侵入|/|verb|1868|to invade … as a disease a system, 侵入 … 侵害|Lobscheid『英華字典』s.v. Invade|metaphorical|
 侵襲|/|verb|1847|to come upon, to attack, 侵襲|Medhurst, _English and Chinese Dictionary_, s.v. To come||
-輕工業|/|NP|1919|幼年工得從事輕工業但以不妨碍其敎育及體質之發達爲限|『京報』7月21日「保護勞工法案」||
+輕工業|/|noun|1919|幼年工得從事輕工業但以不妨碍其敎育及體質之發達爲限|『京報』7月21日「保護勞工法案」||
 |/|/|1923|但輕工業及工人󴜴形。確有進境。|『盛京時報』2月8日「蘇俄採用新經濟政策之經過」||
 傾銷(1)|(neutral)|verb|1916|遠渡重洋，傾銷於歐美諸邦，奪取獨步世界之日本鑵藏蜜柑市場⋯不虞有生產過剩之患矣|『新青年』1/5「冇柑及紅橘之鑵藏試驗」35||
 |(negative)|/|1928|當其國內銷路不旺時、卽貶價傾銷於國外、以爲此乃其生產過多時之最後一著、然吾汽車界諸人、不當存此思想|『時事新報』12月10日「美國汽車輸出觀」||
