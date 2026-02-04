@@ -4,7 +4,7 @@ permalink: a/
 seo:
   type: Dataset
   name: "HuangSupplement: letter A"
-last_modified_at: 2026-02-04T04:19:42+00:00
+last_modified_at: 2026-02-04T08:50:35+00:00
 description: Antedatings, errata and addenda to letter A of 近現代漢語辭源
 layout: main
 font_key: a
@@ -37,6 +37,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 安全第一|/|/|1930|/|/|from Japanese: 1911 (Asahi)|
 安全剃刀|/|/|1930|/|/|from Japanese: 1886 (Nikkoku)|
 安全係數|/|/|1958|/|/|from Japanese: 1895 (NDL)|
+案件|/|noun|1642|其餘案件有應速結的着卽訊奏不得滯淹|『可經堂集·卷二』22 (SB/810.69/2813)||
 暗流|/|/|1903|/|/|from Japanese: 1894 (Asahi)|
 暗生植物|/|NP|1887|Cryptogam{e}æ 暗生植物|Fryer『西藥大成藥品中西名目表』18|dog-Latin: Kretschmer §31|
 暗示|/|/|1903|/|/|from Japanese: 1879 (Yomidasu)|
