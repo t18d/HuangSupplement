@@ -4,7 +4,7 @@ permalink: c/
 seo:
   type: Dataset
   name: "HuangSupplement: letter C"
-last_modified_at: 2026-02-04T14:33:16+00:00
+last_modified_at: 2026-02-05T06:37:43+00:00
 description: Antedatings, errata and addenda to letter C of 近現代漢語辭源
 layout: main
 font_key: c
@@ -38,11 +38,13 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 出版|/|verb|1879|今日內務省出版之書層出不窮無一人為此事|黃遵憲「己卯筆話」in『大河內文書』v, 2396||
 出版社|/|noun|1919|二十八號同紳商各界代表謁見總理詢問外交情形⋯並組織外交雜誌出版社|『益世報』5月1日「山東旅京各校代表之大聚會」|from Japanese: 1876 (NDL)|
 出版自由|/|NP|1899|西儒彌勒約翰曰人羣之進化莫要於思想自由言論自由出版自由|任公「飲冰室自由書」in『清議報』xxv, 15||
+出口(3)|export|verb|1735|總令僅足敷用不使有餘則於𫎇古日用既無不便而出口鐡貨亦不致浮多滋弊|『雍正朝漢文硃批奏摺彙編』xxvii, 648+|This is 出口(5) to 出口(3) in transition (Han-ta's numbering).|
 初戀|/|noun|1904|「思想之變遷與初戀」|『三十三年落花夢』1||
 傳教士|/|noun|1857|/|/|Unless we can find other early exx., its presence in 正道題綱 is a sign of forgery.|
 傳統(1)|/|adjective|1913|㩀暗殺者理由。謂羅氏破美國傳統慣例。故死之以爲預防。|『神州日報』1月14日「美總統選舉問題」||
 傳統(2)|/|noun|1910|若夫美之於南美諸國.則既有傳統的約束…又以…劃出一新紀元.|『外交報』277「論遠東與南美」14|from Japanese: 1895 (CHJ)|
 |/|/|1911|利用列強之利害關係使之互相牽制 此種手段爲清國政治家傳統的政策|『神州日報』5月4日「日紙之四國借欵談」||
+船長|/|noun|a1162 (a265)|張揖曰⋯榜人舩長也|『漢書注·傳二十七上』9 (9592)||
 詞彙(1)|vocabulary (in all senses)|collective noun|1921|這一步蓄積詞彙的工夫，並不是呆板强記所可敷衍⋯一種書有一種書習用的詞彙|『民國日報』10月13日「作文法講義」+|Previously only 名詞彙; as it's a collective noun, 詞彙化 is a solecism for 成詞 or 詞化.|
 詞彙(2)|lexicon|/|1934|各種語言的「詞彙」(lexicon),彼此間就因之有分歧錯雜的現象.|張世祿『語言學概論』85||
 詞彙學|/|noun|1921|聲韻學，詞彙學，文法學，是國語的三大要素。|『實用國語文法下編』192||
