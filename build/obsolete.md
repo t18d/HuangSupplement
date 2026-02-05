@@ -4,7 +4,7 @@ permalink: obsolete/
 seo:
   type: Dataset
   name: "Appendix: Obsolete Words"
-last_modified_at: 2026-02-04T04:19:42+00:00
+last_modified_at: 2026-02-05T12:23:22+00:00
 description: Antedatings, errata and addenda to obsolete words in Huang He-ch'ing's lexicon
 layout: main
 font_key: obsolete
@@ -28,11 +28,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 泊船|/|verb|1857|令毋許泊船瓦巴勒索、慮此船一泊彼處、水手逃亡、船貨遺失|『六合叢談』1/8, 9||
 哺乳瓶|/|/|1915|/|/|from Japanese: 1884 (NDL)|
 粉乳|/|/|1936|/|/|from Japanese: 1877 (NDL)|
-風槍|/|noun|1723|八月二十五日大殿首領何進孝交風鎗二十二桿，着查抹收拾。|!『清宮內務府造辦處檔案總匯』i, 158||
 乾濕計|/|/|/|/|/|from 乾湿計 (かんしつ‐けい)|
 海權|/|noun|1885||『海戰新義』|postdating|
-甲板船|/|NP|1653|乘甲板舡一只，航海致書禮於臣|!胡世安, memorial||
-|/|/|1662|率十二艘甲板船及兵丁，前來協助大清國征剿鄭逆|!明安達禮 et al., memorial||
 描寫(2)|describe|verb|/|/|/|superseded by [描述](https://t18d.github.io/HuangSupplement/#:~:text=描述)|
 納入金|/|/|1907|/|/|from Japanese: 1880 (Yomidasu)|
 捺印|/|/|1906|/|/|from Japanese: 794 (Nikkoku)|
@@ -46,11 +43,9 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 嚢蟲|/|/|1922|/|/|from Japanese 嚢虫: 1870 (NDL)|
 腦病|/|/|1903|/|/|from Japanese 脳病: 1869 (NDL)|
 腦脊髓|/|/|1909|/|/|from Japanese 脳脊髄: 1870 (NDL)|
-聖教(3)|Christianity|noun|c1586|時把聖賢書讀罷 又將聖教度幾曹|!Ruggieri, _Chinese Poems_||
 事實(5)|/|noun|1902|知有事實而不知有理想|『新民叢報』1「新史學」44+||
 頭腦勞動|/|/|1929|/|/|from Japanese 頭脳労働: 1902 (NDL)|
 外動詞|/|noun|1914 (1913)|由主動詞而有所施及者。曰外動詞。|潘武『國文教科書後編』40|from 外動字|
 萬日略|gospel|noun|?1632||Aleni『口鐸日鈔』||
 因基|/|noun|1924|在普通的二對因子的遺傳現象裏每對因子的物質基本,叫做因基(Gene)|陳楨『普通生物學』209||
-引水人|/|noun|1777|仍將某船起卸棉花若干，開明數目，交該船買辦、引水人等|!『達衷集』151||
 X線|/|/|1906|/|/|from Japanese: 1896 (NDL)|
