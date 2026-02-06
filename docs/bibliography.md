@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2026-02-06T07:24:15+00:00
+last_modified_at: 2026-02-06T12:39:16+00:00
 layout: anchor
 ---
 # Bibliography
@@ -157,6 +157,7 @@ documents._
 - ⸻, '中国語における日本語「手続」の借用過程', 日中語彙研究, 11 (2021), 143–163.
 - Tola, Gabriele, _John Fryer and_ The Translator’s Vade-mecum (Leiden, 2021), 237–79. \[暗生植物, 秤桿, 打胎, 電鍍, 墊圈, 發動, 廢水, 功率, 果汁, 焊錫, 花邊, 花梗, 減速, 烙鐵, 硫酸, 漏斗, 泥土, 鉗子, 臍帶, 哨子, 石灰水, 石墨, 石蕊, 手動, 水表, 外徑, 蔗糖]
 - 佟藝辰, '「分詞」考源', 或問, 46 (2024), 117–28.
+- Uchida Keiichi, '從「黑茶」到「紅茶」', in 六合叢談——附解題·索引 (Shanghai, 2006), 80 (but see [f265af2](https://github.com/t18d/HuangSupplement/commit/f265af2c0e84598d773735f1d49791651ecf0f3e)). \[紅茶]
 - 王昌, '清末「海權」概念考釋', 河北學刊, 41/6 (2021), 72.
 - 王傳龍, '句讀\[dú]不是句讀\[dòu]', 語言研究, 40/3 (2020), 82–3.
 - 王鴻, 重建意義之網：清末民初的觀念革命與思想變遷 (Shanghai, 2025), 209. \[組織(3)]
