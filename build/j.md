@@ -4,7 +4,7 @@ permalink: j/
 seo:
   type: Dataset
   name: "HuangSupplement: letter J"
-last_modified_at: 2026-02-07T13:08:36+00:00
+last_modified_at: 2026-02-07T14:36:07+00:00
 description: Antedatings, errata and addenda to letter J of 近現代漢語辭源
 layout: main
 font_key: j
@@ -61,6 +61,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 教育者|/|noun|1866|Educator, 教養者 … 教育者|Lobscheid『英華字典』s.v. Educator||
 接辦|/|verb|c1833|而其管理印度等處地方之事、仍容公司接辦|Gützlaff『東西洋考每月統記傳』癸巳年十一月「英國之東地公司」||
 階級鬥爭|/|idiom|1906|階級鬬爭之幕既開⋯然富紳者有政府警察軍隊學人僧侶等爲之援助者也。|『民報』5「萬國社會黨大會略史」80||
+接吻|/|verb|a1644 (1372)|将薄世俗之交漓而与山交乎将山交󾦅接吻而有情爱乎|『華陽貞素集·卷一·交山記』31 (790774)||
 接種|/|verb|1898|傳至日本互相接種其効昭然|『申報』7月11日「豫防痘症篇」||
 結果(1)|(with inanimate subject)|noun|1900|論及中國時𫝑提督謂中國此次戰爭將來結果必如美國初議|『申報』7月27日「美員淸議」||
 結果(2)|/|conjunction|1905|及觀戰臺一經砲攻結果遂致戰艦上之消息不靈|『申報』8月7日「西人論戰艦觀戰臺之不能再用」||
@@ -77,6 +78,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 經典序錄|/|NP|c1325 (a1287)|經典序錄河間人大毛公為詩故訓傳|王應麟『困學紀聞·卷之三·詩』1 (11340)||
 經濟(4)|budget|noun|1903|杭州改進學社創社伊始經濟困難時鍾君在潯與其學生聞之同深感󿺩籌集補助金得百三十元|『國民日日報』11月2日「國民日日報主筆先生大人閣下􂔪讀」||
 精品|/|noun|Sung|/|/|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=精品)|
+晶狀體|/|noun|1919|󼦍珠又名󼦍鏡 (晶狀體) Lens. 位在󼦍簾之後.|『哈氏生理學』359+|This is the 7th edn; the word wasn't in the 5th edn (哈氏體功學).|
 痙攣|/|noun|1902|二、痙攣症筋不能任意収縮之病或手足强直或痙攣􂳈搦患者知覺全失|何燏時譯補『中學生理教科書』38||
 靜物|/|noun|1915|科目有靜物寫生石膏模型寫生人體寫生戶外寫生等|『申報』8月14日「東方畫會露佈」||
 劇場|/|noun|1566 (a1559)|此巳是󸥥境劇塲寤則不復憶散則無何有矣|王慎中『遵巖先生文集·卷之三十七·與􁜕東𪷆』27 (集024-0013)|previously 戲劇場 or 雜劇場|
