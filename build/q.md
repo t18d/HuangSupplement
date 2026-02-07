@@ -4,7 +4,7 @@ permalink: q/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Q"
-last_modified_at: 2026-02-04T04:19:42+00:00
+last_modified_at: 2026-02-07T06:03:07+00:00
 description: Antedatings, errata and addenda to letter Q of 近現代漢語辭源
 layout: main
 font_key: q
@@ -27,7 +27,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 起訴|/|verb|1895 (1887)|/|黃遵憲『日本國志·刑法志一』||
 企業|/|noun|1903|其他中小兩企業之可與大企業相競爭者尙多。|『最新經濟學』116+|previously only as verb; being modified by adjectives & quantifiers signals conversion to noun.|
 企業家|/|noun|1899|往來中國.與中國企業家<span class="warichu">謀營商業者</span>及商人.相結托⋯|『湖北商務報』15「中日經濟關繫」11|original in _Osaka Asahi Shinbun_|
-起義(2)|/|verb|1833|亦有人起義以應其隆奈者也。|『東西洋考每月統記傳』癸巳十二月, 79||
+起義(2)|/|verb|1833|亦有人起義以應其隆奈者也。|Gützlaff『東西洋考每月統記傳』癸巳年十二月, 79||
 汽車(2)|/|noun|1903|近有法人与英人及他国人合擬賭賽。汽車由法京巴黎斯至日斯巴尼亜京城馬得利脱。|『申報』5月27日「賽車肇事」||
 氣管炎|/|noun|1887|氣管炎 Bronchitis|鄺其照『華英字典集成』603||
 契據|/|noun|1872|(document) 契 … 契據|Doolittle『英華萃林韻府』s.v. Deed||
@@ -54,6 +54,6 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |(negative)|/|1928|當其國內銷路不旺時、卽貶價傾銷於國外、以爲此乃其生產過多時之最後一著、然吾汽車界諸人、不當存此思想|『時事新報』12月10日「美國汽車輸出觀」||
 權|right|noun|a1849|英吉利王有󱸄兵講和的權.􁈥領王無有此權.|『海國圖志·󾼩五十二夷󴜴備采下』21 (地900/875.3)|translating 'the right of making war and peace'|
 犬牙|/|noun|c1634|󲄠牙四⋯西國名犬牙。形之𨦟利似之。|『泰西人身說㮣·卷上·󰣋部』3 (Chinois 5130)||
-群島|/|noun|1833|五島⋯共稱呂宋羣島|『東西洋考每月統計傳』癸巳年六月「東南州島嶼等形勢綱目」||
+群島|/|noun|1833|五島⋯共稱呂宋羣島|Gützlaff『東西洋考每月統記傳』癸巳年六月「東南州島嶼等形勢綱目」||
 群像(1)|(as an artwork)|noun|1915|門之巓東方民族之羣像在焉|『神州日報』5月11日「巴拿馬紀念會塲之五光十色」|from Japanese 群像: 1902 (NDL)|
 群眾|(as opposed to a political party)|noun|1903|某黨所以能制多數者。因於社會中誘一部之群衆屬於同等耳。|『歐美政黨論』7||

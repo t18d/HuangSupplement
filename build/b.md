@@ -4,7 +4,7 @@ permalink: b/
 seo:
   type: Dataset
   name: "HuangSupplement: letter B"
-last_modified_at: 2026-02-07T03:36:19+00:00
+last_modified_at: 2026-02-07T06:03:07+00:00
 description: Antedatings, errata and addenda to letter B of 近現代漢語辭源
 layout: main
 font_key: b
@@ -140,7 +140,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 兵營|/|noun|1822|CAMP, 營 … 兵營 … 營寨|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. CAMP||
 病變|/|noun|1908|The transformation of a disease into another, (醫) 病症, 病變| 顏惠慶『英華大辭典』s.v. Diadexis||
 病毒|/|noun|1900|殘餘之繭所出之蛾.大抵遺傳病󵦠.|『農學報』cvii「試驗蠶病成蹟報第三」19||
-摒絕|/|verb|1835|是以摒絕塑像、真心崇拜萬物之主宰|『東西洋考每月統記傳』乙未年六月「俠膽」|from 屏絕|
+摒絕|/|verb|1835|是以摒絕塑像、真心崇拜萬物之主宰|Gützlaff『東西洋考每月統記傳』乙未年六月「俠膽」|from 屏絕|
 並列|/|verb|1847|Collateral, running parallel, 並列|Medhurst, _English and Chinese Dictionary_, s.v. Collateral+||
 摒棄|/|verb|c1715 (c1683)|丹砂白雉總摒棄檳榔萬斛無所須|『百尺梧桐閣集·遺稿詩十卷·送孫編修同周儀部奉使安南』(T5463/3140)|from 屏棄|
 並行(2)|/|verb|1869|Concurrent, acting in conjunction … 同行 … 並行|Lobscheid『英華字典』s.v. Concurrent||

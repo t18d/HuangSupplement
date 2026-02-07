@@ -4,7 +4,7 @@ permalink: j/
 seo:
   type: Dataset
   name: "HuangSupplement: letter J"
-last_modified_at: 2026-02-04T04:19:42+00:00
+last_modified_at: 2026-02-07T06:03:07+00:00
 description: Antedatings, errata and addenda to letter J of 近現代漢語辭源
 layout: main
 font_key: j
@@ -38,7 +38,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 記者|/|noun|1893|翌日東京各日報社記者又宴於芝山紅葉館|『申報』7月28日「公讌志盛」||
 |/|/|1895 (1887)|/|『日本國志』||
 價値(2)|value|noun|1822|Value, that which a thing is worth, 値 … 價値|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. Value|cf. s.v. Price|
-|/|/|1837|󼜊年所出之土産、價値約共計銀九萬三千五百七十四萬員。|『東西洋考每月統記傳』丁酉十一月「法蘭西國志畧」147+|What distinguishes this from Han-ta's 價値(1) is its being an estimate & not a price you can trade at.|
+|/|/|1837|󼜊年所出之土産、價値約共計銀九萬三千五百七十四萬員。|Gützlaff et al.『東西洋考每月統記傳』丁酉年十一月「法蘭西國志畧」147+|What distinguishes this from Han-ta's 價値(1) is its being an estimate & not a price you can trade at.|
 價値(3)|worth|/|1902|/|/||
 減速|/|verb|1889|Ease 減速|Fryer『汽機中西名目表』17||
 間接稅|/|noun|1901|間接稅者.則以賣主而轉嫁於買主.|錢恂『財政四綱·租稅』2+||
@@ -56,7 +56,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |church|/|c1855 (1637)|其他地方若有敎堂妖書。盡行拆毁焚除。|『聖朝破邪集·卷二』37 (307-0094)||
 教育|/|verbal noun|1632|󼉅㓜教育又齊家之一支也|韓霖「童幼教育序」1 (Chinois 3389)||
 教育者|/|noun|1866|Educator, 教養者 … 教育者|Lobscheid『英華字典』s.v. Educator||
-接辦|/|verb|c1833|而其管理印度等處地方之事、仍容公司接辦|『東西洋考每月統記傳』癸巳十一月「英國之東地公司」||
+接辦|/|verb|c1833|而其管理印度等處地方之事、仍容公司接辦|Gützlaff『東西洋考每月統記傳』癸巳年十一月「英國之東地公司」||
 階級鬥爭|/|idiom|1906|階級鬬爭之幕既開⋯然富紳者有政府警察軍隊學人僧侶等爲之援助者也。|『民報』5「萬國社會黨大會略史」80||
 接種|/|verb|1898|傳至日本互相接種其効昭然|『申報』7月11日「豫防痘症篇」||
 結果(1)|(with inanimate subject)|noun|1900|論及中國時𫝑提督謂中國此次戰爭將來結果必如美國初議|『申報』7月27日「美員淸議」||

@@ -4,7 +4,7 @@ permalink: h/
 seo:
   type: Dataset
   name: "HuangSupplement: letter H"
-last_modified_at: 2026-02-06T14:17:11+00:00
+last_modified_at: 2026-02-07T06:03:07+00:00
 description: Antedatings, errata and addenda to letter H of 近現代漢語辭源
 layout: main
 font_key: h
@@ -33,7 +33,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 紅寶石|/|noun|1521 (1475)|二十三日郭景於前項木櫃內取出紅寳石頂子青紵󺹡𡯎隴㡌一頂|『王端毅奏議·卷三』8+ (110410)||
 紅茶|/|noun|1844|伏思河口各商紅茶一年\[ . ]得此時齊集既有謠言勢必懷疑不前|!Lond. Or. 7418||
 紅葡萄酒|/|NP|1731|雍正四年五月復遣使進貢⋯十二瓶白葡萄酒十二瓶紅葡萄酒|『廣東通志·卷五十八』14 (地330/33)||
-侯爵|/|noun|1834|已󰺧世襲侯爵、水師提督羅拿碧一位來粤、當正監督之任|『東西洋考每月統記傳』甲午年四月「新聞」52||
+侯爵|/|noun|1834|已󰺧世襲侯爵、水師提督羅拿碧一位來粤、當正監督之任|Gützlaff『東西洋考每月統記傳』甲午年四月「新聞」52||
 虎牙|/|noun|c1634|󲄠牙四。上下各二。居於四𠁅。|『泰西人身說㮣·卷上·󰣋部』3 (Chinois 5130)||
 花邊|/|noun|1866|an embroidered border, 花邊|Lobscheid『英華字典』s.v. Border||
 花梗|/|noun|1887|Myrospermum pedicellatum 小花梗米羅司卑麻|Fryer『西藥大成藥品中西名目表』41||
@@ -47,5 +47,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 黃色(2)|/|adjective|1944|題解：「黃色新聞」卽「桃色新聞」，內容是緋色的|『上海社會月報』1「黃色新聞」17|postdating|
 黃油|/|noun|1872|Butter, 黃油|Doolittle『英華萃林韻府』ii, 321||
 匯率|/|noun|1902|於英國收受之時.動部增加.則稱曰匯率騰貴.|『湖北商務報』123「銀行論」20+|translating 爲換ノ步合 in Tajiri Inajirō (1893)|
+會員|/|noun|c1889 (1887)|觀美術協會⋯其會員目凡四曰名譽曰特別曰贊助曰通常|『游厯圖經餘記·卷三』12–3 (地980/895)||
+活塞|/|noun|1868|輪設把柄、持而搖之、則二活塞上下提動矣、|Martin『格物入門·卷二』14+ (184@34@2)||
 活用|/|verb|a1368 (1332)|活用 借故󶟁於語中以順道今󶟁|『文筌·用󶟁十四』38+ (14585)||
 貨幣本位|/|noun|1896|故當與列國訂約.爲之限制.維持現時之貨幣本位.斯爲上筞.|『時務報』x「麥見󿬓氏幣制論」25|original in _Tokyo Nichi Nichi Shimbun_|

@@ -4,7 +4,7 @@ permalink: m/
 seo:
   type: Dataset
   name: "HuangSupplement: letter M"
-last_modified_at: 2026-02-01T13:30:37+00:00
+last_modified_at: 2026-02-07T06:03:07+00:00
 description: Antedatings, errata and addenda to letter M of 近現代漢語辭源
 layout: main
 font_key: m
@@ -16,7 +16,7 @@ edit_path: dict/m.csv
 
 Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
-毛(1)|/|noun|1834|􀭜狸皮 每張〩毛至〡元|『東西洋考每月統記傳』甲午年正月「省城洋商⋯市價」2||
+毛(1)|/|noun|1834|􀭜狸皮 每張〩毛至〡元|Gützlaff『東西洋考每月統記傳』甲午年正月「省城洋商⋯市價」2||
 冒險精神|/|noun|1905 (1903)|至此而冒險精神。乃爲之一挫矣。|『空中飛艇』3||
 美學|/|noun|1902|美學者.論事物之美之原理也.|『敎育叢書二集·哲學小辭典』1|postdating: first reference to a branch of academic philosophy outside a Japanese course catalogue or book title|
 迷信|/|verb|1897|誠󶴛剛暴無謀.奮激土人迷信宗教之心.|『時務報』xix「論歐洲現󴜴」23||
