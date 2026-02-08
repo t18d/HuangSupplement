@@ -4,7 +4,7 @@ permalink: j/
 seo:
   type: Dataset
   name: "HuangSupplement: letter J"
-last_modified_at: 2026-02-07T14:36:07+00:00
+last_modified_at: 2026-02-08T12:07:30+00:00
 description: Antedatings, errata and addenda to letter J of 近現代漢語辭源
 layout: main
 font_key: j
@@ -75,6 +75,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |/|/|c1900 (1880)|法將拿破崙提精兵四萬來寇士軍與之會戰於金字塔下|岡本監輔『萬國史記·卷五·埃及國記』4+|a Shanghai edn|
 |/|/|c1897|法王拿破侖第一起大兵來攻。土人會戰於金字󶅁下。|『時務通攷·卷二十二·史學八·埃及』9 (史720/1040)||
 進步|progressive|adjective|1907|要之此次政變即平素提倡改革之進步的政治家獲勝利之現象|『盛京時報』9月18日「日使對於張袁入軍機之評論」|postdating; note how 之 & 的 are _not_ interchangeable.|
+進口(1)|enter a port|verb|c1633 (1626)|㩀清河縣查報未進口囬空粮船三千一百六十四隻是進口之船且不及半能無􁱑新運妨國計乎|『南河志·卷四』42+ (A00394)|Han-ta's entry is weak.|
+進口(2)|imoort|verb|1782|安南商船貨稅進口出口俱以七折徵收|『戶部則例·卷七十三稅則』1+ (PKU)|Documents about _ch'ang shui_ can't be used since that was a domestic tax.|
 經典序錄|/|NP|c1325 (a1287)|經典序錄河間人大毛公為詩故訓傳|王應麟『困學紀聞·卷之三·詩』1 (11340)||
 經濟(4)|budget|noun|1903|杭州改進學社創社伊始經濟困難時鍾君在潯與其學生聞之同深感󿺩籌集補助金得百三十元|『國民日日報』11月2日「國民日日報主筆先生大人閣下􂔪讀」||
 精品|/|noun|Sung|/|/|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=精品)|
