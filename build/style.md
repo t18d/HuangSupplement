@@ -4,7 +4,7 @@ permalink: style/
 seo:
   type: Guide
   name: A Stylistic Appendix
-last_modified_at: 2026-02-08T02:52:24+00:00
+last_modified_at: 2026-02-08T03:52:16+00:00
 description: The stylistic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -16,17 +16,16 @@ layout: no-anchor
 Registers are a blind spot of traditional [Mandarin
 lexicography](https://t18d.github.io/HuangSupplement/tally/).
 
-Due to a general unfamiliarity with the literature of the Republican period, for
-many everyday objects often the only expression known to the lexicographer is a
-**colloquialism**.
+Through a general unfamiliarity with the literature of the Republican period, for
+many everyday objects often the only expression that exists in the
+lexicographer's idiolect is a **colloquialism**.
 
-In HuangSupplement, a lemma is considered
-[obsolete](https://t18d.github.io/HuangSupplement/obsolete/) only when another
-word of the same **register** is preferred in current usage. Such is case with
-乾濕計, in place of which we tend to use 濕度計 on the analogy of 溫度計.
+A word can also become associated with careless writers, including
 
-The same, however, couldn't be said for 塵拂. It's the only word suited to
-**literary usage** for what one might call 撣子 in vulgar speech.
+1. bureaucrats who exaggerate whatever they do;
+2. writers who didn't master Mandarin before they start publishing;
+3. writers who borrow from Japanese in abundance due to (2);
+4. writers who translate English terminology in broken Mandarin due to (2).
 
 &nbsp;  
 <!-- Anything not in the table must be before this comment. -->
