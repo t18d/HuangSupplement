@@ -4,7 +4,7 @@ permalink: k/
 seo:
   type: Dataset
   name: "HuangSupplement: letter K"
-last_modified_at: 2026-01-16T13:07:34+00:00
+last_modified_at: 2026-02-08T14:34:06+00:00
 description: Antedatings, errata and addenda to letter K of 近現代漢語辭源
 layout: main
 font_key: k
@@ -26,6 +26,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 考慮|/|verb|1902|此事雖似末􁄬.當學堂施設之初.最要考慮者也.|『東遊叢錄·函札筆談』117|letter by Japanese published in a Chinese book|
 |/|/|1905|常挈兩物而加攷慮而此攷慮之中即有以發見彼此短長之所在|『新民叢報』63「辨論與受用」26||
 科學|/|adjective|1914|聚百十不科學無條理之人日發生不痛不癢不達時勢之議論|『時事新報』12月4日「清朝復辟案之反響」|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=科學)|
+可可(2)|/|noun|a1844|其國出紅木、加非、可可<span class="warichu">兩樣係飲物之料，比茶水更有滋味</span>|!『萬國地理全集·卷三十六』350||
 可能|/|auxiliary verb|1792|若於壩根接做石磯是否可能生根鞏固以資挑護之處|『南河成案續編·卷之一』15 (地724/84-2)|是否 marks the formation of a true auxiliary verb.|
 |/|/|1916|參衆兩院是否可能於八月一日正式開會|『神州日報』7月8日「中央今日之三大問題」||
 可能性(1)|potential|mass noun|1903|一切事物之未成時即可斷決當成何物何以故以有可能性故⋯運動之極盡可能性無復有餘是曰終極原因|『泰西學案』15||
@@ -34,6 +35,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |/|/|1905|却是有一件可喜的好事|『京話日報』2月23日「通州苦况」|first independent use|
 刻本|/|noun|Sung|近歲均州刻本輒改為仇香|陸遊『老學庵筆記』卷四||
 |/|/|2001|「再说黄正甫刊本{乃}《三国志传》<乃>今见《三国演义》最早刻本」|『明清小說研究』1, 125|刻本 & 刋本 are stylistic variants|
+空氣(1)|/|noun|1854|于是斯當波里火山、高二百十六丈、其噴出之力、較空氣重一百七十六倍|『地理全志下編·卷二』12+||
 塊|/|noun|c1844 (c1819)|吴市用洋錢以塊計毎󲱮分十󾉟󾉟分十分|包世臣『管情三義·己卯𡻕朝松江即事』xxii, 6 (05593)||
 會計學|/|noun|1906|就一部言。支一費必符鐵路會計學。斯爲不負股東。不負國家。|『新民叢報』92「所望於新任川督趙公」6||
 困難(2)|euphemism for poor|adjective|1903|夫人口旣稠密。故覺生活困難。在所不免。|作新社譯『支那人之氣質』153||
