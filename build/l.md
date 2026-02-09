@@ -4,7 +4,7 @@ permalink: l/
 seo:
   type: Dataset
   name: "HuangSupplement: letter L"
-last_modified_at: 2026-02-04T04:19:42+00:00
+last_modified_at: 2026-02-09T07:41:47+00:00
 description: Antedatings, errata and addenda to letter L of 近現代漢語辭源
 layout: main
 font_key: l
@@ -16,6 +16,7 @@ edit_path: dict/l.csv
 
 Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
+藍寶石|/|noun|c1647|四品 起花金帽頂上銜藍寳石一大顆中篏藍小寳石一顆|『大淸律集解附例·卷十二禮律』10+ (00972)|Also 小藍寳石.|
 浪漫主義|/|noun|1915|浪漫主義。Romanticism 當歐洲十八世紀末葉至十九世紀初年時。盛行於文藝上。|『東方雜誌』12/9「浪漫主義」5||
 勞動|/|verb|1902|若與人類勞動之力相較。則二千萬之馬力。適與一億之工人。每日勞動十二時⋯始可與之相抵。|『加藤弘之講演集第二冊·近世開化之四大要件』54|postdating: previously = labourer|
 勞動力|/|noun|1903|會社企業。乃合小資本爲大資本集小勞動力爲大勞動力者之總稱也。|『最新經濟學』118||
@@ -41,4 +42,5 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 邏輯(2)|non-normative|noun|1911|凡俄人所有滿洲之特權一切悉爲朴茲茅斯條約所掩此支那之邏輯(論理)也|『民立報』4月18日「英倫通信」||
 |normative|/|1912|至政務繁簡。不以􁒋散而生區別。此乃由嚴格邏輯所得之斷案。|『民立報』4月24日「論行政系統」||
 邏輯學|/|noun|1915|近代學術俱重歸納邏輯亦然彌爾邏輯學突過前人卽以此也|『靑年雜誌』1/3「通信」1||
+羅盤|/|noun|a1538|天界寺前两行舖賣東賣西⋯地羅盤裏一枚針㝎南㝎北|『維楨錄·天界寺』227||
 螺旋(1)|/|noun|1612|弦之竟軸而得一󽖹旋之墨。因󽖹旋之墨而立之𤗼。爲󽖹墻。墻之間而得󽖹旋之溝。爲󽖹溝。|De Ursis－徐『泰西水法·卷之一』3 (13813)||
