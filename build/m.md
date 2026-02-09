@@ -4,7 +4,7 @@ permalink: m/
 seo:
   type: Dataset
   name: "HuangSupplement: letter M"
-last_modified_at: 2026-02-07T06:03:07+00:00
+last_modified_at: 2026-02-09T13:24:42+00:00
 description: Antedatings, errata and addenda to letter M of 近現代漢語辭源
 layout: main
 font_key: m
@@ -33,3 +33,4 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 摩擦(1)|/|verb|1851|琥珀用燥羊毛.摩擦一邊.此摩擦處.便能拾芥.就是電氣發出.似磁石噏鐵一般.|Macgowan『博物通書·第一章』1||
 魔鬼|/|noun|c1584|天主知這天人驕慢犯󱳋。並𫤰衆天人逐出天󺕓之下而為魔󶓭。|Ruggieri『新編西竺國天主實錄』16+ (Jap. Sin. I-189)||
 磨牙|/|noun|c1634|盤牙二十⋯西國謂磨牙。󵎺形如磨。|『泰西人身說㮣·卷上·󰣋部』3 (Chinois 5130)||
+牧師|/|noun|c1832|?|Morrison『古聖奉神天啟示道家訓』||
