@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2026-02-10T07:20:11+00:00
+last_modified_at: 2026-02-10T12:27:05+00:00
 layout: anchor
 ---
 # Bibliography
@@ -99,7 +99,7 @@ documents._
 - 景凱旋, '漢語「種族」詞義的變遷', 西域研究, 1 (2017), 4.
 - Kiyochi Yukiko, '日中語彙交流における近代訳語の受容と変容 ―民国期の恋愛用語を中心に―', doctoral thesis, University of Tsukuba, 2015. \[三角關係, 三角戀愛]
 - 曠新年, '典型概念的變遷', 清華大學學報, 28 (2013), 128. \[典型(人物)]
-- Lai, John T. P., '1807, September 6: Robert Morrison’s Chinese Literature and Translated Modernity', in _A New Literary History of Modern China_ (Cambridge MA, 2017). \[?割禮, ?牧師, ?世界末日 (see [b23856e](https://github.com/t18d/HuangSupplement/commit/b23856e4b28e2c437aa3bd386557bf2aa29f355a))]
+- Lai, John T. P., '1807, September 6: Robert Morrison’s Chinese Literature and Translated Modernity', in _A New Literary History of Modern China_ (Cambridge MA, 2017). \[?割禮, ?世界末日 (see [b23856e](https://github.com/t18d/HuangSupplement/commit/b23856e4b28e2c437aa3bd386557bf2aa29f355a))]
 - 雷銀照, '「電氣」詞源考', 電工技術學報, 22/4 (2007), 4.
 - 李超, '論清末的法治概念', 樂山師範學院學報, 27/2 (2012), 111. \[法治]
 - 李玲, '從刊報未分到刊報兩分', 近代史研究, 3 (2014), 148. \[報紙]
@@ -200,6 +200,6 @@ documents._
 - 周振鶴, '「麵包」的最早出處 (2004)', in 知者不言 (Peking, 2008), 327.
 - 朱棠, '「教授」考釋——詞語的東亞環流與詞義變遷', 東北亞外語研究, 42 (2023), 66.
 - 莊欽永－周清海, '翻譯的政治：「皇」、「王」之論爭', 或問, 18 (2010), 91. \[教皇]
-- ⸻, 基督教傳教士與近現代漢語新詞 (Singapore, 2010). \[白蘭地, 半島, 長頸鹿, 大使, 蛋糕, 燈塔, -點(2), 董事會, 發條, 法老, 分(6), 橄欖油, 公爵, 工資, 關稅, 國籍, 果實, 黑人, 侯爵, 黃油, 會員, 活塞, 基督, 肩胛骨, 交通, 角(2), 教堂, 芥末, 金字塔, 可可(2), 礦脈, 門牙, 民族, 魔鬼, 牛痘(1), 氣槍, 腮腺, 腮腺炎, 設計, 聖地(1), 聖母, 十字架, 首相, 水龍頭(1), 天皇, 天主教, 外語, 顯微鏡(2), 憲法, 小時, 議員, 英寸, 英畝, 遠視(1)]
+- ⸻, 基督教傳教士與近現代漢語新詞 (Singapore, 2010). \[白蘭地, 半島, 長頸鹿, 大使, 蛋糕, 燈塔, -點(2), 董事會, 發條, 法老, 分(6), 橄欖油, 公爵, 工資, 關稅, 國籍, 果實, 黑人, 侯爵, 黃油, 會員, 活塞, 基督, 肩胛骨, 交通, 角(2), 教堂, 芥末, 金字塔, 可可(2), 礦脈, 門牙, 彌撒, 民族, 魔鬼, 墨水, 牧師, 男爵, 鬧鐘, 牛痘(1), 氣槍, 腮腺, 腮腺炎, 設計, 聖地(1), 聖母, 十字架, 首相, 水龍頭(1), 天皇, 天主教, 外語, 顯微鏡(2), 憲法, 小時, 議員, 英寸, 英畝, 遠視(1)]
 - 鄒文君, '關於中日同形詞「基因」的詞史研究', 高等日語教育, 5 (2020), 89 (_for_ 1923, _read_ 1924). \[因基]
 - 鄒振環, 晚清西方地理學在中國 (Shanghai, 2000), 259. \[空氣(1)]
