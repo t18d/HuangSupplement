@@ -4,7 +4,7 @@ permalink: w/
 seo:
   type: Dataset
   name: "HuangSupplement: letter W"
-last_modified_at: 2026-02-07T06:03:07+00:00
+last_modified_at: 2026-02-10T13:43:51+00:00
 description: Antedatings, errata and addenda to letter W of 近現代漢語辭源
 layout: main
 font_key: w
@@ -16,6 +16,7 @@ edit_path: dict/w.csv
 
 Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
+外國話|/|noun|1834|老先生雖不通外國話。却可知官銜。|Gützlaff『大英國統志·卷一』7v||
 外匯(1)|/|noun|1922|昨爲星期日、海關暨中外各銀行洋行等均事休假、所有外匯市面、例無報吿|『時事新報』1月16日「標金價格似稍趨高」||
 外徑|/|noun|1874|外徑三寸|『申報』11月28日「怪疾二則」||
 外語|/|noun|1848|to translate foreign words into Chinese, 翻外語爲華言|Medhurst, _English and Chinese Dictionary_ ii, s.v. Translate||
