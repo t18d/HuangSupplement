@@ -4,7 +4,7 @@ permalink: obsolete/
 seo:
   type: Dataset
   name: "Appendix: Obsolete Words"
-last_modified_at: 2026-02-05T12:23:22+00:00
+last_modified_at: 2026-02-10T02:45:48+00:00
 description: Antedatings, errata and addenda to obsolete words in Huang He-ch'ing's lexicon
 layout: main
 font_key: obsolete
@@ -30,6 +30,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 粉乳|/|/|1936|/|/|from Japanese: 1877 (NDL)|
 乾濕計|/|/|/|/|/|from 乾湿計 (かんしつ‐けい)|
 海權|/|noun|1885||『海戰新義』|postdating|
+螺絲(2)|screw thread|noun|1628|passim|『遠西奇器圖說錄最』|Wang's word for 螺絲(1) is 螺絲轉.|
 描寫(2)|describe|verb|/|/|/|superseded by [描述](https://t18d.github.io/HuangSupplement/#:~:text=描述)|
 納入金|/|/|1907|/|/|from Japanese: 1880 (Yomidasu)|
 捺印|/|/|1906|/|/|from Japanese: 794 (Nikkoku)|
