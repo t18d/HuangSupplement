@@ -4,7 +4,7 @@ permalink: n/
 seo:
   type: Dataset
   name: "HuangSupplement: letter N"
-last_modified_at: 2026-02-10T12:24:57+00:00
+last_modified_at: 2026-02-10T14:57:45+00:00
 description: Antedatings, errata and addenda to letter N of 近現代漢語辭源
 layout: main
 font_key: n
@@ -47,6 +47,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 腦橋|/|/|1898|/|/|from Japanese 脳橋: 1873 (NDL)|
 腦神經|/|/|1903|/|/|from Japanese 脳神経: 1822 (Hathi)|
 鬧鐘|/|noun|1583||_Dicionário Português-Chinês_ (Jap. Sin. I-198)||
+內閣|/|noun|1834|大英之內閣大學士學士尚書等。自主而治政。|Gützlaff『大英國統志·卷一』7v|This describes the English cabinet in terms of a Chinese _nei ke_.|
 內在|/|adjective|1916|Immanent … 內在|Hemeling『官話』s.v. Immanent||
 泥土|/|noun|1858|衝激泥土成新地|W. Muirhead in『六合叢談』1/13, 8|one word instead of two|
 鳥瞰(1)|/|noun|1920|第四篇 和會鳥瞰|『時事新報』4月21日「歐遊心影錄」||
@@ -56,3 +57,4 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 濃度|/|noun|1905|蒸至適宜濃度再置冷處。|『中等化學教科書』294||
 暖氣|/|noun|1866|Caliduct … 熱氣筒 … 暖氣筒|Lobscheid『英華字典』s.v. Caliduct||
 女權主義|/|noun|1914|原來是一個󱳏老徐娘⋯高舉􁟒兩手在那裏向大衆鼓吹他的女權主義|『眉語』1/1「流水無󴜴」1||
+女王(3)|/|noun|c1917 (1839)|𠸄咭唎女王宫內現設女官並俸銀𢿙目|『澳門新聞紙』289+ (T03982–87)||
