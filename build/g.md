@@ -4,7 +4,7 @@ permalink: g/
 seo:
   type: Dataset
   name: "HuangSupplement: letter G"
-last_modified_at: 2026-02-09T13:24:42+00:00
+last_modified_at: 2026-02-11T12:36:57+00:00
 description: Antedatings, errata and addenda to letter G of 近現代漢語辭源
 layout: main
 font_key: g
@@ -21,7 +21,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 改造|(metaphorically)|verb|1902|夫改造人心四圍之力莫大|『新民叢報』22「軍國民之敎育」47|obsolete collocation|
 |/|/|1903|而欲改造社會必先自改造我躬始|『新民叢報』26「新英國巨人克林威爾󶩐」47||
 干貝|/|/|/|/|/|likely a native word; see [#19](https://github.com/t18d/HuangSupplement/issues/19#issuecomment-2606537981)|
-橄欖油|/|noun|1838|希臘國⋯產物葡萄果、橄欖油矣。|『古今萬國綱鑑·卷三』19||
+橄欖油|/|noun|1838|希臘國⋯產物葡萄果、橄欖油矣。|Gützlaff『古今萬國綱鑑·卷三』19||
 高利貸|/|noun|1902|此法律徒有害於正當之資本家。而反保護貪暴之高利貸(以僅少之母金。而收莫大之利子。貪欲無飽者。日本俗謂之高利貸、)者也。|廣智書局『經濟敎科書·第四編』3|original by Wadagaki Kenzō (1901)|
 割禮|/|noun|c1832|?|Morrison『古聖奉神天啟示道家訓』||
 革命(1)|/|noun|1879|且本邦自戊辰革命之後其間纔十年|『申報』5月15日「譯日本人論亞細亞東部形勢」||
