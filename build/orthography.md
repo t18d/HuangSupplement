@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-01-26T12:39:54+00:00
+last_modified_at: 2026-02-11T05:41:38+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -196,9 +196,10 @@ K'ai|Ts'ao|Hsing|Print|Note|
 殺|/|/|杀 Yüan|'杀古殺字' (五經文字)|
 傷|/|/|/|伤 in Miao's forgery|
 攝|/|/|摄 Ming||
-壽|/|/|寿 Yüan|寿 Sung hsing?|
+壽|/|/|寿 Yüan|寿 Sung's hsing?|
 書|/|/|书 Ch'ing||
 樹|/|/|/||
+數|/|数 Ming|数 Sung||
 訴|/|诉 Sung|诉 Ch'ing||
 雖|/|/|虽 Yüan||
 孫|孙 Han|/|孙 Ming||
