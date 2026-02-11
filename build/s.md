@@ -4,7 +4,7 @@ permalink: s/
 seo:
   type: Dataset
   name: "HuangSupplement: letter S"
-last_modified_at: 2026-02-11T12:36:57+00:00
+last_modified_at: 2026-02-11T12:43:38+00:00
 description: Antedatings, errata and addenda to letter S of 近現代漢語辭源
 layout: main
 font_key: s
@@ -39,7 +39,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |/|/|1897|而全川之改圖.雖費用爲十分浩大.要可設計籌畫.|『實學報』ix「石狩川疏濬工事」1|Due to the last quote, it's less clear now if it's a loanword here.|
 社群|/|noun|1906|各國之竸興也率由族羣而進於社羣復由社羣而進於國羣遂以臻今日之盛|『金臺組報』1月3日「論中國萬事之不舉皆由於不能合羣」||
 |/|/|1920|他們能夠影響於組織「社羣」的個人，又是能夠影響於社羣自身的組織|『時事新報』6月20日「有機進化和社會進化」|original by Charles A. Ellwood|
-神父(2)|/|noun|1605|凢有𨔻犯誡中󶟁情者⋯乃自􁺮於神父撒責耳鐸徳座側。吐實悉訴𫠦作罪過。|[Ricci]聖經約113 (Jap. Sin. I-126)|錄|
+神父(2)|/|noun|1605|凢有𨔻犯誡中󶟁情者⋯乃自􁺮於神父撒責耳鐸徳座側。吐實悉訴𫠦作罪過。|[Ricci]『聖經約錄』113 (Jap. Sin. I-126)||
 神經病(2)|mental disorder|noun|1889|日本報云俄國皇后󻢓患神經病前次因在汽車中傾跌致受驚駭近來病勢日見增重|『申報』5月3日「聘請名醫」||
 神經衰弱|/|AdjP|1904|󿬒古刺士二世皇帝者⋯神經衰󰚦之人也意志怯薄之人也|『新民叢報』54「俄皇󿬒古刺士二世」74||
 審判|(in theology)|verb|1605|我信其日後從彼而來。󴦨判生𭮀者。|[Ricci]『聖經約錄』99 (Jap. Sin. I 126)||
