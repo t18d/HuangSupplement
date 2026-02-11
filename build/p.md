@@ -4,7 +4,7 @@ permalink: p/
 seo:
   type: Dataset
   name: "HuangSupplement: letter P"
-last_modified_at: 2025-12-28T00:49:29+00:00
+last_modified_at: 2026-02-11T01:15:36+00:00
 description: Antedatings, errata and addenda to letter P of 近現代漢語辭源
 layout: main
 font_key: p
@@ -19,6 +19,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 耙梳|/|verb|1922|民國本屬多事、而法律方面、則尤爲不可耙梳|『民國日報』12月21日「張閣與衆院之因緣案」|typo for 爬梳|
 排外主義|/|noun|1902|舊日之排外主義|『壬寅新民叢報彙編』1053||
 |/|/|1906|防止排外主義之傳播|『時報』12月26日||
+砲兵|/|noun|1406 (c1330)|進臨毗陵督砲兵摧木𣑭以入克其城|『臨川𠯵文正公集·卷七十』1v (014496)||
 砲灰|/|noun|1894|非砲灰卽刀頭之鬼耳|『申報』9月6日「論倭人窘况」||
 |/|/|1934|殺人者在毁壞世界，救人者在修補它，而炮灰資格的諸公，卻總在恭維殺人者。|魯迅『且介亭雜文‧拿破侖與隋那』||
 披露|/|verb|1889|本社著作無論社內社外⋯當逐期披露|『新社』第三期||
