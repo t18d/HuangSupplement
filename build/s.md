@@ -4,7 +4,7 @@ permalink: s/
 seo:
   type: Dataset
   name: "HuangSupplement: letter S"
-last_modified_at: 2026-02-11T14:34:57+00:00
+last_modified_at: 2026-02-11T14:37:39+00:00
 description: Antedatings, errata and addenda to letter S of 近現代漢語辭源
 layout: main
 font_key: s
@@ -42,7 +42,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 神父(2)|/|noun|1605|凢有𨔻犯誡中󶟁情者⋯乃自􁺮於神父撒責耳鐸徳座側。吐實悉訴𫠦作罪過。|[Ricci]『聖經約錄』113 (Jap. Sin. I-126)||
 神經病(2)|mental disorder|noun|1889|日本報云俄國皇后󻢓患神經病前次因在汽車中傾跌致受驚駭近來病勢日見增重|『申報』5月3日「聘請名醫」||
 神經衰弱|/|AdjP|1904|󿬒古刺士二世皇帝者⋯神經衰󰚦之人也意志怯薄之人也|『新民叢報』54「俄皇󿬒古刺士二世」74||
-神權|/|noun|a1844|古時真王，現操神權，在殿內如僧度生，並不似人，乃似木像。|!Gützlaff『萬國地理全集·卷十』89||
+神權(1)|/|noun|a1844|古時真王，現操神權，在殿內如僧度生，並不似人，乃似木像。|!Gützlaff『萬國地理全集·卷十』89||
 審判|(in theology)|verb|1605|我信其日後從彼而來。󴦨判生𭮀者。|[Ricci]『聖經約錄』99 (Jap. Sin. I 126)||
 |(at law)|/|1865 (a1695)|于冥中列坐󴦨判世間事、亦有千古未結之案|『廣陽雜記·卷之二』578 (GJ/EB/119394)||
 生產|/|verb|1838|作鎗爲兵丁所用者、因其生產工作皆多、故貿易者􀸡。|Bridgman『美理哥合省國志畧』29v||
