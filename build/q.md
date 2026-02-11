@@ -4,7 +4,7 @@ permalink: q/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Q"
-last_modified_at: 2026-02-10T07:05:08+00:00
+last_modified_at: 2026-02-11T05:23:49+00:00
 description: Antedatings, errata and addenda to letter Q of 近現代漢語辭源
 layout: main
 font_key: q
@@ -42,8 +42,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 前述|/|adjective|1880|如前述江西某委員信役濫刑|『申報』4月27日「論惡役殃民」|also in Japanese: 1877 (Nikkoku); [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=前述)|
 潛意識|/|noun|1918|此羣體之得生活。不外由於各個細胞能服從在潛意識而活動故也。|『大公報』10月25日「心靈研究之進境」||
 鉗子|/|noun|1848|鉗子⋯小鉗子|Medhurst, _English and Chinese Dictionary_, s.v. Pliers||
-槍刺|/|noun|1903|「趕造槍刺」|『北洋官報』第一百四十八冊||
-槍彈|/|noun|s.xvii|受數百槍彈從脅穿透|『行在陽秋·下』||
+槍刺|/|noun|1903|「趕造槍刺」|『北洋官報』cxlviii||
+槍彈|/|noun|a1682|詢知民望令鎗砲􂢜𤼵民望受数百槍󿴶從脇穿透􀀟如故|戴笠『行在陽秋·卷下』15r (10791)||
 槍械|/|noun|1600|疏火器鳥銃長短槍械法|『譚襄敏奏議·序』||
 牆腳|/|noun|1844|Foundation, 基址 … 墻腳|Williams『英華韵府歷階』s.v. Foundation||
 侵入|/|verb|1868|to invade … as a disease a system, 侵入 … 侵害|Lobscheid『英華字典』s.v. Invade|metaphorical|
