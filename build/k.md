@@ -4,7 +4,7 @@ permalink: k/
 seo:
   type: Dataset
   name: "HuangSupplement: letter K"
-last_modified_at: 2026-02-09T05:52:50+00:00
+last_modified_at: 2026-02-11T14:34:57+00:00
 description: Antedatings, errata and addenda to letter K of 近現代漢語辭源
 layout: main
 font_key: k
@@ -26,7 +26,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 考慮|/|verb|1902|此事雖似末􁄬.當學堂施設之初.最要考慮者也.|『東遊叢錄·函札筆談』117|letter by Japanese published in a Chinese book|
 |/|/|1905|常挈兩物而加攷慮而此攷慮之中即有以發見彼此短長之所在|『新民叢報』63「辨論與受用」26||
 科學|/|adjective|1914|聚百十不科學無條理之人日發生不痛不癢不達時勢之議論|『時事新報』12月4日「清朝復辟案之反響」|[stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=科學)|
-可可(2)|/|noun|a1844|其國出紅木、加非、可可<span class="warichu">兩樣係飲物之料，比茶水更有滋味</span>|!『萬國地理全集·卷三十六』350||
+可可(2)|/|noun|a1844|其國出紅木、加非、可可<span class="warichu">兩樣係飲物之料，比茶水更有滋味</span>|!Gützlaff『萬國地理全集·卷三十六』350||
 可能|/|auxiliary verb|1792|若於壩根接做石磯是否可能生根鞏固以資挑護之處|『南河成案續編·卷之一』15 (地724/84-2)|是否 marks the formation of a true auxiliary verb.|
 |/|/|1916|參衆兩院是否可能於八月一日正式開會|『神州日報』7月8日「中央今日之三大問題」||
 可能性(1)|potential|mass noun|1903|一切事物之未成時即可斷決當成何物何以故以有可能性故⋯運動之極盡可能性無復有餘是曰終極原因|『泰西學案』15||
