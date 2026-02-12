@@ -4,7 +4,7 @@ permalink: f/
 seo:
   type: Dataset
   name: "HuangSupplement: letter F"
-last_modified_at: 2026-02-06T12:15:32+00:00
+last_modified_at: 2026-02-12T03:37:28+00:00
 description: Antedatings, errata and addenda to letter F of 近現代漢語辭源
 layout: main
 font_key: f
@@ -22,7 +22,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 發售|/|verb|a1792 (a1086)|農翁之善蓄稻也層藏累納有淹二十年不發售者|吕南公『灌園集·與楊次公書』(文淵閣)||
 發條|/|noun|c1809|凡鐘表未及走畢、或停擺經年、則發條逼緊既久、放開則軟而無力|『高厚𫎇求·三集·自鳴鐘表圖法』13+ (305-0229)||
 發行|/|verb|c1621|青箱舘發行|『新傳理性元雅』[1] 0004 (832-187)||
-法老|/|noun|a1707|蓋經語法老我特興爾以顯著我德於爾|!Basset「福保祿宗徒與羅瑪輩書」244v (Lond. Sloane 3599)||
+法老|/|noun|a1707|又賜之以寵。以智。于󵖦日多王法􁐼之前。|Basset「使徒行·第七章」85r–85v+ (MS Add.10067)||
 法治|/|noun|1901|以法治國謂之法治|任公「國家思想變遷異同論」in『清議報』95, 1|The difference with ancient 法治 is that the king/dictator is also subject to the law.|
 番茄|/|noun|?a1837|畨茄湯<span class="warichu">度孖打叔</span>|[紅毛番話], 26v||
 反動|(with -的)|adjective|1904|󶴛怕阻塞風氣 激出國民一種反動的力量 痛恨維新|『大公報』2月21日「恭賀新年」||
