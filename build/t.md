@@ -4,7 +4,7 @@ permalink: t/
 seo:
   type: Dataset
   name: "HuangSupplement: letter T"
-last_modified_at: 2026-02-12T12:49:01+00:00
+last_modified_at: 2026-02-12T14:37:25+00:00
 description: Antedatings, errata and addenda to letter T of 近現代漢語辭源
 layout: main
 font_key: t
@@ -36,4 +36,5 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 投機(2)|/|verb|1898|故乘人有投機之心.以起保險事業.俾勇於􁄬儉𫎓蓄.其利豈尠哉.|『農學報』xlii「農業保險論」2+||
 |/|/|1902|如彼投機射利。俗所稱買空賣空者。其操術類於賭博。|『新民叢報』20「新民說十六」11||
 退化(2)|/|verb|1903 (1898)|何謂衰世。大都本有政敎。逐漸傾頺。至於退化。|『國聞報彙編·論中國敎化之退』23||
+鴕鳥|(with 鴕)|noun|1749|條枝大雀形似槖駝舉頭髙八九尺張翅丈餘⋯所謂鴕鳥也|『書隱叢說·卷十五』7v (子075-0006)|traditionally 駝鳥|
 拓撲學|/|noun|1946|但拓撲學的課大多缺如，殊有不能趕上時代之感。|『大公報』10月12日「最近十年來中國數學工作的方向」||
