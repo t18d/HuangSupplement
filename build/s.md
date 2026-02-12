@@ -4,7 +4,7 @@ permalink: s/
 seo:
   type: Dataset
   name: "HuangSupplement: letter S"
-last_modified_at: 2026-02-12T03:37:28+00:00
+last_modified_at: 2026-02-12T09:04:25+00:00
 description: Antedatings, errata and addenda to letter S of 近現代漢語辭源
 layout: main
 font_key: s
@@ -76,6 +76,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |(adjectival)|/|1910|可惜你來的不是時候|『天津白話報』8月29日「閒評：有利則進 無利則退」||
 |/|/|1936|並且給的很是時候。|梁實秋譯『李爾王』46+||
 手動|/|adjective|1889|Hand gear 手動器具, 或手動齒輪|Fryer『汽機中西名目表』26||
+手槍|/|noun|c1585|夾靶󾟗手鎗⋯佛朗 􀘷銅 􃞱|『大明㑹典·卷一百九十三·火器』3r (04502)||
 首相|/|noun|1844|Prime minister, 首相⋯󺞵宰|『英華韵府歴階』s.v. Prime||
 手續|/|noun|1901|行政訴訟之手續|『譯書彙編』７, 54+||
 水表|/|noun|1883|如是則該公司只須每日稽查水表|『申報』8月6日「自來水價宜變通說」||
