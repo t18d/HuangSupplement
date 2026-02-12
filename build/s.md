@@ -4,7 +4,7 @@ permalink: s/
 seo:
   type: Dataset
   name: "HuangSupplement: letter S"
-last_modified_at: 2026-02-12T09:04:25+00:00
+last_modified_at: 2026-02-12T09:38:12+00:00
 description: Antedatings, errata and addenda to letter S of 近現代漢語辭源
 layout: main
 font_key: s
@@ -79,6 +79,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 手槍|/|noun|c1585|夾靶󾟗手鎗⋯佛朗 􀘷銅 􃞱|『大明㑹典·卷一百九十三·火器』3r (04502)||
 首相|/|noun|1844|Prime minister, 首相⋯󺞵宰|『英華韵府歴階』s.v. Prime||
 手續|/|noun|1901|行政訴訟之手續|『譯書彙編』７, 54+||
+受洗|/|noun|1637|耶穌受洗先後同日|『天主降生出像經解』16+ (Chinois 6750)||
 水表|/|noun|1883|如是則該公司只須每日稽查水表|『申報』8月6日「自來水價宜變通說」||
 水龍頭(1)|/|noun|1882|Faucet 水龍頭|Condit『英華字典』s.v. Faucet||
 水圈|/|noun|1904|第三章 水圈篇|『中等地文學敎科書』6|based on Japanese textbook|
