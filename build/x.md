@@ -4,7 +4,7 @@ permalink: x/
 seo:
   type: Dataset
   name: "HuangSupplement: letter X"
-last_modified_at: 2026-02-13T12:59:24+00:00
+last_modified_at: 2026-02-13T13:29:55+00:00
 description: Antedatings, errata and addenda to letter X of 近現代漢語辭源
 layout: main
 font_key: x
@@ -47,6 +47,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 心理|/|noun|1872|雖彼之󵔻學天文格物心理各學亦皆有所以懲教道之假訛焉|『申報』11月28日「附論西教興廢來書」||
 心態|/|noun|1919|高低無定。心態屢遷。|『祈禱發𢕄總論』61||
 新聞自由|/|NP|1907|一千八百二十二年⋯停止聯合國會。束縛新聞自由。勵行警察權。|蔣羲明譯『歐洲列强近世外交􀼊史』49|from Japanese: 新聞の自由 (Shindō 1907)|
+信風(2)|/|noun|Chin|/|/|Han-ta s.v.|
 星期(2)|/|noun|1898|凡入會之友⋯每一星期、􁒋會一次、<span class="warichu">會友多習西文者故必用星期即禮拜日也</span>|『知新報』xlv「京師關西學會緣起」|This is really 星期(1), as the warichu shows. But it's what gave rise to 星期(2) in the next quote.|
 |/|/|1899|/|/||
 星期-(3)|/|nominal bound stem|1902|凡星期三及星期六下午亦係停課|『申報』10月13日「京報全錄」||
