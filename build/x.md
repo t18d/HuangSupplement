@@ -4,7 +4,7 @@ permalink: x/
 seo:
   type: Dataset
   name: "HuangSupplement: letter X"
-last_modified_at: 2026-02-13T09:45:54+00:00
+last_modified_at: 2026-02-13T12:59:24+00:00
 description: Antedatings, errata and addenda to letter X of 近現代漢語辭源
 layout: main
 font_key: x
@@ -18,10 +18,12 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
 西北(2)|north-western provinces|noun|1902 (1897)|嚮嘗竊竊過計。謂吾西北腹地諸省。風氣閡隔。人才乏絕。󶴛不足以自立。|『飮冰室文集·丁酉集下·復劉古愚山長書」34||
 西學東漸|/|idiom|1903|歐亞大通西學東漸|「泰西學案序」|from Japanese: 1882 (NDL)|
+洗禮(1)|/|noun|c1816|問、設此洗禮者誰耶。答曰、耶穌親自設之也。|『㓜學淺解問答』17r+||
 喜喪|/|noun|1718|䘮禮易而不戚<span class="warichu">年高者且呼為喜䘮</span>古制全亡|『錢塘縣志·卷之七風俗』7 (地240.15/32)||
 |/|/|1837 (a1834)|杭人以福壽備而死者俗呼喜喪|梁紹壬『兩般秋雨盦隨筆·卷八』2 (79@20@1)||
 細胞|/|noun|1858|󺴌物全體中有無數細胞體⋯此細胞、一胞爲一體、相比附而成󺴌物全體|『󺴌物學·卷二』1+ (イ13 00871)||
 峽谷|/|noun|1902|峽谷如壁地勢隆起|『申報』7月15日「詳紀張家口鐵路里程」+||
+先知|/|noun|1635|葢古經中先知依撒意亞。𠹉預言降生事。|『天主降生言行紀畧·卷二』1r+ (Chinois 6709)||
 顯微鏡(2)|/|noun|a1680|顯微鏡 大似金錢。下有三足。以極微極細之物。󰤿于二足之中。從上視之。則變爲極宏極鉅。|『十二樓·夏宜樓·第二囘』15|Not in 1st edn.|
 |/|/|c1681|顯微鏡 鏡用俯視.以極微細之物.󰤿三足之中.|『鏡史』11 (748514)||
 現代|/|noun|1875|recent ages 昭代, 現代.|鄺其照『字典集成』s.v. Recent|also in Japanese: 1894 (CHJ)|
@@ -40,6 +42,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 小時|/|noun|1631|法以前推得一日。或二十四小時。行五十九分〇八秒二十微。|Rho『崇禎曆書·日󱄊曆指』26bis (Oxon. Sinica 897)||
 效率(1)|/|noun|1903|/|/|The physics textbook cited by Sun (2023) as from 1901 has a preface dated 1903.|
 效率(2)|/|noun|1915|盡之之道唯何,曰必自增進人事效率始.|『科學』1/11「人事之效率」1209+||
+斜紋布|/|NP|1822|DIMITY … 綉斜紋布 sew|Morrison, _A Dictionary of the Chinese Language_ iii, s.v. DIMITY||
 協議離婚|/|VP|1907|若協議離婚時。或妻死時。求返還其前日之贈物者槪無之。|『漢譯民法講義』105||
 心理|/|noun|1872|雖彼之󵔻學天文格物心理各學亦皆有所以懲教道之假訛焉|『申報』11月28日「附論西教興廢來書」||
 心態|/|noun|1919|高低無定。心態屢遷。|『祈禱發𢕄總論』61||
