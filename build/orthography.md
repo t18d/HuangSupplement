@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-02-11T05:41:38+00:00
+last_modified_at: 2026-02-14T07:17:04+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -222,6 +222,7 @@ K'ai|Ts'ao|Hsing|Print|Note|
 許|/|许 Chin|/||
 續|/|/|/||
 學|学 Wu|/|/||
+煙 烟|/|/|/|'烟煙 竝正' (干祿字書); 菸 (增韻二·二仙·嫣)|
 儀|/|/|仪 Yüan||
 義|/|/|义 Yüan||
 應|应 T'ang|/|应 Ch'ing|応 1753 kanji (Yamashita 2011); Wang Hsi-chih's 应 in Li is fake|
