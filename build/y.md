@@ -4,7 +4,7 @@ permalink: y/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Y"
-last_modified_at: 2026-02-14T08:19:30+00:00
+last_modified_at: 2026-02-14T13:00:30+00:00
 description: Antedatings, errata and addenda to letter Y of 近現代漢語辭源
 layout: main
 font_key: y
@@ -19,6 +19,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 煙草|/|noun|c1795 (c1664)|淡把姑煙草○萬曆末有播至漳泉者⋯皆𠷢長管而火􂡏吞吐之⋯崇禎時󵞜禁之不止|『物理小識·卷九』63 (307-0260)||
 眼看|/|adverb|c1681 (a1661)|米價日騰一日眼看又是荒年|『醒世姻緣傳·第九十三囘』12 (xlvi)||
 眼看着|/|preposition|1851 (a1830)|眼看着蠹等放開手膽脧我脂膏|劉衡『庸吏庸言·革除蠹弊稟』17 (TT 4349)||
+眼科(1)|ophthalmology|noun|a1424 (1176)|太􂆤局九科學生額三百人⋯二十人眼科二十人瘡腫𠔥折傷二十日産科十人口󵉧𠔥咽喉科|『醫經正本書·本朝醫政第二』3r (02049)|Huang's 1822 quote is for 眼科(2), i.e. ophthalmologist.|
+|/|/|1273 (1264)|新淦曽氏以眼科名家|『無文印·卷二十·南屏湯節幹』2v (WA35-5)||
 堰塞湖|/|noun|1903|大別之則分凹地湖堰塞湖二種|『中學地文教科書』86||
 陽極|/|noun|1866|Anode … 電氣之陽極|Lobscheid『英華字典』i, s.v.||
 |/|/|1868|陽氣􁒋於陽極、陰氣􁒋於陰極、欲令隔斷不通、則電氣不能放出矣|Martin『格物入門·卷四·電學上章』5 (科10 9956)||
