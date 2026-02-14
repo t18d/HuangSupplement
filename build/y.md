@@ -4,7 +4,7 @@ permalink: y/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Y"
-last_modified_at: 2026-02-14T13:16:19+00:00
+last_modified_at: 2026-02-14T14:39:28+00:00
 description: Antedatings, errata and addenda to letter Y of 近現代漢語辭源
 layout: main
 font_key: y
@@ -27,6 +27,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 洋參|/|noun|c1727|人参󼜊斤⋯洋参󼜊斤 一𠈙五分|『常稅則例·卷二』22v (369.52/9028)||
 養老院|/|noun|1633|􀚆邏巴大州府󰣘。各􁰔有養病院⋯此外又有養老院。舎旅院。及安𥙷院。|『哀矜行詮·卷二』27r–27v (Chinois 6869)||
 野蠻(3)|/|adjective|1865 (1864)|後󵔻導漸開、此等野蠻不義之例、漸廢、至今殆絶矣|Martin『萬國公法·卷二』21 (04013)||
+議會|/|noun|1838|嗣後阿里􀚼國民高󱸄、驅逐法蘭西霸皇帝⋯設議會以掌國家之政也。|Gützlaff『古今萬國綱鑑·卷十四』34r+||
 意識|(contrasted with words)|noun|1824 (1335)|然後知韋侯佳句非言語意識所可到也|『蘇州府志·開元寺綠陰堂記』36 (地220.175/136)||
 |(as subject)|/|c1812 (1798)|有念所專注凝神生象是爲意識所造之夢孔子夢周公是也|『閱微草堂筆記·灤陽續錄三』18 (06083)||
 |(with 有-)|/|1902|/|/||
