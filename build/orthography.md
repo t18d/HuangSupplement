@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-02-14T07:17:04+00:00
+last_modified_at: 2026-02-14T08:42:12+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -101,6 +101,7 @@ K'ai|Ts'ao|Hsing|Print|Note|
 布|/|佈 Ming|/|佈 already in 廣韻|
 纔 Han 才 N Wei|/|/|/|Yang (2005: 147)|
 采 採|/|/|/||
+㕘 參|参 T'ang|参 Ming|参 Ming||
 產|/|/|/||
 長|长 Han|/|长 Yüan||
 廠 Sung|/|/|/|attested in 廣韻|
