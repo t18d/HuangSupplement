@@ -5,14 +5,14 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2026-02-14T14:39:28+00:00
+last_modified_at: 2026-02-15T05:41:35+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
 <br>
 <br>
 <br>
-<p>This database is searchable as <a href="https://github.com/t18d/HuangSupplement/tree/main/dict">CSVs</a>. The quickest way to get an addition or correction merged is to fork the repo or <a href="https://github.com/t18d/HuangSupplement/wiki/Clone-the-repo">clone locally</a>, edit a CSV file and send in a pull request.</p>
+<p>This database is searchable as <a href="https://github.com/t18d/HuangSupplement/tree/main/dict">CSVs</a>. The quickest way to get an addition or correction merged is to fork the repo or <a href="https://github.com/t18d/HuangSupplement/wiki/Clone-the-repo">clone locally</a>, edit the CSV file and send in a pull request.</p>
   
 <p>The focus is on antedating and amending entries where the lemma is still current in educated speech. Editorial history and argumentation can be accessed via git blame. Triage of items in Yang's bibliography (2026-01-14) is now <a href="https://github.com/t18d/HuangSupplement/tree/main/Yang">completed</a>.</p>
 
@@ -102,6 +102,8 @@ last_modified_at: 2026-02-14T14:39:28+00:00
           <li><a href="https://t18d.github.io/HuangSupplement/dictionary/#evidence-dictionary"><strong>Dictionary evidence</strong></a> is treated as a primary rather than secondary source, and represents one single attestation instead of a statement about contemporary usage.</li>
           <li>When a word is attested in an item carried in multiple <strong>newspapers</strong> on the same day, the least well-known paper is cited as a way to diversify scholarly sources away from <em>Shen-pao</em> and <em>L'Impartial</em>. Other attestations may be located in 全國報刊索引.</li>
           <li>An <strong>exclamation mark</strong> ('!') preceding a source means the quotation is taken from a modern edition with normalised orthography and we had no access to an early version.</li>
+          <li>Authorship is given where it is considered desirable to draw attention to the fact that the writer was not a <strong>native speaker</strong>. Whilst neologisms in such writings can eventually enter the language, scholars should exercise caution when drawing conclusions about the lexicon of contemporary native speakers.</li>
+          <li>Authorship is not otherwise indicated if it can be easily looked up, although controversial cases are dealt with in the <a href="https://github.com/t18d/HuangSupplement/wiki/Checklist-of-Editions">Checklist of Editions</a>. An exception is made, however, for writers of extralinguistic importance.</li>
           <li>A <strong>plus sign</strong> ('+') following a source means the word is attested more than once in that source.</li>
           <li>When a <strong>shelfmark</strong> is added in parentheses, it can be used to identify the relevant digital copy linked to in the <a href="https://github.com/t18d/HuangSupplement/wiki/Checklist-of-Editions">Checklist of Editions</a>.</li>
         </ul>
