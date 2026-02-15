@@ -4,7 +4,7 @@ permalink: z/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Z"
-last_modified_at: 2026-02-11T08:43:05+00:00
+last_modified_at: 2026-02-15T09:49:08+00:00
 description: Antedatings, errata and addenda to letter Z of 近現代漢語辭源
 layout: main
 font_key: z
@@ -25,7 +25,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 偵查|/|verb|a1639|經督撫院及各路撫󺪭逐一偵查則存亡逃叛終難掩蔽|『三朝遼事實錄·卷五』16 (02041)||
 政府|/|noun|1877|苟有人民結社擔當欲請政府保護以營其業者則政府固當無不許矣|『萬國公報』431「論工業製􂀇之利」20+||
 證券|securities|noun|1915|七該區劃內關於證券交易之沿革及現况|『神州日報』6月2日「證券交易所法施行細則」|A case can be made that the word first came into being when 有價證券 got abbreviated to 證券 in 證券交易所 in 1914.|
-政體|/|noun|1834|南亞墨利加󱠚國已良乆󾰾逐西班呀國官員、自操其權、惟政體未尚定着。|Gützlaff『東西洋考每月統記傳』甲午年二月「新聞之撮要」27||
+政體|/|noun|1834|南亞墨利加󱠚國已良乆󾰾逐西班呀國官員、自操其權、惟政體未尚定着。|Gützlaff『東西洋考每月統記傳』甲午二月「新聞之撮要」27||
 支氣管炎|/|noun|1921|據日本衞生局調查。冬季之死亡。以患急性慢性支氣管炎。及其他之呼吸器病。腦溢血者爲多。|『衞生學通論』65||
 知識份子|/|noun|1916|中國的知識份子一向自視爲與衆不同的特殊階級⋯鄙視從事生產，從事勞動的農工|『新青年』1/5「論知識青年從軍運動」20+||
 直腸|/|noun|a1638|庚即小肚下。其內為小􁖌⋯亦𠔥膀胱𫤰直􁖌。|『泰西人身說㮣·正靣全身󶄰說』+ (Chinois 5130)||
@@ -51,7 +51,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 -主義(1)|/|nominal bound stem|1883|因係官權主義聞主筆者必將更迭|『申報』3月4日「會黨類誌」||
 助詞|/|noun|a1368 (a577)|若送句及助詞當音矣󳼛反|『顔氏家訓·音辭第十八』81 (754329–31)||
 祝福|(intransitive)|verb|1538 (1370)|抑此乃祝福之詩非祭祀之詩|『五經蠡測·卷之四』13 (善000735)||
-|(transitive)|/|1837|故皇上帝祝福是日、以爲聖日也。|Gützlaff et al.『東西洋考每月統記傳』丁酉年六月「以色列遊野」||
+|(transitive)|/|1837|故皇上帝祝福是日、以爲聖日也。|Gützlaff et al.『東西洋考每月統記傳』丁酉六月「以色列遊野」||
 著作權|/|noun|1902|經濟上之條約。即通商條約⋯著作權保護同盟條約工業保護同盟條約及關於撿疫條約是也。|『外交通義』214|from Japanese: 1899 (Mizuno); original by Nagaoka Harukazu (1901)|
 資本|/|noun|1871|[資]本, capital|Lobscheid『漢英字典』481||
 資本主義|/|noun|1927 (1903)|欲知今日之資本主義。須知餘剩價格之性質如何。|趙必振譯『近世社會主義』111+|original by Fukui Junzō (1899)|

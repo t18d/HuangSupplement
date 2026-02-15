@@ -4,7 +4,7 @@ permalink: h/
 seo:
   type: Dataset
   name: "HuangSupplement: letter H"
-last_modified_at: 2026-02-10T07:05:08+00:00
+last_modified_at: 2026-02-15T09:49:08+00:00
 description: Antedatings, errata and addenda to letter H of 近現代漢語辭源
 layout: main
 font_key: h
@@ -33,7 +33,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 紅寶石|/|noun|1521 (1475)|二十三日郭景於前項木櫃內取出紅寳石頂子青紵󺹡𡯎隴㡌一頂|『王端毅奏議·卷三』8+ (110410)||
 紅茶|/|noun|1844|伏思河口各商紅茶一年\[ . ]得此時齊集既有謠言勢必懷疑不前|!Lond. Or. 7418||
 紅葡萄酒|/|NP|1731|雍正四年五月復遣使進貢⋯十二瓶白葡萄酒十二瓶紅葡萄酒|『廣東通志·卷五十八』14 (地330/33)||
-侯爵|/|noun|1834|已󰺧世襲侯爵、水師提督羅拿碧一位來粤、當正監督之任|Gützlaff『東西洋考每月統記傳』甲午年四月「新聞」52||
+侯爵|/|noun|1834|已󰺧世襲侯爵、水師提督羅拿碧一位來粤、當正監督之任|Gützlaff『東西洋考每月統記傳』甲午四月「新聞」52||
 虎牙|/|noun|c1634|󲄠牙四。上下各二。居於四𠁅。|『泰西人身說㮣·卷上·󰣋部』2v (Chinois 5130)||
 花邊|/|noun|1866|an embroidered border, 花邊|Lobscheid『英華字典』s.v. Border||
 花梗|/|noun|1887|Myrospermum pedicellatum 小花梗米羅司卑麻|Fryer『西藥大成藥品中西名目表』41||
