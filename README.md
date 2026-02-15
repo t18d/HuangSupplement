@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2026-02-15T06:25:51+00:00
+last_modified_at: 2026-02-15T08:05:27+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -34,11 +34,12 @@ last_modified_at: 2026-02-15T06:25:51+00:00
           <li>AdjP – adjective phrase</li>
           <li>Adv – adverb</li>
           <li>Asahi – Asahi Shimbun Cross-Search</li>
-          <li>aYEAR – ante YEAR</li>
+          <li>aYEAR – <em>ante</em> YEAR</li>
+          <li>al. – <em>alia lectio</em></li>
           <li>CC – copula complement</li>
           <li>CHJ – 日本語歴史コーパス</li>
           <li>CS – copula subject</li>
-          <li>cYEAR – circa YEAR</li>
+          <li>cYEAR – <em>circa</em> YEAR</li>
           <li>Han-ta – 漢語大詞典 (1st edn)</li>
           <li>Hathi – HathiTrust</li>
           <li>Hsien-han – 現代漢語詞典 (7th edn)</li>
