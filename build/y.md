@@ -4,7 +4,7 @@ permalink: y/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Y"
-last_modified_at: 2026-02-15T06:25:51+00:00
+last_modified_at: 2026-02-15T08:46:05+00:00
 description: Antedatings, errata and addenda to letter Y of 近現代漢語辭源
 layout: main
 font_key: y
@@ -56,6 +56,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 預算(1)|/|noun|1896|/|/||
 預算(2)|/|verb|1889|/|/||
 元(11)|monetary unit|noun|1788|去歲成在萬丹有家信一封，內花邊銀壹拾叁員⋯今年接家母來信只云有花邊銀二元到家|!吧國公堂『公案簿』i「楊成文叫楊開治」30||
+原稿|/|noun|a1722 (a1392)|原稿若存更乞抄示|『󰱇巣稿·卷十一』37r (830627–38)|al. 乞更|
 原子|/|noun|1902|原質之愛力。自󵔻合體分子中之各原子。被其他諸原子同時牽引而成|『普通學報』5「原子連繫說」47+||
 原罪|/|noun|c1636|特吾主。及聖母。無染原罪。|Dias『聖經直解·雜事目錄』51 (Jap. Sin. I-70)||
 遠視(1)|/|adjective|a1680|而近視遠視諸眼鏡更佳|!『十二樓·夏宜樓·第二囘』17|Not in 1st edn.|
