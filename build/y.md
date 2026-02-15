@@ -4,7 +4,7 @@ permalink: y/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Y"
-last_modified_at: 2026-02-15T09:44:31+00:00
+last_modified_at: 2026-02-15T12:46:58+00:00
 description: Antedatings, errata and addenda to letter Y of 近現代漢語辭源
 layout: main
 font_key: y
@@ -62,5 +62,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 原罪|/|noun|c1636|特吾主。及聖母。無染原罪。|Dias『聖經直解·雜事目錄』51 (Jap. Sin. I-70)||
 遠視(1)|/|adjective|a1680|而近視遠視諸眼鏡更佳|!『十二樓·夏宜樓·第二囘』17|Not in 1st edn.|
 遠視眼|/|noun|1841|Far-sightedness. 遠視眼|Bridgman, _A Chinese Chrestomathy in the Canton Dialect_, 507||
+月刊|/|noun|1906|日本東京日刋新聞。有二十三種。其餘週刋月刋等各雜誌。有四百四十號。|『新民叢報』87「新智識之雜貨店」1|The ones in _Shih wu pao_ belong to proper names.|
+運動(3)|/|/|/|dele|/|A fake sense. Essentially Han-ta's 運動(1).|
 運營(2)|run (a country)|verb|1907|而以政治哲學之眼孔觀之非謂其非國家之一機關亦非謂其非國家運營之一組織|『中國新報』1/3「中國今世最宜之政體論」13+||
 |run (business)|/|1916|然一商號一公司當新舊乘除之際事實上儘可停止其本機關所運營之業務以待根本上之解决|『順天時報』11月26日「上大􁊒統確定根本辦法書」||
