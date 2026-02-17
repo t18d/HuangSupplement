@@ -4,7 +4,7 @@ permalink: d/
 seo:
   type: Dataset
   name: "HuangSupplement: letter D"
-last_modified_at: 2026-02-15T09:49:08+00:00
+last_modified_at: 2026-02-17T13:11:35+00:00
 description: Antedatings, errata and addenda to letter D of 近現代漢語辭源
 layout: main
 font_key: d
@@ -31,7 +31,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 燈塔|/|noun|1856|(in title)|『遐邇貫珍』5「照船燈塔畵解」||
 地方時|/|noun|1908|地方時者各地之子午線時也.|『測繪學敎程二集』78+||
 地方債|/|noun|1901|地方債目的.亦與國債大異⋯大率皆起於興業之事.|錢恂『財政四綱·國債』32+||
-帝國|/|noun|c1820|亞非利加之分有侯國有王國有帝國又有多小國未有一定的朝政者|!『察世俗每月統記傳』庚辰十一月「論亞非利加列國之朝政」||
+帝國|/|noun|c1820|亞非利加之分有侯國有王國有帝國又有多小國未有一定的朝政者|!Milne『察世俗每月統記傳』庚辰十一月「論亞非利加列國之朝政」297||
 地基|/|noun|1583||_Dicionário Português-Chinês_ (Jap. Sin. I-198)||
 地球|/|noun|1602 (1600)|外三圈天球⋯內一圈地球分天地五州區境之略|Ricci「山海輿地全圖」in『月令廣義·首卷』73||
 地球儀|/|noun|1878|并製有小地球儀|『申報』6月21日「命題甚新」||
