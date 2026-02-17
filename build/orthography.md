@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-02-17T03:03:25+00:00
+last_modified_at: 2026-02-17T03:04:06+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -37,7 +37,7 @@ variant of an ideograph came from.
 In the table that follows, _k'ai_ forms are those commonly used during the 
 Chin–T'ang period; _ts'ao_, _hsing_ and _print_ forms are annotated with the 
 period in which they are first attested. Use 
-[git blame](https://github.com/t18d/HuangSupplement/blame/main/orthography.csv) 
+[git blame](https://github.com/t18d/HuangSupplement/blame/main/dict/orthography.csv) 
 to see the sources for such attestation.
 
 Only forms that are still current in everyday usage tend to be included.
