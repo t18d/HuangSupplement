@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-02-14T08:42:12+00:00
+last_modified_at: 2026-02-17T03:03:25+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -236,7 +236,7 @@ K'ai|Ts'ao|Hsing|Print|Note|
 張|张 Han|/|/||
 真 眞|/|/|/|眞 is archaism|
 鄭|/|郑 T'ang|郑 Ch'ing||
-證|/|证 Ch'in|证 Ch'ing||
+證|/|/|証 Ming 证 Ch'ing|If 證 & 証 weren't homophones before Yüan, Li's (1996) T'ang evidence is suspicious.|
 誌 Sung|/|/|/||
 製|/|/|制 Ming||
 質|/|/|质 Ch'ing||
