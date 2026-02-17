@@ -4,7 +4,7 @@ permalink: z/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Z"
-last_modified_at: 2026-02-17T06:19:34+00:00
+last_modified_at: 2026-02-17T06:24:37+00:00
 description: Antedatings, errata and addenda to letter Z of 近現代漢語辭源
 layout: main
 font_key: z
@@ -29,7 +29,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 證書|/|noun|1821|󰤿冕旒於其上·與之證書.立之爲王|Marshman–Lassar, _The Historical Books in Chinese_ iv, 16v+|Translating העדות in 2R 11:12.|
 政體|/|noun|1834|南亞墨利加󱠚國已良乆󾰾逐西班呀國官員、自操其權、惟政體未尚定着。|Gützlaff『東西洋考每月統記傳』甲午二月「新聞之撮要」27||
 支氣管炎|/|noun|1921|據日本衞生局調查。冬季之死亡。以患急性慢性支氣管炎。及其他之呼吸器病。腦溢血者爲多。|『衞生學通論』65||
-知識|/|noun|c1595|人之知識𭓘問。有慱󶭳浅深之不均。|『記法·󿳍資篇第六』27v (Chinois 5656)||
+知識|/|noun|c1595|人之知識𭓘問。有慱󶭳󰟶深之不均。|『記法·󿳍資篇第六』27v (Chinois 5656)||
 知識份子|/|noun|1916|中國的知識份子一向自視爲與衆不同的特殊階級⋯鄙視從事生產，從事勞動的農工|『新青年』1/5「論知識青年從軍運動」20+||
 直腸|/|noun|a1638|庚即小肚下。其內為小􁖌⋯亦𠔥膀胱𫤰直􁖌。|『泰西人身說㮣·正靣全身󶄰說』+ (Chinois 5130)||
 殖民|/|verb|1886|北方瘦瘠之區⋯務須拓土󺀶民庶臻美善|『申報』3月18日「蛉洲新語」||
