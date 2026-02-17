@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-02-17T03:04:06+00:00
+last_modified_at: 2026-02-17T06:32:23+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -186,6 +186,7 @@ K'ai|Ts'ao|Hsing|Print|Note|
 牽|/|/|/||
 潛 潜|/|/|潜 Ming||
 鉗|/|/|/||
+淺|/|/|浅 (TW) Yüan|浅 (ZH) is barely attested|
 槍|/|/|/||
 牆 墻|/|墙 Sung|墙 Sung||
 權|/|/|权 Ming||
