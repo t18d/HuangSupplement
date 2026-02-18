@@ -4,7 +4,7 @@ permalink: h/
 seo:
   type: Dataset
   name: "HuangSupplement: letter H"
-last_modified_at: 2026-02-17T14:47:33+00:00
+last_modified_at: 2026-02-18T07:45:37+00:00
 description: Antedatings, errata and addenda to letter H of 近現代漢語辭源
 layout: main
 font_key: h
@@ -18,6 +18,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
 海拔|/|noun|1901|此次爆發噴煙高出海拔一萬二千米|『清議報』lxxxvi「支那現勢論」||
 海膽|/|noun|1491|海膽<span class="warichu">殻圎如盂外結󹜙剌⋯</span>|『八閩通誌·卷二十五』27+ (01359)||
+海灣|/|noun|a1033 (c801)|薄剌國隋時聞焉在拘利南海󴛉中|『通典·卷一百八十八』39 (400･1)||
 海洋性氣候|/|NP|1902|歐羅巴⋯大抵有海洋性氣候|作新譯書局『世界地理』240||
 焊錫|/|noun|1889|Solder 銲錫|Fryer『汽機中西名目表』47||
 合群(1)|(with 不-)|adjective|1902|不合羣是中國頭一個大󶁤處|『大公報』11月20日「附件」|asserting new norm|
