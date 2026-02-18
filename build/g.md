@@ -4,7 +4,7 @@ permalink: g/
 seo:
   type: Dataset
   name: "HuangSupplement: letter G"
-last_modified_at: 2026-02-18T07:58:23+00:00
+last_modified_at: 2026-02-18T13:49:02+00:00
 description: Antedatings, errata and addenda to letter G of 近現代漢語辭源
 layout: main
 font_key: g
@@ -56,6 +56,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 關稅|/|noun|1724|再外來洋船向󺟈泊於近省􂠥埔地方來囬輸納關税|『雍正朝漢文硃批奏摺彙編』iii, 905||
 關係(1)|/|noun|a1661 (a961)|或是逺方人事有寃抑凡於関􁋔𥁞湏勘\<逐>|『唐會要·卷第六十·御史臺』68 (03873)|Subsume (2) under (1). The difference between (1) and (3) is monovalent vs bivalent.|
 廣播(1)|/|verb|1923|無線電廣播事務：分送經濟上財政上消息、音樂、唱歌、復述演說、新聞⋯|『舊中國的上海廣播事業』41|not printed in 北洋政府檔案 lxxxvii|
+庋藏|(with books as object)|verb|1204 (1037)|禁中建􂣳圖閣𢇮􁤁秘𠕋置學士待制等貟|『皇朝文鑒·卷一百三十六·馮侍講行狀』2r (6664)||
 國籍|/|noun|1708|其表示永不返回之西洋人，發給印票⋯寫明西洋人國籍、年齡、會別、來華年限、永不返回西洋|!『明清時期澳門問題檔案彙編』i, 74–5||
 國際貿易|/|NP|1901|又或有其國貨幣⋯不能通行於他國者.則其國際貿易上⋯仍不得依計數貨制.|錢恂『財政四綱·貨幣』11||
 國家|state|noun|1815|國家大事 … “The great affairs of the state.”|Morrison, _A Dictionary of the Chinese Language_ i/i, 46||
