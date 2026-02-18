@@ -4,7 +4,7 @@ permalink: style/
 seo:
   type: Guide
   name: A Stylistic Appendix
-last_modified_at: 2026-02-17T14:47:33+00:00
+last_modified_at: 2026-02-19T00:24:51+00:00
 description: The stylistic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -38,9 +38,10 @@ Non-U|Word Class|Literary|Colloquial|Note|
 崇高|adjective|||now mostly used sarcastically due to its political overtones|
 詞化|noun|成詞||careless translation of _lexicalisation_|
 詞彙化|noun|成詞||solecism; see s.v. 詞彙(1).|
-典藏|verb||所有 etc.|cf. what [Cheng said](https://www.shuge.org/shiyi_sui/#:~:text=防御) about libraries viewing public-domain books as _their_ property|
+典藏|verb|庋藏|收藏 所有 etc.|hyperbole|
 動因|noun|原因 條件||an affected way of saying 原因; from Japanese|
 共現|noun|搭配||careless translation of _co-occurrence_|
+架藏|verb|庋藏||架藏 is Japanese, not Chinese.|
 精品|noun|||officialese|
 (不)科學|adjective|(不)準確||a loose use of 科學|
 離開|verb|死|||

@@ -4,7 +4,7 @@ permalink: obsolete/
 seo:
   type: Dataset
   name: "Appendix: Obsolete Words"
-last_modified_at: 2026-02-17T14:47:33+00:00
+last_modified_at: 2026-02-19T00:24:51+00:00
 description: Antedatings, errata and addenda to obsolete words in Huang He-ch'ing's lexicon
 layout: main
 font_key: obsolete
