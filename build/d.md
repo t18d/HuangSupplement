@@ -4,7 +4,7 @@ permalink: d/
 seo:
   type: Dataset
   name: "HuangSupplement: letter D"
-last_modified_at: 2026-02-19T00:24:51+00:00
+last_modified_at: 2026-02-19T08:05:15+00:00
 description: Antedatings, errata and addenda to letter D of 近現代漢語辭源
 layout: main
 font_key: d
@@ -24,6 +24,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 大使|/|noun|1890|往歲󰤿公署於我邦欽差全權大使以修隣好|Shibuya Keizō in『讌集三編』10+||
 大西洋|(metonymic)|noun|1601|大西洋陪臣利瑪竇/奏爲貢獻土物事|Couvreur, _Choix de documents_, 82||
 大猩猩|gorilla|noun|1903|其中如大猩猩。猩猩。黑猩猩長臂猿等其形似人因名類人猿。|『新編動物學』23+||
+大英|/|noun|1834|故大英􁊒督番属。伐征呀𭺜洲。|Gützlaff『東西洋考每月統記傳』癸巳十二月「呀𭺜大洲」||
 擔保|/|verb|c1601|姑饒不殺各苗承認擔保將牛壹拾贰隻以求退兵|『平播全書·卷三』6 (NCL-02251)|here converted to noun|
 單利|/|noun|1905|他銀行之存欵以單利而行此銀行用複利之法而期貯蓄增󺀶|『法制學 經濟學』ii, 39+|lecture by 葛岡（のち中島）信虎|
 蛋糕|/|noun|1843|蛋糕 sponge-cakes|『華英通用雜話·生意數目門』11||
