@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-02-19T05:14:11+00:00
+last_modified_at: 2026-02-19T06:22:17+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -223,6 +223,7 @@ K'ai|Ts'ao|Hsing|Print|Note|
 脩|/|/|/|e.g. 歐陽脩|
 修|/|/|/|cf. 脩|
 許|/|许 Chin|/||
+敘 叙|/|/|/|'叙敘⋯上俗下正' (干祿字書); 敍 is a Sung archaism attested in 類篇|
 續|/|/|/||
 學|学 Wu|/|/||
 煙 烟|/|/|/|'烟煙 竝正' (干祿字書); 菸 (增韻二·二仙·嫣)|
