@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-02-19T00:24:51+00:00
+last_modified_at: 2026-02-19T05:14:11+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -72,6 +72,7 @@ dictionaries is cited as secondary evidence.
       <li>曾良－陳敏 (eds), 明清小說俗字典 (Yangchow, 2018).</li>
       <li>吳立業－陳雙新, '草書楷化字研究', 中國文字研究, 29 (2019), 159–63.</li>
       <li>Yamashita Mari, '「広」の字体についてー略字体の出現時期とその要因ー', 漢字文化研究, 1 (2011), 25–87.</li>
+      <li>顏元孫, 顏真卿書干祿字書, ed. 施安昌 (Peking, 1990). (明拓紹興刻蜀石本)
       <li>楊榮祥, 近代漢語副詞研究 (Peking, 2005).</li>
       <li>中華民國教育部, <a href="https://dict.variants.moe.edu.tw">異體字字典</a> (14th edn, 2024).</li>
     </ul>
