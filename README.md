@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2026-02-18T13:49:02+00:00
+last_modified_at: 2026-02-19T00:29:49+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -106,7 +106,7 @@ last_modified_at: 2026-02-18T13:49:02+00:00
           <li>Authorship is given where it is considered desirable to draw attention to the fact that the writer was not a <strong>native speaker</strong>. Whilst neologisms in such writings can eventually enter the language, scholars should exercise caution when drawing conclusions about the lexicon of contemporary native speakers.</li>
           <li>Authorship is not otherwise indicated if it can be easily looked up, although controversial cases are dealt with in the <a href="https://github.com/t18d/HuangSupplement/wiki/Checklist-of-Editions">Checklist of Editions</a>. An exception is made, however, for writers of extralinguistic importance.</li>
           <li>A <strong>plus sign</strong> ('+') following a source means the word is attested more than once in that source.</li>
-          <li>When a <strong>shelfmark</strong> is added in parentheses, it can be used to identify the relevant digital copy linked to in the <a href="https://github.com/t18d/HuangSupplement/wiki/Checklist-of-Editions">Checklist of Editions</a>.</li>
+          <li>When a <strong>shelfmark</strong> is added in parentheses, it can be used to identify the relevant digital copy linked to in the <a href="https://github.com/t18d/HuangSupplement/wiki/Checklist-of-Editions">Checklist of Editions</a>. Transcription is made from the earliest surviving edition, unless the relevant section in a copy comes from a later completion.</li>
         </ul>
       </li>
     </ul>
