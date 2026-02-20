@@ -4,7 +4,7 @@ permalink: d/
 seo:
   type: Dataset
   name: "HuangSupplement: letter D"
-last_modified_at: 2026-02-20T07:52:44+00:00
+last_modified_at: 2026-02-20T15:04:41+00:00
 description: Antedatings, errata and addenda to letter D of 近現代漢語辭源
 layout: main
 font_key: d
@@ -34,7 +34,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 地方時|/|noun|1908|地方時者各地之子午線時也.|『測繪學敎程二集』78+||
 地方債|/|noun|1901|地方債目的.亦與國債大異⋯大率皆起於興業之事.|錢恂『財政四綱·國債』32+||
 帝國|/|noun|c1820|亞非利加之分有侯國有王國有帝國又有多小國未有一定的朝政者|!Milne『察世俗每月統記傳』庚辰十一月「論亞非利加列國之朝政」297||
-地基|/|noun|1583||_Dicionário Português-Chinês_ (Jap. Sin. I-198)||
+地基|/|noun|1583|Alicerca … 地基|_Dicionário Português-Chinês_ (Jap. Sin. I-198)||
 地球|/|noun|c1595|地<span class="warichu">􁍈一地球於架一人󱟧別山川𡈽地以󳬒𦘕之</span>|『󺘣法·󿳍資篇第六』28r (Chinois 5656)||
 |/|/|1602 (1600)|外三圈天球⋯內一圈地球分天地五州區境之略|Ricci「山海輿地全圖」in『月令廣義·首卷』73||
 地球儀|/|noun|1878|并製有小地球儀|『申報』6月21日「命題甚新」||
