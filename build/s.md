@@ -4,7 +4,7 @@ permalink: s/
 seo:
   type: Dataset
   name: "HuangSupplement: letter S"
-last_modified_at: 2026-02-20T01:16:13+00:00
+last_modified_at: 2026-02-20T01:42:34+00:00
 description: Antedatings, errata and addenda to letter S of 近現代漢語辭源
 layout: main
 font_key: s
@@ -23,8 +23,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 三角戀|(with -關係)|nominal bound stem|1923|可知此種事󴜴。純係三角戀關係。|『大公報』8月16日「記有島秋子自殺問題」||
 |/|verbal noun|1925|你不必發議論了，你難道不知道同性戀愛本來是神秘的嗎？⋯她們可不就是三角戀的縮影，自然免不了衝突。|『大公報』1月16日「人間」||
 三角戀愛|/|NP|1922|戀愛裏最容易發生苦痛的，三角戀愛便是一個著例|『婦女雜誌』8/2「戀愛的意義與價値」6||
-三位一體(1)|/|idiom|a1621|答天主有三位一體䧏生係第二位費略條|『代疑篇·卷下』5v+ (R.G.Or. III 219.9)||
-|/|/|c1636|吾主既降生後。有天主三位一體之像|Dias『聖經直解·雜事目錄』8 (Jap. Sin. I-70)|The 1584 edn of _T'ien chu shih lu_ doesn't yet have the phrase.|
+三位一體(1)|/|idiom|a1621|答天主有三位一體䧏生係第二位費略條|『代疑篇·卷下』5v+ (R.G.Or. III 219.9)|The 1584 edn of _T'ien chu shih lu_ doesn't yet have the phrase.|
+|/|/|c1636|吾主既降生後。有天主三位一體之像|Dias『聖經直解·雜事目錄』8 (Jap. Sin. I-70)||
 山脈|/|noun|1858|山脈之方向|W. Muirhead in『六合叢談』1/13, 9||
 商品|/|noun|1895 (1887)|/|/|merging 商品(1) & 商品(2); the distinction (inherited from Hsien-han) is non-existent.|
 商務|/|noun|1838|如此百官甚鼓厲貿易商務⋯以佐國家經費|Gützlaff『古今萬國綱鑑·卷十一』56r||
