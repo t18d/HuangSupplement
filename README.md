@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2026-02-20T07:52:44+00:00
+last_modified_at: 2026-02-20T08:36:56+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -181,7 +181,7 @@ last_modified_at: 2026-02-20T07:52:44+00:00
 <a href="https://t18d.github.io/HuangSupplement/w/">W (13)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/x/">X (40)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/y/">Y (43)</a> ·
-<a href="https://t18d.github.io/HuangSupplement/z/">Z (55)</a>
+<a href="https://t18d.github.io/HuangSupplement/z/">Z (56)</a>
 <br>
 <a href="https://t18d.github.io/HuangSupplement/letter/">Lettered (1)</a>
 </p>
