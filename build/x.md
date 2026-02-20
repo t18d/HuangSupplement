@@ -4,7 +4,7 @@ permalink: x/
 seo:
   type: Dataset
   name: "HuangSupplement: letter X"
-last_modified_at: 2026-02-19T00:24:51+00:00
+last_modified_at: 2026-02-20T03:56:19+00:00
 description: Antedatings, errata and addenda to letter X of 近現代漢語辭源
 layout: main
 font_key: x
@@ -23,6 +23,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 |/|/|1837 (a1834)|杭人以福壽備而死者俗呼喜喪|梁紹壬『兩般秋雨盦隨筆·卷八』2 (79@20@1)||
 細胞|/|noun|1858|󺴌物全體中有無數細胞體⋯此細胞、一胞爲一體、相比附而成󺴌物全體|『󺴌物學·卷二』1+ (イ13 00871)||
 峽谷|/|noun|1902|峽谷如壁地勢隆起|『申報』7月15日「詳紀張家口鐵路里程」+||
+夏娃|/|noun|1837|亞坦稱其婦名曰夏娃，因係萬生之母矣。|!Gützlaff『關繫重大略說』3r||
 先知|/|noun|1635|葢古經中先知依撒意亞。𠹉預言降生事。|『天主降生言行紀畧·卷二』1r+ (Chinois 6709)||
 顯微鏡(2)|/|noun|a1680|顯微鏡 大似金錢。下有三足。以極微極細之物。󰤿于二足之中。從上視之。則變爲極宏極鉅。|『十二樓·夏宜樓·第二囘』15|Not in 1st edn.|
 |/|/|c1681|顯微鏡 鏡用俯視.以極微細之物.󰤿三足之中.|『鏡史』11 (748514)||
