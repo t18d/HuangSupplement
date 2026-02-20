@@ -4,7 +4,7 @@ permalink: z/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Z"
-last_modified_at: 2026-02-20T08:36:56+00:00
+last_modified_at: 2026-02-20T14:07:09+00:00
 description: Antedatings, errata and addenda to letter Z of 近現代漢語辭源
 layout: main
 font_key: z
@@ -54,6 +54,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 重工業|/|noun|1916|四國一致主張澈底解除侵略國之武裝，包括其重工業與軍事工業的解除。|『新青年』1/5「論『頓巴敦』會議」42||
 重力|/|noun|1859|然有重力阻之、水恒欲離軸而又不能、故常離兩極向赤道|『談天·卷四』8r (LMS 5)||
 種樹|plant trees|idiom|a1034 (c296)|/|『文選·閒居賦』(8575)||
+主教|/|noun|?1635|人進了天主教領了聖水自然都是要奉事天主怎麽􁱚主教只選取幾位奉事天主|『聖教源流·禮儀之四·卷之六』129+ (Chinois 6882)||
 -主義(1)|/|nominal bound stem|1883|因係官權主義聞主筆者必將更迭|『申報』3月4日「會黨類誌」||
 助詞|/|noun|a1368 (a577)|若送句及助詞當音矣󳼛反|『顔氏家訓·音辭第十八』81 (754329–31)||
 祝福|(intransitive)|verb|1538 (1370)|抑此乃祝福之詩非祭祀之詩|『五經蠡測·卷之四』13 (善000735)||
