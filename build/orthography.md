@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-02-20T08:32:06+00:00
+last_modified_at: 2026-02-21T04:11:15+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -60,6 +60,7 @@ dictionaries is cited as secondary evidence.
       <li>Finglass, P. J., 'Orthographica Sophoclea', <em>Philologus</em>, 153 (2009), 206–28.</li>
       <li>黃征, '漫談古籍整理的規範問題', 敦煌研究, 162 (2017), 70–7.</li>
       <li>黃征 (ed.), 敦煌俗字典 (2nd edn, Shanghai, 2020), 2–40.</li>
+      <li>楊寶忠, '《龍龕手鏡》「相承」補說', 民俗典籍文字研究, 2 (2017), 74–86.</li>
       <li>曾良, 俗字及古籍文字通例研究 (Nanchang, 2006).</li>
     </ul>
     <h3>Sources</h3>
