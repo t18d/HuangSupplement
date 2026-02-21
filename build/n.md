@@ -4,7 +4,7 @@ permalink: n/
 seo:
   type: Dataset
   name: "HuangSupplement: letter N"
-last_modified_at: 2026-02-19T00:24:51+00:00
+last_modified_at: 2026-02-21T01:07:46+00:00
 description: Antedatings, errata and addenda to letter N of 近現代漢語辭源
 layout: main
 font_key: n
@@ -46,7 +46,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 腦貧血|/|/|1915|/|/|from Japanese 脳貧血: 1873 (NDL)|
 腦橋|/|/|1898|/|/|from Japanese 脳橋: 1873 (NDL)|
 腦神經|/|/|1903|/|/|from Japanese 脳神経: 1822 (Hathi)|
-鬧鐘|/|noun|1583||_Dicionário Português-Chinês_ (Jap. Sin. I-198)||
+鬧鐘|/|noun|c1809|一曰閙鐘、如遇朝󼝵大典、在某時刻󿾁起身冠帶、則將匣針裝對某時、届期便大發鐘聲|『高𫝗𫎇求·自鳴鐘表圖說』1v+|The one in the 1583 _Dicionário Português-Chinês_ was a VP which translates _Repiccar_.|
 內閣|/|noun|1834|大英之內閣大學士學士尚書等。自主而治政。|Gützlaff『大英國統志·卷一』7v|This describes the English cabinet in terms of a Chinese _nei ke_.|
 內在|/|adjective|1916|Immanent … 內在|Hemeling『官話』s.v. Immanent||
 泥土|/|noun|1858|衝激泥土成新地|W. Muirhead in『六合叢談』1/13, 8|one word instead of two|
