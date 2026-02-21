@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-02-21T04:11:15+00:00
+last_modified_at: 2026-02-21T06:11:55+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -13,11 +13,11 @@ layout: no-anchor
 &nbsp;  
 &nbsp;  
 &nbsp;  
-The notion that pre-modern Chinese primarily used **traditional** 
+The notion that pre-modern Chinese primarily used 'traditional'
 [ideographs](https://t18d.github.io/HuangSupplement/dictionary/#ideograph) has
 no factual basis.
 
-Many of the so-called **simplified** ideographs are in fact traditional forms. 
+Many of the so-called 'simplified' ideographs are in fact traditional forms. 
 They were **stylistic variants** used in informal **registers**. Not 
 infrequently, the simplified variant was the only attested form of an ideograph 
 in the informal genres.
