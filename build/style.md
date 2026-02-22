@@ -4,7 +4,7 @@ permalink: style/
 seo:
   type: Guide
   name: A Stylistic Appendix
-last_modified_at: 2026-02-22T07:05:51+00:00
+last_modified_at: 2026-02-22T07:24:46+00:00
 description: The stylistic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -32,7 +32,7 @@ A word can also become associated with careless writers, including
 
 Non-U|Word Class|Colloquial|Literary|Note|
 ---|---|---|---|---|
-測查|verb||調查|When no measurements are taken, 測查 is meant to sound scientific.|
+測查|verb||調查 etc.|When no equipment is involved, 測查 is cheap hyperbole that's meant to sound scientific.|
 崇高|adjective|||now mostly used sarcastically due to its political overtones|
 詞化|noun||成詞|詞化 is a careless translation of _lexicalisation_.|
 詞彙化|noun||成詞|solecism; see s.v. 詞彙(1).|
