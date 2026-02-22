@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-02-21T12:19:14+00:00
+last_modified_at: 2026-02-22T06:57:45+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -62,6 +62,7 @@ dictionaries is cited as secondary evidence.
       <li>黃征 (ed.), 敦煌俗字典 (2nd edn, Shanghai, 2020), 2–40.</li>
       <li>楊寶忠, '《龍龕手鏡》「相承」補說', 民俗典籍文字研究, 2 (2017), 74–86.</li>
       <li>曾良, 俗字及古籍文字通例研究 (Nanchang, 2006).</li>
+      <li>張孟晉, '唐代字樣學通俗術語考', 中國文字研究, 37 (2023), 150–3.</li>
     </ul>
     <h3>Sources</h3>
     <ul>
