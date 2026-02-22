@@ -4,7 +4,7 @@ permalink: style/
 seo:
   type: Guide
   name: A Stylistic Appendix
-last_modified_at: 2026-02-22T01:14:23+00:00
+last_modified_at: 2026-02-22T06:55:17+00:00
 description: The stylistic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -30,31 +30,32 @@ A word can also become associated with careless writers, including
 &nbsp;  
 <!-- Anything not in the table must be before this comment. -->
 
-Non-U|Word Class|Literary|Colloquial|Note|
+Non-U|Word Class|Colloquial|Literary|Note|
 ---|---|---|---|---|
-|adverb|半旗|降半旗 etc.||
-測查|verb|調查||When no measurements are taken, 測查 is meant to sound scientific.|
-|noun|塵拂|撣子 etc.||
+測查|verb||調查|When no measurements are taken, 測查 is meant to sound scientific.|
 崇高|adjective|||now mostly used sarcastically due to its political overtones|
-詞化|noun|成詞||careless translation of _lexicalisation_|
-詞彙化|noun|成詞||solecism; see s.v. 詞彙(1).|
-典藏|verb|庋藏|收藏 所有 etc.|hyperbole|
-動因|noun|原因 條件||an affected way of saying 原因; from Japanese|
-共現|noun|搭配||careless translation of _co-occurrence_|
-架藏|verb|庋藏||架藏 is Japanese, not Chinese.|
+詞化|noun||成詞|詞化 is a careless translation of _lexicalisation_.|
+詞彙化|noun||成詞|solecism; see s.v. 詞彙(1).|
+|noun|撣子 etc.|塵拂||
+典藏|verb|收藏 所有 etc.|庋藏|典藏 is cheap hyperbole.|
+動因|noun||原因 條件|動因 is an affected way of saying 原因; from Japanese.|
+共現|noun||搭配|共現 is a careless (literal) translation of _co-occurrence_.|
+架藏|verb||庋藏|架藏 is Japanese, not Chinese.|
+|verb|講|說 etc.|Using 講 where 說 or another more formal word can be substituted is a telltale sign of unedited prose. |
+|adverb|降半旗 etc.|半旗||
 精品|noun|||officialese|
-(不)科學|adjective|(不)準確||a loose use of 科學|
-離開|verb|死|||
-連續統|noun|連續體 etc.||-統 is non-transparent & a sign of mindless parroting|
-爬梳|verb|梳理||See s.v. 耙梳.|
-前揭|adjective|前述||-揭 is faux-classical; from Japanese.|
-人工流產|verb|墮胎|打胎||
-潤筆|noun||潤筆費||
-上揭|adjective|上述||-揭 is faux-classical; from Japanese.|
+(不)科學|adjective||(不)準確|a loose use of 科學|
+|postposition|(從⋯)-來看|(從⋯)-看||
+離開|verb||死||
+連續統|noun||連續體 etc.|-統 is non-transparent & a sign of mindless parroting.|
+爬梳|verb||梳理|See s.v. 耙梳.|
+前揭|adjective||前述|-揭 is faux-classical; from Japanese.|
+人工流產|verb|打胎|墮胎||
+潤筆|noun|潤筆費|||
+上揭|adjective||上述|-揭 is faux-classical; from Japanese.|
 氏著|adjective|||faux-classical|
-受容|noun|反響/吸納 etc.||Even in Japanese, 受容 is an inadequate translation of 'reception'.|
-|verb|說 etc.|講|Using 講 where 說 or another more formal word can be substituted is a telltale sign of unedited prose. |
-硬傷|noun|紕繆|差錯||
-再有|adverb|再則|再者 > 再有就是||
-在在|adverb|處處||在在 is an affected archaism.|
-指出(2)|verb|認爲 etc.|說|The fact that you have to assert the subject's authority means he doesn't have it. Huang suggests communist origin, but 指出(2) s.v. shows it's late-Ch'ing officialese.|
+受容|noun||反響/吸納 etc.|Even in Japanese, 受容 is an inadequate translation of 'reception'.|
+硬傷|noun|差錯|紕繆||
+再有|adverb|再者 > 再有就是|再則||
+在在|adverb||處處|在在 is an affected archaism.|
+指出(2)|verb|說|認爲 etc.|The fact that you have to assert the subject's authority means he doesn't have it. Huang suggests communist origin, but 指出(2) s.v. shows it's late-Ch'ing officialese.|
