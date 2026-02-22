@@ -4,7 +4,7 @@ permalink: style/
 seo:
   type: Guide
   name: A Stylistic Appendix
-last_modified_at: 2026-02-19T00:24:51+00:00
+last_modified_at: 2026-02-22T01:14:23+00:00
 description: The stylistic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -53,6 +53,7 @@ Non-U|Word Class|Literary|Colloquial|Note|
 上揭|adjective|上述||-揭 is faux-classical; from Japanese.|
 氏著|adjective|||faux-classical|
 受容|noun|反響/吸納 etc.||Even in Japanese, 受容 is an inadequate translation of 'reception'.|
+|verb|說 etc.|講|Using 講 where 說 or another more formal word can be substituted is a telltale sign of unedited prose. |
 硬傷|noun|紕繆|差錯||
 再有|adverb|再則|再者 > 再有就是||
 在在|adverb|處處||在在 is an affected archaism.|
