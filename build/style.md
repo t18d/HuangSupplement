@@ -4,7 +4,7 @@ permalink: style/
 seo:
   type: Guide
   name: A Stylistic Appendix
-last_modified_at: 2026-02-22T07:24:46+00:00
+last_modified_at: 2026-02-23T13:48:52+00:00
 description: The stylistic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -38,6 +38,7 @@ Non-U|Word Class|Colloquial|Literary|Note|
 詞彙化|noun||成詞|solecism; see s.v. 詞彙(1).|
 |noun|撣子 etc.|塵拂||
 典藏|verb|收藏 所有 etc.|庋藏|典藏 is cheap hyperbole.|
+調研|verb|||officialese|
 動因|noun||原因 條件|動因 is an affected way of saying 原因; from Japanese.|
 共現|noun||搭配|共現 is a careless (literal) translation of _co-occurrence_.|
 架藏|verb||庋藏|架藏 is Japanese, not Chinese.|
@@ -56,6 +57,7 @@ Non-U|Word Class|Colloquial|Literary|Note|
 氏著|adjective|||faux-classical|
 受容|noun||反響/吸納 etc.|Even in Japanese, 受容 is an inadequate translation of 'reception'.|
 文章|noun||本文 etc.|Some abstract writers use this officialese to achieve an impersonal tone.|
+研判|verb|||officialese|
 硬傷|noun|差錯|紕繆||
 再有|adverb|再者 > 再有就是|再則||
 在在|adverb||處處|在在 is an affected archaism.|
