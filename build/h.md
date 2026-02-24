@@ -4,7 +4,7 @@ permalink: h/
 seo:
   type: Dataset
   name: "HuangSupplement: letter H"
-last_modified_at: 2026-02-20T07:52:44+00:00
+last_modified_at: 2026-02-24T07:03:41+00:00
 description: Antedatings, errata and addenda to letter H of 近現代漢語辭源
 layout: main
 font_key: h
@@ -18,10 +18,12 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 ---|---|---|---|---|---|---|
 海拔|/|noun|1901|此次爆發噴煙高出海拔一萬二千米|『清議報』lxxxvi「支那現勢論」||
 海膽|/|noun|1491|海膽<span class="warichu">殻圎如盂外結󹜙剌⋯</span>|『八閩通誌·卷二十五』27+ (01359)||
+海蝕|/|noun|1911|海蝕 海水之侵蝕.|『普通百科新大詞典·午集』5v||
 海灣|/|noun|a1033 (c801)|薄剌國隋時聞焉在拘利南海󴛉中|『通典·卷一百八十八』39 (400･1)||
 海王星|/|noun|1851|第十七道曰海王星。亦是新尋見者。較天星畧小。而大於地數十倍。|McCartee『󲭇安通書·行星圖說』2r+ (Sinica 1771)||
 海洋性氣候|/|NP|1902|歐羅巴⋯大抵有海洋性氣候|作新譯書局『世界地理』240||
 焊錫|/|noun|1889|Solder 銲錫|Fryer『汽機中西名目表』47||
+河床|/|noun|1902|至於黄河。其流雖長大。而其勢甚急。且河床不治。故水運之便極少。|作新譯書局『世界地理』98+||
 合群(1)|(with 不-)|adjective|1902|不合羣是中國頭一個大󶁤處|『大公報』11月20日「附件」|asserting new norm|
 |/|/|1920|一講自由戀愛。男女個個便放縱得不得了。這是不會有的⋯一個人不能不合羣。|『時事新報』1月20日「通訉」|norm established|
 |/|/|1925|班上是何等的看重他而瞧不起那位考第一而不愛說話不合羣的李稚生！|『京報』6月2日「記曹仲華」|policing the norm|

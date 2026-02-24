@@ -4,7 +4,7 @@ permalink: d/
 seo:
   type: Dataset
   name: "HuangSupplement: letter D"
-last_modified_at: 2026-02-23T11:14:14+00:00
+last_modified_at: 2026-02-24T07:03:41+00:00
 description: Antedatings, errata and addenda to letter D of 近現代漢語辭源
 layout: main
 font_key: d
@@ -39,7 +39,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 地球|/|noun|c1595|地<span class="warichu">􁍈一地球於架一人󱟧別山川𡈽地以󳬒𦘕之</span>|『󺘣法·󿳍資篇第六』28r (Chinois 5656)||
 |/|/|1602 (1600)|外三圈天球⋯內一圈地球分天地五州區境之略|Ricci「山海輿地全圖」in『月令廣義·首卷』73||
 地球儀|/|noun|1878|并製有小地球儀|『申報』6月21日「命題甚新」||
-地下水|/|noun|1903|地下水 雨水之一部。|『中學地文教科書』74||
+地下水|/|noun|1886|第三章明地下水之功用|『地理質學啟𫎇·卷五』41r (02355)||
+|/|/|1903|地下水 雨水之一部。|『中學地文教科書』74||
 典型(2)|(with -的)|adjective|1919|大抵希臘之悲劇⋯稱之爲個人的。甯不若稱爲典型的較爲確當。|『晨報』6月22日「歐洲戲曲之四時期」||
 |(without -的)|/|1921|阿爾志跋綏夫⋯在一九〇五年之前，已經寫出一個以性欲爲第一義的典型人物來.|魯迅「譯了『工人綏惠略夫』之後」2, in『小說月報』12/7||
 -點(2)|/|nominal bound root|1748 (c1744)|作自鳴鐘，按時鳴⋯一點黎明⋯九點止行人，凡輪哨依汎防官栅連派定，過二點則交代|!『噶喇吧紀略』178+||
