@@ -4,7 +4,7 @@ permalink: q/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Q"
-last_modified_at: 2026-02-19T08:05:15+00:00
+last_modified_at: 2026-02-24T08:44:04+00:00
 description: Antedatings, errata and addenda to letter Q of 近現代漢語辭源
 layout: main
 font_key: q
@@ -34,6 +34,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 契據|/|noun|1872|(document) 契 … 契據|Doolittle『英華萃林韻府』s.v. Deed||
 氣槍|/|noun|c1852 (a1841)|西洋奇𠾖述<span class="warichu">武進李兆洛</span>曰.氣鎗者爲銅球大如拳.上爲螺旋孔一.筒長二尺許錫爲之.|『海國圖志·卷九十四』8 (地900/875.5)||
 棄權|/|verb|1895 (1887)|/|黃遵憲『日本國志·刑法志一』||
+氣溫|/|noun|1902|所以赤道之空氣層、較在兩極者、得熱爲甚、而其結果、即爲兩地方氣温之差|『地質學簡易敎科書』2v|original by Yokoyama Matajirō|
 汽油|/|noun|1904|有汽油六百八十罐又煤三百噸以供俄軍之用|『大公報』1月28日「時事要聞」||
 鉛筆|/|noun|1822|Blacklead pencil, 鉛筆|Morrison, _A Dictionary of the Chinese Language_, iii, s.v. BLACKLEAD||
 牽引力|/|noun|1908|其牽引力甚大且較牛皮橡皮各帶更為耐久堅韌|『申報』2月23日「專製布質引擎帶」||

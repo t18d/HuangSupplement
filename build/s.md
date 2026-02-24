@@ -4,7 +4,7 @@ permalink: s/
 seo:
   type: Dataset
   name: "HuangSupplement: letter S"
-last_modified_at: 2026-02-24T05:53:30+00:00
+last_modified_at: 2026-02-24T08:44:04+00:00
 description: Antedatings, errata and addenda to letter S of 近現代漢語辭源
 layout: main
 font_key: s
@@ -25,7 +25,6 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 三角戀愛|/|NP|1922|戀愛裏最容易發生苦痛的，三角戀愛便是一個著例|『婦女雜誌』8/2「戀愛的意義與價値」6||
 三位一體(1)|/|idiom|a1621|答天主有三位一體䧏生係第二位費略條|『代疑篇·卷下』5v+ (R.G.Or. III 219.9)|The 1584 edn of _T'ien chu shih lu_ doesn't yet have the phrase.|
 |/|/|c1636|吾主既降生後。有天主三位一體之像|Dias『聖經直解·雜事目錄』8 (Jap. Sin. I-70)||
-山脈|/|noun|1858|山脈之方向|W. Muirhead in『六合叢談』1/13, 9||
 商品|/|noun|1895 (1887)|/|/|merging 商品(1) & 商品(2); the distinction (inherited from Hsien-han) is non-existent.|
 商務|/|noun|1838|如此百官甚鼓厲貿易商務⋯以佐國家經費|Gützlaff『古今萬國綱鑑·卷十一』56r||
 |/|/|1853|以近因商務停歇、本地各行將資本銀兩、俱行提收⋯求准暫緩輸納|『遐邇貫珍』2「近日雜報」14||
