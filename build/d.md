@@ -4,7 +4,7 @@ permalink: d/
 seo:
   type: Dataset
   name: "HuangSupplement: letter D"
-last_modified_at: 2026-02-24T14:55:52+00:00
+last_modified_at: 2026-02-25T01:01:19+00:00
 description: Antedatings, errata and addenda to letter D of 近現代漢語辭源
 layout: main
 font_key: d
@@ -25,7 +25,8 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 大西洋|(metonymic)|noun|1601|大西洋陪臣利瑪竇/奏爲貢獻土物事|Couvreur, _Choix de documents_, 82||
 大猩猩|gorilla|noun|1903|其中如大猩猩。猩猩。黑猩猩長臂猿等其形似人因名類人猿。|『新編動物學』23+||
 大英|/|noun|1834|故大英􁊒督番属。伐征呀𭺜洲。|Gützlaff『東西洋考每月統記傳』癸巳十二月「呀𭺜大洲」||
-代表(5)|constitute|verb|1924|客觀的信仰，而在個人並不代表超乎現象的力|陸志韋編『社會心理學新論』51+|imitating _represent_|
+代表(6)|constitute|verb|1917|發行不代表正貨之紙幣以充營業資金而生之收益。不可不依課納付金。|『財政淵鑑』ii, 1437|imitating _represent_; different from Hsien-han's 代表(5), which means 'be a symbol of'|
+|/|/|1924|客觀的信仰，而在個人並不代表超乎現象的力|陸志韋編『社會心理學新論』51+||
 袋鼠|/|noun|1852|袋鼠 出奧大利亞⋯跳而行。牝者小腹另生一肉袋⋯居小鼠以飼乳。|McCartee『󲭇安通書·[禽獸蟲魚圖說]』3r (Sinica 1772)||
 擔保|/|verb|c1601|姑饒不殺各苗承認擔保將牛壹拾贰隻以求退兵|『平播全書·卷三』6 (NCL-02251)|here converted to noun|
 單利|/|noun|1905|他銀行之存欵以單利而行此銀行用複利之法而期貯蓄增󺀶|『法制學 經濟學』ii, 39+|lecture by 葛岡（のち中島）信虎|
