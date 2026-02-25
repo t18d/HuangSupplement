@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2026-02-25T13:34:48+00:00
+last_modified_at: 2026-02-25T13:38:23+00:00
 layout: anchor
 ---
 # Bibliography
@@ -31,11 +31,10 @@ layout: anchor
 - Kretschmer, Paul, _Sprachregeln für die Bildung und Betonung zoologischer und botanischer Namen_ (Berlin, 1899).
 - Kühner, Raphael, and Friedrich Blass, _Ausfürliche Grammatik der Griechischen Sprache: I. Elementar- und Formenlehre_, ii (Hanover, 1892).
 - Liu Ch'uan-hung, and Hsiung Jun-chu, '試論古籍整理中他校的操作原則', 古籍整理研究學刊, 3 (2018), 37–46.
-- Mair, Victor H. et al. (eds), Han yü ta tz'u tien _tz'u mu yin hsü so yin_ (Shanghai, 2003).
+- Mair, Victor H. (ed.), 漢語大詞典詞目音序索引 (Shanghai, 2003).
 - Měchura, Michal, 'Better than XML: Towards a lexicographic markup language', _Data & Knowledge Engineering_, 146 (2023), 102196.
 - Meng Chao-lien, 之乎者也非口語論 (Nanking, 2017).
 - Tai Li-kang, '晚清的官話音系及其性質', 古漢語研究, 117 (2017), 28–41.
-- Yang Po-chün, and He Le-shih, 古漢語語法及其發展 (rev. edn, Peking, 2001).
 - Yeh Pao-k'uei, '民初國音的回顧與反思', 廈門大學學報, 183 (2007), 44–50.
 
 ## Sources
