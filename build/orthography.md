@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-02-23T14:00:13+00:00
+last_modified_at: 2026-02-25T14:44:39+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -56,7 +56,7 @@ dictionaries is cited as secondary evidence.
     <summary>Bibliography</summary>
     <h3>Theory</h3>
     <ul>
-      <li>張涌泉, 敦煌寫本文獻學 (Lanchow, 2013).</li>
+      <li>Barr, James, <em>The Variable Spellings of the Hebrew Bible</em> (Oxford, 1989), 186–211.</li>
       <li>Finglass, P. J., 'Orthographica Sophoclea', <em>Philologus</em>, 153 (2009), 206–28.</li>
       <li>黃征, '漫談古籍整理的規範問題', 敦煌研究, 162 (2017), 70–7.</li>
       <li>黃征 (ed.), 敦煌俗字典 (2nd edn, Shanghai, 2020), 2–40.</li>
@@ -66,6 +66,7 @@ dictionaries is cited as secondary evidence.
       <li>楊寶忠, '《龍龕手鏡》「相承」補說', 民俗典籍文字研究, 2 (2017), 74–86.</li>
       <li>曾良, 俗字及古籍文字通例研究 (Nanchang, 2006).</li>
       <li>張孟晉, '唐代字樣學通俗術語考', 中國文字研究, 37 (2023), 150–3.</li>
+      <li>張涌泉, 敦煌寫本文獻學 (Lanchow, 2013).</li>
     </ul>
     <h3>Sources</h3>
     <ul>
