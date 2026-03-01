@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-03-01T08:20:28+00:00
+last_modified_at: 2026-03-01T08:31:46+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -58,10 +58,12 @@ dictionaries is cited as secondary evidence.
     <ul>
       <li>Barr, James, <em>The Variable Spellings of the Hebrew Bible</em> (Oxford, 1989), 186–211.</li>
       <li>Finglass, P. J., 'Orthographica Sophoclea', <em>Philologus</em>, 153 (2009), 206–28.</li>
+      <li>何琳儀, 戰國文字通論 (Shanghai, 2017), 44–91 ('古文').</li>
       <li>黃征, '漫談古籍整理的規範問題', 敦煌研究, 162 (2017), 70–7.</li>
       <li>黃征 (ed.), 敦煌俗字典 (2nd edn, Shanghai, 2020), 2–40.</li>
-      <li>劉元春, '楷化篆字概說', in 隋唐石刻與唐代字樣 (Canton, 2010), 225–40.</li>
+      <li>劉元春, 隋唐石刻與唐代字樣 (Canton, 2010), 225–40 ('楷化篆字').</li>
       <li>劉元春, '字樣學通字新詮', 古漢語研究, 112 (2016), 57–63.</li>
+      <li>龍宇純, 中國文字學 (Taipei, 1996), 407–8 ('篆定').</li>
       <li>閆鎮, '秦本《蒼頡篇》書體為「秦隸」非「小篆」再探', 白鹿塬論叢, 3 (2024), 225–36.</li>
       <li>楊寶忠, '《龍龕手鏡》「相承」補說', 民俗典籍文字研究, 2 (2017), 74–86.</li>
       <li>曾良, 俗字及古籍文字通例研究 (Nanchang, 2006).</li>
