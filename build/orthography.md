@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-02-25T14:44:39+00:00
+last_modified_at: 2026-03-01T08:20:28+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -226,6 +226,7 @@ K'ai|Ts'ao|Hsing|Print|Note|
 襲|/|/|/||
 峡 峽|/|/|/|cf. 夹|
 險|/|险 T'ang|/||
+線 綫|/|/|/|'竝正' (干祿字書); 戋 is a Republican invention (Li 1996: 118)|
 寫|/|/|/||
 脩|/|/|/|e.g. 歐陽脩|
 修|/|/|/|cf. 脩|
