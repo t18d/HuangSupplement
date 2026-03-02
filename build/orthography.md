@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-03-02T21:38:10+00:00
+last_modified_at: 2026-03-02T22:02:23+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -58,8 +58,9 @@ dictionaries is cited as secondary evidence.
     <ul>
       <li>Barr, James, <em>The Variable Spellings of the Hebrew Bible</em> (Oxford, 1989), 186–211.</li>
       <li>Finglass, P. J., 'Orthographica Sophoclea', <em>Philologus</em>, 153 (2009), 206–28.</li>
-      <li>Galambos, Imre, 'Medieval Ways of Character Formation in Chinese Manuscript Culture', <em>SCRIPTA</em>, 6 (2014), 49–73.
-      <li>⸻, 'Chinese Character Variants in Medieval Dictionaries and Manuscripts', in <em>Exploring Written Artefacts</em> (Berlin, 2021), 491–512 (ghost variants).
+      <li>Galambos, Imre, 'Medieval Ways of Character Formation in Chinese Manuscript Culture', <em>SCRIPTA</em>, 6 (2014), 49–73.</li>
+      <li>⸻, 'Graphic Variation in Early Chinese Writing', in <em>China Across the Centuries</em> (Budapest, 2017), 33–59.</li>
+      <li>⸻, 'Chinese Character Variants in Medieval Dictionaries and Manuscripts', in <em>Exploring Written Artefacts</em> (Berlin, 2021), 491–512 (ghost variants).</li>
       <li>何琳儀, 戰國文字通論 (Shanghai, 2017), 44–91 ('古文').</li>
       <li>黃征, '漫談古籍整理的規範問題', 敦煌研究, 162 (2017), 70–7.</li>
       <li>黃征 (ed.), 敦煌俗字典 (2nd edn, Shanghai, 2020), 2–40.</li>
