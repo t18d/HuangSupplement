@@ -109,6 +109,25 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      - name: Check for escaped closing tags
+        run: |
+          echo "=== Checking for escaped closing tags (&lt;/) in _site ==="
+          set -o pipefail
+    
+          # Find all HTML files and search for the literal sequence '&lt;/'.
+          # -n : show line numbers
+          # -H : show filename
+          matches=$(find _site -name '*.html' -print0 \
+            | xargs -0 grep -nH '&lt;/' || true)
+    
+          if [ -n "$matches" ]; then
+            echo "ERROR: Escaped closing tags detected in rendered HTML. Matches:"
+            printf '%s\n' "$matches"
+            exit 1
+          else
+            echo "No escaped closing tags found."
+          fi
+
       #- uses: actions/setup-node@v5
       #  with:
       #    node-version: 'node'
