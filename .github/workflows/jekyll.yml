@@ -128,6 +128,11 @@ jobs:
             echo "No escaped closing tags found."
           fi
 
+      - name: Validate HTMLs
+        run: |
+          curl https://htmltest.wjdp.uk | bash
+          bin/htmltest ./_site
+
       #- uses: actions/setup-node@v5
       #  with:
       #    node-version: 'node'

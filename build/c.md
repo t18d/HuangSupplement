@@ -4,7 +4,7 @@ permalink: c/
 seo:
   type: Dataset
   name: "HuangSupplement: letter C"
-last_modified_at: 2026-02-24T04:12:03+00:00
+last_modified_at: 2026-03-03T12:57:29+00:00
 description: Antedatings, errata and addenda to letter C of 近現代漢語辭源
 layout: main
 font_key: c
@@ -25,7 +25,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 參校本|/|noun|1814|其所引釋文皆就盧文弨參挍本而出之|東條弘『增攷孝經鄭氏解補證·提要』2||
 |/|/|c1874 (a1873)|「春秋繁露參校本及新校人名氏」|『古經解彙函·第十六』||
 草書|/|noun|Han|睦善草書臨病明帝驛馬令作草書尺牘十首焉|劉珍『東觀漢記·卷七列傳二·北海敬王睦』||
-草原|/|noun|1902|地多草原。故牧<畜>之業最盛。|作新譯書局『世界地理』292||
+草原|/|noun|1902|地多草原。故牧\<畜>之業最盛。|作新譯書局『世界地理』292||
 測量|/|verb|c1607|測量者。以測望知山岳󰝝臺之高。|『測量法義』1+ (05200)||
 叉子|/|noun|1792|被家中兩個黑奴同謀，偸出後開物件⋯銀柄叉子二枝、銀柄剪刀子二枝，共値價銀十五元|!『清代澳門中文檔案彙編·上』307+||
 長頸鹿|/|noun|a1844|在此地、虎、獅⋯與長頸鹿<span class="warichu">正是各獸之最高者</span>以及駝鳥、濯濯自在也。|!Gützlaff『萬國地理全集·卷二十七』307||

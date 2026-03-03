@@ -4,7 +4,7 @@ permalink: k/
 seo:
   type: Dataset
   name: "HuangSupplement: letter K"
-last_modified_at: 2026-02-19T00:24:51+00:00
+last_modified_at: 2026-03-03T12:57:29+00:00
 description: Antedatings, errata and addenda to letter K of 近現代漢語辭源
 layout: main
 font_key: k
@@ -34,7 +34,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 可喜的|/|adjective|1904|所以驚奇可喜的事 人乍聽了 無不拍案呌絶|『京話日報』8月17日「達威德爾偵探記 第一節」|first occurrence as -的|
 |/|/|1905|却是有一件可喜的好事|『京話日報』2月23日「通州苦况」|first independent use|
 刻本|/|noun|Sung|近歲均州刻本輒改為仇香|陸遊『老學庵筆記』卷四||
-|/|/|2001|「再说黄正甫刊本{乃}《三国志传》<乃>今见《三国演义》最早刻本」|『明清小說研究』1, 125|刻本 & 刋本 are stylistic variants|
+|/|/|2001|「再说黄正甫刊本{乃}《三国志传》\<乃>今见《三国演义》最早刻本」|『明清小說研究』1, 125|刻本 & 刋本 are stylistic variants|
 空氣(1)|/|noun|1854|于是斯當波里火山、高二百十六丈、其噴出之力、較空氣重一百七十六倍|『地理全志下編·卷二』12+||
 塊|/|noun|c1844 (c1819)|吴市用洋錢以塊計毎󲱮分十󾉟󾉟分十分|包世臣『管情三義·己卯𡻕朝松江即事』xxii, 6 (05593)||
 會計學|/|noun|1906|就一部言。支一費必符鐵路會計學。斯爲不負股東。不負國家。|『新民叢報』92「所望於新任川督趙公」6||
