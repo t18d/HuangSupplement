@@ -4,7 +4,7 @@ permalink: style/
 seo:
   type: Guide
   name: A Stylistic Appendix
-last_modified_at: 2026-02-26T09:20:38+00:00
+last_modified_at: 2026-03-04T09:44:13+00:00
 description: The stylistic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -45,6 +45,7 @@ Non-U|Word Class|Colloquial|Literary|Note|
 |verb|講|說 etc.|Using 講 where 說 or another more formal word can be substituted is a telltale sign of unedited prose. |
 |adverb|降半旗 etc.|半旗||
 精品|noun|||officialese|
+絕學|noun|||non-U when referring to one's own research|
 (不)科學|adjective||(不)準確|a loose use of 科學|
 |postposition|(從⋯)-來看|(從⋯)-看||
 老師|noun||先生 女士 etc.||
