@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-03-03T01:00:36+00:00
+last_modified_at: 2026-03-04T13:11:21+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -57,6 +57,7 @@ dictionaries is cited as secondary evidence.
     <h3>Theory</h3>
     <ul>
       <li>Barr, James, <em>The Variable Spellings of the Hebrew Bible</em> (Oxford, 1989), 186–211.</li>
+      <li>竇懷永, '《龍龕手鏡》所收唐諱字形論析', 浙江大學學報, 51/2 (2021), 175–83.</li>
       <li>Finglass, P. J., 'Orthographica Sophoclea', <em>Philologus</em>, 153 (2009), 206–28.</li>
       <li>Galambos, Imre, 'Medieval Ways of Character Formation in Chinese Manuscript Culture', <em>SCRIPTA</em>, 6 (2014), 49–73.</li>
       <li>⸻, 'Graphic Variation in Early Chinese Writing', in <em>China Across the Centuries</em> (Budapest, 2017), 33–59.</li>
