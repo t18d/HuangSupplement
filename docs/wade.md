@@ -5,7 +5,7 @@ permalink: wade/
 seo:
   type: Dataset
   name: The One True Wade
-last_modified_at: 2026-03-03T00:39:40+00:00
+last_modified_at: 2026-03-05T04:25:04+00:00
 layout: no-anchor
 ---
 # The One True Wade
@@ -38,15 +38,15 @@ For capitalisation, word division and common modifications, see Barry (1997).
     <h3>Sources</h3>
     <ul>
       <li>Barry, Randall K. (ed.), <em><a href="https://archive.org/details/alalcromanizatio1997unse/page/43/mode/1up">ALA–LC Romanization Tables</a></em> (Washington, 1997), 43–4.</li>
-      <li>Giles, Herbert A. (ed.), <em>A Chinese–English Dictionary</em> (London, 1892).</li>
+      <li>Giles, Herbert A. (ed.), <em>A Chinese–English Dictionary</em>, 2 vols (London, 1892).</li>
       <li>Giles, Herbert A. (ed.), <em>A Chinese–English Dictionary</em>, 3 vols (2nd edn, Shanghai, 1912).</li>
       <li>Wade, Thomas Francis, <em><a href="https://www.google.com/books/edition/The_Hsin_Ching_Lu_or_Book_of_Experiments/Yb1EAAAAcAAJ">The Peking Syllabary</a></em> (Hongkong, 1859).</li>
-      <li>Wade, Thomas Francis, <em>Tzu erh chi</em> (London, 1867).</li>
+      <li>Wade, Thomas Francis, <a href="https://www.google.com/books/edition/語言自邇集/-_RY5kIeWlUC">語言自邇集</a> (London, 1867).</li>
     </ul>
     <h3>As seen in …</h3>
     <ul>
       <li>Chung, Karen Steffen, 'Wade–Giles Romanization System', in Chan Sin-wai (ed.), <em>The Routledge Encyclopedia of the Chinese Language</em> (London, 2016), 756–76.</li>
-      <li>Li, Ch'ang-hao, and Fang Huan-hai, '翟理斯的漢語注音特點及其相關問題', <em>Lungyen hsüeh yüan hsüeh pao</em>, 38/1 (2020), 65–6.</li>
+      <li>李長浩－方環海, '翟理斯的漢語注音特點及其相關問題', 龍岩學院學報, 38/1 (2020), 65–6.</li>
       <li>Shibles, Warren A., 'Chinese Romanization Systems: IPA Transliteration', <em>Sino-Platonic Papers</em>, 52 (1994), 1–17.</li>
     </ul>
   </details>
@@ -448,6 +448,7 @@ For capitalisation, word division and common modifications, see Barry (1997).
 - yao
 - yeh
 - yen
+- yi
 - yin
 - ying
 - yu
