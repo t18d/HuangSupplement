@@ -4,7 +4,7 @@ permalink: f/
 seo:
   type: Dataset
   name: "HuangSupplement: letter F"
-last_modified_at: 2026-02-19T00:24:51+00:00
+last_modified_at: 2026-04-16T03:40:52+00:00
 description: Antedatings, errata and addenda to letter F of 近現代漢語辭源
 layout: main
 font_key: f
@@ -51,3 +51,4 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 復刻本|/|noun|c1807 (a1799)|近秦太史恩復刻本題爲梁陶宏景注|孫志祖『讀書脞錄·卷四·鬼谷子注』2 (01932)||
 |/|/|1809|閩中覆刻本閒有譌舛|陳春「湖海樓叢書『學林』跋」||
 複利|/|noun|1904|用對數以求複利及年金其法較簡是爲對數之應用|『最新代數學敎科書·第十四編』166+||
+負債|liabilities|noun|1907|鐵道簿記計算之結果即所以表示鐵道現在之資產、󰓞債、損失、利益、之四點也|『鐵道全編·第七編』131+||

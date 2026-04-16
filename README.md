@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2026-03-16T04:11:31+00:00
+last_modified_at: 2026-04-16T03:40:52+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -163,7 +163,7 @@ last_modified_at: 2026-03-16T04:11:31+00:00
 <a href="https://t18d.github.io/HuangSupplement/c/">C (39)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/d/">D (45)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/e/">E (1)</a> ·
-<a href="https://t18d.github.io/HuangSupplement/f/">F (33)</a> ·
+<a href="https://t18d.github.io/HuangSupplement/f/">F (34)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/g/">G (43)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/h/">H (38)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/j/">J (60)</a> ·
@@ -182,7 +182,7 @@ last_modified_at: 2026-03-16T04:11:31+00:00
 <a href="https://t18d.github.io/HuangSupplement/w/">W (13)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/x/">X (41)</a> ·
 <a href="https://t18d.github.io/HuangSupplement/y/">Y (45)</a> ·
-<a href="https://t18d.github.io/HuangSupplement/z/">Z (57)</a>
+<a href="https://t18d.github.io/HuangSupplement/z/">Z (58)</a>
 <br>
 <a href="https://t18d.github.io/HuangSupplement/letter/">Lettered (1)</a>
 </p>
