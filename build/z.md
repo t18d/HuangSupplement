@@ -4,7 +4,7 @@ permalink: z/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Z"
-last_modified_at: 2026-04-16T03:40:52+00:00
+last_modified_at: 2026-05-03T23:49:07+00:00
 description: Antedatings, errata and addenda to letter Z of 近現代漢語辭源
 layout: main
 font_key: z
@@ -23,7 +23,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 沼氣|/|noun|1903|攪池底之泥而起泡。所起之泡。即名沼氣|『初等理化博物敎科書』113+||
 蔗糖|/|noun|1874|說畢卽將瓶中葡萄酒倒入玻璃盞又加蔗糖少許|『瀛寰瑣記』20, 7||
 偵查|/|verb|a1639|經督撫院及各路撫󺪭逐一偵查則存亡逃叛終難掩蔽|『三朝遼事實錄·卷五』16 (02041)||
-真理|/|noun|c1584|予聞妖詞多端。罔知真理。希乞指引為幸。|Ruggieri『新編西竺國天主實錄』9v (Jap. Sin. I-189)||
+真理|/|noun|c1584|予聞妖詞多端。罔知󺞑理。希乞指引為幸。|Ruggieri『新編西竺國天主實錄』9v (Jap. Sin. I-189)||
 政府|/|noun|1877|苟有人民結社擔當欲請政府保護以營其業者則政府固當無不許矣|『萬國公報』431「論工業製􂀇之利」20+||
 證券|securities|noun|1915|七該區劃內關於證券交易之沿革及現况|『神州日報』6月2日「證券交易所法施行細則」|A case can be made that the word first came into being when 有價證券 got abbreviated to 證券 in 證券交易所 in 1914.|
 證書|/|noun|1821|󰤿冕旒於其上·與之證書.立之爲王|Marshman–Lassar, _The Historical Books in Chinese_ iv, 16v+|Translating העדות in 2R 11:12.|
