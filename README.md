@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: A Supplement to 近現代漢語辭源
-last_modified_at: 2026-05-03T23:50:12+00:00
+last_modified_at: 2026-05-04T03:10:46+00:00
 ---
 # A Supplement to 近現代漢語辭源 [![DOI](https://t18d.github.io/HuangSupplement/assets/svg/zenodo.15514850.svg)](https://doi.org/10.5281/zenodo.15514850)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
@@ -21,6 +21,7 @@ last_modified_at: 2026-05-03T23:50:12+00:00
 <a href="https://github.com/t18d/HuangSupplement/wiki/Checklist-of-Editions">Checklist of Editions</a> (528)<br>
 <a href="https://t18d.github.io/HuangSupplement/pitfalls/">Pitfalls in Historical Lexicography</a><br>
 <a href="https://t18d.github.io/HuangSupplement/papers/">Working Papers</a> ·
+<a href="https://t18d.github.io/HuangSupplement/talks/">Talks</a> ·
 <a href="https://t18d.github.io/HuangSupplement/rfd/">RFDs</a><br>
 <a href="https://t18d.github.io/HuangSupplement/bibliography/">Bibliography</a>
 </div>
