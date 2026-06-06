@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2026-03-12T14:58:40+00:00
+last_modified_at: 2026-06-06T08:46:13+00:00
 layout: anchor
 ---
 # Bibliography
@@ -30,6 +30,7 @@ layout: anchor
 - Kaufman, Stephen A., 'Gleanings from the Comprehensive Aramaic Lexicon I: Previously Unknown Syriac Words', in _Puzzling Out the Past_ (Leiden, 2012), 93.
 - Kretschmer, Paul, _Sprachregeln für die Bildung und Betonung zoologischer und botanischer Namen_ (Berlin, 1899).
 - Kühner, Raphael, and Friedrich Blass, _Ausfürliche Grammatik der Griechischen Sprache: I. Elementar- und Formenlehre_, ii (Hanover, 1892).
+- Kuo Li-hsüan, 中國古籍原刻翻刻與初印後印研究, 3 vols (Shanghai, 2015).
 - Liu Ch'uan-hung, and Hsiung Jun-chu, '試論古籍整理中他校的操作原則', 古籍整理研究學刊, 3 (2018), 37–46.
 - Mair, Victor H. (ed.), 漢語大詞典詞目音序索引 (Shanghai, 2003).
 - Měchura, Michal, 'Better than XML: Towards a lexicographic markup language', _Data & Knowledge Engineering_, 146 (2023), 102196.
