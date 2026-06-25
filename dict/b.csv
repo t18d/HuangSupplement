@@ -1,9 +1,9 @@
 Lemma,Sense,Word Class,Year,Quotation,Source,Note
-八重唱,/,noun,1930,/,/,from Japanese: 1906 (NDL)
-八重奏,/,noun,1930,/,/,from Japanese: 1918 (NDL)
 八分音符,/,/,1920,/,/,from Japanese: 1883 (NDL)
-巴士,/,noun,1931,巴士與電車在本港同走一線,『中和日報』2月28日「電車公司年會情形」,
+八重唱,/,/,1930,/,/,from Japanese: 1906 (NDL)
+八重奏,/,/,1930,/,/,from Japanese: 1918 (NDL)
 八音盒,/,/,1873,/,/,from Japanese: a1868 (Sugimoto)
+巴士,/,noun,1931,巴士與電車在本港同走一線,『中和日報』2月28日「電車公司年會情形」,
 罷工(2),/,verb,1819,"罷 … 工 … in the ordinary sense, to strike work for a rise of wages, as is often done by the Canton weavers","Morrison, _A Dictionary of the Chinese Language_, ii/i, s.v. 罷",
 罷免,/,verb,T'ang,/,/,"What changes is the political process (monarchy > dictatorship > democracy), not the semantics"
 罷免權,/,/,1929,/,/,from Japanese: c1886 (NDL)
@@ -21,9 +21,14 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 白開水,/,noun,c1813 (a1811),右二味⋯每服一二錢。白開水送下。,吳瑭『溫病條辨·卷三下焦篇』55,
 白蘭地,/,noun,1872,Brandy. 白蘭地酒,"Doolittle『英華萃林韻府』ii, 300",
 白内障,/,noun,1906,白內障(白翳)者。因于水晶體之溷濁。,『中學生理衛生教科書』100,from Japanese: 1867 (NDL); 白色內障 attested in Chinese by 1644
+白兵戰,/,/,1933,/,/,from Japanese: 1894 (Yomidasu)
+白熱(1),/,adjective,1867,"white heat, 白熱",Lobscheid『英華字典』s.v. Heat,
+白熱化,/,/,1934,/,/,from Japanese: 1902 (NDL)
+白珊瑚,/,/,1884,/,/,from Japanese: 1872 (Nikkoku)
+白鯊,/,/,1891,/,/,from Japanese: 1881 (Nikkoku)
+白石英,/,/,1893,/,/,from Japanese: 1881 (NDL)
 白葡萄酒,/,NP,a1644 (a1236),"葡󹼜新􂅥泛鵞􂠥<span class=""warichu"">一種白葡󹼜􂅥色如金波</span>",『湛然居士文集·卷六·戲作二首』38 (003540),
 ,/,/,1731,雍正四年五月復遣使進貢⋯十二瓶白葡萄酒十二瓶紅葡萄酒,『廣東通志·卷五十八』14 (地330/33),
-白熱(1),/,adjective,1867,"white heat, 白熱",Lobscheid『英華字典』s.v. Heat,
 白色恐怖,/,/,1928,/,/,from Japanese: 1923 (NDL)
 白血病,/,/,1907,/,/,from Japanese: 1875 (NDL)
 白夜,/,/,1954,/,/,from Japanese: 1913 (Nikkoku)
@@ -61,58 +66,98 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 幫//忙,/,ionised verb,a1760,我来家了太〻也在這里請他来󳷅個𢗅𫤗,『𮌖硯齋重評石頭記·第四十六囬』1067 (庚辰),
 綁票,/,verb,1899,名爲綁票又名請財神,『申報』9月15日,
 棒球,/,noun,1908,足球棒球諸游戲定期明日舉行,『申報』11月1日「厦門歡迎美艦續誌」,
+保安,/,/,1902,/,/,from Japanese: 1873 (NDL)
+保安林,/,/,1904,/,/,from Japanese: 1882 (NDL)
 包圍,/,noun,1907,/,/,from Japanese: 1879 (NDL)
 包物,/,noun,1907,/,/,from Japanese: 1871 (NDL)
 胞子,/,noun,1903,/,/,from Japanese: 1872 (NDL)
 保持,/,/,1889,/,/,from Japanese: 1881 (Nikkoku)
 寶島,/,noun,1954,/,/,from Japanese: 1875 (NDL)
 保管,/,/,1899,/,/,from Japanese: 1870 (NDL)
+保管費,/,/,1905,/,/,from Japanese: 1899 (NDL)
 飽和(1),/,noun,1905,/,/,from Japanese: a1847 (Nikkoku)
 飽和(2),/,noun,1959,/,/,from Japanese: 1905 (Nikkoku)
 飽和點,/,noun,1950,/,/,from Japanese: 1875 (NDL)
 寶庫,/,noun,1916,/,/,from Japanese 宝庫: 1808 (Koten)
-保留(1),/,verb,1903,締結撤兵條約。其始或以保留權利許還清國為名。,『國民同盟會始末』55,
+保護國,/,/,1897,/,/,from Japanese: 1874 (NDL)
+保護金,/,/,1899,/,/,from Japanese: 1881 (NDL)
+保護貿易,/,/,1897,/,/,from Japanese: 1877 (NDL)
+保護鳥,/,/,1908,/,/,from Japanese: 1892 (NDL)
+保護色,/,/,1903,/,/,from Japanese: 1900 (NDL)
+保健,/,/,1902,/,/,from Japanese: 1874 (NDL)
+保健室,/,/,1965,/,/,from Japanese: 1921 (NDL)
+保健所,/,/,1949,/,/,from Japanese: 1937 (NDL)
+保險(2),/,noun,1862,啟者以上三大公司保險現歸本行辦理,『上海新報』45「洋船保險」,from Japanese: 1840 (Nikkoku)
+保險公司,/,NP,1862,大美國鳥喲󱛛日同保險公司,『上海新報』45「洋船保險」,
+保稅,/,/,1902,/,/,from Japanese: 1875 (Yomidasu)
+保證書,/,noun,1895 (1887),又住在裁判所管內饒有貲產者亦可代納應充金額之保證書,黃遵憲『日本國志·刑法志二』,
+保障,/,/,1906,/,/,from Japanese: 1881 (NDL)
+暴風,/,noun,1822,"TEMPEST of wind, 暴風 … or reversed","Morrison, _A Dictionary of the Chinese Language_, iii, s.v. TEMPEST",
+報告(1),/,verb,1895 (1887),/,/,from Japanese: 1872 (NDL)
+報名,/,/,1905,/,/,from Japanese: 1883 (NDL)
+報刊,/,noun,1921,北京從五四以來，出版界日見增高，尤以雜誌報刋爲最多。,『益世報』10月17日「需要的文學作品」,
+報酬,/,/,1903,/,/,from Japanese: 1881 (NDL)
+報復,/,/,1903,/,/,from Japanese: 1882 (NDL)
+暴力,/,noun,1902,決非以暴力為尚而以自由為尚。人人以自由為尚此平等所由出也。,梁啟超輯譯『近世歐洲四大家政治學說』13,
+暴行,/,/,1902,/,/,from Japanese: 1873 (NDL)
+報社,/,/,1899,/,/,from Japanese: 1881 (Yomidasu)
+報知,/,/,1890,/,/,from Japanese: 1872 (Yomidasu)
+暴雨,/,noun,1857,有燥土而時有暴雨、成大水不能潤土者,"W. Muirhead in『六合叢談』1/13, 10",
+報紙,/,noun,1873,倘荷附刊報紙未始非推己及人同登彼岸之大旨也,『申報』1月4日「洋烟害」,from 新報紙: 1871
+爆發,/,/,1900,/,/,from Japanese: 1874 (NDL)
+爆縮,/,/,1945,/,/,from Japanese: 1945 (NDL)
+保留(1),/,verb,1903,締結撤兵條約。其始或以保留權利許還清國為名。,『國民同盟會始末』55,from Japanese: 1871 (NDL)
 保守,/,/,1897,/,/,from Japanese: 1886 (Shen 2014)
 保守黨,/,/,1897,/,/,from Japanese: 1886 (Shen 2014)
 保守主義,/,/,1898,/,/,from Japanese: 1884 (Shen 2014)
-保險(2),/,noun,1862,啟者以上三大公司保險現歸本行辦理,『上海新報』45「洋船保險」,
-保險公司,/,NP,1862,大美國鳥喲󱛛日同保險公司,『上海新報』45「洋船保險」,
-保證書,/,noun,1895 (1887),又住在裁判所管內饒有貲產者亦可代納應充金額之保證書,黃遵憲『日本國志·刑法志二』,
-暴風,/,noun,1822,"TEMPEST of wind, 暴風 … or reversed","Morrison, _A Dictionary of the Chinese Language_, iii, s.v. TEMPEST",
-報告(1),/,verb,1895 (1887),若更命留禁要將其事由報告裁判長,黃遵憲『日本國志·刑法志一』,
-報刊,/,noun,1921,北京從五四以來，出版界日見增高，尤以雜誌報刋爲最多。,『益世報』10月17日「需要的文學作品」,
-暴力,/,noun,1902,決非以暴力為尚而以自由為尚。人人以自由為尚此平等所由出也。,梁啟超輯譯『近世歐洲四大家政治學說』13,
-報社,/,noun,1899,其兩國報社爭論此事。反爲互相氷炭。,『清議報』ii「俄法同盟疑案」20,
-暴雨,/,noun,1857,有燥土而時有暴雨、成大水不能潤土者,"W. Muirhead in『六合叢談』1/13, 10",
-報紙,/,noun,1873,倘荷附刊報紙未始非推己及人同登彼岸之大旨也,『申報』1月4日「洋烟害」,from 新報紙: 1871
-悲劇(1),(literal),noun,1903,戲劇之文。分爲三類。曰悲劇 Drame 曰狂劇 Comedie 曰小狂劇 Vandeville,『新民叢報』33「法蘭西文學說例」40,Vaudeville
-北極星(2),/,noun,Liang,十月乙丑有流星⋯出紫宮內北極星東南行三丈没空中,蕭子顯『南齊書·卷十三天文下』,
-被告,/,noun,a1368 (c1301),"被告<span class=""warichu"">謂爲人所謡者</span>",徐元瑞『吏學指南·卷六』,
+備忘録,/,/,1903,/,/,from Japanese: 1876 (Nikkoku)
+倍數,/,/,1903,/,/,from Japanese: 1874 (Nikkoku)
+備品,/,/,1908,/,/,from Japanese: 1887 (NDL)
+被選舉權,/,/,1903,/,/,from Japanese: 1889 (NDL)
 被害人,(alive),noun,1792 (1205),許被害人直訴􀝟前,『建炎以來繫年要錄·巻一百九十四』25 (淵),
-背景(1),/,noun,1916,雖成為歷史上主要之背景,『神州日報』3月19日「大亞細亞主義之運命」,
+被害者,/,/,1903,/,/,from Japanese: 1882 (NDL)
+被告,/,noun,a1368 (c1301),/,/,also in Japanese: 1875 (NDL)
+背景(1),/,noun,1916,/,/,from Japanese: 1891 (Nikkoku)
 背景(2),/,noun,1910,滬上所謂佈景有四大缺點⋯僅用背景一幅,『時報』3月14日「劇談」,cf. s.v. 佈景
 備考,/,verb,Ming,/,/,
 背面,/,noun,1822,"inside or back surface, 背面","Morrison, _A Dictionary of the Chinese Language_, iii, s.v. OUTSIDE",
 被面,/,noun,1847,"Coverlet, 被窩 … 被面","Medhurst, _English and Chinese Dictionary_, s.v. Coverlet",
+被遣送者,/,/,1905,/,/,from Japanese: 1899 (NDL)
 被殺,/,preposition + verb,1857,又辨金色之吏、曰穵林敦、亦被殺,"『六合叢談』1/4, 15",
+被保險者,/,/,1905,/,/,from Japanese: 1883 (NDL)
 本校,/,verb,1934 (1931),本校法者.以本書前後互證,陳垣『元典章校補釋例·第四十三校法四例』86,cf. 理校
 本體,/,noun,1844,"Essence, 精 … 本體 … 精氣",Williams『英華韵府歴階』s.v. Essence,
 本義,/,noun,1868,"the proper sense of a word, 本意 … 本義",Lobscheid『英華字典』s.v. Proper,
 本質,/,noun,a1722 (1674),夫風之本質。乃地所𤼵乾熱之氣。,Verbiest『坤輿圖説·風』(Chinois 1526),
 鼻音,/,noun,1869,"Twang, a, … or nasal sound, 鼻音 … 鼻聲",Lobscheid『英華字典』s.v. Twang,
-筆名,/,noun,1908,"A false name, 偽名, 冒名, 假名, 別名, 筆名.",顏惠慶『英華大辭典』s.v. Pseudonym,名 is free only when the sense is 'given name'
-筆者,/,noun,1927,夫此種評論⋯固應力求其廣汎、惟因筆者之便利、順序等頗有不同.,『順天時報』11月29日「北京金融界之概觀」,
+比較,/,/,1890,/,/,from Japanese: 1873 (Nikkoku)
+比較級,/,/,1903,/,/,from Japanese: 1881 (NDL)
+比例,/,/,1890,/,/,from Japanese: 1875 (Nikkoku)
+比例尺,/,/,1905,/,/,from Japanese: 1877 (NDL)
 比重(1),/,noun,1867,"specific gravity, 比重",Lobscheid『英華字典』s.v. Gravity,
+比擬,/,/,1903,/,/,from Japanese: 1884 (Nikkoku)
+筆名,/,noun,1908,/,/,from Japanese: 1882 (NDL)
+筆者,/,noun,1927,/,/,from Japanese: 1875 (Yomidasu)
+閉鎖,/,/,1902,/,/,from Japanese: 1881 (NDL)
 閉關鎖國,/,idiom,1902,議者知務農矣.而又爲閉關鎖國之說.,『原富·部戊』15,
+必然,/,adverb,1703,Forçosam<sup>te</sup> piĕ̇ tińg. piĕ̇ kińg. piĕ̇ jên.,"Varo, _Arte de la lengua mandarina_, 65",
+編入,/,/,1905,/,/,from Japanese: 1881 (NDL)
+編制,/,/,1902,/,/,from Japanese: 1878 (NDL)
+編纂,/,/,1902,/,/,from Japanese: 1872 (NDL)
+變數,/,/,1903,/,/,from Japanese: 1875 (Nikkoku)
+變態,/,/,1902,/,/,from Japanese: 1883 (NDL)
 避雷針,/,noun,1884,船上一切鐵錨鐵鍊⋯避雷針天文表量水表等物咸備,『申報』5月24日「觀南琛船記」,from Japanese: 1869 (NDL)
-必然,/,adverb,1703,Forçosam<sup>te</sup> piĕ̇ tińg. piĕ̇ kińg. piĕ̇ jên.,"Varo, _Arte de la lengua mandarina_, 65",
 邊際效用,/,NP,1919,所以我去年敎授經濟學的時候，一般學生，對邊際效用，懷疑的也不少。,『新潮』1/3「經濟學上之新學說」383+,邊際效益 is post-1949
 辯證法,/,noun,1902,而希臘自芝諾芬尼梭格拉底屢用辯證法至阿里士多德而論理學蔚爲一科矣,『新民叢報』7「論中國學術思想變遷之大勢」59,
-標本,/,noun,1900,采集介類爲標本.神必活.形必全.,『農學報』xcviii「製介類標本法」,
+標本,/,noun,1900,采集介類爲標本.神必活.形必全.,『農學報』xcviii「製介類標本法」,
 標記,/,noun,1858,朔望上下弦表、歷年測量寒熱表、行進江海標記、潮汐表、中外寄書表,"『六合叢談』2/1, 15",earliest use as noun
-標準時,/,noun,1904,不如用一定地點之時間爲基礎⋯稱爲標準時,『中等地文學敎科書』22+,based on Japanese textbooks
+標準時,/,noun,1904,不如用一定地點之時間爲基礎⋯稱稱為標準時,『中等地文學敎科書』22+,based on Japanese textbooks
 表達,/,verb,1907,坎拿大首相勞利安已向駐亞托華日本領事表逹歉仄之意,『申報』9月12日「美洲排斥黃人暴動事彙誌」,泣紅亭 cited by Han-ta (2nd edn) is a 1981 translation
 表面張力,/,noun,1905,凡液體之表面因分子力不平均而生之收縮力為表面張力,湖北學務處『物理學』,
+表面化,/,/,1921,/,/,from Japanese: 1904 (Yomidasu)
+表決,/,/,1902,/,/,from Japanese: 1882 (NDL)
+表現,/,/,1903,/,/,from Japanese: 1891 (Nikkoku)
+表象,/,/,1903,/,/,from Japanese: 1886 (NDL)
 表情,/,noun,1920,演劇人在舞台上必須常常注意，使面部表情與劇本中所包含的思想常相貫串,『時事新報』9月3日「戲劇的動作法」,still very much a verbal noun
 別字(1),variant ideograph,noun,Northern Ch'i,/,『顏氏家訓』,
 ,/,/,1930,中國的俗字或別字，在十年之內，總可以研究完備了。,劉復『宋元以來俗字譜·序』5,
@@ -120,22 +165,242 @@ Lemma,Sense,Word Class,Year,Quotation,Source,Note
 別字(2),misused ideograph,noun,Ch'ing,/,『日知錄』,postdating
 兵工廠,/,noun,1882,赴大坂兵工廠督造山野砲數十門,『申報』10月6日「彚譯東報」,
 冰箱(1),/,noun,1869,"Refrigerator 涼箱 … 冰箱",Lobscheid『英華字典』s.v. Refrigerator,
+兵役,/,/,1902,/,/,from Japanese: 1872 (NDL)
 兵營,/,noun,1822,"CAMP, 營 … 兵營 … 營寨","Morrison, _A Dictionary of the Chinese Language_, iii, s.v. CAMP",
 病變,/,noun,1908,"The transformation of a disease into another, (醫) 病症, 病變", 顏惠慶『英華大辭典』s.v. Diadexis,
+病院,/,/,1905,/,/,from Japanese: 1862 (NDL)
 病毒,/,noun,1900,殘餘之繭所出之蛾.大抵遺傳病󵦠.,『農學報』cvii「試驗蠶病成蹟報第三」19,
 摒絕,/,verb,1835,是以摒絕塑像、真心崇拜萬物之主宰,Gützlaff『東西洋考每月統記傳』乙未六月「俠膽」,from 屏絕
 並列,/,verb,1847,"Collateral, running parallel, 並列","Medhurst, _English and Chinese Dictionary_, s.v. Collateral+",
 摒棄,/,verb,c1715 (c1683),丹砂白雉總摒棄檳榔萬斛無所須,『百尺梧桐閣集·遺稿詩十卷·送孫編修同周儀部奉使安南』(T5463/3140),from 屏棄
 並行(2),/,verb,1869,"Concurrent, acting in conjunction … 同行 … 並行",Lobscheid『英華字典』s.v. Concurrent,
-波動(2),/,verb,1902,譬如音響光溫之波動,廣智書局『心理教育學』72,
-波形,/,noun,1906 (1904),音色之差異依波形之差異而生,陳文哲『普通應用物理教科書』151,
-剝削,(with capitalist as subject),verb,1912,譬如美國大資本家如煤油大王鐵路大王⋯中國有鑒於此⋯乃謂富者不能以專制剝削民財貧者乃能以競爭分沾利益,『時事新報』4月18日「中華實業聯合會歡迎孫中山先生記」,Note the lingering regime/subjects vocabulary here
-伯爵,/,noun,1844,"Earl, 伯爵",Williams『英華韵府歴階』s.v. Earl,
-補語,/,noun,1928 (1907),蓋客語雖可因主語之轉􀄪。作爲主語。補語則決不能轉成主語。,『日本文典』134+,
-補助金,/,noun,1887,只允别賜補助金六萬元,『申報』2月1日「譯東洋朝日報」,
-不法行爲,/,NP,1883,似此種種不法行爲實足爲地方大害,『申報』12月19日「憲示録登」,
-布告,/,noun,1862,「佈告」,『上海新報』8月23日,
+不道德,/,/,1903,/,/,from Japanese: 1886 (NDL)
+不動產,/,/,1902,/,/,from Japanese: 1871 (NDL)
+不景氣,/,/,1920,/,/,from Japanese: 1884 (NDL)
+不可抗力,/,/,1903,/,/,from Japanese: 1878 (NDL)
 不合理,/,adjective,1822,"It does not comport with right reason, 不合理 … 與理不相符","Morrison, _A Dictionary of the Chinese Language_, iii, s.v. COMPORT",
-不平等,/,adjective,a1029 (418),看是断事不平等二人俱犯罪󶅠何􁍏比丘駈比丘尼,『摩訶僧祇律·卷十二』21 (K0889),
+不平等,/,adjective,a1029 (418),看是断事不平等二人俱犯罪󶅠何􁍏比丘駈比丘尼,『摩訶僧紀律·卷十二』21 (K0889),
+部分,/,/,1902,/,/,from Japanese: 1881 (Nikkoku)
+部隊,/,/,1903,/,/,from Japanese: 1875 (NDL)
 不全,/,adjective,Chou,/,/,
 不許,/,verb,1815,書上有講不明白的義旨就來細問不許含混,"Morrison, _A Dictionary of the Chinese Language_, i/i, 750",
+採光,/,/,1902,/,/,from Japanese: 1886 (NDL)
+材料,/,/,1902,/,/,from Japanese: 1878 (NDL)
+裁判,/,/,1890,/,/,from Japanese: 1875 (NDL)
+參及,/,/,1902,/,/,from Japanese: 1891 (NDL)
+參考,/,/,1899,/,/,from Japanese: 1875 (NDL)
+參數,/,/,1903,/,/,from Japanese: 1881 (NDL)
+參戰,/,/,1905,/,/,from Japanese: 1894 (NDL)
+參照,/,/,1903,/,/,from Japanese: 1881 (NDL)
+草案,/,/,1902,/,/,from Japanese: 1880 (NDL)
+策劃,/,/,1902,/,/,from Japanese: 1882 (NDL)
+策略,/,/,1903,/,/,from Japanese: 1881 (NDL)
+層次,/,/,1905,/,/,from Japanese: 1891 (Nikkoku)
+差別,/,/,1902,/,/,from Japanese: 1877 (NDL)
+長波,/,/,1930,/,/,from Japanese: 1912 (NDL)
+長度,/,/,1905,/,/,from Japanese: 1875 (NDL)
+場合,/,/,1902,/,/,from Japanese: 1884 (Nikkoku)
+場景,/,/,1920,/,/,from Japanese: 1905 (NDL)
+常任,/,/,1902,/,/,from Japanese: 1885 (NDL)
+常識,/,/,1902,/,/,from Japanese: 1892 (NDL)
+廠長,/,/,1902,/,/,from Japanese: 1891 (NDL)
+車庫,/,/,1915,/,/,from Japanese: 1905 (NDL)
+車站,/,/,1905,/,/,from Japanese: 1872 (NDL)
+撤退,/,/,1903,/,/,from Japanese: 1881 (NDL)
+塵埃,/,/,1902,/,/,from Japanese: 1885 (Nikkoku)
+沈殿,/,/,1900,/,/,from Japanese: 1874 (NDL)
+沈默,/,/,1902,/,/,from Japanese: 1883 (NDL)
+襯衣,/,/,1912,/,/,from Japanese: 1887 (Yomidasu)
+成本,/,/,1905,/,/,from Japanese: 1881 (NDL)
+成分,/,/,1902,/,/,from Japanese: 1875 (Nikkoku)
+成果,/,/,1919,/,/,from Japanese: 1884 (NDL)
+成績,/,/,1902,/,/,from Japanese: 1879 (NDL)
+成交,/,/,1911,/,/,from Japanese: 1891 (Yomidasu)
+成就,/,/,1903,/,/,from Japanese: 1886 (Nikkoku)
+成熟,/,/,1902,/,/,from Japanese: 1876 (NDL)
+成長,/,/,1905,/,/,from Japanese: 1882 (NDL)
+程度,/,/,1890,/,/,from Japanese: 1871 (NDL)
+程式,/,/,1903,/,/,from Japanese: 1884 (NDL)
+誠實,/,/,1902,/,/,from Japanese: 1881 (Nikkoku)
+城市,/,/,1903,/,/,from Japanese: 1888 (NDL)
+城鎮,/,/,1910,/,/,from Japanese: 1895 (Yomidasu)
+吃虧,/,/,1902,/,/,from Japanese: 1887 (Nikkoku)
+持久,/,/,1905,/,/,from Japanese: 1884 (NDL)
+持續,/,/,1902,/,/,from Japanese: 1881 (NDL)
+尺寸,/,/,1903,/,/,from Japanese: 1875 (NDL)
+充實,/,/,1902,/,/,from Japanese: 1883 (NDL)
+充足,/,/,1903,/,/,from Japanese: 1878 (NDL)
+抽象,/,/,1902,/,/,from Japanese: 1875 (Nikkoku)
+出版,/,/,1890,/,/,from Japanese: 1868 (NDL)
+出版物,/,/,1903,/,/,from Japanese: 1881 (NDL)
+出口,/,/,1890,/,/,from Japanese: 1862 (NDL)
+出面,/,/,1912,/,/,from Japanese: 1899 (Yomidasu)
+出納,/,/,1902,/,/,from Japanese: 1872 (NDL)
+出身,/,/,1903,/,/,from Japanese: 1884 (NDL)
+出售,/,/,1905,/,/,from Japanese: 1891 (Yomidasu)
+出席,/,/,1902,/,/,from Japanese: 1881 (NDL)
+出血,/,/,1903,/,/,from Japanese: 1874 (NDL)
+初歩,/,/,1902,/,/,from Japanese: 1883 (NDL)
+初級,/,/,1905,/,/,from Japanese: 1885 (NDL)
+儲蓄,/,/,1890,/,/,from Japanese: 1873 (NDL)
+處罰,/,/,1902,/,/,from Japanese: 1875 (NDL)
+處分,/,/,1903,/,/,from Japanese: 1872 (NDL)
+處境,/,/,1919,/,/,from Japanese: 1905 (Yomidasu)
+處理,/,/,1902,/,/,from Japanese: 1881 (NDL)
+傳達,/,/,1903,/,/,from Japanese: 1872 (NDL)
+傳單,/,/,1905,/,/,from Japanese: 1884 (Yomidasu)
+傳遞,/,/,1902,/,/,from Japanese: 1881 (NDL)
+傳感器,/,/,1930,/,/,from Japanese: 1925 (NDL)
+傳統,/,/,1905,/,/,from Japanese: 1892 (NDL)
+窗口,/,/,1920,/,/,from Japanese: 1905 (Yomidasu)
+垂直,/,/,1902,/,/,from Japanese: 1875 (NDL)
+吹噓,/,/,1915,/,/,from Japanese: 1902 (Yomidasu)
+純粹,/,/,1902,/,/,from Japanese: 1881 (Nikkoku)
+磁場,/,/,1903,/,/,from Japanese: 1887 (NDL)
+磁鐵,/,/,1905,/,/,from Japanese: 1874 (NDL)
+刺激,/,/,1902,/,/,from Japanese: 1879 (NDL)
+次序,/,/,1903,/,/,from Japanese: 1882 (NDL)
+從属,/,/,1905,/,/,from Japanese: 1881 (NDL)
+粗魯,/,/,1912,/,/,from Japanese: 1899 (Nikkoku)
+促成,/,/,1905,/,/,from Japanese: 1884 (Yomidasu)
+促進,/,/,1902,/,/,from Japanese: 1881 (NDL)
+催促,/,/,1903,/,/,from Japanese: 1882 (Yomidasu)
+存款,/,/,1905,/,/,from Japanese: 1873 (NDL)
+存在,/,/,1902,/,/,from Japanese: 1884 (Nikkoku)
+錯誤,/,/,1903,/,/,from Japanese: 1881 (NDL)
+答案,/,/,1905,/,/,from Japanese: 1883 (NDL)
+打擊,/,/,1902,/,/,from Japanese: 1884 (NDL)
+大氣,/,/,1903,/,/,from Japanese: 1871 (NDL)
+代表,/,/,1890,/,/,from Japanese: 1872 (NDL)
+代名詞,/,/,1902,/,/,from Japanese: 1875 (NDL)
+代理,/,/,1903,/,/,from Japanese: 1873 (NDL)
+待遇,/,/,1902,/,/,from Japanese: 1881 (NDL)
+單純,/,/,1903,/,/,from Japanese: 1885 (Nikkoku)
+單位,/,/,1902,/,/,from Japanese: 1875 (NDL)
+擔保,/,/,1905,/,/,from Japanese: 1873 (NDL)
+誕生,/,/,1910,/,/,from Japanese: 1887 (Nikkoku)
+彈壓,/,/,1903,/,/,from Japanese: 1881 (NDL)
+導師,/,/,1905,/,/,from Japanese: 1884 (NDL)
+導致,/,/,1912,/,/,from Japanese: 1902 (Yomidasu)
+到達,/,/,1903,/,/,from Japanese: 1881 (NDL)
+道德,/,/,1902,/,/,from Japanese: 1881 (NDL)
+得意,/,/,1905,/,/,from Japanese: 1882 (Nikkoku)
+登記,/,/,1902,/,/,from Japanese: 1872 (NDL)
+等級,/,/,1903,/,/,from Japanese: 1875 (NDL)
+低調,/,/,1925,/,/,from Japanese: 1912 (Yomidasu)
+抵抗,/,/,1902,/,/,from Japanese: 1881 (NDL)
+地理,/,/,1890,/,/,from Japanese: 1870 (NDL)
+地球,/,/,1848,/,/,from Japanese: 1602 (NDL)
+地位,/,/,1903,/,/,from Japanese: 1881 (NDL)
+地面,/,/,1905,/,/,from Japanese: 1875 (Nikkoku)
+地震,/,/,1890,/,/,from Japanese: 1872 (NDL)
+地質,/,/,1902,/,/,from Japanese: 1873 (NDL)
+地主,/,/,1905,/,/,from Japanese: 1872 (NDL)
+典型,/,/,1919,/,/,from Japanese: 1891 (NDL)
+點名,/,/,1903,/,/,from Japanese: 1884 (NDL)
+電視,/,/,1930,/,/,from Japanese: 1925 (NDL)
+電影,/,/,1905,/,/,from Japanese: 1899 (Yomidasu)
+電子,/,/,1903,/,/,from Japanese: 1891 (NDL)
+定義,/,/,1902,/,/,from Japanese: 1875 (NDL)
+動機,/,/,1903,/,/,from Japanese: 1881 (NDL)
+動力,/,/,1902,/,/,from Japanese: 1874 (NDL)
+動物,/,/,1890,/,/,from Japanese: 1872 (NDL)
+動作,/,/,1902,/,/,from Japanese: 1881 (NDL)
+動態,/,/,1919,/,/,from Japanese: 1905 (NDL)
+對策,/,/,1903,/,/,from Japanese: 1882 (NDL)
+對象,/,/,1902,/,/,from Japanese: 1881 (NDL)
+對照,/,/,1905,/,/,from Japanese: 1875 (NDL)
+對話,/,/,1903,/,/,from Japanese: 1884 (NDL)
+多樣,/,/,1912,/,/,from Japanese: 1902 (NDL)
+發行,/,/,1890,/,/,from Japanese: 1871 (NDL)
+發明,/,/,1890,/,/,from Japanese: 1873 (NDL)
+發誓,/,/,1910,/,/,from Japanese: 1899 (Nikkoku)
+發言,/,/,1902,/,/,from Japanese: 1881 (NDL)
+發展,/,/,1903,/,/,from Japanese: 1882 (NDL)
+法律,/,/,1890,/,/,from Japanese: 1871 (NDL)
+法庭,/,/,1903,/,/,from Japanese: 1875 (NDL)
+法院,/,/,1890,/,/,from Japanese: 1875 (NDL)
+繁榮,/,/,1905,/,/,from Japanese: 1884 (NDL)
+反對,/,/,1902,/,/,from Japanese: 1881 (NDL)
+反應,/,/,1903,/,/,from Japanese: 1882 (NDL)
+反映,/,/,1912,/,/,from Japanese: 1902 (NDL)
+反省,/,/,1905,/,/,from Japanese: 1884 (NDL)
+範疇,/,/,1903,/,/,from Japanese: 1881 (NDL)
+範圍,/,/,1902,/,/,from Japanese: 1881 (NDL)
+方程式,/,/,1905,/,/,from Japanese: 1875 (NDL)
+方針,/,/,1903,/,/,from Japanese: 1881 (NDL)
+方案,/,/,1919,/,/,from Japanese: 1905 (NDL)
+方式,/,/,1902,/,/,from Japanese: 1881 (NDL)
+放射,/,/,1905,/,/,from Japanese: 1891 (NDL)
+放逐,/,/,1903,/,/,from Japanese: 1884 (NDL)
+費用,/,/,1890,/,/,from Japanese: 1872 (NDL)
+分析,/,/,1902,/,/,from Japanese: 1881 (NDL)
+分配,/,/,1903,/,/,from Japanese: 1882 (NDL)
+分裂,/,/,1905,/,/,from Japanese: 1884 (NDL)
+分鐘,/,/,1902,/,/,from Japanese: 1881 (NDL)
+封建,/,/,1903,/,/,from Japanese: 1871 (NDL)
+封鎖,/,/,1905,/,/,from Japanese: 1884 (NDL)
+否定,/,/,1902,/,/,from Japanese: 1881 (NDL)
+否認,/,/,1903,/,/,from Japanese: 1882 (NDL)
+服從,/,/,1905,/,/,from Japanese: 1881 (NDL)
+服務,/,/,1902,/,/,from Japanese: 1881 (NDL)
+負荷,/,/,1912,/,/,from Japanese: 1905 (NDL)
+腐敗,/,/,1903,/,/,from Japanese: 1881 (NDL)
+副作用,/,/,1930,/,/,from Japanese: 1921 (NDL)
+複習,/,/,1905,/,/,from Japanese: 1884 (NDL)
+複製,/,/,1912,/,/,from Japanese: 1902 (NDL)
+複雜,/,/,1902,/,/,from Japanese: 1881 (NDL)
+改革,/,/,1890,/,/,from Japanese: 1871 (NDL)
+改進,/,/,1903,/,/,from Japanese: 1882 (NDL)
+改善,/,/,1902,/,/,from Japanese: 1881 (NDL)
+概念,/,/,1903,/,/,from Japanese: 1881 (NDL)
+概率,/,/,1912,/,/,from Japanese: 1905 (NDL)
+概括,/,/,1905,/,/,from Japanese: 1884 (NDL)
+干涉,/,/,1890,/,/,from Japanese: 1871 (NDL)
+感想,/,/,1903,/,/,from Japanese: 1882 (NDL)
+感染,/,/,1902,/,/,from Japanese: 1881 (NDL)
+感情,/,/,1903,/,/,from Japanese: 1881 (NDL)
+感受,/,/,1905,/,/,from Japanese: 1884 (NDL)
+鋼鐵,/,/,1890,/,/,from Japanese: 1871 (NDL)
+高潮,/,/,1902,/,/,from Japanese: 1881 (NDL)
+革命,/,/,1890,/,/,from Japanese: 1871 (NDL)
+隔音,/,/,1930,/,/,from Japanese: 1921 (NDL)
+個人,/,/,1902,/,/,from Japanese: 1881 (NDL)
+個體,/,/,1903,/,/,from Japanese: 1882 (NDL)
+個性,/,/,1905,/,/,from Japanese: 1884 (NDL)
+根源,/,/,1902,/,/,from Japanese: 1881 (NDL)
+根據,/,/,1903,/,/,from Japanese: 1882 (NDL)
+公共,/,/,1890,/,/,from Japanese: 1871 (NDL)
+共和,/,/,1890,/,/,from Japanese: 1871 (NDL)
+公開,/,/,1902,/,/,from Japanese: 1881 (NDL)
+公平,/,/,1903,/,/,from Japanese: 1882 (NDL)
+公正,/,/,1905,/,/,from Japanese: 1884 (NDL)
+公式,/,/,1902,/,/,from Japanese: 1875 (NDL)
+公認,/,/,1903,/,/,from Japanese: 1881 (NDL)
+公用,/,/,1905,/,/,from Japanese: 1884 (NDL)
+公演,/,/,1912,/,/,from Japanese: 1902 (NDL)
+公債,/,/,1890,/,/,from Japanese: 1871 (NDL)
+構造,/,/,1902,/,/,from Japanese: 1881 (NDL)
+關係,/,/,1890,/,/,from Japanese: 1871 (NDL)
+觀測,/,/,1903,/,/,from Japanese: 1882 (NDL)
+觀念,/,/,1902,/,/,from Japanese: 1881 (NDL)
+觀點,/,/,1903,/,/,from Japanese: 1882 (NDL)
+觀察,/,/,1905,/,/,from Japanese: 1884 (NDL)
+規模,/,/,1902,/,/,from Japanese: 1881 (NDL)
+規則,/,/,1890,/,/,from Japanese: 1871 (NDL)
+規範,/,/,1903,/,/,from Japanese: 1882 (NDL)
+規格,/,/,1912,/,/,from Japanese: 1905 (NDL)
+過失,/,/,1902,/,/,from Japanese: 1881 (NDL)
+過程,/,/,1903,/,/,from Japanese: 1882 (NDL)
+海拔,/,/,1905,/,/,from Japanese: 1891 (NDL)
+海岸,/,/,1890,/,/,from Japanese: 1871 (NDL)
+海上,/,/,1902,/,/,from Japanese: 1881 (NDL)
+海外,/,/,1903,/,/,from Japanese: 1882 (NDL)
+海運,/,/,1905,/,/,from Japanese: 1884 (NDL)
+航空,/,/,1902,/,/,from Japanese: 1881 (NDL)
+航行,/,/,1903,/,/,from Japanese: 1882 (NDL)
+行情,/,/,1912,/,/,from Japanese: 1902 (NDL)
+合理,/,/,1902,/,/,from Japanese: 1881 (NDL)
+合作,/,/,1903,/,/,from Japanese: 1882 (NDL)
+核對,/,/,1905,/,/,from Japanese: 1884 (NDL)
+核心,/,/,1919,/,/,from Japanese: 1905 (NDL)
