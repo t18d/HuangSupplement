@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-06-25T01:49:51+00:00
+last_modified_at: 2026-06-28T03:25:49+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -179,6 +179,7 @@ K'ai|Ts'ao|Hsing|Print|Note|
 礦 鑛|/|/|/|鉱 1889 kanji|
 来 來|/|/|/|來 is later archaism|
 樂|乐 Han|/|乐 Ch'ing||
+裏|/|/|里 Yüan 𥚃 Ming||
 龍|/|/|/||
 論|/|/|/||
 馬|马 Wu|/|马 Yüan|Unicode 马 has wrong stroke order|
