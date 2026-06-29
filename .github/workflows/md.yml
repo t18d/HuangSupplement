@@ -18,7 +18,7 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           fetch-depth: 2   # Enough history to amend last commit
           sparse-checkout: |
@@ -33,7 +33,7 @@ jobs:
 
       - name: Detect file changes
         id: filter
-        uses: dorny/paths-filter@v3
+        uses: dorny/paths-filter@v4
         with:
           list-files: shell
           filters: |
@@ -79,7 +79,7 @@ jobs:
           } >> $GITHUB_OUTPUT
 
       # Amend the last commit instead of creating a new one
-      - uses: stefanzweifel/git-auto-commit-action@v6
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_options: '--amend --no-edit'
           commit_user_name: ${{ steps.author.outputs.name }}

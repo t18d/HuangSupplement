@@ -22,7 +22,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           persist-credentials: true
           sparse-checkout: |
@@ -38,7 +38,7 @@ jobs:
       #- name: Install dependencies
       #  run: pip install requests lxml
 
-      - uses: astral-sh/setup-uv@v6
+      - uses: astral-sh/setup-uv@v7
         with:
           enable-cache: true
           cache-dependency-glob: scripts/monitor_edition_count.py
@@ -52,7 +52,7 @@ jobs:
         id: monitor
         run: uv run scripts/monitor_edition_count.py
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
     # Optional. Commit message for the created commit.
     # Defaults to "Apply automatic changes"

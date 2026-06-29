@@ -43,7 +43,7 @@ jobs:
       }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
         with:
           fetch-depth: 2
           sparse-checkout: |
@@ -100,7 +100,7 @@ jobs:
 
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Build with Jekyll
         run: |
@@ -135,7 +135,7 @@ jobs:
       #    package-manager-cache: true
 
       #- name: Cache npm
-      #  uses: actions/cache@v4
+      #  uses: actions/cache@v6
       #  with:
       #    path: ~/.npm
       #    key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
@@ -149,7 +149,7 @@ jobs:
           bunx htmlhint "./_site/**/*.html"
 
       #- name: Cache glyphhanger
-      #  uses: actions/cache@v4
+      #  uses: actions/cache@v6
       #  with:
       #    path: ~/.bun/install/cache
       #    key: ${{ runner.os }}-bun-${{ hashFiles('bun.lock') }}
@@ -159,7 +159,7 @@ jobs:
       #    python-version: '3.x'
       #    cache: 'pip'
 
-      - uses: astral-sh/setup-uv@v6
+      - uses: astral-sh/setup-uv@v7
         with:
           version: "latest"
           enable-cache: true
@@ -195,127 +195,127 @@ jobs:
 
       # Explicit per-page caches
       - name: Cache font a
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-a.woff2
           key: cache-a-${{ hashFiles('dict/a.csv') }}
       - name: Cache font b
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-b.woff2
           key: cache-b-${{ hashFiles('dict/b.csv') }}
       - name: Cache font c
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-c.woff2
           key: cache-c-${{ hashFiles('dict/c.csv') }}
       - name: Cache font d
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-d.woff2
           key: cache-d-${{ hashFiles('dict/d.csv') }}
       - name: Cache font e
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-e.woff2
           key: cache-e-${{ hashFiles('dict/e.csv') }}
       - name: Cache font f
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-f.woff2
           key: cache-f-${{ hashFiles('dict/f.csv') }}
       - name: Cache font g
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-g.woff2
           key: cache-g-${{ hashFiles('dict/g.csv') }}
       - name: Cache font h
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-h.woff2
           key: cache-h-${{ hashFiles('dict/h.csv') }}
       - name: Cache font j
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-j.woff2
           key: cache-j-${{ hashFiles('dict/j.csv') }}
       - name: Cache font k
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-k.woff2
           key: cache-k-${{ hashFiles('dict/k.csv') }}
       - name: Cache font l
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-l.woff2
           key: cache-l-${{ hashFiles('dict/l.csv') }}
       - name: Cache font m
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-m.woff2
           key: cache-m-${{ hashFiles('dict/m.csv') }}
       - name: Cache font n
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-n.woff2
           key: cache-n-${{ hashFiles('dict/n.csv') }}
       - name: Cache font o
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-o.woff2
           key: cache-o-${{ hashFiles('dict/o.csv') }}
       - name: Cache font p
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-p.woff2
           key: cache-p-${{ hashFiles('dict/p.csv') }}
       - name: Cache font q
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-q.woff2
           key: cache-q-${{ hashFiles('dict/q.csv') }}
       - name: Cache font r
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-r.woff2
           key: cache-r-${{ hashFiles('dict/r.csv') }}
       - name: Cache font s
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-s.woff2
           key: cache-s-${{ hashFiles('dict/s.csv') }}
       - name: Cache font t
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-t.woff2
           key: cache-t-${{ hashFiles('dict/t.csv') }}
       - name: Cache font w
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-w.woff2
           key: cache-w-${{ hashFiles('dict/w.csv') }}
       - name: Cache font x
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-x.woff2
           key: cache-x-${{ hashFiles('dict/x.csv') }}
       - name: Cache font y
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-y.woff2
           key: cache-y-${{ hashFiles('dict/y.csv') }}
       - name: Cache font z
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-z.woff2
           key: cache-z-${{ hashFiles('dict/z.csv') }}
       - name: Cache font letter
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-letter.woff2
           key: cache-letter-${{ hashFiles('dict/letter.csv') }}
       - name: Cache font obsolete
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: _site/assets/FSung-obsolete.woff2
           key: cache-obsolete-${{ hashFiles('dict/obsolete.csv') }}
@@ -402,7 +402,7 @@ jobs:
             -- ./_site
 
       - name: Upload complete site
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: _site
 
@@ -415,4 +415,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
