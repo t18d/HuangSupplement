@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-07-13T02:15:56+00:00
+last_modified_at: 2026-07-13T13:04:26+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -65,6 +65,7 @@ dictionaries is cited as secondary evidence.
       <li>何琳儀, 戰國文字通論 (Shanghai, 2017), 44–91 ('古文').</li>
       <li>黃征, '漫談古籍整理的規範問題', 敦煌研究, 162 (2017), 70–7.</li>
       <li>黃征 (ed.), 敦煌俗字典 (2nd edn, Shanghai, 2020), 2–40.</li>
+      <li>劉東芹, 草書字法解析 (Peking, 2015).</li>
       <li>劉元春, 隋唐石刻與唐代字樣 (Canton, 2010), 225–40 ('楷化篆字').</li>
       <li>⸻, '字樣學通字新詮', 古漢語研究, 112 (2016), 57–63.</li>
       <li>龍宇純, 中國文字學 (Taipei, 1996), 407–8 ('篆定').</li>
