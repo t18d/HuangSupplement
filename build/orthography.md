@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-07-13T13:04:26+00:00
+last_modified_at: 2026-07-16T00:28:44+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -157,6 +157,7 @@ K'ai|Ts'ao|Hsing|Print|Note|
 迴 廻 回|/|/|/||
 會|会 Han|/|会 Ming||
 匯 彙|/|/|/||
+幾 几 Sung|/|/|几 Ch'ing||
 即|/|/|/|卽 in 廣韻 is archaism|
 極|/|/|/||
 記|记 Han|/|记 Ch'ing||
