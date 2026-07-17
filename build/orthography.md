@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-07-17T06:32:54+00:00
+last_modified_at: 2026-07-17T09:08:59+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -136,6 +136,7 @@ K'ai|Ts'ao|Hsing|Print|Note|
 動|/|/|/||
 闘|/|/|/|'闘鬬 中通下正' (干祿字書); 鬬 not attested at Tunhuang|
 鍍 Sung|/|/|/|attested in 廣韻|
+爾 尔|/|/|/||
 發|发 Chin|/|/||
 髮|/|/|/||
 泛 汎|/|/|/||
