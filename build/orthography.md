@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-07-17T09:08:59+00:00
+last_modified_at: 2026-07-17T09:20:05+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -124,6 +124,7 @@ K'ai|Ts'ao|Hsing|Print|Note|
 抄|/|/|鈔 Ming|鈔 already in 廣韻 as variant; cf. Tseng–Ch'en (2018), 6|
 車|车 Han|/|/||
 塵|/|/|/|尘 in 字彙補; not attested at Tunhuang|
+稱|称 T'ang|/|称 Sung||
 癡|/|痴 Ming|痴 Ch'ing||
 擔|/|/|担 Yüan||
 單|/|/|单 Yüan||
