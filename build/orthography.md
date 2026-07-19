@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-07-17T09:20:05+00:00
+last_modified_at: 2026-07-19T00:17:29+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -205,6 +205,7 @@ K'ai|Ts'ao|Hsing|Print|Note|
 騎|/|/|骑 Yüan||
 氣 气|/|/|/|气 in 說文 & rare|
 棄 弃|/|/|/||
+僉|佥 Chin|/|/||
 鉛|/|/|/||
 牽|/|/|/||
 潛 潜|/|/|潜 Ming||
