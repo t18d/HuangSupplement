@@ -4,7 +4,7 @@ permalink: pitfalls/
 seo:
   type: Collection
   name: Pitfalls in Historical Lexicography
-last_modified_at: 2026-01-15T02:55:17+00:00
+last_modified_at: 2026-07-28T12:45:24+00:00
 layout: anchor
 description: Gleanings from HuangSupplement
 ---
@@ -62,6 +62,7 @@ The following texts are commonly cited in scholarship from a modern paraphrase
 instead of the original version:
 
 - 古今情海
+- 花陣綺言 (as 金瓶奇緣)
 - 彭公案 (CCL)
 - 泣紅亭
 
