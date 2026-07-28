@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2026-07-27T03:53:38+00:00
+last_modified_at: 2026-07-28T04:14:00+00:00
 layout: anchor
 ---
 # Bibliography
@@ -61,7 +61,7 @@ documents._
 - 陳鵬鳴, '「發行」詞源與發行體制變革', 出版發行研究, 7 (2022), 91.
 - 陳湧清, '中國近現代「公安」一詞的起源及含義考', 公安學研究, 2 (2018), 15. \[公安局]
 - 程玥, '電子媒介命名與近代國人的媒介觀——以「廣播」為中心', master's thesis, 武漢大學, 2019.
-- 崔山佳, 現代漢語「潛顯」現象研究 (Chengtu, 2008). \[跳槽]
+- 崔山佳, 現代漢語「潛顯」現象研究 (Chengtu, 2008). \[跳槽, 紙老虎]
 - 崔蕭寒, '「摩擦」の語史：日中両語の相互影響', master's thesis, Osaka University, 2021.
 - 戴新宇, '晚清民初「輿論」概念研究', master's thesis, 武漢大學, 2022.
 - 鄧牧, '西方浪漫主義在中日兩國的傳播、生成與演進', 日語學習與研究, 224 (2023), 38–9. \[浪漫主義]
