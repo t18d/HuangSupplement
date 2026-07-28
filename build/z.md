@@ -4,7 +4,7 @@ permalink: z/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Z"
-last_modified_at: 2026-05-22T10:22:51+00:00
+last_modified_at: 2026-07-28T03:57:05+00:00
 description: Antedatings, errata and addenda to letter Z of 近現代漢語辭源
 layout: main
 font_key: z
@@ -37,6 +37,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 指出(1)|/|verb|a1279 (a681)|解􀝶方中條例極多若不指出一二學者不可卒知餘方例爾|『備急千金要方·卷二十四』5 (馮1483)|Note the paucal determinative, which is just one step away from an abstract object.|
 指出(2)|(+ indirect speech)|/|1473 (a1200)|所謂天命之謂性者是就人身中󹎱出這箇是天命之性不雜氣󹮴者而言爾|『朱子語類·卷第九十五』14 (03459)||
 |(officialese)|/|1910|「<span class="warichu">咨劄</span>河南<span class="warichu">巡撫學司</span>鄧州𧕽業學堂准作爲中等蠶桑科指出各節應由學司飭改補報文」|『學部官報』127「文牘」1|used to assert the authority of the subject; [stylistics](https://t18d.github.io/HuangSupplement/style/#:~:text=指出(2))|
+紙老虎|/|noun|a1735 (1730)|至今我的老爺是個紙老虎⋯只好嚇小孩子同鄉下人。|!『姑妄言·第十五回』1698||
 指數(2)|/|noun|1911|而新外債一億萬圓⋯亦於三十二年十一月收畢。彼此相因。而物價指數之大。遂爲從前所未有。|『比較財政學下卷』552|original by Kobayashi Ushisaburō (1905)|
 紙張|/|noun|a1321|即𫝆遵守契本必用𥿄張顔料之物|『元典章·户部卷八』271 (014275–314)||
 致哀|/|verb|c1531 (488)|公事畢即往致哀|沈約『宋書·何尚之傳』(07347)||
