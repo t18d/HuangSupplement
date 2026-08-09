@@ -4,7 +4,7 @@ permalink: orthography/
 seo:
   type: Guide
   name: An Orthographic Appendix
-last_modified_at: 2026-07-30T05:49:28+00:00
+last_modified_at: 2026-08-09T03:46:34+00:00
 description: The orthographic appendix to HuangSupplement
 layout: no-anchor
 ---
@@ -196,10 +196,11 @@ K'ai|Ts'ao|Hsing|Print|Note|
 難|/|/|难 Ming||
 惱 Sung|/|/|恼 Ch'ing|惱 attested in 廣韻|
 腦 Sung|/|/|脑 Ch'ing|腦 attested in 廣韻|
-農|/|/|/||
-濃|/|/|/||
+黏|/|/|粘 Yüan||
 聶|/|/|/|cf. 攝 躡|
 躡|/|/|蹑 Ming||
+農|/|/|/||
+濃|/|/|/||
 砲 Sung|/|/|炮 Ch'ing||
 評|/|评 Ming|/||
 齊|/|齐 T'ang|齐 Ming||
@@ -223,6 +224,7 @@ K'ai|Ts'ao|Hsing|Print|Note|
 殺|/|/|杀 Yüan|'杀古殺字' (五經文字)|
 傷|/|/|/|伤 in Miao's forgery|
 攝|/|/|摄 Ming||
+升 昇|/|/|/||
 實 寔|实 Chin|实 Sung|实 Yüan||
 壽|/|/|寿 Yüan|寿 Sung's hsing?|
 書|/|/|书 Ch'ing||
