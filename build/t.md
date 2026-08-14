@@ -4,7 +4,7 @@ permalink: t/
 seo:
   type: Dataset
   name: "HuangSupplement: letter T"
-last_modified_at: 2026-07-27T03:49:46+00:00
+last_modified_at: 2026-08-14T01:54:03+00:00
 description: Antedatings, errata and addenda to letter T of 近現代漢語辭源
 layout: main
 font_key: t
@@ -20,6 +20,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 她(2)|/|/|1919|我⋯著了一篇關于『太極圖』的批評⋯不料居然來了一個旁皇迷路的靑年⋯給她下的考語|『新潮』2/1「康白󴜴啓事」22||
 他校|/|verb|1934 (1931)|他校法者.以他書校本書|陳垣『元典章校補釋例·第四十三校法四例』86|cf. 理校|
 颱風|/|noun|a1722|或一日之間風作二次則來年所󿾁之月颱風亦二次焉|『臺灣府誌·卷一』7r (787314)||
+抬頭(4)|/|noun|1917|同業向銀行拆銀本票上應寫某行抬頭以杜遺失冒收之弊|『民國日報』3月15日「錢商公訂同行共守規則」||
 糖尿病|/|noun|1906 (1905)|又患糖尿病者。其尿中一〇〇分約含四分乃至一〇分之葡萄糖也。|杜亞泉『化學新敎科書·下編』33||
 特別|(as free morph)|adjective|1902|故其書不過爲通鑑之一附庸。不能使學者讀之有特別之益也。|『新民叢報』1「新史學」47+||
 特殊|(in NP)|adjective|1902|欲以淸國特殊之慣例凌駕國際上之法則|錢承鋕譯『外交通義』306+||
