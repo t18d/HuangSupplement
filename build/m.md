@@ -4,7 +4,7 @@ permalink: m/
 seo:
   type: Dataset
   name: "HuangSupplement: letter M"
-last_modified_at: 2026-02-20T15:04:41+00:00
+last_modified_at: 2026-09-28T02:42:53+00:00
 description: Antedatings, errata and addenda to letter M of 近現代漢語辭源
 layout: main
 font_key: m
@@ -35,6 +35,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 摩擦(1)|/|verb|1851|琥珀用燥羊毛.摩擦一邊.此摩擦處.便能拾芥.就是電氣發出.似磁石噏鐵一般.|Macgowan『博物通書·第一章』1||
 魔鬼|/|noun|c1584|天主知這天人驕慢犯󱳋。並𫤰衆天人逐出天󺕓之下而為魔󶓭。|Ruggieri『新編西竺國天主實錄』16+ (Jap. Sin. I-189)||
 磨牙|/|noun|c1634|盤牙二十⋯西國謂磨牙。󵎺形如磨。|『泰西人身說㮣·卷上·󰣋部』2v (Chinois 5130)||
+莫非(2)|/|adverb|1707 (a812)|莫非北邙後重向洛城生|『全唐詩·劉言史』7/9/68 (18904)||
 墨水|/|noun|1822|Liquid ink of Europeans, 墨水|Morrison, _A Dictionary of the Chinese Language_ iii, s.v. INK||
 牧師|/|noun|1829|蘭對曰、此係牧師、特來助德|Kidd『時鐘表匠言行略論』5r+ (R.A.S. 576)||
 |/|/|c1832|?|Morrison『古聖奉神天啟示道家訓』||
