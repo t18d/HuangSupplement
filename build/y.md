@@ -4,7 +4,7 @@ permalink: y/
 seo:
   type: Dataset
   name: "HuangSupplement: letter Y"
-last_modified_at: 2026-09-27T12:29:42+00:00
+last_modified_at: 2026-09-28T06:14:38+00:00
 description: Antedatings, errata and addenda to letter Y of 近現代漢語辭源
 layout: main
 font_key: y
@@ -29,6 +29,7 @@ Lemma|Sense|Word Class|Year|Quotation|Source|Note|
 養老院|/|noun|1633|􀚆邏巴大州府󰣘。各􁰔有養病院⋯此外又有養老院。舎旅院。及安𥙷院。|『哀矜行詮·卷二』27r–27v (Chinois 6869)||
 要價|asking price|noun|1949|蘇聯玻璃⋯十六安士至十八安士，要價低至三〇元一百方呎，亦難脫手。|『大公報』4月7日「百貨外銷衰落⋯」||
 也罷(2)|/|conjunction|c1617 (?a1368)|哎約我󵍿也你打了也󿚓罵了也󿚓你又罵俺元󰚩|『虎牢関三𢧐呂布雜劇』33v||
+也好⋯也好|/|conjunction|a1796|憑着我󱅜母閉闗也好憑着我遨遊天下也好通是世兄兩位夫人所賜|『後紅樓夢·第三十回』16r||
 野蠻(3)|/|adjective|1865 (1864)|後󵔻導漸開、此等野蠻不義之例、漸廢、至今殆絶矣|Martin『萬國公法·卷二』21 (04013)||
 醫院|/|noun|1792|該夷目等亟亟擡入醫院調治者，寔冀湯亞珍痊󹷡，以救夷人性命，其事顯而易見。|!『清代澳門中文檔案彙編·下』333+||
 議會|/|noun|1838|嗣後阿里􀚼國民高󱸄、驅逐法蘭西霸皇帝⋯設議會以掌國家之政也。|Gützlaff『古今萬國綱鑑·卷十四』34r+||
