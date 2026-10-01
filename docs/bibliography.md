@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2026-09-28T06:17:57+00:00
+last_modified_at: 2026-10-01T13:08:52+00:00
 layout: anchor
 ---
 # Bibliography
@@ -160,6 +160,7 @@ documents._
 - ⸻, '中国語における日本語「手続」の借用過程', 日中語彙研究, 11 (2021), 143–163.
 - Tola, Gabriele, _John Fryer and_ The Translator’s Vade-mecum (Leiden, 2021), 237–79. \[暗生植物, 秤桿, 打胎, 電鍍, 墊圈, 發動, 廢水, 功率, 果汁, 焊錫, 花邊, 花梗, 減速, 烙鐵, 硫酸, 漏斗, 泥土, 鉗子, 臍帶, 哨子, 石灰水, 石墨, 石蕊, 手動, 水表, 外徑, 蔗糖]
 - 佟藝辰, '「分詞」考源', 或問, 46 (2024), 117–28.
+- Toriya Mayumi, '越境的小品文：以中日小品文的互動為中心', 漢語言文學研究, 4 (2016), 39. \[etymology]
 - Uchida Keiichi, '從「黑茶」到「紅茶」', in 六合叢談——附解題·索引 (Shanghai, 2006), 80 (but see [f265af2](https://github.com/t18d/HuangSupplement/commit/f265af2c0e84598d773735f1d49791651ecf0f3e)). \[紅茶]
 - 汪化雲, '尊稱「您」的來源', in 漢語方言語法新探索 (Amoy, 2010 [2009]), 98. \[您(2)]
 - 王昌, '清末「海權」概念考釋', 河北學刊, 41/6 (2021), 72.
